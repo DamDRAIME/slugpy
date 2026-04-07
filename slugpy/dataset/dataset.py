@@ -4,13 +4,13 @@ from copy import deepcopy
 from dataclasses import dataclass, field
 from itertools import islice
 from pathlib import Path
-from pprint import pprint
 from typing import Optional, TextIO
 
 import numpy as np
+from torch import LongTensor
 from torch.utils.data import IterableDataset, get_worker_info
 
-Label = str
+from slugpy.dataset.label import to_one_hot_encoding
 
 
 @dataclass
@@ -88,9 +88,10 @@ class ScriptFileState:
 
 @dataclass
 class ScriptLine:
-    idx: int
-    labels: list[Label]
     line: str
+    idx: int
+    labels: list[str]
+    labels_encoding: LongTensor
 
 
 @dataclass
@@ -119,7 +120,7 @@ class ScriptDataset(IterableDataset):
         self.ctx_size = ctx_size
         self.sfstates = self.init_file_states(Path(folder))
 
-    def resetreset(self):
+    def resetreset(self) -> None:
         for sfstate in self.sfstates.values():
             idx = int(self.rng.integers(self.ctx_size - 1, sfstate.nbr_lines - 1))
             sfstate.reset(idx)
@@ -132,7 +133,7 @@ class ScriptDataset(IterableDataset):
             sfstates[fp.stem] = ScriptFileState(fname=fp.stem, fpath=fp, nbr_lines=nbr_lines, ctx_size=self.ctx_size)
         return sfstates
 
-    def parse_line(self, line: str) -> tuple[int, str[Label], str]:
+    def parse_line(self, line: str) -> tuple[int, list[str], str]:
         parts = line.split(self.sep, maxsplit=3)
 
         if len(parts) != 3:
@@ -160,7 +161,7 @@ class ScriptDataset(IterableDataset):
                 line_with_ctx[i] = None
             else:
                 idx, labels, line = self.parse_line(line)
-                line_with_ctx[i] = ScriptLine(idx, labels, line)
+                line_with_ctx[i] = ScriptLine(line, idx, labels, to_one_hot_encoding(labels))
 
         return ScriptLinePayload(
             fname=sfstate.fname,
@@ -175,7 +176,6 @@ class ScriptDataset(IterableDataset):
             for sfstate in self.sfstates.values():
                 sfstate.fhandler = stack.enter_context(sfstate.fpath.open("r"))
                 sfstate.initialize_context(int(self.rng.integers(sfstate.ctx_size - 1, sfstate.nbr_lines - 1)))
-            pprint(self.sfstates)
             while not all(sfstate.exhausted for sfstate in self.sfstates.values()):
                 sfstate: ScriptFileState = self.rng.choice([sfs for sfs in self.sfstates.values() if not sfs.exhausted])
                 line_with_ctx = self.read_line_with_ctx(sfstate)
