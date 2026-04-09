@@ -110,6 +110,7 @@ class ScriptDataset(IterableDataset):
         train: bool = True,
         ctx_size: int = 2,
         sep: str = "|",
+        shuffle: bool = True,
         seed: int = 42,
     ):
         super().__init__()
@@ -117,6 +118,7 @@ class ScriptDataset(IterableDataset):
         self.seed = seed
         self.rng = np.random.default_rng(self.seed)
         self.sep = sep
+        self.shuffle = shuffle
         self.ctx_size = ctx_size
         self.sfstates = self.init_file_states(Path(folder))
 
@@ -177,7 +179,8 @@ class ScriptDataset(IterableDataset):
                 sfstate.fhandler = stack.enter_context(sfstate.fpath.open("r"))
                 sfstate.initialize_context(int(self.rng.integers(sfstate.ctx_size - 1, sfstate.nbr_lines - 1)))
             while not all(sfstate.exhausted for sfstate in self.sfstates.values()):
-                sfstate: ScriptFileState = self.rng.choice([sfs for sfs in self.sfstates.values() if not sfs.exhausted])
+                sfs_candidates = [sfs for sfs in self.sfstates.values() if not sfs.exhausted]
+                sfstate: ScriptFileState = self.rng.choice(sfs_candidates) if self.shuffle else sfs_candidates.pop()
                 line_with_ctx = self.read_line_with_ctx(sfstate)
                 yield self.line_with_ctx_to_payload(line_with_ctx, sfstate)
                 if sfstate.is_eof():
