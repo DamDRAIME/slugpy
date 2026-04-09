@@ -16,17 +16,17 @@ LABELS = [
     Label("Character", 1, "C"),
     Label("Character introduction", 2, "I"),
     Label("Deletion", 3, "D"),
-    Label("Meta", 4, "M"),
-    Label("Narrative/Action line", 5, "N"),
-    Label("Omit", 6, "O"),
-    Label("Parentheticals", 7, "P"),
-    Label("Slugline", 8, "S"),
-    Label("Transition", 9, "T"),
-    Label("Utterance", 10, "U"),
+    Label("Extension", 4, "E"),
+    Label("Meta", 5, "M"),
+    Label("Narrative/Action line", 6, "N"),
+    Label("Omit", 7, "O"),
+    Label("Parentheticals", 8, "P"),
+    Label("Slugline", 9, "S"),
+    Label("Transition", 10, "T"),
+    Label("Utterance", 11, "U"),
 ]
 
 N_LABELS = len(LABELS)
-
 
 LABELS_CODE2INDEX_MAPPING = {label.code: label.index for label in LABELS}
 
