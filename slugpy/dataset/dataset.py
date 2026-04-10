@@ -10,7 +10,7 @@ import numpy as np
 from torch import LongTensor
 from torch.utils.data import IterableDataset, get_worker_info
 
-from slugpy.dataset.label import to_one_hot_encoding
+from slugpy.dataset.label import to_multi_hot_encoding
 
 
 @dataclass
@@ -163,7 +163,7 @@ class ScriptDataset(IterableDataset):
                 line_with_ctx[i] = None
             else:
                 idx, labels, line = self.parse_line(line)
-                line_with_ctx[i] = ScriptLine(line, idx, labels, to_one_hot_encoding(labels))
+                line_with_ctx[i] = ScriptLine(line, idx, labels, to_multi_hot_encoding(labels))
 
         return ScriptLinePayload(
             fname=sfstate.fname,
