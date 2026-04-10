@@ -208,3 +208,70 @@ class ScriptDataset(IterableDataset):
             gen = islice(gen, worker_id, None, num_workers)
 
         return gen
+
+
+class InferenceScript(IterableDataset):
+    def __init__(self, filepath: Path | str, ctx_size: int = 2):
+        super().__init__()
+        self.filepath = Path(filepath)
+        self.ctx_size = ctx_size
+
+    def init_ctx_cache(self, fhandler: TextIO) -> deque[Optional[ScriptLine]]:
+        ctx_cache = deque()
+        for _ in range(self.ctx_size):
+            ctx_cache.append(None)
+
+        idx = self.ctx_size
+        ctx_cache.append(ScriptLine(self.sanitize_line(fhandler.readline()), idx))
+        idx += 1
+
+        for _ in range(self.ctx_size):
+            ctx_cache.append(ScriptLine(self.sanitize_line(fhandler.readline()), idx))
+            idx += 1
+        return ctx_cache
+
+    def sanitize_line(self, line: str) -> Line:
+        return line.rstrip("\n")
+
+    def build_payload(self, ctx_cache: deque[Optional[ScriptLine]]) -> ScriptLinePayload:
+        lines_with_ctx = deepcopy(ctx_cache)
+        return ScriptLinePayload(
+            fname=self.filepath.stem,
+            fpath=self.filepath,
+            pre_ctx=[lines_with_ctx.popleft() for _ in range(self.ctx_size)],
+            line=lines_with_ctx.popleft(),
+            post_ctx=[lines_with_ctx.popleft() for _ in range(self.ctx_size)],
+        )
+
+    def _get_stream(self):
+        with self.filepath.open("r") as fh:
+            ctx_cache = self.init_ctx_cache(fh)
+            idx = len(ctx_cache)
+
+            for line in fh:
+                yield self.build_payload(ctx_cache)
+
+                ctx_cache.popleft()
+                ctx_cache.append(ScriptLine(self.sanitize_line(line), idx))
+                idx += 1
+
+            for _ in range(self.ctx_size + 1):
+                yield self.build_payload(ctx_cache)
+
+                ctx_cache.popleft()
+                ctx_cache.append(None)
+                idx += 1
+
+            raise StopIteration
+
+    def __iter__(self):
+        worker_info = get_worker_info()
+
+        gen = self._get_stream()
+        if worker_info is not None:  # Multi-process data loading
+            worker_id = worker_info.id
+            num_workers = worker_info.num_workers
+            # Shard stream by line relative index
+            gen = islice(gen, worker_id, None, num_workers)
+
+        return gen
