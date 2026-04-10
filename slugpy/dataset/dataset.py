@@ -122,11 +122,6 @@ class ScriptDataset(IterableDataset):
         self.ctx_size = ctx_size
         self.sfstates = self.init_file_states(Path(folder))
 
-    def resetreset(self) -> None:
-        for sfstate in self.sfstates.values():
-            idx = int(self.rng.integers(self.ctx_size - 1, sfstate.nbr_lines - 1))
-            sfstate.reset(idx)
-
     def init_file_states(self, folder: Path) -> dict[str, ScriptFileState]:
         sfstates = {}
         for fp in folder.rglob("*.script"):
