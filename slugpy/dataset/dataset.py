@@ -4,13 +4,17 @@ from copy import deepcopy
 from dataclasses import dataclass, field
 from itertools import islice
 from pathlib import Path
-from typing import Optional, TextIO
+from typing import Callable, Optional, TextIO
 
 import numpy as np
 from torch import LongTensor
 from torch.utils.data import IterableDataset, get_worker_info
 
 from slugpy.dataset.label import to_multi_hot_encoding
+
+LineIdx = int
+Label = str
+Line = str
 
 
 @dataclass
@@ -25,6 +29,20 @@ class ScriptFileState:
     _ctx_cache: deque[Optional[str]] = field(default_factory=deque, init=False)
     _looped: bool = False
 
+    @property
+    def exhausted(self) -> bool:
+        return self._looped and self.curr_idx >= self.start_idx
+
+    def readline_with_ctx(self) -> deque[Optional[str]]:
+        lines_with_ctx = deepcopy(self._ctx_cache)
+
+        # Update current index and context cache
+        self.curr_idx += 1
+        self._ctx_cache.popleft()
+        self._ctx_cache.append(self.fhandler.readline())
+
+        return lines_with_ctx
+
     def initialize_context(self, start_idx: int) -> None:
         self.start_idx = start_idx
         self.skip_to_line(self.start_idx, init=True)
@@ -35,10 +53,6 @@ class ScriptFileState:
         self.fhandler.seek(0)
         self.start_idx = 0
         self.curr_idx = 0
-
-    @property
-    def exhausted(self) -> bool:
-        return self._looped and self.curr_idx >= self.start_idx
 
     def is_eof(self) -> bool:
         return self.curr_idx >= self.nbr_lines
@@ -80,7 +94,7 @@ class ScriptFileState:
             if idx == 0:
                 return
 
-        for new_idx, line in enumerate(self.fhandler, start=self.curr_idx + 1):
+        for new_idx, _ in enumerate(self.fhandler, start=self.curr_idx + 1):
             if new_idx == idx:
                 self.curr_idx = new_idx
                 break
@@ -88,10 +102,13 @@ class ScriptFileState:
 
 @dataclass
 class ScriptLine:
-    line: str
-    idx: int
-    labels: list[str]
-    labels_encoding: LongTensor
+    line: Line
+    idx: LineIdx
+    labels: Optional[list[Label]] = None
+    labels_encoding: Optional[LongTensor] = field(init=False)
+
+    def __post_init__(self):
+        self.labels_encoding = None if self.labels is None else to_multi_hot_encoding(self.labels)
 
 
 @dataclass
@@ -107,18 +124,18 @@ class ScriptDataset(IterableDataset):
     def __init__(
         self,
         folder: Path | str,
-        train: bool = True,
         ctx_size: int = 2,
         sep: str = "|",
         shuffle: bool = True,
+        transforms: Optional[list[Callable]] = None,
         seed: int = 42,
     ):
         super().__init__()
-        self.train = train
         self.seed = seed
         self.rng = np.random.default_rng(self.seed)
         self.sep = sep
         self.shuffle = shuffle
+        self.transforms = [] if transforms is None else transforms
         self.ctx_size = ctx_size
         self.sfstates = self.init_file_states(Path(folder))
 
@@ -130,24 +147,17 @@ class ScriptDataset(IterableDataset):
             sfstates[fp.stem] = ScriptFileState(fname=fp.stem, fpath=fp, nbr_lines=nbr_lines, ctx_size=self.ctx_size)
         return sfstates
 
-    def parse_line(self, line: str) -> tuple[int, list[str], str]:
+    def sanitize_line(self, line: str) -> str:
+        return line.rstrip("\n")
+
+    def parse_line(self, line: str) -> tuple[LineIdx, list[Label], Line]:
         parts = line.split(self.sep, maxsplit=3)
 
         if len(parts) != 3:
             raise ValueError(f"Couldn't parse line index and labels from line: `{line}`")
 
         idx, labels, line = parts
-        return int(idx), labels.split(","), line.rstrip("\n")
-
-    def read_line_with_ctx(self, sfstate: ScriptFileState) -> deque[Optional[str]]:
-        lines_with_ctx = deepcopy(sfstate._ctx_cache)
-
-        # Update current index and context cache
-        sfstate.curr_idx += 1
-        sfstate._ctx_cache.popleft()
-        sfstate._ctx_cache.append(sfstate.fhandler.readline())
-
-        return lines_with_ctx
+        return int(idx), labels.split(","), self.sanitize_line(line)
 
     def line_with_ctx_to_payload(
         self, line_with_ctx: deque[Optional[str]], sfstate: ScriptFileState
@@ -158,7 +168,7 @@ class ScriptDataset(IterableDataset):
                 line_with_ctx[i] = None
             else:
                 idx, labels, line = self.parse_line(line)
-                line_with_ctx[i] = ScriptLine(line, idx, labels, to_multi_hot_encoding(labels))
+                line_with_ctx[i] = ScriptLine(line, idx, labels)
 
         return ScriptLinePayload(
             fname=sfstate.fname,
@@ -176,8 +186,11 @@ class ScriptDataset(IterableDataset):
             while not all(sfstate.exhausted for sfstate in self.sfstates.values()):
                 sfs_candidates = [sfs for sfs in self.sfstates.values() if not sfs.exhausted]
                 sfstate: ScriptFileState = self.rng.choice(sfs_candidates) if self.shuffle else sfs_candidates.pop()
-                line_with_ctx = self.read_line_with_ctx(sfstate)
-                yield self.line_with_ctx_to_payload(line_with_ctx, sfstate)
+                line_with_ctx = sfstate.readline_with_ctx()
+                payload = self.line_with_ctx_to_payload(line_with_ctx, sfstate)
+                for trf in self.transforms:
+                    payload = trf(payload)
+                yield payload
                 if sfstate.is_eof():
                     sfstate.loop_back_to_bof()
             for sfstate in self.sfstates.values():
