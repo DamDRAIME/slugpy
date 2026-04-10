@@ -1,123 +1,91 @@
 from collections import deque
-from contextlib import ExitStack
-from copy import deepcopy
-from dataclasses import dataclass, field
-from itertools import islice
+from itertools import chain, islice
 from pathlib import Path
-from typing import Callable, Optional, TextIO
+from typing import Callable, Optional
 
 import numpy as np
-from torch import LongTensor
 from torch.utils.data import IterableDataset, get_worker_info
 
-from slugpy.dataset.label import to_multi_hot_encoding
+from slugpy.dataset.file_state import ScriptFileState
+from slugpy.dataset.payload import ScriptLine, ScriptLinePayload
 
-LineIdx = int
 Label = str
 Line = str
 
 
-@dataclass
-class ScriptFileState:
-    fname: str
-    fpath: Path
-    nbr_lines: int
-    ctx_size: int
-    fhandler: TextIO = None
-    start_idx: int = field(default=0, init=False)
-    curr_idx: int = field(default=0, init=False)
-    _ctx_cache: deque[Optional[str]] = field(default_factory=deque, init=False)
-    _looped: bool = False
+class Script(IterableDataset):
+    def __init__(
+        self,
+        filepath: Path | str,
+        ctx_size: int = 2,
+        inference: bool = False,
+        sep: str = "|",
+        random_start: bool = True,
+        transforms: Optional[list[Callable]] = None,
+        seed: int = 42,
+    ):
+        super().__init__()
+        self.filepath = Path(filepath)
+        self.ctx_size = ctx_size
+        self.inference = inference
+        self.sep = sep
+        self.random_start = random_start
+        self.transforms = [] if transforms is None else transforms
+        self.seed = seed
+        self.rng = np.random.default_rng(self.seed)
+        self.state = ScriptFileState(self.filepath, self.ctx_size)
 
-    @property
-    def exhausted(self) -> bool:
-        return self._looped and self.curr_idx >= self.start_idx
+    def parse_line(self, line: str) -> tuple[Line, Optional[list[Label]]]:
+        if self.inference:
+            return line, None
 
-    def readline_with_ctx(self) -> deque[Optional[str]]:
-        lines_with_ctx = deepcopy(self._ctx_cache)
+        parts = line.split(self.sep, maxsplit=2)
 
-        # Update current index and context cache
-        self.curr_idx += 1
-        self._ctx_cache.popleft()
-        self._ctx_cache.append(self.fhandler.readline())
+        if len(parts) != 2:
+            raise ValueError(f"Couldn't parse line index and labels from line: `{line}`")
 
-        return lines_with_ctx
+        labels, line = parts
+        return line, labels.split(",")
 
-    def initialize_context(self, start_idx: int) -> None:
-        self.start_idx = start_idx
-        self.skip_to_line(self.start_idx, init=True)
+    def build_payload(self, line_with_ctx: deque[Optional[str]]) -> ScriptLinePayload:
+        for i, line in enumerate(line_with_ctx):
+            if not line:
+                line_with_ctx[i] = None
+            else:
+                line, labels = self.parse_line(line)
+                line_with_ctx[i] = ScriptLine(line, -self.ctx_size - 1 + i + self.state.curr_idx, labels)
 
-    def reset(self) -> None:
-        self._looped = False
-        self._ctx_cache = deque()
-        self.fhandler.seek(0)
-        self.start_idx = 0
-        self.curr_idx = 0
+        return ScriptLinePayload(
+            fname=self.state.fname,
+            fpath=self.state.fpath,
+            pre_ctx=[line_with_ctx.popleft() for _ in range(self.ctx_size)],
+            line=line_with_ctx.popleft(),
+            post_ctx=[line_with_ctx.popleft() for _ in range(self.ctx_size)],
+        )
 
-    def is_eof(self) -> bool:
-        return self.curr_idx >= self.nbr_lines
+    def get_start_idx(self) -> int:
+        if self.inference or not self.random_start:
+            return 0
+        return int(self.rng.integers(self.ctx_size - 1, self.state.nbr_lines - 1))
 
-    def loop_back_to_bof(self) -> None:
-        self._looped = True
-        self.skip_to_line(0)
+    def __iter__(self):
+        with self.filepath.open("r") as fh:
+            self.state.fhandler = fh
+            self.state.initialize_context(self.get_start_idx())
 
-    def skip_to_line(self, idx: int, init: bool = False) -> None:
-        if self.fhandler is None:
-            raise ValueError("No File Handler set.")
-        if idx > self.nbr_lines - 1:
-            raise IndexError(f"Line Index {idx} out of range for script with {self.nbr_lines} lines.")
+            while not self.state.exhausted:
+                line_with_ctx = self.state.readline_with_ctx()
+                payload = self.build_payload(line_with_ctx)
 
-        if idx == self.curr_idx and not init:
-            return
+                for trf in self.transforms:
+                    payload = trf(payload)
 
-        self._ctx_cache.clear()
+                yield payload
 
-        idx_ctx_aware = idx - self.ctx_size
+                if self.state.is_eof():
+                    self.state.loop_back_to_bof()
 
-        while idx_ctx_aware < 0:
-            self._ctx_cache.append(None)
-            idx_ctx_aware += 1
-
-        self._skip_to_line_without_ctx(idx_ctx_aware)
-
-        while len(self._ctx_cache) < (self.ctx_size * 2) + 1:
-            self._ctx_cache.append(self.fhandler.readline().rstrip("\n"))
-        self.curr_idx = idx
-
-    def _skip_to_line_without_ctx(self, idx: int) -> None:
-        if idx == self.curr_idx:
-            return
-
-        if idx < self.curr_idx:
-            self.fhandler.seek(0)
-            self.curr_idx = 0
-            if idx == 0:
-                return
-
-        for new_idx, _ in enumerate(self.fhandler, start=self.curr_idx + 1):
-            if new_idx == idx:
-                self.curr_idx = new_idx
-                break
-
-
-@dataclass
-class ScriptLine:
-    line: Line
-    idx: LineIdx
-    labels: Optional[list[Label]] = None
-    labels_encoding: Optional[LongTensor] = field(init=False)
-
-    def __post_init__(self):
-        self.labels_encoding = None if self.labels is None else to_multi_hot_encoding(self.labels)
-
-
-@dataclass
-class ScriptLinePayload:
-    fname: str
-    fpath: str
-    line: ScriptLine
-    pre_ctx: list[Optional[ScriptLine]]
-    post_ctx: list[Optional[ScriptLine]]
+            self.state.reset()  # Reset for next iteration/epoch with new start idx
 
 
 class ScriptDataset(IterableDataset):
@@ -125,8 +93,10 @@ class ScriptDataset(IterableDataset):
         self,
         folder: Path | str,
         ctx_size: int = 2,
+        inference: bool = False,
         sep: str = "|",
         shuffle: bool = True,
+        random_start: bool = True,
         transforms: Optional[list[Callable]] = None,
         seed: int = 42,
     ):
@@ -134,135 +104,36 @@ class ScriptDataset(IterableDataset):
         self.seed = seed
         self.rng = np.random.default_rng(self.seed)
         self.sep = sep
+        self.inference = inference
         self.shuffle = shuffle
+        self.random_start = random_start
         self.transforms = [] if transforms is None else transforms
         self.ctx_size = ctx_size
-        self.sfstates = self.init_file_states(Path(folder))
+        self.scripts = self.init_file_states(Path(folder))
 
     def init_file_states(self, folder: Path) -> dict[str, ScriptFileState]:
-        sfstates = {}
+        scripts = {}
         for fp in folder.rglob("*.script"):
-            with fp.open("rb") as fh:
-                nbr_lines = sum(1 for _ in fh)
-            sfstates[fp.stem] = ScriptFileState(fname=fp.stem, fpath=fp, nbr_lines=nbr_lines, ctx_size=self.ctx_size)
-        return sfstates
-
-    def sanitize_line(self, line: str) -> str:
-        return line.rstrip("\n")
-
-    def parse_line(self, line: str) -> tuple[LineIdx, list[Label], Line]:
-        parts = line.split(self.sep, maxsplit=3)
-
-        if len(parts) != 3:
-            raise ValueError(f"Couldn't parse line index and labels from line: `{line}`")
-
-        idx, labels, line = parts
-        return int(idx), labels.split(","), self.sanitize_line(line)
-
-    def line_with_ctx_to_payload(
-        self, line_with_ctx: deque[Optional[str]], sfstate: ScriptFileState
-    ) -> ScriptLinePayload:
-
-        for i, line in enumerate(line_with_ctx):
-            if not line:
-                line_with_ctx[i] = None
-            else:
-                idx, labels, line = self.parse_line(line)
-                line_with_ctx[i] = ScriptLine(line, idx, labels)
-
-        return ScriptLinePayload(
-            fname=sfstate.fname,
-            fpath=sfstate.fpath,
-            pre_ctx=[line_with_ctx.popleft() for _ in range(self.ctx_size)],
-            line=line_with_ctx.popleft(),
-            post_ctx=[line_with_ctx.popleft() for _ in range(self.ctx_size)],
-        )
+            scripts[fp.stem] = Script(
+                fp,
+                ctx_size=self.ctx_size,
+                inference=self.inference,
+                sep=self.sep,
+                random_start=self.random_start,
+                transforms=self.transforms,
+                seed=int(self.rng.integers(0, 200)),
+            )
+        return scripts
 
     def _get_stream(self):
-        with ExitStack() as stack:
-            for sfstate in self.sfstates.values():
-                sfstate.fhandler = stack.enter_context(sfstate.fpath.open("r"))
-                sfstate.initialize_context(int(self.rng.integers(sfstate.ctx_size - 1, sfstate.nbr_lines - 1)))
-            while not all(sfstate.exhausted for sfstate in self.sfstates.values()):
-                sfs_candidates = [sfs for sfs in self.sfstates.values() if not sfs.exhausted]
-                sfstate: ScriptFileState = self.rng.choice(sfs_candidates) if self.shuffle else sfs_candidates.pop()
-                line_with_ctx = sfstate.readline_with_ctx()
-                payload = self.line_with_ctx_to_payload(line_with_ctx, sfstate)
-                for trf in self.transforms:
-                    payload = trf(payload)
-                yield payload
-                if sfstate.is_eof():
-                    sfstate.loop_back_to_bof()
-            for sfstate in self.sfstates.values():
-                sfstate.reset()
-            raise StopIteration
-
-    def __iter__(self):
-        worker_info = get_worker_info()
-
-        gen = self._get_stream()
-        if worker_info is not None:  # Multi-process data loading
-            worker_id = worker_info.id
-            num_workers = worker_info.num_workers
-            # Shard stream by line relative index
-            gen = islice(gen, worker_id, None, num_workers)
-
-        return gen
-
-
-class InferenceScript(IterableDataset):
-    def __init__(self, filepath: Path | str, ctx_size: int = 2):
-        super().__init__()
-        self.filepath = Path(filepath)
-        self.ctx_size = ctx_size
-
-    def init_ctx_cache(self, fhandler: TextIO) -> deque[Optional[ScriptLine]]:
-        ctx_cache = deque()
-        for _ in range(self.ctx_size):
-            ctx_cache.append(None)
-
-        idx = self.ctx_size
-        ctx_cache.append(ScriptLine(self.sanitize_line(fhandler.readline()), idx))
-        idx += 1
-
-        for _ in range(self.ctx_size):
-            ctx_cache.append(ScriptLine(self.sanitize_line(fhandler.readline()), idx))
-            idx += 1
-        return ctx_cache
-
-    def sanitize_line(self, line: str) -> Line:
-        return line.rstrip("\n")
-
-    def build_payload(self, ctx_cache: deque[Optional[ScriptLine]]) -> ScriptLinePayload:
-        lines_with_ctx = deepcopy(ctx_cache)
-        return ScriptLinePayload(
-            fname=self.filepath.stem,
-            fpath=self.filepath,
-            pre_ctx=[lines_with_ctx.popleft() for _ in range(self.ctx_size)],
-            line=lines_with_ctx.popleft(),
-            post_ctx=[lines_with_ctx.popleft() for _ in range(self.ctx_size)],
-        )
-
-    def _get_stream(self):
-        with self.filepath.open("r") as fh:
-            ctx_cache = self.init_ctx_cache(fh)
-            idx = len(ctx_cache)
-
-            for line in fh:
-                yield self.build_payload(ctx_cache)
-
-                ctx_cache.popleft()
-                ctx_cache.append(ScriptLine(self.sanitize_line(line), idx))
-                idx += 1
-
-            for _ in range(self.ctx_size + 1):
-                yield self.build_payload(ctx_cache)
-
-                ctx_cache.popleft()
-                ctx_cache.append(None)
-                idx += 1
-
-            raise StopIteration
+        if self.inference or not self.shuffle:
+            yield from chain.from_iterable(self.scripts.values())
+        else:
+            script_iterators = {key: iter(script) for key, script in self.scripts.items()}
+            while not all(script.state.exhausted for script in self.scripts.values()):
+                script_candidates = [key for key, script in self.scripts.items() if not script.state.exhausted]
+                key = self.rng.choice(script_candidates)
+                yield next(script_iterators[key])
 
     def __iter__(self):
         worker_info = get_worker_info()
