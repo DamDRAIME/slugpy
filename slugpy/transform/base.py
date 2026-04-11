@@ -75,3 +75,13 @@ class Transform(ABC):
         if not self.should_apply(x):
             return x
         return self.apply(x)
+
+
+class Compose:
+    def __init__(self, transforms: list[Transform]):
+        self.transforms = transforms
+
+    def __call__(self, x: ScriptLinePayload) -> ScriptLinePayload:
+        for trf in self.transforms:
+            x = trf(x)
+        return x
