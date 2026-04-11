@@ -14,8 +14,8 @@ Label = str
 class Condition:
     has: list[Label]
     exclude: list[Label]
-    _has_encoding: Optional[torch.LongTensor] = field(init=False)
-    _exclude_encoding: Optional[torch.LongTensor] = field(init=False)
+    _has_encoding: torch.LongTensor = field(init=False)
+    _exclude_encoding: torch.LongTensor = field(init=False)
 
     def __post_init__(self) -> None:
         self._has_encoding = to_multi_hot_encoding(self.has)
