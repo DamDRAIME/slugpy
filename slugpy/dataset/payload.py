@@ -1,4 +1,4 @@
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from typing import Optional
 
 from torch import LongTensor
@@ -11,10 +11,10 @@ class ScriptLine:
     line: str
     idx: int
     labels: Optional[list[str]] = None
-    labels_encoding: Optional[LongTensor] = field(init=False)
 
-    def __post_init__(self):
-        self.labels_encoding = None if self.labels is None else to_multi_hot_encoding(self.labels)
+    @property
+    def labels_encoding(self) -> Optional[LongTensor]:
+        return None if self.labels is None else to_multi_hot_encoding(self.labels)
 
 
 @dataclass
