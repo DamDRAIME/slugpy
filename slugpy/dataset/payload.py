@@ -24,3 +24,13 @@ class ScriptLinePayload:
     line: ScriptLine
     pre_ctx: list[Optional[ScriptLine]]
     post_ctx: list[Optional[ScriptLine]]
+
+    @property
+    def content(self) -> list[str]:
+        content = []
+        for ctx in self.pre_ctx:
+            content.append("" if ctx is None else ctx.line)
+        content.append(self.line.line)
+        for ctx in self.post_ctx:
+            content.append("" if ctx is None else ctx.line)
+        return content
