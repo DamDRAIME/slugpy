@@ -7,7 +7,7 @@ from torch.nn import functional as F
 @dataclass
 class Label:
     name: str
-    index: int
+    id: int
     code: str
 
 
@@ -28,11 +28,12 @@ LABELS = [
 
 N_LABELS = len(LABELS)
 
-LABELS_CODE2INDEX_MAPPING = {label.code: label.index for label in LABELS}
+LABEL2ID = {label.code: label.id for label in LABELS}
+ID2LABEL = {label.id: label.code for label in LABELS}
 
 
 def to_multi_hot_encoding(labels: list[str], num_classes: int = -1) -> torch.LongTensor:
     num_classes = num_classes if num_classes > 0 else N_LABELS
-    labels = torch.LongTensor([LABELS_CODE2INDEX_MAPPING[label] for label in labels])
+    labels = torch.LongTensor([LABEL2ID[label] for label in labels])
     encoding = F.one_hot(labels, num_classes)
     return encoding.sum(dim=0).float()
