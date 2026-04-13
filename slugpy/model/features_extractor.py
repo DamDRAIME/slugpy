@@ -48,7 +48,7 @@ class Compose:
         return self.extract_features(doc), self.headers
 
 
-class ScriptLineFeatureExtractor:
+class ScriptLineFeaturesExtractor:
     def __init__(self, feat_extractors: FeatureExtractor | Compose, nlp: Language | None = None):
         self.feat_exts = feat_extractors if isinstance(feat_extractors, Compose) else Compose(feat_extractors)
         self.headers = self.feat_exts.headers
