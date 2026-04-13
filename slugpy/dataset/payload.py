@@ -34,3 +34,14 @@ class ScriptLinePayload:
         for ctx in self.post_ctx:
             content.append("" if ctx is None else ctx.line)
         return content
+
+    def __len__(self) -> int:
+        return 1 + (self.ctx_size * 2)
+
+    @property
+    def sequence_size(self) -> int:
+        return len(self)
+
+    @property
+    def ctx_size(self) -> int:
+        return len(self.pre_ctx)
