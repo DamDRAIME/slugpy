@@ -164,3 +164,11 @@ class KeyphraseFeaturesExtractor(FeatureExtractor):
             else:
                 features.append(0.0)
         return torch.FloatTensor(features)
+
+
+class IndentationFeaturesExtractor(FeatureExtractor):
+    headers = ["indent"]
+
+    def _extract_features(self, doc: Doc) -> torch.FloatTensor:
+        text_lstrip = doc.text.lstrip()
+        return torch.FloatTensor([len(doc.text) - len(text_lstrip)])
