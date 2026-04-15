@@ -134,7 +134,6 @@ class ParenthesesFeaturesExtractor(FeatureExtractor):
     headers = ["num_left_parentheses", "n_right_parentheses", "n_open_parentheses"]
 
     def _extract_features(self, doc: Doc) -> torch.FloatTensor:
-        # TODO: Validate that len(doc) != 0 even when there a parentheses
         n_left = sum(ch in ("(", "[") for ch in doc.text)
         n_right = sum(ch in (")", "]") for ch in doc.text)
         return torch.FloatTensor([n_left, n_right, n_left - n_right])
@@ -147,7 +146,6 @@ class KeyphraseFeaturesExtractor(FeatureExtractor):
         "transition to",
         "close on",
         "dissolve to",
-        "shock cut to",  # TODO: Should be removed as it is redundant with cut to
         "fade in",
         "fade up",
         "fade to",
