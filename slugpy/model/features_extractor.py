@@ -36,13 +36,13 @@ class Compose:
     def __init__(self, feat_extractors: list[FeatureExtractor]):
         self.feat_extractors = feat_extractors
         self.n_features = sum([feat_ext.n_features for feat_ext in self.feat_extractors])
-        self.headers = list(chain([feat_ext.headers for feat_ext in self.feat_extractors]))
+        self.headers = list(chain(*[feat_ext.headers for feat_ext in self.feat_extractors]))
 
     def extract_features(self, doc: Doc) -> torch.FloatTensor:
         feat = []
         for feat_ext in self.feat_extractors:
             feat.append(feat_ext.extract_features(doc))
-        return torch.cat(feat, dim=1)
+        return torch.cat(feat)
 
     def __call__(self, doc: Doc) -> tuple[torch.FloatTensor, list[str]]:
         return self.extract_features(doc), self.headers
@@ -50,7 +50,7 @@ class Compose:
 
 class ScriptLineFeaturesExtractor:
     def __init__(self, feat_extractors: FeatureExtractor | Compose, nlp: Language | None = None):
-        self.feat_exts = feat_extractors if isinstance(feat_extractors, Compose) else Compose(feat_extractors)
+        self.feat_exts = feat_extractors if isinstance(feat_extractors, Compose) else Compose([feat_extractors])
         self.headers = self.feat_exts.headers
         self.nlp = nlp if nlp is not None else spacy.load("en_core_web_lg", disable=["parser"])
 
@@ -66,7 +66,7 @@ class ScriptLineFeaturesExtractor:
         features = []
         for doc in self.nlp.pipe(texts, batch_size=50):
             features.append(self.feat_exts.extract_features(doc))
-        return torch.cat(features, dim=0), self.headers
+        return torch.stack(features), self.headers
 
 
 class POSFeaturesExtractor(FeatureExtractor):
