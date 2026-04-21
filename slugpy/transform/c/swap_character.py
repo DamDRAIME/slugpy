@@ -15,8 +15,8 @@ class SwapCharacter(Transform):
             self.n_lines = sum(1 for _ in f)
 
     def apply(self, x: ScriptLinePayload) -> ScriptLinePayload:
-        random_line_num = random.randint(1, self.n_lines)
-        character = linecache.getline(str(self.characters_filepath), random_line_num).rstrip()
+        random_line_idx = random.randint(1, self.n_lines)
+        character = linecache.getline(str(self.characters_filepath), random_line_idx).rstrip()
         sl = x.line
         indent = len(sl.line) - len(sl.line.lstrip())
         sl.line = (" " * indent) + character
