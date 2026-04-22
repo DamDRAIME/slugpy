@@ -1,10 +1,17 @@
-import random
-
 from slugpy.dataset.payload import ScriptLinePayload
 from slugpy.transform.base import Condition, ConditionWithCtx, Transform
 
 
 class ChangeCase(Transform):
+    """
+    A `Transform` changing the case of a script line, based on the predominant case of its characters.
+
+    Args:
+        condition (Condition | ConditionWithCtx | None, optional): Condition to determine if the transform should be
+            applied. Defaults to None.
+        p (float, optional): Probability of applying the transform. Defaults to 0.5.
+    """
+
     def __init__(self, condition: Condition | ConditionWithCtx | None = None, p: float = 0.5):
         super().__init__(condition, p)
 
