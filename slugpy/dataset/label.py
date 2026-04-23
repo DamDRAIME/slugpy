@@ -20,7 +20,7 @@ LABELS = [
     Label("Meta", 5, "M"),
     Label("Narrative/Action line", 6, "N"),
     Label("Omit", 7, "O"),
-    Label("Parentheticals", 8, "P"),
+    Label("Parenthetical", 8, "P"),
     Label("Slugline", 9, "S"),
     Label("Transition", 10, "T"),
     Label("Utterance", 11, "U"),
