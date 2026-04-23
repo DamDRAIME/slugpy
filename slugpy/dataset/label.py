@@ -30,6 +30,7 @@ N_LABELS = len(LABELS)
 
 LABEL2ID = {label.code: label.id for label in LABELS}
 ID2LABEL = {label.id: label.code for label in LABELS}
+NAME2LABEL = {label.name: label.code for label in LABELS}
 
 
 def to_multi_hot_encoding(labels: list[str], num_classes: int = -1) -> torch.LongTensor:
