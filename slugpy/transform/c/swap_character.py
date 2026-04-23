@@ -4,6 +4,7 @@ from pathlib import Path
 
 from slugpy.dataset.payload import ScriptLinePayload
 from slugpy.transform.base import Condition, Transform
+from slugpy.transform.utils import get_indentation
 
 DEFAULT_CHARACTERS_FILEPATH = Path(__file__).parent.parent.parent / "data/characters.txt"
 
@@ -45,7 +46,5 @@ class SwapCharacter(Transform):
         """
         random_line_idx = random.randint(1, self.n_lines)
         character = linecache.getline(str(self.characters_filepath), random_line_idx).rstrip()
-        sl = x.line
-        indent = len(sl.line) - len(sl.line.lstrip())
-        sl.line = (" " * indent) + character
+        x.line.line = (" " * get_indentation(x.line.line)) + character
         return x

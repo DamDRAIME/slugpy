@@ -4,6 +4,7 @@ from collections import defaultdict
 
 from slugpy.dataset.payload import ScriptLine, ScriptLinePayload
 from slugpy.transform.base import Condition, ConditionWithCtx, Transform
+from slugpy.transform.utils import split_at_indentation
 
 
 class AddOCRNoise(Transform):
@@ -139,8 +140,7 @@ class AddOCRNoise(Transform):
         Returns:
             str: The string with a character duplicated, or unchanged if no characters.
         """
-        x_stripped = x.lstrip()
-        indent = len(x) - len(x_stripped)
+        x_stripped, indent = split_at_indentation(x)
         indices = list(range(len(x_stripped)))
         idx = random.choice(indices)
         return (" " * indent) + x_stripped[: idx + 1] + x_stripped[idx:]
@@ -178,8 +178,7 @@ class AddOCRNoise(Transform):
         Returns:
             str: The string with a character removed, or unchanged if no characters match the filter.
         """
-        x_stripped = x.lstrip()
-        indent = len(x) - len(x_stripped)
+        x_stripped, indent = split_at_indentation(x)
         if filter_func:
             indices = [i for i, char in enumerate(x_stripped) if filter_func(char)]
         else:
@@ -199,7 +198,6 @@ class AddOCRNoise(Transform):
         Returns:
             str: The string with the character added.
         """
-        x_stripped = x.lstrip()
-        indent = len(x) - len(x_stripped)
+        x_stripped, indent = split_at_indentation(x)
         idx = random.randint(0, len(x_stripped))
         return (" " * indent) + x_stripped[:idx] + char + x_stripped[idx:]
