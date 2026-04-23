@@ -13,6 +13,8 @@ class SwapCharacter(Transform):
     """
     A `Transform` swapping the character name in a script line with a random character from a provided file.
 
+    The default `characters_filepath` was created by scraping +3000 movies' credits.
+
     Args:
         characters_filepath (Path | str, optional): Path to the file containing character names, one per line.
             Defaults to DEFAULT_CHARACTERS_FILEPATH.
@@ -20,15 +22,6 @@ class SwapCharacter(Transform):
     """
 
     def __init__(self, characters_filepath: Path | str = DEFAULT_CHARACTERS_FILEPATH, p: float = 0.5):
-        """Initialize the SwapCharacter `Transform`.
-
-        The default `characters_filepath` was created by scraping +3000 movies' credits.
-
-        Args:
-            characters_filepath (Path | str, optional): Path to the file containing character names, one per line.
-                Defaults to DEFAULT_CHARACTERS_FILEPATH.
-            p (float): Probability of applying the transform. Defaults to 0.5.
-        """
         c = Condition(["C"], exclude=["U", "E", "P", "N"])
         super().__init__(c, p)
         self.characters_filepath = Path(characters_filepath)
