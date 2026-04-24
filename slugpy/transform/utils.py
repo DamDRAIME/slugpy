@@ -40,10 +40,23 @@ class Sampler:
             self.n_lines = sum(1 for _ in f)
 
     def sample(self) -> str:
+        """Sample a random row from the file.
+
+        Returns:
+            str: row, with trailing newline stripped.
+        """
         random_line_idx = random.randint(1, self.n_lines)
         return linecache.getline(str(self.filepath), random_line_idx).rstrip()
 
     def sample_n(self, n: int) -> list[str]:
+        """Sample n random rows from the file.
+
+        Args:
+            n (int): Number of items to sample.
+
+        Returns:
+            list[str]: A list of n sampled rows, each with the trailing newline stripped.
+        """
         return [self.sample() for _ in range(n)]
 
 
