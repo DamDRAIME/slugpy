@@ -39,12 +39,20 @@ class ConditionWithCtx:
     def is_satified(self, x: ScriptLinePayload) -> bool:
         if not self.line.is_satified(x.line):
             return False
-        for suffix in ["pre", "post"]:
-            if conditions := getattr(self, f"{suffix}_ctx"):
-                for condition, ctx in zip(conditions, getattr(x, f"{suffix}_ctx")):
-                    if condition:
-                        if not condition.is_satified(ctx):
-                            return False
+
+        if self.post_ctx:
+            for condition, ctx in zip(self.post_ctx, x.post_ctx):
+                if condition:
+                    if not condition.is_satified(ctx):
+                        return False
+
+        if self.pre_ctx:
+            # Reverse ordering so that the first `pre_ctx`'s condition applies to the line directly preceding `line`.
+            for condition, ctx in zip(self.pre_ctx[::-1], x.pre_ctx[::-1]):
+                if condition:
+                    if not condition.is_satified(ctx):
+                        return False
+
         return True
 
 
