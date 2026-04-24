@@ -5,7 +5,7 @@ from slugpy.dataset.payload import ScriptLinePayload
 from slugpy.transform.base import Condition, Transform
 
 
-class AddExpression(Transform):
+class AppendExpression(Transform):
     """
     A `Transform` adding an expression at the end of a `C` character line.
 

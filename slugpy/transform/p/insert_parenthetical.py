@@ -1,38 +1,31 @@
-import linecache
 import random
 from copy import deepcopy
-from pathlib import Path
 
 from slugpy.dataset.label import NAME2LABEL
 from slugpy.dataset.payload import ScriptLinePayload
 from slugpy.transform.base import Condition, ConditionWithCtx, Transform
-from slugpy.transform.utils import get_indentation
-
-DEFAULT_PARENTHETICALS_FILEPATH = Path(__file__).parent.parent.parent / "data/parentheticals.txt"
+from slugpy.transform.utils import ParentheticalSampler, Sampler, get_indentation
 
 
-class AddParenthetical(Transform):
+class InsertParenthetical(Transform):
     """
     A `Transform` inserting a parenthetical in place of the script line.
 
-    The default `parentheticals_filepath` was created by generating +200 parentheticals.
+    The default `parentheticals_sampler` is based on a file containing +200 LLM-generated parentheticals.
 
     Args:
-        parentheticals_filepath (Path | str, optional): Path to the file containing parentheticals, one per line.
-            Defaults to DEFAULT_PARENTHETICALS_FILEPATH.
+        parentheticals_sampler (Sampler, optional): A sampler for selecting parentheticals. Defaults to ParentheticalSampler.
         p (float): Probability of applying the transform. Defaults to 0.5.
     """
 
     def __init__(
         self,
-        parentheticals_filepath: Path | str = DEFAULT_PARENTHETICALS_FILEPATH,
+        parentheticals_sampler: Sampler = ParentheticalSampler(),
         condition: Condition | ConditionWithCtx | None = None,
         p: float = 0.5,
     ):
         super().__init__(condition, p)
-        self.parentheticals_filepath = Path(parentheticals_filepath)
-        with self.parentheticals_filepath.open("rb") as f:
-            self.n_lines = sum(1 for _ in f)
+        self.sampler = parentheticals_sampler
         assert "Parenthetical" in NAME2LABEL, "The 'Parenthetical' label should be defined in the dataset labels."
         self.p_label = NAME2LABEL["Parenthetical"]
 
@@ -48,9 +41,8 @@ class AddParenthetical(Transform):
         sl = x.line
         # Store the original line to shift it down the post-context
         original_line = deepcopy(sl)
-        random_line_idx = random.randint(1, self.n_lines)
         indent = get_indentation(sl.line) + random.randint(0, 4)  # `P` usually have a higher indentation than `U`
-        parenthetical = linecache.getline(str(self.parentheticals_filepath), random_line_idx).rstrip()
+        parenthetical = self.sampler.sample()
         sl.line = (" " * indent) + parenthetical
         sl.labels = [self.p_label]
         # Shift the post-context one down, starting from the original line
@@ -59,7 +51,7 @@ class AddParenthetical(Transform):
         return x
 
 
-class AddParentheticalAfterCharacter(AddParenthetical):
+class InsertParentheticalAfterCharacter(InsertParenthetical):
     """
     A `Transform` inserting a parenthetical after a `C` character line.
 
@@ -69,12 +61,12 @@ class AddParentheticalAfterCharacter(AddParenthetical):
         p (float): Probability of applying the transform. Defaults to 0.5.
     """
 
-    def __init__(self, parentheticals_filepath: Path | str = DEFAULT_PARENTHETICALS_FILEPATH, p: float = 0.5):
+    def __init__(self, parentheticals_sampler: Sampler = ParentheticalSampler(), p: float = 0.5):
         c = ConditionWithCtx(Condition(["U"], exclude=["N"]), pre_ctx=[Condition(["C"])])
-        super().__init__(parentheticals_filepath, c, p)
+        super().__init__(parentheticals_sampler, c, p)
 
 
-class AddParentheticalBetweenUtterances(Transform):
+class InsertParentheticalBetweenUtterances(InsertParenthetical):
     """
     A `Transform` inserting a parenthetical in the middle of a dialogue, i.e. between two `U` lines.
 
@@ -84,6 +76,6 @@ class AddParentheticalBetweenUtterances(Transform):
         p (float): Probability of applying the transform. Defaults to 0.5.
     """
 
-    def __init__(self, parentheticals_filepath: Path | str = DEFAULT_PARENTHETICALS_FILEPATH, p: float = 0.5):
+    def __init__(self, parentheticals_sampler: Sampler = ParentheticalSampler(), p: float = 0.5):
         c = ConditionWithCtx(Condition(["U"], exclude=["N"]), pre_ctx=[Condition(["U"])], post_ctx=[Condition(["U"])])
-        super().__init__(parentheticals_filepath, c, p)
+        super().__init__(parentheticals_sampler, c, p)
