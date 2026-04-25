@@ -1,4 +1,4 @@
 .vscode/
-data/
+data/dummy/
 *.egg-info/
 **/__pycache__/
