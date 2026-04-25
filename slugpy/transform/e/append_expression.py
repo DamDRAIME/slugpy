@@ -9,14 +9,14 @@ class AppendExpression(Transform):
     A `Transform` adding an expression at the end of a `C` character line.
 
     Args:
-        extensions_sampler (Sampler, optional): A sampler for selecting extensions. Defaults to ExtensionSampler.
+        extension_sampler (Sampler, optional): A sampler for selecting extensions. Defaults to ExtensionSampler.
         p (float): Probability of applying the transform. Defaults to 0.5.
     """
 
-    def __init__(self, extensions_sampler: Sampler = ExtensionSampler(), p: float = 0.5):
+    def __init__(self, extension_sampler: Sampler = ExtensionSampler(), p: float = 0.5):
         c = Condition(["C"], exclude=["U", "N"])
         super().__init__(c, p)
-        self.sampler = extensions_sampler
+        self.sampler = extension_sampler
         assert "Expression" in NAME2LABEL, "The 'Expression' label should be defined in the dataset labels."
         self.e_label = NAME2LABEL["Expression"]
 

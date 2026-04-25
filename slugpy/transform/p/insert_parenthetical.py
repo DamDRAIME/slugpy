@@ -11,21 +11,21 @@ class InsertParenthetical(Transform):
     """
     A `Transform` inserting a parenthetical in place of the script line.
 
-    The default `parentheticals_sampler` is based on a file containing +200 LLM-generated parentheticals.
+    The default `parenthetical_sampler` is based on a file containing +200 LLM-generated parentheticals.
 
     Args:
-        parentheticals_sampler (Sampler, optional): A sampler for selecting parentheticals. Defaults to ParentheticalSampler.
+        parenthetical_sampler (Sampler, optional): A sampler for selecting parentheticals. Defaults to ParentheticalSampler.
         p (float): Probability of applying the transform. Defaults to 0.5.
     """
 
     def __init__(
         self,
-        parentheticals_sampler: Sampler = ParentheticalSampler(),
+        parenthetical_sampler: Sampler = ParentheticalSampler(),
         condition: Condition | ConditionWithCtx | None = None,
         p: float = 0.5,
     ):
         super().__init__(condition, p)
-        self.sampler = parentheticals_sampler
+        self.sampler = parenthetical_sampler
         assert "Parenthetical" in NAME2LABEL, "The 'Parenthetical' label should be defined in the dataset labels."
         self.p_label = NAME2LABEL["Parenthetical"]
 
