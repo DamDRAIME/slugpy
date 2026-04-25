@@ -2,8 +2,10 @@ import linecache
 from pathlib import Path
 from random import random
 
-DEFAULT_CHARACTERS_FILEPATH = Path(__file__).parent.parent.parent / "data/characters.txt"
-DEFAULT_PARENTHETICALS_FILEPATH = Path(__file__).parent.parent.parent / "data/parentheticals.txt"
+MAIN_DIR = Path(__file__).parent.parent.parent
+DEFAULT_CHARACTERS_FILEPATH = MAIN_DIR / "data/characters.txt"
+DEFAULT_PARENTHETICALS_FILEPATH = MAIN_DIR / "data/parentheticals.txt"
+DEFAULT_EXTENSIONS_FILEPATH = MAIN_DIR / "data/extensions.txt"
 
 
 def split_at_indentation(x: str) -> tuple[str, int]:
@@ -71,4 +73,11 @@ class ParentheticalSampler(Sampler):
     """A sampler to sample parentheticals from a file containing one parenthetical per line."""
 
     def __init__(self, filepath: Path | str = DEFAULT_PARENTHETICALS_FILEPATH):
+        super().__init__(filepath)
+
+
+class ExtensionSampler(Sampler):
+    """A sampler to sample extensions from a file containing one extension per line."""
+
+    def __init__(self, filepath: Path | str = DEFAULT_EXTENSIONS_FILEPATH):
         super().__init__(filepath)
