@@ -1,0 +1,96 @@
+© {year} Lantern Peak Films. All rights reserved. No portion of this script may be reproduced without written consent.
+This screenplay is the confidential property of Iron Gate Studios. Unauthorized use, distribution, or disclosure is strictly prohibited.
+© Redwood Motion Pictures. Duplication or transmission of this material in any form is forbidden without prior approval.
+This script is licensed solely for review purposes. Public performance or adaptation requires express written permission.
+© Horizon Line Entertainment. All characters and events depicted are fictional. Any resemblance is coincidental.
+Proprietary material of Blue Ember Productions. Do not copy, circulate, or quote without authorization.
+© {year} Nightjar Films. This draft may not be sold, shared, or posted online without studio consent.
+This document contains trade secrets belonging to Silver Thread Media. Unauthorized handling may result in legal action.
+© Firecrest Studios. Script provided for internal use only. Redistribution is prohibited.
+All rights reserved by Monarch Pictures. No part of this screenplay may be stored in a retrieval system without permission.
+© {year} Black Harbor Entertainment. This script is watermarked and traceable. Unauthorized duplication is prohibited.
+This screenplay is protected under U.S. and international copyright law. Use is limited to approved personnel.
+© Sunforge Films. This material may not be filmed, adapted, or performed without a valid licensing agreement.
+Confidential draft. Property of Cloudbridge Productions. Do not forward or reproduce.
+© {year} Emberline Studios. All characters, settings, and dialogue are original works protected by copyright.
+This script is provided for evaluation only. Any other use requires written authorization from the rights holder.
+© Silver Lantern Pictures. Unauthorized publication or distribution is strictly forbidden.
+This screenplay contains proprietary creative content belonging to Northwind Media. Handle with confidentiality.
+© {year} Golden Reef Films. No reproduction, scanning, or digital conversion permitted without consent.
+This material is licensed for single-reader use. Sharing or copying violates the terms of distribution.
+© Ironwood Cinema Group. All intellectual property rights reserved worldwide.
+This script is a protected creative work. Any unauthorized adaptation or derivative work is prohibited.
+© {year} Starfall Entertainment. This draft is not for public release.
+This screenplay is confidential and intended only for the recipient. Unauthorized review or disclosure is prohibited.
+© Red Lantern Studios. All rights reserved under applicable copyright statutes.
+This material may not be used for training, workshops, or public readings without permission.
+© {year} Deepwater Films. Unauthorized reproduction or distribution may result in civil liability.
+This script is licensed for production consideration only. Further use requires a negotiated agreement.
+© Silverpine Pictures. All story elements are protected intellectual property.
+This screenplay is the exclusive property of the author and may not be copied, shared, or performed without written consent.
+© {year} MGM Television Entertainment Inc. All Rights Reserved.
+Copyright © {year} MGM Television Entertainment Inc.
+All Rights Reserved.
+{page_num}
+{page_num}.
+p{page_num}
+Page {page_num}
+Pg. {page_num}
+P. {page_num}
+Page {page_num} of {page_total}
+{page_num}/{page_total}",
+{title} - {page_num}.",
+{title_accronym} {version}     Ep. {episod_num} '{episode_title}' {date}        {page_num}.
+{color} Rev. ({date}) {page_num}.
+Rev. Pass — {date}
+{color} SET — R{version}
+Draft {version} — Internal Use Only
+AM‑{year}‑{month} — Revision Window Closed
+Writer Update — {day} {month}
+R{version} / {color} Inserts
+Unit Copy — Version {version}
+Late‑Night Fixes — {date}
+{color} Amendments — Cycle {version}
+Script Sync Build — v{version}
+Revisions Logged — {day}.{month}.{year}
+ALT SCENES PACK — Rev. {version}
+Continuity Pass — Winter Draft
+{color} Update — R{version}
+Dialogue Polish — {month}‑{day}
+Tech Review Draft
+Rev. C — Night Pages
+Working Draft — Cycle {version}
+Insert Set — {day}.{month}.{year}
+Structural Pass — v{version}
+Production Revisions — {color}
+Rewrite Session Output — 02/01
+R{version} — Stunt Unit Copy
+Draft {version} — Pre‑Lock
+Effects Notes Pass — Rev. {version}
+Unnumbered Revisions — Circulated ({date})
+{title_accronym}‑REV {color} • p. {page_num} ({date})
+“{title}” — Draft {version}  Page {page_num}
+{title_accronym} / {color} Pages / Rev. {version} • p. {page_num}
+{title} — Prod. Draft v{version}{space}{date}
+{title_accronym}‑R{version} ({color} Revisions)
+{title} — Writer’s Draft {version}{space}{page_num}.
+{title_accronym} ({color} Rev.){space}{page_num}
+{page_num}{space}{title}
+{page_num}.{space}{title}
+{page_num}.{space}{title}{space}{page_num}.
+{title}{space}Shooting Draft v{version}
+{title_accronym}{space}{date}
+{title}{space}p.{page_num}
+{title_accronym} {version}     Ep. {episode_num} '{episode_title}' {date}        {page_num}."
+Final Version
+FINAL SHOOTING SCRIPT
+CH. {version}: {episode_title} - {date} {page_num}.
+{color} REVISION ({page_num}-{version}) {date}
+{color} REVISION ({page_num}, {version}) {date}
+PRODUCTION DRAFT {date}
+{page_num}.{space}CONTINUED
+CONTINUED
+(CONTINUED)
+(CONTINUED) p. {page_num}
+{page_num}{space}(CONTINUED)
+{page_num}{space}(CONTINUED){space}{page_num}
