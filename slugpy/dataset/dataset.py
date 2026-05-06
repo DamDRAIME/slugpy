@@ -4,7 +4,7 @@ from pathlib import Path
 from typing import Callable, Optional
 
 import numpy as np
-from torch.utils.data import IterableDataset, get_worker_info
+from torch.utils.data import DataLoader, IterableDataset, default_collate, get_worker_info
 
 from slugpy.dataset.file_state import ScriptFileState
 from slugpy.dataset.payload import ScriptLine, ScriptLinePayload
@@ -57,7 +57,7 @@ class Script(IterableDataset):
 
         return ScriptLinePayload(
             fname=self.state.fname,
-            fpath=self.state.fpath,
+            fpath=str(self.state.fpath),
             pre_ctx=[line_with_ctx.popleft() for _ in range(self.ctx_size)],
             line=line_with_ctx.popleft(),
             post_ctx=[line_with_ctx.popleft() for _ in range(self.ctx_size)],
@@ -80,7 +80,7 @@ class Script(IterableDataset):
                 for trf in self.transforms:
                     payload = trf(payload)
 
-                yield payload
+                yield payload.to_dict()
 
                 if self.state.is_eof():
                     self.state.loop_back_to_bof()
@@ -146,3 +146,14 @@ class ScriptDataset(IterableDataset):
             gen = islice(gen, worker_id, None, num_workers)
 
         return gen
+
+
+class ScriptDataLoader(DataLoader):
+    def __init__(self, dataset: ScriptDataset, batch_size: int = 32, num_workers: int = 0):
+        super().__init__(dataset, batch_size=batch_size, num_workers=num_workers, collate_fn=self.collate_fn)
+
+    def collate_fn(self, data):
+        batch = default_collate(data)
+        # Transpose line_with_ctx to have shape (B, 2*ctx_size+1) instead of (2*ctx_size+1, B)
+        batch["line_with_ctx"] = [list(row) for row in zip(*batch["line_with_ctx"])]
+        return batch

@@ -45,3 +45,14 @@ class ScriptLinePayload:
     @property
     def ctx_size(self) -> int:
         return len(self.pre_ctx)
+
+    def to_dict(self) -> dict:
+        return {
+            "fname": self.fname,
+            "fpath": str(self.fpath),
+            "line": self.line.line,
+            "idx": self.line.idx,
+            "ctx_size": self.ctx_size,
+            "line_with_ctx": self.content,
+            "labels": self.line.labels_encoding,
+        }
