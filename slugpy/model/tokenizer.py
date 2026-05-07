@@ -30,13 +30,15 @@ class TokenizerWithCtx:
         return len(self.tokenizer)
 
     def __call__(
-        self, x: ScriptLinePayload | str | list[list[str]], return_line_span_mask: bool = True
+        self, x: ScriptLinePayload | str | list[str] | list[list[str]], return_line_span_mask: bool = True
     ) -> BatchEncoding:
         if isinstance(x, ScriptLinePayload):
             prep_x = self._pre_process_slp_fn(x)
         elif isinstance(x, str):
             prep_x = self._pre_process_str_fn(x)
-        elif isinstance(x, list):
+        elif isinstance(x, list) and all(isinstance(elem, str) for elem in x):
+            prep_x = self._pre_process_line_with_ctx_fn(x)
+        elif isinstance(x, list) and all(isinstance(elem, list) for elem in x):
             prep_x = self._pre_process_batch_fn(x)
         else:
             ValueError(f"Unsupported input type: {type(x)}")
@@ -65,25 +67,19 @@ class TokenizerWithCtx:
         encoding["line_span_mask"] = line_span_mask
         return encoding
 
-    def _pre_process_slp_fn(self, x: ScriptLinePayload) -> str:
-        return (
-            "\n".join([x if x else "" for x in x.pre_ctx])
-            + "\n"
-            + f"{self.line_token_start} {x.line.line} {self.line_token_end}"
-            + "\n"
-            + "\n".join([x if x else "" for x in x.post_ctx])
+    def _pre_process_line_with_ctx_fn(self, x: list[str]) -> str:
+        assert len(x) % 2 == 1, f"Expected an odd number of lines (context + target), got {len(x)}"
+        line_idx = len(x) // 2
+        return "\n".join(
+            x[:line_idx] + [f"{self.line_token_start} {x[line_idx]} {self.line_token_end}"] + x[line_idx + 1 :]
         )
+
+    def _pre_process_slp_fn(self, x: ScriptLinePayload) -> str:
+        return self._pre_process_line_with_ctx_fn(x.content)
 
     def _pre_process_str_fn(self, x: str) -> str:
         return f"{self.line_token_start} {x} {self.line_token_end}"
 
     def _pre_process_batch_fn(self, x: list[list[str]]) -> list[str]:
         # Batch of lines (with context) - Shape: B, 2*ctx_size+1
-        line_idx = len(x[0]) // 2
-        for idx, lines_with_ctx in enumerate(x):
-            x[idx] = "\n".join(
-                lines_with_ctx[:line_idx]
-                + [f"{self.line_token_start} {lines_with_ctx[line_idx]} {self.line_token_end}"]
-                + lines_with_ctx[line_idx + 1 :]
-            )
-        return x
+        return [self._pre_process_line_with_ctx_fn(lines_with_ctx) for lines_with_ctx in x]
