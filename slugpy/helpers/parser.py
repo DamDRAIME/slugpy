@@ -4,7 +4,7 @@ import pdfplumber
 from ocrmypdf import _progressbar as pb
 from rich.console import Console
 
-from slugpy.parse.utils import add_text_layer, deduplicate_chars
+from slugpy.helpers.utils import add_text_layer, deduplicate_chars
 
 
 def pdf_to_txt(

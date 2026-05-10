@@ -1,8 +1,8 @@
 import random
 
 from slugpy.dataset.payload import ScriptLinePayload
+from slugpy.helpers.utils import get_indentation, split_at_indentation
 from slugpy.transform.base import Condition, ConditionWithCtx, Transform
-from slugpy.transform.utils import get_indentation, split_at_indentation
 
 
 class AlterIndentation(Transform):

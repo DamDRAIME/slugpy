@@ -1,6 +1,7 @@
 from slugpy.dataset.payload import ScriptLinePayload
+from slugpy.helpers.utils import get_indentation
 from slugpy.transform.base import Condition, Transform
-from slugpy.transform.utils import CharacterSampler, Sampler, get_indentation
+from slugpy.transform.sampler import CharacterSampler, Sampler
 
 
 class SwapCharacter(Transform):

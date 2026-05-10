@@ -5,8 +5,9 @@ from string import Formatter, ascii_uppercase
 
 from slugpy.dataset.label import NAME2LABEL
 from slugpy.dataset.payload import ScriptLinePayload
+from slugpy.helpers.utils import get_indentation
 from slugpy.transform.base import Condition, ConditionWithCtx, Transform
-from slugpy.transform.utils import OmissionSampler, Sampler, get_indentation
+from slugpy.transform.sampler import OmissionSampler, Sampler
 
 
 class InsertOmit(Transform):

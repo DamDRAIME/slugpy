@@ -1,7 +1,7 @@
 from slugpy.dataset.label import NAME2LABEL
 from slugpy.dataset.payload import ScriptLinePayload
 from slugpy.transform.base import Condition, Transform
-from slugpy.transform.utils import ExtensionSampler, Sampler
+from slugpy.transform.sampler import ExtensionSampler, Sampler
 
 
 class AppendExpression(Transform):

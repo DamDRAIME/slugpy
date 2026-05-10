@@ -3,8 +3,8 @@ import string
 from collections import defaultdict
 
 from slugpy.dataset.payload import ScriptLine, ScriptLinePayload
+from slugpy.helpers.utils import split_at_indentation
 from slugpy.transform.base import Condition, ConditionWithCtx, Transform
-from slugpy.transform.utils import split_at_indentation
 
 
 class AddOCRNoise(Transform):
@@ -37,13 +37,16 @@ class AddOCRNoise(Transform):
             ["o", "0", "O", "D", "q", "Q", "@"],
             ["l", "1", "i", "I", "j"],
             ["cl", "d"],
+            ["T", "'l'"],
             ["rn", "m"],
+            ["k", "h"],
             ["vv", "VV", "W", "w"],
             ["v", "y"]["8", "B"],
             ["5", "S"],
             ["2", "Z"],
-            ["-", "—", "–"],
+            ["-", "—", "–", "~"],
             ["'", "`", "′", "‘", "’"],
+            [";", ":"],
         ]
         # Build bidirectional mapping
         self.confusions_mapping = defaultdict(list)

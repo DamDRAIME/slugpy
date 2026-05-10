@@ -4,33 +4,9 @@ from random import random
 
 MAIN_DIR = Path(__file__).parent.parent.parent
 DEFAULT_CHARACTERS_FILEPATH = MAIN_DIR / "data/characters.txt"
-DEFAULT_PARENTHETICALS_FILEPATH = MAIN_DIR / "data/parentheticals.txt"
 DEFAULT_EXTENSIONS_FILEPATH = MAIN_DIR / "data/extensions.txt"
-
-
-def split_at_indentation(x: str) -> tuple[str, int]:
-    """Split a string at its indentation level.
-
-    Args:
-        x (str): The input string.
-
-    Returns:
-        tuple[str, int]: A tuple containing the stripped string and the indentation level.
-    """
-    indentation = get_indentation(x)
-    return x[indentation:], indentation
-
-
-def get_indentation(x: str) -> int:
-    """Get the indentation level of a string.
-
-    Args:
-        x (str): The input string.
-
-    Returns:
-        int: The indentation level of the string.
-    """
-    return len(x) - len(x.lstrip())
+DEFAULT_PARENTHETICALS_FILEPATH = MAIN_DIR / "data/parentheticals.txt"
+DEFAULT_OMISSIONS_FILEPATH = MAIN_DIR / "data/omissions.txt"
 
 
 class Sampler:
@@ -69,6 +45,13 @@ class CharacterSampler(Sampler):
         super().__init__(filepath)
 
 
+class ExtensionSampler(Sampler):
+    """A sampler to sample extensions from a file containing one extension per line."""
+
+    def __init__(self, filepath: Path | str = DEFAULT_EXTENSIONS_FILEPATH):
+        super().__init__(filepath)
+
+
 class ParentheticalSampler(Sampler):
     """A sampler to sample parentheticals from a file containing one parenthetical per line."""
 
@@ -76,8 +59,8 @@ class ParentheticalSampler(Sampler):
         super().__init__(filepath)
 
 
-class ExtensionSampler(Sampler):
-    """A sampler to sample extensions from a file containing one extension per line."""
+class OmissionSampler(Sampler):
+    """A sampler to sample omissions from a file containing one omission per line."""
 
-    def __init__(self, filepath: Path | str = DEFAULT_EXTENSIONS_FILEPATH):
+    def __init__(self, filepath: Path | str = DEFAULT_OMISSIONS_FILEPATH):
         super().__init__(filepath)
