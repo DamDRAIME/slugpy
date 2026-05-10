@@ -101,7 +101,7 @@ N|               ago.
 C,E|                                   LIAM (CONT’D)                                  
 U|                         -- and, uh yes...                                        
 O|
-S|       1.1     INT. CONFERENCE ROOM (ONE YEAR BEFORE) *PLAYBACK* DAY. 1.1         
+S,M|       1.1     INT. CONFERENCE ROOM (ONE YEAR BEFORE) *PLAYBACK* DAY. 1.1         
 O|
 N,G|               On the screen: Liam in the same room the previous year.            
 O|
@@ -118,7 +118,7 @@ O|
 C|                                   ROBBIE                                         
 U|                         I’d say it should be a primary aim                       
 U|                         re personal progress.                                    
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 G|               Back in the room                                                   
 O|
@@ -158,7 +158,7 @@ M|               (An icon in the top right corner might show the number of
 M|               times this re-do has been replayed. ‘13x Redos’ in this            
 M|               case.)                                                             
 O|
-S|       1.2     INT. OFFICE *PLAYBACK*. DAY.                           1.2         
+S,M|       1.2     INT. OFFICE *PLAYBACK*. DAY.                           1.2         
 O|
 N,G,I|               On screen Liam, is with another guy, being addressed by a          
 N|               superior, Keith.                                                   
@@ -177,7 +177,7 @@ N|               the plate.
 O|
 C,E|                                   LIAM (O.S.)                                    
 U|                         Er. Yeah? Sure.                                          
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               In the room everyone clocks that Liam doesn’t sound that up        
 N|               for the task.                                                      
@@ -196,7 +196,7 @@ O|
 C|                                   MAX                                            
 U|                         An edit’s fine.                                          
 O|
-S|       1.3     INT. OFFICE *PLAYBACK*. DAY.                           1.3         
+S,M|       1.3     INT. OFFICE *PLAYBACK*. DAY.                           1.3         
 O|
 N|               Liam is now in a room with Keith again.                            
 C|                                   LIAM                                           
@@ -207,7 +207,7 @@ O|
 C|                                   KEITH                                          
 U|                         Okay. Nice one Liam. Well done.                          
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               The edit ends. ROBBIE doesn’t look hugely impressed.               
 C|                                   MAX                                            
@@ -371,7 +371,7 @@ N,G|               He’s replaying ‘full-screen’. It fills all his vision.
 M,G|               (Although maybe we can see the ghostly outline of the taxi         
 M|               beyond just faintly.)                                              
 O|
-S|       2.1     INT. CONFERENCE ROOM. *PLAYBACK*. DAY.                 2.1         
+S,M|       2.1     INT. CONFERENCE ROOM. *PLAYBACK*. DAY.                 2.1         
 O|
 C|                                   LIAM                                           
 U|                         Right. And we’re okay, the firm’s                        
@@ -397,7 +397,7 @@ O|
 C|                                   LIAM                                           
 U|                         Totally. Yes.                                            
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 N|               Liam’s face winces as he relives it. He clicks to stop. As he      
 N|               stops the memory playing, he clocks the screen in the back of      
 N|               the cab starting to play an ad.                                    
@@ -444,7 +444,7 @@ U|                         Same easy back-up, same triple
 U|                         locked security. Because the scent                       
 U|                         of life is the heart of memory.                          
 O|
-T|                                                       END OF GRAIN AD:           
+M|                                                       END OF GRAIN AD:           
 O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     9.                     
@@ -538,7 +538,7 @@ N|               Liam spins his finger on his pebble. Clicks. His eye goes
 N,G|               milky as he replays an image from another party, a tight c/u       
 N,G|               on Paul introducing his wife who is looking away:                  
 O|
-S|       4.1     INT. PARTY *PLAYBACK* - NIGHT.                         4.1         
+S,M|       4.1     INT. PARTY *PLAYBACK* - NIGHT.                         4.1         
 C|                                   PAUL TOLLGATE                                  
 U|                         And you’ve met, Lucy? I think - at                       
 U|                         the Dublin wedding?                                      
@@ -551,7 +551,7 @@ U|                         Hi. Hi again.
 P|                             (she introduces her kids)                            
 U|                         This is Jamie and Lisa.                                  
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     11.                    
@@ -567,13 +567,13 @@ N|               be harsh with each other without it really counting too much.
 O|
 N|               On a screen in the living room:                                    
 O|
-S|       5.1     INT. HOTEL. *PLAYBACK* DAY.                            5.1         
+S,M|       5.1     INT. HOTEL. *PLAYBACK* DAY.                            5.1         
 O|
 N,G|               Jeff’s POV of a hotel room. It’s fine. Maybe not so lovely.        
 N|               A hand lifts a duvet that was covering a bit of floor to show      
 N|               a slightly worn patch of carpet.                                   
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   JEFF                                           
 P|                             (re, carpet)                                         
@@ -1274,7 +1274,7 @@ N|               Paul clicks his controller and on a screen behind Hallam
 N|               starts to roll a little loop of stills from the gang’s glory       
 N|               days.                                                              
 O|
-S|       7.1     INT. SQUAT PARTY. *PLAYBACK*. NIGHT.                   7.1         
+S,M|       7.1     INT. SQUAT PARTY. *PLAYBACK*. NIGHT.                   7.1         
 O|
 N|               Jeff, Fi and Paul and Lucy 5/6 years ago at a cool party.          
 O|
@@ -1284,7 +1284,7 @@ M|               more ambitious - more pictures across 2 or 3 nights. They
 M,G|               could be stills or little memory clips from Paul’s POV in          
 M,G,A|               slow mo - home edited to poignant background music - first         
 M,A|               bit of Beethoven’s Kreutzer Sonata)                                
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     24.                    
@@ -1303,11 +1303,11 @@ U|                         When it comes to little things.
 O|
 N|               COLLEEN shakes her head.                                           
 O|
-S|       7.2     INT. CLUB. *PLAYBACK*. NIGHT.                          7.2         
+S,M|       7.2     INT. CLUB. *PLAYBACK*. NIGHT.                          7.2         
 N|               Up on the screen behind Hallam - happy, drugged up night           
 N|               images, Jeff, Fi and Paul and Lucy hug, non sexually. Matey.       
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   COLLEEN                                        
 U|                         And big ones. With half the                              
@@ -1453,13 +1453,13 @@ O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     27.                    
 O|
-S|       8.1     INT. OFFICE BUILDING - CONFERENCE ROOM *PLAYBACK*. DAY. 8.1        
+S,M|       8.1     INT. OFFICE BUILDING - CONFERENCE ROOM *PLAYBACK*. DAY. 8.1        
 O|
 C|                                   MAX                                            
 U|                         Okay great Liam, this has been                           
 U|                         great. We hope to look forward to                        
 U|                         seeing you again.                                        
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   FFION                                          
 U|                         ‘Look forward to seeing you again’ -                     
@@ -1472,14 +1472,14 @@ C|                                   LIAM
 U|                         ‘Hope to look forward’.                                  
 N|               Liam clicks.                                                       
 O|
-N|               REPEAT PLAYBACK 8.1:                                               
+N,M|               REPEAT PLAYBACK 8.1:                                               
 O|
 C|                                   MAX                                            
 U|                         Okay great Liam, this has been                           
 U|                         great. We hope to look forward to                        
 U|                         seeing you again.                                        
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 C|                                   LIAM                                           
 U|                         It’s kind of...                                          
 O|
@@ -1596,7 +1596,7 @@ U|                         You invited him.
 N|               Ffion scrolls and clicks, points her remote at the screen in       
 N|               the car.                                                           
 O|
-S|       8.2     I/E. CARS OUTSIDE TOLLGATES HOUSE. *PLAYBACK*. NIGHT.  8.2         
+S,M|       8.2     I/E. CARS OUTSIDE TOLLGATES HOUSE. *PLAYBACK*. NIGHT.  8.2         
 O|
 N,G|               IN THE PLAYBACK: Ffion, Liam and Jonas are outside cars            
 N,M|               outside the Tollgates. (or just inside if that’s easier to         
@@ -1628,7 +1628,7 @@ O|
 C,E|                                   LIAM (CONT’D)                                  
 U|                         But... How about, Jonas you could                        
 U|                         come for a night-cap at ours?                            
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 G|               Back in the cab.                                                   
 O|
@@ -1761,7 +1761,7 @@ O|
 N|               Liam and Ffion are front of a TV/screen. They have brandy and      
 N|               glasses out. A X32 POV from their sleeping baby replays.           
 O|
-S|       11.1    INT. LIAM & FFION’S HOUSE - JODY’S BEDROOM. *PLAYBACK* 11.1        
+S,M|       11.1    INT. LIAM & FFION’S HOUSE - JODY’S BEDROOM. *PLAYBACK* 11.1        
 S|               NIGHT.                                                             
 O|
 N|               It starts off staring out of the cot. Liam then Ffion in           
@@ -1769,7 +1769,7 @@ N|               super fast motion kiss down into the cot. Then the POV goes
 N|               black. Wakes once and Gina’s face looms over. Then settles         
 N|               again back to black.                                               
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 N|               Liam and Fi watch together. But while Fi is watching, Liam is      
 N|               replaying things in his eye again.                                 
 O|
@@ -1779,7 +1779,7 @@ N,M|               Jonas... then fast-forwards to an exchange we saw earlier in
 N,M|               the Tollgate house, NOT ONTO THE LIVING ROOM SCREEN -- the         
 N|               first redo he plays back is ALL in-eye...                          
 O|
-S|       11.2    INT. TOLLGATE HOUSE. *PLAYBACK* - NIGHT.              11.2         
+S,M|       11.2    INT. TOLLGATE HOUSE. *PLAYBACK* - NIGHT.              11.2         
 O|
 C|                                   LIAM                                           
 U|                         I’ve not met him before have I?                          
@@ -1796,7 +1796,7 @@ O|
 C|                                   FFION                                          
 U|                         Oh.                                                      
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               Liam pauses it.                                                    
 O|
@@ -1908,7 +1908,7 @@ N|               Liam flicks his remote, looking for ‘Mr Marrakesh’ referenc
 N|               on his display. (eyes go milky) then he finds it -- He clicks      
 N|               up onto the screen:                                                
 O|
-S|       11.3    INT. LIAM AND FFION’S HOUSE - BEDROOM. *PLAYBACK* NIGHT.11.3       
+S,M|       11.3    INT. LIAM AND FFION’S HOUSE - BEDROOM. *PLAYBACK* NIGHT.11.3       
 O|
 N,G|               Ffion and Liam close up in bed. Post coital and cosy. LIAM’s       
 N,G|               POV.                                                               
@@ -1949,7 +1949,7 @@ O|
 N,M|               She smiles at Liam. (Maybe there’s a mirror in the room so as      
 M|               Fi looks around we can see how comfortable with one another        
 M|               they are).                                                         
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     36.                    
@@ -2085,13 +2085,13 @@ N|               Liam and Ffion are having sex. Great sex.
 O|
 G|               We cut between their two first-person POV's.                       
 O|
-S|       14.1    INT. LIAM AND FFION’S BEDROOM. *PLAYBACK* - NIGHT.    14.1         
+S,M|       14.1    INT. LIAM AND FFION’S BEDROOM. *PLAYBACK* - NIGHT.    14.1         
 O|
 N,G|               It's hot and passionate - but hard to see what's going on,         
 N,G|               we're close up on flesh and clothes getting tugged around.         
 N,G|               Ffion’s on top, then not, they’re off the bed. It is jump cut      
 N,G|               using both their POV’s.                                            
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N,G|               But then we change shot. Liam and Ffi in real time are in a        
 N|               slow - not unpleasant but hardly epic - long-time-married          
@@ -2149,19 +2149,19 @@ O|
 N|               His hand reaches out for his remote. He clicks. His eyes go        
 N|               milky. He sees again:                                              
 O|
-S|       14.2    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               14.2         
+S,M|       14.2    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               14.2         
 O|
 N|               That brief moment of body language between Jonas and Ffion.        
 N|               He rewinds it. Plays it again.                                     
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 S|       15      INT. LIAM & FFION’S HOUSE - LIVING SPACE. LATER. NIGHT 1. 15       
 O|
 N|               Liam is downstairs, pouring himself a glass of scotch.             
 N|               Watching a re-do.                                                  
 O|
-S|       15.1    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               15.1         
+S,M|       15.1    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               15.1         
 O|
 C|                                   JONAS                                          
 U|                         I’d find myself watching you know,                       
@@ -2171,7 +2171,7 @@ O|
 N|               People chuckle. Including Ffion. Jonas is playing the big          
 N|               man.                                                               
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 N|               Liam takes a cold sip.                                             
 O|
 O|
@@ -2190,7 +2190,7 @@ N|               A paused re-do of the party comes up.
 O|
 N|               He manipulates the remote.                                         
 O|
-S|       17.1    INT. TOLLGATE HOUSE. *PLAYBACK* - NIGHT.              17.1         
+S,M|       17.1    INT. TOLLGATE HOUSE. *PLAYBACK* - NIGHT.              17.1         
 O|
 C|                                   COMPUTER VOICE                                 
 U|                         Lipread reconstruction enabled.                          
@@ -2217,7 +2217,7 @@ O|
 C|                                   COMPUTER WOMAN VOICE                           
 U|                         ‘It's nice to see you Jonas. I                           
 U|                         don't see enough of Hugh.’                               
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N,I|               Gina, the baby-sitter, comes downstairs -- getting ready to        
 N|               leave. She spots Liam sitting at the screen, brooding, the         
@@ -2240,13 +2240,13 @@ U|                         opinion. Just a stupid game but -
 U|                         answer this, right.                                      
 N|               Liam hits play.                                                    
 O|
-S|       17.1A   INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.              17.1A         
+S,M|       17.1A   INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.              17.1A         
 O|
 C|                                   JONAS                                          
 U|                         I’m a cereal monogamist. I’m being                       
 U|                         faithful to cornflakes right now.                        
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 N|               Liam stops.                                                        
 O|
 C|                                   LIAM                                           
@@ -2263,13 +2263,13 @@ U|                         But is what he’s saying funny? In
 U|                         your opinion?                                            
 N|               He hits play again.                                                
 O|
-N|               REPEAT PLAYBACK 17.1A:                                             
+N,M|               REPEAT PLAYBACK 17.1A:                                             
 O|
 C|                                   JONAS                                          
 U|                         I’m a cereal monogamist. I’m being                       
 U|                         faithful to cornflakes right now.                        
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 N|               LIAM fixes GINA with a big expectant look. Her answer?             
 O|
 C|                                   GINA                                           
@@ -2293,13 +2293,13 @@ U|                         Just getting Gina’s opinion on
 U|                         something.                                               
 N|               He hits play again.                                                
 O|
-N|               REPEAT PLAYBACK 17.1A:                                             
+N,M|               REPEAT PLAYBACK 17.1A:                                             
 O|
 C|                                   JONAS                                          
 U|                         I’m a cereal monogamist. I’m being                       
 U|                         faithful to cornflakes right now.                        
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   LIAM                                           
 U|                         I was checking because it made you                       
@@ -2323,7 +2323,7 @@ U|                         Gina. I’m so sorry.
 O|
 N|               Liam hits play. He talks as the redo plays:                        
 O|
-S|       17.2    I/E. CARS OUTSIDE TOLLGATE HOUSE. *PLAYBACK*. NIGHT.  17.2         
+S,M|       17.2    I/E. CARS OUTSIDE TOLLGATE HOUSE. *PLAYBACK*. NIGHT.  17.2         
 O|
 N|               Ffion, Liam and Jonas are outside cars outside the Tollgates.      
 M,G|               (or just inside if that’s easier to shoot. From LIAM’s POV:        
@@ -2359,7 +2359,7 @@ U|               That’s just - a silly joke     Look. How about, Jonas you
 U|               thing, that - apologies.       could come for a night-cap at       
 U|                                              ours?                               
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 N|               LIAM hits pause.                                                   
 O|
 N,A|               The doorbell goes.                                                 
@@ -2376,14 +2376,14 @@ N|               Liam takes a big swig of booze.
 O|
 N|               Liam hits play. Ffion’s there again.                               
 O|
-N|               REPEAT PLAYBACK 17.1A:                                             
+N,M|               REPEAT PLAYBACK 17.1A:                                             
 O|
 C|                                   JONAS                                          
 U|                         I’m a cereal monogamist. I’m being                       
 U|                         faithful to cornflakes right now.                        
 O|
 N|               Ffion laughs.                                                      
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N,G|               Liam lets the laugh hang there - rewinds on close up. It is a      
 N|               pretty big laugh for the joke level.                               
@@ -2404,7 +2404,7 @@ O|
 C,E|                                   FFION (CONT’D)                                 
 U|                         Whatever you’re cueing up, stop it.                      
 O|
-S|       17.3    INT. TOLLGATE HOUSE. *PLAYBACK* NIGHT.                17.3         
+S,M|       17.3    INT. TOLLGATE HOUSE. *PLAYBACK* NIGHT.                17.3         
 O|
 N|               Jonas says something. Ffion and Jeff laugh. Ffion looks lost       
 N|               in the moment. Touches her throat. She looks lovely.               
@@ -2422,7 +2422,7 @@ U|                         detecting expedition?
 N|               Jonas smiles at his little joke against Jeff. Ffion ignores        
 N|               him and it.                                                        
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   LIAM                                           
 U|                         Spot the difference.                                     
@@ -2441,7 +2441,7 @@ U|                         For clarity.
 O|
 N,G|               We see Liam’s entrance to the party from his POV:                  
 O|
-S|       17.4    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.4         
+S,M|       17.4    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.4         
 O|
 N|               They come into the main living area or at least a point where      
 N|               they can see the main room and in a corner - Liam spots Ffion      
@@ -2452,7 +2452,7 @@ N|               For a beat neither Ffion or Jonas sees Liam. And their
 N|               physical geography looks wrong for a pair of people who are        
 N|               simply friends.                                                    
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 N|               Liam pauses the action.                                            
 O|
 O|
@@ -2467,12 +2467,12 @@ U|                         Mmm.
 O|
 N|               Liam hits play. Another moment from the dinner party:              
 O|
-S|       17.5    INT. TOLLGATE HOUSE. *PLAYBACK* - NIGHT.              17.5         
+S,M|       17.5    INT. TOLLGATE HOUSE. *PLAYBACK* - NIGHT.              17.5         
 O|
 N|               Ffion angles right away from Jonas. He starts to head away         
 N|               from the little gang. Ffion doesn’t even look at him as he         
 N|               goes to get a drink. Stays studiously not clocking him.            
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   LIAM                                           
 U|                         But moments later you’re so -                            
@@ -2490,22 +2490,22 @@ U|                         completely. See how you look at
 U|                         him.                                                     
 N|               Liam freezes on how she looks at Jonas.                            
 O|
-S|       17.6    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.6         
+S,M|       17.6    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.6         
 O|
 N,G|               Jonas flashes a half look at Ffion - you can see a little          
 N|               twinkle of enjoyment at Jonas’s truth-telling in her eye,          
 N|               even though she keeps it subdued.                                  
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   LIAM                                           
 U|                         Now how you look at me.                                  
 O|
-S|       17.7    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.7         
+S,M|       17.7    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.7         
 O|
 N|               Ffion smiles but has maybe heard him put himself down once         
 N|               too many times.                                                    
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 N|               It is less warm.                                                   
 O|
 O|
@@ -2528,7 +2528,7 @@ O|
 N|               Liam winds on with his remote. Spots an image in the               
 N,G|               background and stops, rewinds, plays, at the dinner party:         
 O|
-S|       17.8    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.8         
+S,M|       17.8    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.8         
 O|
 N,G|               Liam looks up - behind Hallam is another image - Jeff’s POV,       
 N|               Paul and Lucy kiss.                                                
@@ -2539,7 +2539,7 @@ N|               clocks the wall screen and the flash of Jonas and Ffion in
 N,G|               the gloom in the background kissing.                               
 O|
 N,A|               The music Paul has laid over, Kreutzer, plays on.                  
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   LIAM                                           
 U|                         That Marrakesh is it?                                    
@@ -2641,13 +2641,13 @@ U|                         Not for him.
 O|
 N|               Liam hits play.                                                    
 O|
-S|       17.9    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.9         
+S,M|       17.9    INT. TOLLGATE HOUSE. *PLAYBACK*. NIGHT.               17.9         
 O|
 C|                                   JONAS                                          
 U|                         I’d find myself watching you know,                       
 U|                         re-dos of like hot times - early                         
 U|                         relationships ...                                        
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   FFION                                          
 U|                         Okay. I’m going. I’m taking Jody.                        
@@ -2661,7 +2661,7 @@ U|                         Make yourself puke, whatever, I
 U|                         don’t care. Just sort it out.                            
 N,A|               She’s going. We hear the door slam. LIAM rewinds again.            
 O|
-N|               REPEAT OF PLAYBACK 17.9:                                           
+N,M|               REPEAT OF PLAYBACK 17.9:                                           
 O|
 C|                                   JONAS                                          
 U|                         I’d find myself watching you know,                       
@@ -2670,7 +2670,7 @@ U|                         relationships ...
 O|
 N|               People chuckle. Including Ffion. Jonas is playing the big          
 N|               man.                                                               
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     49.                    
@@ -2887,7 +2887,7 @@ M|               eyes milked out as he plays back full-screen.
 O|
 N,G|               All the following re-dos are shot from his POV, his memory:        
 O|
-S|       20.1    EXT. JONAS’S FLAT. *PLAYBACK*. DAY.                   20.1         
+S,M|       20.1    EXT. JONAS’S FLAT. *PLAYBACK*. DAY.                   20.1         
 O|
 N|,G               We see him arrive at Jonas’s. Stagger from the car.                
 O|
@@ -2896,7 +2896,7 @@ O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     53.                    
 O|
-S|       20.2    INT. HALLWAY / JONAS’S FLAT. *PLAYBACK*. DAY.         20.2         
+S,M|       20.2    INT. HALLWAY / JONAS’S FLAT. *PLAYBACK*. DAY.         20.2         
 O|
 N|               Remonstrating with Jonas at the door.                              
 C|                                   JONAS                                          
@@ -2922,7 +2922,7 @@ U|                         walk in and...
 O|
 N,G|               LIAM fast-forwards.                                                
 O|
-S|       20.3    INT. JONAS’S FLAT. *PLAYBACK*. MORNING.               20.3         
+S,M|       20.3    INT. JONAS’S FLAT. *PLAYBACK*. MORNING.               20.3         
 O|
 N|               Hallam appears in a doorway - with one of Jonas’s t-shirts         
 N|               pulled on.                                                         
@@ -2934,7 +2934,7 @@ N,G|               Shot of his thumb on the controls as he zips forward again --
 N|               to where he’s commanding Jonas to throw his night with Hallam      
 N|               on the screen.                                                     
 O|
-S|       20.4    INT. JONAS’S FLAT. *PLAYBACK* MORNING.                20.4         
+S,M|       20.4    INT. JONAS’S FLAT. *PLAYBACK* MORNING.                20.4         
 C|                                   LIAM                                           
 U|                         -- don’t be shy, throw it on the                         
 U|                         screen. Let’s see what you got up                        
@@ -2943,7 +2943,7 @@ O|
 N|               JONAS goes to lift LIAM off the sofa. LIAM cracks the bottle       
 N|               over his head. HALLAM shrieks.                                     
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               In the car, Liam shifts uneasily in his seat. This was more        
 N|               violent than he recalled. His thumb is on the control again,       
@@ -2954,7 +2954,7 @@ O|            BLACK MIRROR - The Entire History Of You -     54.
 O|
 N|               In the flashback:                                                  
 O|
-S|       20.5    INT. JONAS’S FLAT. *PLAYBACK* MORNING.                20.5         
+S,M|       20.5    INT. JONAS’S FLAT. *PLAYBACK* MORNING.                20.5         
 N,G,A|               Shouting, swearing -- from Liam’s POV, Liam is holding Jonas       
 N|               against a wall. Jonas is quite dazed.                              
 O|
@@ -2972,12 +2972,12 @@ U|                         it all.
 N|               But just then Jonas pushes him off. The two tussle on the          
 N,G|               ground -- it’s confusing, from Liam’s POV.                         
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               Liam in the car, watching, his thumb on the control. He            
 N|               scrubs forward a little.                                           
 O|
-S|       20.6    INT. JONAS’S FLAT. *PLAYBACK* MORNING.                20.6         
+S,M|       20.6    INT. JONAS’S FLAT. *PLAYBACK* MORNING.                20.6         
 O|
 N|               The tussling has stopped. Liam seems to be holding Jonas down      
 N|               against the sofa, hand on his neck.                                
@@ -3061,7 +3061,7 @@ O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     56.                    
 O|
-S|       21.1    INT. LIAM AND FFION’S BEDROOM. *PLAYBACK*. NIGHT.     21.1         
+S,M|       21.1    INT. LIAM AND FFION’S BEDROOM. *PLAYBACK*. NIGHT.     21.1         
 O|
 N,G|               Zooms in on the one rogue meeting. The one separate from the       
 N|               time they were going out - and before last night’s party.          
@@ -3070,7 +3070,7 @@ N,G|               it shows Ffion in bed, the covers pulled up to her chest.
 N|               Behind her is a headboard, and a framed print on the wall. We      
 N,G|               can make out one corner.                                           
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               Liam reels. He can’t believe it. This is what he most              
 N|               feared, but there’s a bit of him too that is pleased his           
@@ -3173,10 +3173,10 @@ O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     58.                    
 O|
-S|       24.1    INT. JONAS’S FLAT. *PLAYBACK*. MORNING.               24.1         
+S,M|       24.1    INT. JONAS’S FLAT. *PLAYBACK*. MORNING.               24.1         
 O|
 N,G|               Images of the fight with Jonas appear.                             
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C|                                   FFION                                          
 U|                         Christ, what have you done Liam?                         
@@ -3189,7 +3189,7 @@ U|                         I’m getting to the good bit.
 O|
 N|               ON the screen:                                                     
 O|
-N|       24.2    INT. JONAS’S FLAT. *PLAYBACK*. NIGHT.                 24.2         
+S,M|       24.2    INT. JONAS’S FLAT. *PLAYBACK*. NIGHT.                 24.2         
 O|
 C|                                   LIAM                                           
 U|                         Either you wipe it all now, or I’ll                      
@@ -3216,7 +3216,7 @@ N|               rogue night, the one between when Ffion and Jonas went out
 N|               and the dinner party last night. In their bedroom. Ffion in        
 N|               the covers. The familiar headboard. The corner of the print        
 N|               visible.                                                           
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 C,E|                                   LIAM (CONT’D)                                  
 U|                         18 months ago, in here.                                  
@@ -3462,29 +3462,29 @@ U|                         You’ve got to show me.
 O|
 N|               Defeated, terrified, she clicks and points at the screen.          
 O|
-S|       24.3    INT. LIAM AND FFION’S BEDROOM. *PLAYBACK*. NIGHT.     24.3         
+S,M|       24.3    INT. LIAM AND FFION’S BEDROOM. *PLAYBACK*. NIGHT.     24.3         
 O|
 N,G|               On a screen - from Ffion’s POV we see her and Jonas eighteen       
 N|               months back. On the couch. In Liam and Ffion’s flat. Kissing.      
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N,G|               Back in the present, Liam, slow-mo, watching, staring at the       
 N|               screen... his hand still around Ffion.                             
 O|
-S|       24.4    INT. LIAM AND FFION’S BEDROOM. *PLAYBACK*. NIGHT.     24.4         
+S,M|       24.4    INT. LIAM AND FFION’S BEDROOM. *PLAYBACK*. NIGHT.     24.4         
 O|
 N,G|               On the screen -- from Ffion’s POV -- Jonas and her in the          
 N|               bedroom, kissing, laughing...                                      
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N,G|               Back in the present, more on Liam’s face -- more intense --        
 N,A|               the sounds of the lovemaking leaking through --                    
 O|
 T,G|               BLACK.                                                             
 O|
-S|       25      INT. LIAM AND FFION’S BEDROOM. *PLAYBACK* DAY.          25         
+S,M|       25      INT. LIAM AND FFION’S BEDROOM. *PLAYBACK* DAY.          25         
 O|
 N|               It’s morning. The room is bathed with light. Jody the baby is      
 N|               on the bed. Ffion is over him goo-ing and gahh-ing. Changing       
@@ -3543,17 +3543,17 @@ N|               He clicks his remote -- eyes turn milky.
 O|
 N|               In his head:                                                       
 O|
-S|       27.1    INT. LIAM & FFION’S HOUSE. *PLAYBACK*. DAY.           27.1         
+S,M|       27.1    INT. LIAM & FFION’S HOUSE. *PLAYBACK*. DAY.           27.1         
 O|
 G|               POV images of how it used to be.                                   
 O|
 N,G|               Ffion from behind, just eating breakfast cereal.                   
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 G,N|               Cut: he’s in the living room -- again it’s empty. He clicks --     
 N|               his eyes turn milky.                                               
 O|
-S|       27.2    INT. LIAM & FFION’S HOUSE. *PLAYBACK*. NIGHT.         27.2         
+S,M|       27.2    INT. LIAM & FFION’S HOUSE. *PLAYBACK*. NIGHT.         27.2         
 O|
 N,G|               In his head: POV Ffion sitting on the couch at night.              
 O|
@@ -3569,31 +3569,31 @@ N,M|               wearing in the last scene. It’s been forgotten during her
 N|               packing. Liam picks it up. He holds it to his face and smells      
 N|               it, trying to remember her, as he clicks his remote to see...      
 O|
-S|       27.2A   INT. LIAM & FFION’S HOUSE *PLAYBACK* DAY             27.2A         
+S,M|       27.2A   INT. LIAM & FFION’S HOUSE *PLAYBACK* DAY             27.2A         
 O|
 N,G|               POV: Ffion sitting in bed, holding Jody. Smiling up at Liam        
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               Liam makes it to the bathroom. Where there’s a used up tube        
 N|               of toothpaste. Deodorant.                                          
 O|
 N|               He clicks. Eyes turn milky.                                        
 O|
-S|       27.3    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.3         
+S,M|       27.3    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.3         
 O|
 N,G|               In his head: POV the image of it full of Ffion’s cosmetics,        
 N|               the mess of family life.                                           
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               Liam looks at himself in the mirror. His eyes are milky.           
 O|
-S|       27.4    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.4         
+S,M|       27.4    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.4         
 N,G|               In his head: POV shot - He’s shaving in the mirror as Ffion,       
 N|               chatting, potters about behind him.                                
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               He snaps back out of it. Clicks his remote. Shuts down the         
 N|               memories. Stares into the mirror.                                  
@@ -3622,18 +3622,18 @@ O|            BLACK MIRROR - The Entire History Of You -     66.
 O|
 G|               The picture wobbles.                                               
 O|
-S|       27.5    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.5         
+S,M|       27.5    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.5         
 N,G,A|               POV shots of Ffion in the bathroom. No audio.                      
 O|
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 N|               Fritzing between that and the empty present as he grapples         
 N|               for the grain.                                                     
 O|
-S|       27.6    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.6         
+S,M|       27.6    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.6         
 O|
 N,G|               POV shot -- Ffion leans in to kiss him                             
-T|                                                       END OF PLAYBACK:           
+M|                                                       END OF PLAYBACK:           
 O|
 S|       28      INT. LIAM AND FFION’S BATHROOM. DAY 3.                  28         
 O|
