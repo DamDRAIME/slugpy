@@ -16,7 +16,7 @@
 | I | Introduction | 5 | When a character is first introduced | LIAM (30's) strong man with black hair... |
 | M | Meta | 6 | All meta information (e.g.: Title, End, Author's comments, ...) | Written by ...<br>The End<br>(Note to Postprod: ...)|
 | N | Narrative | 7 | Action lines between dialogue blocks | Liam goes to the other room |
-| O | Omit | 8 | Lines to be discarded such as blank lines, page headers, ... | YS #504 - Produciton Draft(4/29/22) 2. |
+| O | Omit | 8 | Lines to be ignored such as blank lines, page headers, ... | YS #504 - Produciton Draft(4/29/22) 2. |
 | P | Parenthetical | 9 | Small actions to be performed during a dialogue | (nods to her)<br>(disagreeing) |
 | S | Slugline | 10 | Scene header | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2 |
 | T | Transition | 11 | Transition between scenes or betwen shots | CUT TO<br>FADE IN | 
@@ -38,6 +38,7 @@
 | tt16311594 | F1: The Movie      | Movie   | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in slugs<br>- Omits |
 | tt15242998 | Severance (210)    | TV Show | - Cast and set lists<br>- Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits |
 | tt13868048 | The White Lotus (101) | TV Show | - Page header |
+| tt13868048 | Mare of Easttown (107) | TV Show | - Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Meta<br>- Flashback scenes<br>- INT./EXT.<br>- Alternative dialogues |
 
 #### Todos
 
