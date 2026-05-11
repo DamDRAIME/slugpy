@@ -69,7 +69,7 @@ class Script(IterableDataset):
         return int(self.rng.integers(self.ctx_size - 1, self.state.nbr_lines - 1))
 
     def __iter__(self):
-        with self.filepath.open("r") as fh:
+        with self.filepath.open("r", encoding="utf-8") as fh:
             self.state.fhandler = fh
             self.state.initialize_context(self.get_start_idx())
 
