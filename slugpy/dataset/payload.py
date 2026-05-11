@@ -16,6 +16,15 @@ class ScriptLine:
     def labels_encoding(self) -> Optional[LongTensor]:
         return None if self.labels is None else to_multi_hot_encoding(self.labels)
 
+    @property
+    def primary_label(self) -> Optional[str]:
+        return None if self.labels is None else self.labels[0]
+
+    @property
+    def primary_label_encoding(self) -> Optional[LongTensor]:
+        pl = self.primary_label
+        return None if pl is None else to_multi_hot_encoding([pl])
+
 
 @dataclass
 class ScriptLinePayload:
@@ -54,5 +63,8 @@ class ScriptLinePayload:
             "idx": self.line.idx,
             "ctx_size": self.ctx_size,
             "line_with_ctx": self.content,
-            "labels": self.line.labels_encoding,
+            "labels_encoding": self.line.labels_encoding,
+            "labels": self.line.labels,
+            "primary_label": self.line.primary_label,
+            "primary_label_encoding": self.line.primary_label_encoding,
         }

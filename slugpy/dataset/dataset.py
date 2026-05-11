@@ -22,6 +22,7 @@ class Script(IterableDataset):
         sep: str = "|",
         random_start: bool = True,
         transforms: Optional[list[Callable]] = None,
+        iter_as_dict: bool = True,
         seed: int = 42,
     ):
         super().__init__()
@@ -31,6 +32,7 @@ class Script(IterableDataset):
         self.sep = sep
         self.random_start = random_start
         self.transforms = [] if transforms is None else transforms
+        self.iter_as_dict = iter_as_dict
         self.seed = seed
         self.rng = np.random.default_rng(self.seed)
         self.state = ScriptFileState(self.filepath, self.ctx_size)
@@ -80,7 +82,7 @@ class Script(IterableDataset):
                 for trf in self.transforms:
                     payload = trf(payload)
 
-                yield payload.to_dict()
+                yield payload.to_dict() if self.iter_as_dict else payload
 
                 if self.state.is_eof():
                     self.state.loop_back_to_bof()
@@ -98,6 +100,7 @@ class ScriptDataset(IterableDataset):
         shuffle: bool = True,
         random_start: bool = True,
         transforms: Optional[list[Callable]] = None,
+        iter_as_dict: bool = True,
         seed: int = 42,
     ):
         super().__init__()
@@ -109,9 +112,9 @@ class ScriptDataset(IterableDataset):
         self.random_start = random_start
         self.transforms = [] if transforms is None else transforms
         self.ctx_size = ctx_size
-        self.scripts = self.init_file_states(Path(folder))
+        self.scripts = self.init_file_states(Path(folder), iter_as_dict)
 
-    def init_file_states(self, folder: Path) -> dict[str, ScriptFileState]:
+    def init_file_states(self, folder: Path, iter_as_dict: bool) -> dict[str, ScriptFileState]:
         scripts = {}
         for fp in folder.rglob("*.script"):
             scripts[fp.stem] = Script(
@@ -121,6 +124,7 @@ class ScriptDataset(IterableDataset):
                 sep=self.sep,
                 random_start=self.random_start,
                 transforms=self.transforms,
+                iter_as_dict=iter_as_dict,
                 seed=int(self.rng.integers(0, 200)),
             )
         return scripts
@@ -150,6 +154,8 @@ class ScriptDataset(IterableDataset):
 
 class ScriptDataLoader(DataLoader):
     def __init__(self, dataset: ScriptDataset, batch_size: int = 32, num_workers: int = 0):
+        for script in dataset.scripts.values():
+            script.iter_as_dict = True
         super().__init__(dataset, batch_size=batch_size, num_workers=num_workers, collate_fn=self.collate_fn)
 
     def collate_fn(self, data):

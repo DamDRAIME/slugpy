@@ -14,7 +14,7 @@
 | D | Deletion | 3 | Omitted/deleted scenes | 4. OMITTED / Replaced by 5.   4. |
 | E | Extension | 4 | Additional information attached to `C` but not related to an action | (V.O.)<br>CONT'D<br>(o.s.) |
 | I | Introduction | 5 | When a character is first introduced | LIAM (30's) strong man with black hair... |
-| M | Meta | 6 | All meta information (e.g.: Title, End, Author's comments, ...) | Written by ...<br>The End<br>(Note to Postprod: ...)|
+| M | Metadata | 6 | All meta information (e.g.: Title, End, Author's comments, ...) | Written by ...<br>The End<br>(Note to Postprod: ...)|
 | N | Narrative | 7 | Action lines between dialogue blocks | Liam goes to the other room |
 | O | Omit | 8 | Lines to be ignored such as blank lines, page headers, ... | YS #504 - Produciton Draft(4/29/22) 2. |
 | P | Parenthetical | 9 | Small actions to be performed during a dialogue | (nods to her)<br>(disagreeing) |
@@ -28,6 +28,12 @@
 - `.script` extension doesn't play nicely with `pathlib`. It can't write text in it. Changed to `.screenplay`
 
 ### Annotations
+
+When a Screenplay is annotated, each line is preceeded by label(s). Line and label(s) are separated by a `|` and labels, if several, are separated from one another by a `,`.
+
+The first label is the main one to be associated to the line. The other ones are secondary and given in no particular order.
+
+
 #### Specificities of each screenplay
 
 | IMDB ID    | Title                  | Type    | Specificities |
@@ -62,5 +68,6 @@
 - Cast description
 - Estimate scene budget
 - Sanitize script / Deconflict lines with multiple labels (e.g.: N,U,C -> N/U/C)
-- Extract props from scene
+- Extract props from scene and link them inter scenes
 - Extract extras (background actors)
+- Read script with different voices for each character and narrator.
