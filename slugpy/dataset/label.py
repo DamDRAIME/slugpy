@@ -12,18 +12,19 @@ class Label:
 
 
 LABELS = [
-    Label("Camera guidance", 0, "G"),
-    Label("Character", 1, "C"),
-    Label("Character introduction", 2, "I"),
+    Label("Audio guidance", 0, "A"),
+    Label("Camera guidance", 1, "G"),
+    Label("Character", 2, "C"),
     Label("Deletion", 3, "D"),
     Label("Extension", 4, "E"),
-    Label("Meta", 5, "M"),
-    Label("Narrative/Action line", 6, "N"),
-    Label("Omit", 7, "O"),
-    Label("Parenthetical", 8, "P"),
-    Label("Slugline", 9, "S"),
-    Label("Transition", 10, "T"),
-    Label("Utterance", 11, "U"),
+    Label("Introduction", 5, "I"),
+    Label("Meta", 6, "M"),
+    Label("Narrative", 7, "N"),
+    Label("Omit", 8, "O"),
+    Label("Parenthetical", 9, "P"),
+    Label("Slugline", 10, "S"),
+    Label("Transition", 11, "T"),
+    Label("Utterance", 12, "U"),
 ]
 
 N_LABELS = len(LABELS)
