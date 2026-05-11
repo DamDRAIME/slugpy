@@ -30,15 +30,16 @@
 ### Annotations
 #### Specificities of each screenplay
 
-| IMDB ID    | Title              | Type    | Specificities |
-|------------|--------------------|---------|---------------|
-| tt8806272  | Euphoria (108)     | TV Show | - OCR perturbations<br>- Cast and set lists<br>- Page header |
-| tt2089050  | Black Mirror (103) | TV Show | - Playback scenes<br>- Page header<br>- Meta |
-| tt23642488 | Yellowstone (504)  | TV Show | - Charcters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
-| tt16311594 | F1: The Movie      | Movie   | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in slugs<br>- Omits |
-| tt15242998 | Severance (210)    | TV Show | - Cast and set lists<br>- Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits |
-| tt13868048 | The White Lotus (101) | TV Show | - Page header |
-| tt13868048 | Mare of Easttown (107) | TV Show | - Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Meta<br>- Flashback scenes<br>- INT./EXT.<br>- Alternative dialogues |
+| IMDB ID    | Title                  | Type    | Specificities |
+|------------|------------------------|---------|---------------|
+| tt8806272  | Euphoria (108)         | TV Show | - OCR perturbations<br>- Cast and set lists<br>- Page header |
+| tt2089050  | Black Mirror (103)     | TV Show | - Playbacks<br>- Page header<br>- Meta |
+| tt23642488 | Yellowstone (504)      | TV Show | - Charcters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
+| tt16311594 | F1: The Movie          | Movie   | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in slugs<br>- Omits |
+| tt15242998 | Severance (210)        | TV Show | - Cast and set lists<br>- Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits |
+| tt13868048 | The White Lotus (101)  | TV Show | - Page header |
+| tt11610562 | Mare of Easttown (107) | TV Show | - Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Meta<br>- Flashbacks<br>- INT./EXT.<br>- Alternative dialogues |
+| tt6701648  | Electric Dreams (107)  | TV Show | - Disclaimer<br>- Page header<br>- Meta<br>- Flashbacks<br>- INT./EXT. |
 
 #### Todos
 
