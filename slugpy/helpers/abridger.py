@@ -1,10 +1,13 @@
 from pathlib import Path
 
 from slugpy.dataset.dataset import Script
+from slugpy.dataset.label import NAME2LABEL
 from slugpy.helpers.utils import split_at_indentation
 
 
-def abridge(script_filepath: Path | str, based_on_labels: bool = False) -> list[str]:
+def abridge(
+    script_filepath: Path | str, based_on_labels: bool = False, ignore_labels: list[str] = ["O", "D", "T"]
+) -> list[str]:
     """
     Condenses a screenplay by newlines between lines of the same nature, based on annotations if available, otherwise
     (default) based on heuristics.
@@ -23,6 +26,9 @@ def abridge(script_filepath: Path | str, based_on_labels: bool = False) -> list[
         script_filepath (Path | str): Path to the input screenplay text file.
         based_on_labels (bool, optional): Whether to use annotations to regroupe lines. Defaults to False, in which
             case heuristics are used such as indentation and case.
+        ignore_labels (list[str], optional): Labels to ignore and thus not include in the abridged screenplay. Only
+            considered if `based_on_labels` is set to True. Defaults to ignoring transitions `T`, deleted scenes `D`,
+            and lines to ignore `O`.
 
     Returns:
         list[str]: The abridged screenplay as a list of lines.
@@ -44,6 +50,10 @@ def abridge(script_filepath: Path | str, based_on_labels: bool = False) -> list[
         label = slp.line.primary_label
         if based_on_labels:
             if label == "O":
+                # We ignore those lines no matter what to prevent `N` lines spread between 2 pages to be split
+                continue
+            if label in ignore_labels:
+                prev_indent_or_label = "/"
                 continue
             if label == "C":
                 line += ":"  # Regroup dialogue block into one line > C (E?): U (P?) U
@@ -61,3 +71,13 @@ def abridge(script_filepath: Path | str, based_on_labels: bool = False) -> list[
     if accumulated_line:
         abridged_script.append(" ".join(accumulated_line))
     return abridged_script
+
+
+def abridge_utterances_and_parentheticals_only(script_filepath: Path | str) -> list[str]:
+    ignore_labels = [code for name, code in NAME2LABEL.items() if name not in ("Utterance", "Parenthetical")]
+    return abridge(script_filepath, based_on_labels=True, ignore_labels=ignore_labels)
+
+
+def abridge_narrative_only(script_filepath: Path | str) -> list[str]:
+    ignore_labels = [code for name, code in NAME2LABEL.items() if name != "Narrative"]
+    return abridge(script_filepath, based_on_labels=True, ignore_labels=ignore_labels)
