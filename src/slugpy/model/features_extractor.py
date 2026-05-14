@@ -1,11 +1,11 @@
+import re
 from abc import ABC, abstractmethod
 from itertools import chain
-import re
 
 import spacy
-from spacy.tokens import Doc
-from spacy.language import Language
 import torch
+from spacy.language import Language
+from spacy.tokens import Doc
 
 from slugpy.dataset.payload import ScriptLine, ScriptLinePayload
 
@@ -150,6 +150,15 @@ class KeyphraseFeaturesExtractor(FeatureExtractor):
         "fade up",
         "fade to",
         "fade out",
+        "fade back to",
+        "fade back in",
+        "flashback to",
+        "smash cut to",
+        "flash to",
+        "match cut to",
+        "wipe to",
+        "cross cut to",
+        "jump cut to",
     ]
     _scene_keyphrases = ["int", "ext"]
     headers = ["contains_transition_keyphrase", "contains_scene_keyphrase"]

@@ -26,11 +26,20 @@ class TokenizerWithCtx:
         self.line_token_start_id = self.tokenizer.convert_tokens_to_ids(self.line_token_start)
         self.line_token_end_id = self.tokenizer.convert_tokens_to_ids(self.line_token_end)
 
+    @property
+    def dim(self):
+        if self.padding == "max_length":
+            return self.max_len
+        raise ValueError(f"Cannot determine tokenizer output dimension when padding is set to {self.padding}")
+
     def __len__(self):
         return len(self.tokenizer)
 
     def __call__(
-        self, x: ScriptLinePayload | str | list[str] | list[list[str]], return_line_span_mask: bool = True
+        self,
+        x: ScriptLinePayload | str | list[str] | list[list[str]],
+        return_line_span_mask: bool = True,
+        return_attention_mask: bool = True,
     ) -> BatchEncoding:
         if isinstance(x, ScriptLinePayload):
             prep_x = self._pre_process_slp_fn(x)
@@ -42,18 +51,23 @@ class TokenizerWithCtx:
             prep_x = self._pre_process_batch_fn(x)
         else:
             ValueError(f"Unsupported input type: {type(x)}")
-        return self.encode(prep_x, return_line_span_mask=return_line_span_mask)
+        return self.encode(
+            prep_x, return_line_span_mask=return_line_span_mask, return_attention_mask=return_attention_mask
+        )
 
     def decode(self, token_ids: torch.Tensor, skip_special_tokens: bool = True) -> list[str]:
         return self.tokenizer.batch_decode(token_ids, skip_special_tokens=skip_special_tokens)
 
-    def encode(self, x: str | list[str], return_line_span_mask: bool = True) -> BatchEncoding:
+    def encode(
+        self, x: str | list[str], return_line_span_mask: bool = True, return_attention_mask: bool = True
+    ) -> BatchEncoding:
         encoding = self.tokenizer(
             x,
             max_length=self.max_len,
             padding=self.padding,
             truncation=self.truncation,
             return_tensors="pt",
+            return_attention_mask=return_attention_mask,
         )
         encoding["line_start_idx"] = (encoding["input_ids"] == self.line_token_start_id).nonzero()[:, -1]
         encoding["line_end_idx"] = (encoding["input_ids"] == self.line_token_end_id).nonzero()[:, -1]

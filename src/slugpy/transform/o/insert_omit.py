@@ -112,9 +112,28 @@ class InsertOmit(Transform):
         return d.strftime(random_format)
 
     def get_color(self) -> str:
-        c = random.choice(["red", "blue", "green", "yellow", "purple", "green", "pink"])
-        if random.random() < 0.5:
+        c = random.choice(
+            [
+                "red",
+                "blue",
+                "green",
+                "yellow",
+                "purple",
+                "green",
+                "pink",
+                "white",
+                "goldenrod",
+                "buff",
+                "salmon",
+                "cherry",
+                "2nd blue",
+                "2nd pink",
+            ]
+        )
+        if (rng := random.random()) < 0.25:
             return c.upper()
+        elif rng < 0.5:
+            return c.capitalize()
         return c
 
     def get_version_num(self) -> str:

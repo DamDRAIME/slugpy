@@ -1,8 +1,6 @@
-from itertools import chain
 from typing import Any
 
 import torch
-from sentence_transformers import SentenceTransformer
 from torch import nn
 
 from slugpy.dataset.label import N_LABELS
@@ -10,7 +8,7 @@ from slugpy.model.features_extractor import ScriptLineFeaturesExtractor
 from slugpy.model.tokenizer import TokenizerWithCtx
 
 
-class ScriptLineClassifier(nn.Module):
+class LSTMClassifier(nn.Module):
     def __init__(self, tokenizer_model_name: str, features_extractor: ScriptLineFeaturesExtractor, bidirectional: bool):
         super().__init__()
         self.tokenizer = TokenizerWithCtx(model_name=tokenizer_model_name)  # "sentence-transformers/all-mpnet-base-v2"

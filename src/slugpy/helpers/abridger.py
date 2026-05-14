@@ -24,7 +24,7 @@ def abridge(
 
     Args:
         script_filepath (Path | str): Path to the input screenplay text file.
-        based_on_labels (bool, optional): Whether to use annotations to regroupe lines. Defaults to False, in which
+        based_on_labels (bool, optional): Whether to use annotations to regroup lines. Defaults to False, in which
             case heuristics are used such as indentation and case.
         ignore_labels (list[str], optional): Labels to ignore and thus not include in the abridged screenplay. Only
             considered if `based_on_labels` is set to True. Defaults to ignoring transitions `T`, deleted scenes `D`,
@@ -63,13 +63,13 @@ def abridge(
             # Regroup dialogue block into one line > C (E?): U (P?) U
             pass
         elif prev_indent_or_label is not None and indent_or_label != prev_indent_or_label:
-            abridged_script.append(" ".join(accumulated_line))
+            abridged_script.append(" ".join(accumulated_line) + "\n")
             accumulated_line = []
 
         accumulated_line.append(line)
         prev_indent_or_label = indent_or_label
     if accumulated_line:
-        abridged_script.append(" ".join(accumulated_line))
+        abridged_script.append(" ".join(accumulated_line) + "\n")
     return abridged_script
 
 

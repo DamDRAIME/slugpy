@@ -7,13 +7,13 @@ from rich.console import Console
 from slugpy.helpers.utils import add_text_layer, deduplicate_chars
 
 
-def pdf_to_txt(
+def pdf2txt(
     pdf_filepath: Path | str,
     txt_filepath: Path | str,
     preserve_layout: bool = True,
     new_page_add_newline: bool = False,
     skip_duplicated_empty_lines: bool = True,
-) -> Path:
+) -> list[str]:
     """
     Converts a PDF file to a text file, using OCR if necessary, while preserving the layout.
 
@@ -29,7 +29,7 @@ def pdf_to_txt(
         skip_duplicated_empty_lines (bool, optional): Whether to skip consecutive empty lines. Defaults to True.
 
     Returns:
-        Path: The path to the output text file.
+        list[str]: Extracted text.
     """
 
     # Extracting text from PDF via OCR, if needed
