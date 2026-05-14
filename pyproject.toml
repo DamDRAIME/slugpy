@@ -1,7 +1,3 @@
-[build-system]
-requires = ["setuptools", "wheel"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "slugpy"
 version = "0.0.1"
@@ -9,3 +5,13 @@ description = "A movie script parser"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = []
+
+[project.scripts]
+slugpy = "slugpy.cli.main:app"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
