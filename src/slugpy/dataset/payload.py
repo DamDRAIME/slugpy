@@ -64,7 +64,6 @@ class ScriptLinePayload:
             "ctx_size": self.ctx_size,
             "line_with_ctx": self.content,
             "labels_encoding": self.line.labels_encoding,
-            "labels": self.line.labels,
             "primary_label": self.line.primary_label,
             "primary_label_encoding": self.line.primary_label_encoding,
         }
