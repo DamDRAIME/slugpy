@@ -53,6 +53,7 @@ class ScriptLineFeaturesExtractor:
         self.feat_exts = feat_extractors if isinstance(feat_extractors, Compose) else Compose([feat_extractors])
         self.headers = self.feat_exts.headers
         self.nlp = nlp if nlp is not None else spacy.load("en_core_web_lg", disable=["parser"])
+        self.n_features = self.feat_exts.n_features
 
     def __call__(self, x: ScriptLine | ScriptLinePayload | str | list[str]) -> tuple[torch.FloatTensor, list[str]]:
         if isinstance(x, ScriptLine):
