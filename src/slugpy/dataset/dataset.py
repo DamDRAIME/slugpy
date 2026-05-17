@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import Callable, Optional
 
 import numpy as np
+import torch
 from torch.utils.data import DataLoader, IterableDataset, default_collate, get_worker_info
 
 from slugpy.dataset.file_state import ScriptFileState
@@ -161,6 +162,7 @@ class ScriptDataset(IterableDataset):
 
 class ScriptDataLoader(DataLoader):
     def __init__(self, dataset: ScriptDataset, batch_size: int = 32, num_workers: int = 0):
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         for script in dataset.scripts.values():
             script.iter_as_dict = True
             script.skip_empty_lines = True
@@ -170,4 +172,7 @@ class ScriptDataLoader(DataLoader):
         batch = default_collate(data)
         # Transpose line_with_ctx to have shape (B, 2*ctx_size+1) instead of (2*ctx_size+1, B)
         batch["line_with_ctx"] = [list(row) for row in zip(*batch["line_with_ctx"])]
+        for k, v in batch.items():
+            if issubclass(type(v), torch.Tensor):
+                batch[k] = v.to(self.device)
         return batch

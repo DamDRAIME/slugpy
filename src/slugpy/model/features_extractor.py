@@ -15,6 +15,7 @@ class FeatureExtractor(ABC):
 
     def __init__(self):
         self.n_features = len(self.headers)
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     def _get_empty_features(self) -> torch.FloatTensor:
         return torch.zeros(self.n_features)
@@ -29,7 +30,8 @@ class FeatureExtractor(ABC):
         raise NotImplementedError
 
     def __call__(self, doc: Doc) -> tuple[torch.FloatTensor, list[str]]:
-        return self.extract_features(doc), self.headers
+        features = self.extract_features(doc).to(self.device)
+        return features, self.headers
 
 
 class Compose:
@@ -37,12 +39,14 @@ class Compose:
         self.feat_extractors = feat_extractors
         self.n_features = sum([feat_ext.n_features for feat_ext in self.feat_extractors])
         self.headers = list(chain(*[feat_ext.headers for feat_ext in self.feat_extractors]))
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     def extract_features(self, doc: Doc) -> torch.FloatTensor:
         feat = []
         for feat_ext in self.feat_extractors:
             feat.append(feat_ext.extract_features(doc))
-        return torch.cat(feat)
+        features = torch.cat(feat).to(self.device)
+        return features
 
     def __call__(self, doc: Doc) -> tuple[torch.FloatTensor, list[str]]:
         return self.extract_features(doc), self.headers
@@ -67,7 +71,8 @@ class ScriptLineFeaturesExtractor:
         features = []
         for doc in self.nlp.pipe(texts, batch_size=50):
             features.append(self.feat_exts.extract_features(doc))
-        return torch.stack(features), self.headers
+        features = torch.stack(features)
+        return features, self.headers
 
 
 class POSFeaturesExtractor(FeatureExtractor):
