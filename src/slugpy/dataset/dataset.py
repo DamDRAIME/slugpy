@@ -23,6 +23,7 @@ class Script(IterableDataset):
         random_start: bool = True,
         transforms: Optional[list[Callable]] = None,
         iter_as_dict: bool = True,
+        skip_empty_lines: bool = False,
         seed: int = 42,
     ):
         super().__init__()
@@ -33,6 +34,7 @@ class Script(IterableDataset):
         self.random_start = random_start
         self.transforms = [] if transforms is None else transforms
         self.iter_as_dict = iter_as_dict
+        self.skip_empty_lines = skip_empty_lines
         self.seed = seed
         self.rng = np.random.default_rng(self.seed)
         self.state = ScriptFileState(self.filepath, self.ctx_size)
@@ -82,7 +84,10 @@ class Script(IterableDataset):
                 for trf in self.transforms:
                     payload = trf(payload)
 
-                yield payload.to_dict() if self.iter_as_dict else payload
+                if self.skip_empty_lines and not payload.line.line.strip():
+                    pass
+                else:
+                    yield payload.to_dict() if self.iter_as_dict else payload
 
                 if self.state.is_eof():
                     self.state.loop_back_to_bof()
@@ -101,6 +106,7 @@ class ScriptDataset(IterableDataset):
         random_start: bool = True,
         transforms: Optional[list[Callable]] = None,
         iter_as_dict: bool = True,
+        skip_empty_lines: bool = False,
         seed: int = 42,
     ):
         super().__init__()
@@ -112,9 +118,9 @@ class ScriptDataset(IterableDataset):
         self.random_start = random_start
         self.transforms = [] if transforms is None else transforms
         self.ctx_size = ctx_size
-        self.scripts = self.init_file_states(Path(folder), iter_as_dict)
+        self.scripts = self.init_file_states(Path(folder), skip_empty_lines, iter_as_dict)
 
-    def init_file_states(self, folder: Path, iter_as_dict: bool) -> dict[str, ScriptFileState]:
+    def init_file_states(self, folder: Path, skip_empty_lines: bool, iter_as_dict: bool) -> dict[str, ScriptFileState]:
         scripts = {}
         for fp in folder.rglob("*.script"):
             scripts[fp.stem] = Script(
@@ -125,6 +131,7 @@ class ScriptDataset(IterableDataset):
                 random_start=self.random_start,
                 transforms=self.transforms,
                 iter_as_dict=iter_as_dict,
+                skip_empty_lines=skip_empty_lines,
                 seed=int(self.rng.integers(0, 200)),
             )
         return scripts
@@ -156,6 +163,7 @@ class ScriptDataLoader(DataLoader):
     def __init__(self, dataset: ScriptDataset, batch_size: int = 32, num_workers: int = 0):
         for script in dataset.scripts.values():
             script.iter_as_dict = True
+            script.skip_empty_lines = True
         super().__init__(dataset, batch_size=batch_size, num_workers=num_workers, collate_fn=self.collate_fn)
 
     def collate_fn(self, data):
