@@ -123,7 +123,7 @@ class ScriptDataset(IterableDataset):
 
     def init_file_states(self, folder: Path, skip_empty_lines: bool, iter_as_dict: bool) -> dict[str, ScriptFileState]:
         scripts = {}
-        for fp in folder.rglob("*.script"):
+        for fp in folder.rglob("*.screenplay"):
             scripts[fp.stem] = Script(
                 fp,
                 ctx_size=self.ctx_size,
