@@ -5,18 +5,24 @@ import torch.nn as nn
 from transformers import AutoModel
 
 from slugpy.dataset.label import N_LABELS
+from slugpy.model.features_extractor import ScriptLineFeaturesExtractor
 from slugpy.model.tokenizer import TokenizerWithCtx
 
 
 class TransformerClassifier(nn.Module):
-    def __init__(self, model_name: str, **tokenizer_kwargs):
+    def __init__(
+        self, model_name: str, features_extractor: ScriptLineFeaturesExtractor | None = None, **tokenizer_kwargs
+    ):
         super().__init__()
         self.tokenizer = TokenizerWithCtx(model_name, **tokenizer_kwargs)  # "microsoft/deberta-v3-base"
-        self.model = AutoModel.from_pretrained(model_name)
-        self.model.resize_token_embeddings(len(self.tokenizer))
+        self.transformer_model = AutoModel.from_pretrained(model_name)
+        self.transformer_model.resize_token_embeddings(len(self.tokenizer))
+        self.features_extractor = features_extractor
         self.n_labels = N_LABELS
-        hidden = self.model.config.hidden_size
-        self.classifier = nn.Linear(hidden, self.n_labels)
+        self.classifier_input_size = self.transformer_model.config.hidden_size
+        if self.features_extractor is not None:
+            self.classifier_input_size += self.features_extractor.n_features
+        self.classifier = nn.Linear(self.classifier_input_size, self.n_labels)
 
     def forward(self, batch: dict[str, Any]) -> torch.LongTensor:
         # Tokenizer
@@ -30,7 +36,11 @@ class TransformerClassifier(nn.Module):
         line_span_mask = torch.broadcast_to(lines_with_ctx_tokenized["line_span_mask"].unsqueeze(-1), last_hidden.shape)
         line_span_mask = line_span_mask.to(torch.bool)
         masked_hidden = last_hidden.masked_fill(~line_span_mask, float("nan"))
-        pooled = torch.nanmean(masked_hidden, 1)  # (B, H)
+        x = torch.nanmean(masked_hidden, 1)  # (B, H)
+        if self.features_extractor is not None:
+            # Feature Extractor + Concat
+            lines_features, _headers = self.features_extractor(batch["line"])  # (B, n_features)
+            x = torch.cat([lines_features, x], dim=1)  # (B, (H * (1 + bidirectional)) + n_features)
         # Classifier
-        logits = self.classifier(pooled.to(torch.float32))  # (B, n_labels)
+        logits = self.classifier(x.to(torch.float32))  # (B, n_labels)
         return logits
