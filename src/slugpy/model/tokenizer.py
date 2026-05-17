@@ -25,6 +25,7 @@ class TokenizerWithCtx:
         self.tokenizer.add_special_tokens(special_tokens)
         self.line_token_start_id = self.tokenizer.convert_tokens_to_ids(self.line_token_start)
         self.line_token_end_id = self.tokenizer.convert_tokens_to_ids(self.line_token_end)
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     @property
     def dim(self):
@@ -79,6 +80,7 @@ class TokenizerWithCtx:
             end = encoding["line_end_idx"][i].item()
             line_span_mask[i, start + 1 : end] = 1  # exclude the special token itself
         encoding["line_span_mask"] = line_span_mask
+        encoding.to(self.device)
         return encoding
 
     def _pre_process_line_with_ctx_fn(self, x: list[str]) -> str:
