@@ -13,25 +13,32 @@ class LSTMClassifier(nn.Module):
     def __init__(
         self,
         model_name: str,
-        features_extractor: ScriptLineFeaturesExtractor,
+        features_extractor: ScriptLineFeaturesExtractor | None = None,
         bidirectional: bool = True,
+        lstm_hidden_size: int = 256,
         **tokenizer_kwargs,
     ):
         super().__init__()
         self.tokenizer = TokenizerWithCtx(model_name, **tokenizer_kwargs)  # "sentence-transformers/all-mpnet-base-v2"
-        self.model = AutoModel.from_pretrained(model_name)
-        self.model.resize_token_embeddings(len(self.tokenizer))
+        self.embedding_model = AutoModel.from_pretrained(model_name)
+        self.embedding_model.resize_token_embeddings(len(self.tokenizer))
         self.features_extractor = features_extractor
-        self.hidden_size = 256
-        self.n_labels = N_LABELS
+        self.lstm_input_size = self.embedding_model.config.hidden_size
+        self.lstm_hidden_size = lstm_hidden_size
         self.bidirectional = bidirectional
         self.lstm = nn.LSTM(
-            self.model.config.hidden_size, self.hidden_size, batch_first=True, bidirectional=self.bidirectional
+            self.lstm_input_size,
+            self.lstm_hidden_size,
+            batch_first=True,
+            bidirectional=self.bidirectional,
         )
         self.init_lstm_weights()
-        self.classifier = nn.Linear(
-            ((1 + int(self.bidirectional)) * self.hidden_size) + self.features_extractor.n_features, self.n_labels
-        )
+        self.n_labels = N_LABELS
+        lstm_output_size = (1 + int(self.bidirectional)) * self.lstm_hidden_size
+        self.classifier_input_size = lstm_output_size
+        if self.features_extractor is not None:
+            self.classifier_input_size += self.features_extractor.n_features
+        self.classifier = nn.Linear(self.classifier_input_size, self.n_labels)
 
     def init_lstm_weights(self):
         for name, param in self.lstm.named_parameters():
@@ -59,9 +66,11 @@ class LSTMClassifier(nn.Module):
         line_span_mask = torch.broadcast_to(lines_with_ctx_tokenized["line_span_mask"].unsqueeze(-1), last_hidden.shape)
         line_span_mask = line_span_mask.to(torch.bool)
         masked_hidden = last_hidden.masked_fill(~line_span_mask, float("nan"))
-        pooled = torch.nanmean(masked_hidden, 1)  # (B, H * (1 + bidirectional))
-        # Concat
-        lines_features, _headers = self.features_extractor(batch["line"])  # (B, n_features)
-        concat = torch.cat([lines_features, pooled], dim=1)  # (B, (H * (1 + bidirectional)) + n_features)
-        logits = self.classifier(concat)  # (B, n_labels)
+        x = torch.nanmean(masked_hidden, 1)  # (B, H * (1 + bidirectional))
+        if self.features_extractor is not None:
+            # Feature Extractor + Concat
+            lines_features, _headers = self.features_extractor(batch["line"])  # (B, n_features)
+            x = torch.cat([lines_features, x], dim=1)  # (B, (H * (1 + bidirectional)) + n_features)
+        # Classifier
+        logits = self.classifier(x)  # (B, n_labels)
         return logits
