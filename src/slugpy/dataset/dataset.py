@@ -47,7 +47,7 @@ class Script(IterableDataset):
         parts = line.split(self.sep, maxsplit=2)
 
         if len(parts) != 2:
-            raise ValueError(f"Couldn't parse line index and labels from line: `{line}`")
+            raise ValueError(f"Couldn't parse line: `{line}` at {self.filepath}, line {self.state.curr_idx}")
 
         labels, line = parts
         return line, labels.split(",")
