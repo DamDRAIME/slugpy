@@ -28,9 +28,23 @@ class LSTMClassifier(nn.Module):
         self.lstm = nn.LSTM(
             self.model.config.hidden_size, self.hidden_size, batch_first=True, bidirectional=self.bidirectional
         )
+        self.init_lstm_weights()
         self.classifier = nn.Linear(
             ((1 + int(self.bidirectional)) * self.hidden_size) + self.features_extractor.n_features, self.n_labels
         )
+
+    def init_lstm_weights(self):
+        for name, param in self.lstm.named_parameters():
+            if "weight_ih" in name:
+                nn.init.xavier_uniform_(param.data)
+            elif "weight_hh" in name:
+                nn.init.orthogonal_(param.data)
+            elif "bias" in name:
+                param.data.fill_(0)
+                # Optional: Set forget gate bias to 1 to help with long-term dependencies
+                # The forget gate is usually the second 1/4 of the bias vector
+                n = param.size(0)
+                param.data[n // 4 : n // 2].fill_(1.0)
 
     def forward(self, batch: dict[str, Any]) -> torch.LongTensor:
         # Tokenizer
@@ -48,6 +62,6 @@ class LSTMClassifier(nn.Module):
         pooled = torch.nanmean(masked_hidden, 1)  # (B, H * (1 + bidirectional))
         # Concat
         lines_features, _headers = self.features_extractor(batch["line"])  # (B, n_features)
-        concat = torch.cat([pooled, lines_features], dim=1)  # (B, (H * (1 + bidirectional)) + n_features)
+        concat = torch.cat([lines_features, pooled], dim=1)  # (B, (H * (1 + bidirectional)) + n_features)
         logits = self.classifier(concat)  # (B, n_labels)
         return logits
