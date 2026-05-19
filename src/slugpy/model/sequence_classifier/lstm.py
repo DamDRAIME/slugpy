@@ -56,10 +56,8 @@ class LSTMClassifier(nn.Module):
     def forward(self, batch: dict[str, Any]) -> torch.LongTensor:
         # Tokenizer
         lines_with_ctx_tokenized = self.tokenizer(batch["line_with_ctx"])  # (B, 2*Ctx + 1, ~) -> (B, T)
-        input_ids = lines_with_ctx_tokenized["input_ids"]
-        attention_mask = lines_with_ctx_tokenized["attention_mask"]
         # Embedding
-        lines_embeddings = self.model(input_ids=input_ids, attention_mask=attention_mask).last_hidden_state  # (B, T, H)
+        lines_embeddings = self.embedding_model(**lines_with_ctx_tokenized).last_hidden_state  # (B, T, H)
         # LSTM
         last_hidden, _ = self.lstm(lines_embeddings)  # (B, T, H * (1 + bidirectional))
         # Mean-pool the target line span
@@ -69,7 +67,7 @@ class LSTMClassifier(nn.Module):
         x = torch.nanmean(masked_hidden, 1)  # (B, H * (1 + bidirectional))
         if self.features_extractor is not None:
             # Feature Extractor + Concat
-            lines_features, _headers = self.features_extractor(batch["line"])  # (B, n_features)
+            lines_features, _headers = self.features_extractor(batch["line"], batch["line_with_ctx"])  # (B, n_features)
             x = torch.cat([lines_features, x], dim=1)  # (B, (H * (1 + bidirectional)) + n_features)
         # Classifier
         logits = self.classifier(x)  # (B, n_labels)

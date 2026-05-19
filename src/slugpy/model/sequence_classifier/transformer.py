@@ -27,10 +27,8 @@ class TransformerClassifier(nn.Module):
     def forward(self, batch: dict[str, Any]) -> torch.LongTensor:
         # Tokenizer
         lines_with_ctx_tokenized = self.tokenizer(batch["line_with_ctx"])  # (B, 2*Ctx + 1, ~) -> (B, T)
-        input_ids = lines_with_ctx_tokenized["input_ids"]
-        attention_mask = lines_with_ctx_tokenized["attention_mask"]
         # Transformer
-        outputs = self.model(input_ids=input_ids, attention_mask=attention_mask)
+        outputs = self.transformer_model(**lines_with_ctx_tokenized)
         last_hidden = outputs.last_hidden_state  # (B, T, H)
         # Mean-pool the target line span
         line_span_mask = torch.broadcast_to(lines_with_ctx_tokenized["line_span_mask"].unsqueeze(-1), last_hidden.shape)
@@ -39,7 +37,7 @@ class TransformerClassifier(nn.Module):
         x = torch.nanmean(masked_hidden, 1)  # (B, H)
         if self.features_extractor is not None:
             # Feature Extractor + Concat
-            lines_features, _headers = self.features_extractor(batch["line"])  # (B, n_features)
+            lines_features, _headers = self.features_extractor(batch["line"], batch["line_with_ctx"])  # (B, n_features)
             x = torch.cat([lines_features, x], dim=1)  # (B, (H * (1 + bidirectional)) + n_features)
         # Classifier
         logits = self.classifier(x.to(torch.float32))  # (B, n_labels)
