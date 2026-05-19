@@ -7,7 +7,7 @@ import torch
 from spacy.language import Language
 from spacy.tokens import Doc
 
-from slugpy.dataset.payload import ScriptLine, ScriptLinePayload
+from slugpy.helpers.utils import clamp
 
 
 class FeatureExtractor(ABC):
@@ -31,47 +31,6 @@ class FeatureExtractor(ABC):
 
     def __call__(self, doc: Doc) -> tuple[torch.FloatTensor, list[str]]:
         features = self.extract_features(doc).to(self.device)
-        return features, self.headers
-
-
-class Compose:
-    def __init__(self, feat_extractors: list[FeatureExtractor]):
-        self.feat_extractors = feat_extractors
-        self.n_features = sum([feat_ext.n_features for feat_ext in self.feat_extractors])
-        self.headers = list(chain(*[feat_ext.headers for feat_ext in self.feat_extractors]))
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-    def extract_features(self, doc: Doc) -> torch.FloatTensor:
-        feat = []
-        for feat_ext in self.feat_extractors:
-            feat.append(feat_ext.extract_features(doc))
-        features = torch.cat(feat).to(self.device)
-        return features
-
-    def __call__(self, doc: Doc) -> tuple[torch.FloatTensor, list[str]]:
-        return self.extract_features(doc), self.headers
-
-
-class ScriptLineFeaturesExtractor:
-    def __init__(self, feat_extractors: FeatureExtractor | Compose, nlp: Language | None = None):
-        self.feat_exts = feat_extractors if isinstance(feat_extractors, Compose) else Compose([feat_extractors])
-        self.headers = self.feat_exts.headers
-        self.nlp = nlp if nlp is not None else spacy.load("en_core_web_lg", disable=["parser"])
-        self.n_features = self.feat_exts.n_features
-
-    def __call__(self, x: ScriptLine | ScriptLinePayload | str | list[str]) -> tuple[torch.FloatTensor, list[str]]:
-        if isinstance(x, ScriptLine):
-            texts = [x.line]
-        elif isinstance(x, str):
-            texts = [x]
-        elif isinstance(x, ScriptLinePayload):
-            texts = x.content
-        else:
-            texts = x
-        features = []
-        for doc in self.nlp.pipe(texts, batch_size=50):
-            features.append(self.feat_exts.extract_features(doc))
-        features = torch.stack(features)
         return features, self.headers
 
 
@@ -187,3 +146,94 @@ class IndentationFeaturesExtractor(FeatureExtractor):
     def _extract_features(self, doc: Doc) -> torch.FloatTensor:
         text_lstrip = doc.text.lstrip()
         return torch.FloatTensor([len(doc.text) - len(text_lstrip)])
+
+
+class FeatureExtractorWithCtx(ABC):
+    pre_line_headers: list[str] = []
+
+    def __init__(self, ctx_size: int):
+        self.ctx_size = ctx_size
+        self.headers = (self.pre_line_headers * ctx_size) + self.pre_line_headers + (self.pre_line_headers * ctx_size)
+        self.n_features = len(self.headers)
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    def extract_features(self, docs: list[Doc]) -> torch.FloatTensor:
+        return self._extract_features(docs)
+
+    @abstractmethod
+    def _extract_features(self, doc: Doc) -> torch.FloatTensor:
+        raise NotImplementedError
+
+    def __call__(self, docs: list[Doc]) -> tuple[torch.FloatTensor, list[str]]:
+        features = self.extract_features(docs).to(self.device)
+        return features, self.headers
+
+
+class RelativeIndentationFeaturesExtractor(FeatureExtractorWithCtx):
+    pre_line_headers = ["relative_indent"]
+
+    def _extract_features(self, doc_with_ctx: list[Doc]) -> torch.FloatTensor:
+        indentations = []
+        for line in doc_with_ctx:
+            text_lstrip = line.text.lstrip()
+            indentations.append(len(line.text) - len(text_lstrip))
+        line_idx = len(indentations) // 2
+        line_indentation = indentations[line_idx]
+        indentations = [clamp(x - line_indentation, -1, 1) for x in indentations]
+        return torch.FloatTensor(indentations)
+
+
+class OpenParenthesesFeaturesExtractor(FeatureExtractorWithCtx):
+    pre_line_headers = ["n_open_parentheses"]
+
+    def _extract_features(self, doc_with_ctx: list[Doc]) -> torch.FloatTensor:
+        parentheses = []
+        for line in doc_with_ctx:
+            n_left = sum(ch in ("(", "[") for ch in line.text)
+            n_right = sum(ch in (")", "]") for ch in line.text)
+            parentheses.append(n_left - n_right)
+        return torch.FloatTensor(parentheses)
+
+
+class Compose:
+    def __init__(self, *feat_extractors: FeatureExtractor | FeatureExtractorWithCtx):
+        self.feat_extractors = feat_extractors
+        self.n_features = sum([feat_ext.n_features for feat_ext in self.feat_extractors])
+        self.headers = list(chain(*[feat_ext.headers for feat_ext in self.feat_extractors]))
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    def extract_features(self, doc: Doc, doc_with_ctx: list[Doc]) -> torch.FloatTensor:
+        feat = []
+        for feat_ext in self.feat_extractors:
+            feat.append(
+                feat_ext.extract_features(doc if issubclass(type(feat_ext), FeatureExtractor) else doc_with_ctx)
+            )
+        features = torch.cat(feat).to(self.device)
+        return features
+
+    def __call__(self, doc: Doc, doc_with_ctx: list[Doc]) -> tuple[torch.FloatTensor, list[str]]:
+        return self.extract_features(doc, doc_with_ctx), self.headers
+
+
+class ScriptLineFeaturesExtractor:
+    def __init__(
+        self, feat_extractors: FeatureExtractor | FeatureExtractorWithCtx | Compose, nlp: Language | None = None
+    ):
+        self.feat_exts = feat_extractors if isinstance(feat_extractors, Compose) else Compose(feat_extractors)
+        self.headers = self.feat_exts.headers
+        self.nlp = nlp if nlp is not None else spacy.load("en_core_web_lg", disable=["parser"])
+        self.n_features = self.feat_exts.n_features
+
+    def __call__(
+        self, lines: list[str] | None = None, lines_with_ctx: list[list[str]] | None = None
+    ) -> tuple[torch.FloatTensor, list[str]]:
+        if lines is None and lines_with_ctx is None:
+            raise ValueError("`lines` and `lines_with_ctx` cannot be both None.")
+
+        pipes = self.nlp.pipe(lines), [list(self.nlp.pipe(x)) for x in lines_with_ctx]
+
+        features = []
+        for doc, doc_with_ctx in zip(*pipes):
+            features.append(self.feat_exts.extract_features(doc, doc_with_ctx))
+        features = torch.stack(features)
+        return features, self.headers
