@@ -92,7 +92,6 @@ class Script(IterableDataset):
 
                 if self.state.is_eof():
                     self.state.loop_back_to_bof()
-
             self.state.reset()  # Reset for next iteration/epoch with new start idx
 
 
@@ -142,10 +141,12 @@ class ScriptDataset(IterableDataset):
             yield from chain.from_iterable(self.scripts.values())
         else:
             script_iterators = {key: iter(script) for key, script in self.scripts.items()}
-            while not all(script.state.exhausted for script in self.scripts.values()):
-                script_candidates = [key for key, script in self.scripts.items() if not script.state.exhausted]
-                key = self.rng.choice(script_candidates)
-                yield next(script_iterators[key])
+            while script_iterators:
+                key = self.rng.choice(list(script_iterators.keys()))
+                try:
+                    yield next(script_iterators[key])
+                except StopIteration:
+                    script_iterators.pop(key)
 
     def __iter__(self):
         worker_info = get_worker_info()
@@ -157,7 +158,7 @@ class ScriptDataset(IterableDataset):
             # Shard stream by line relative index
             gen = islice(gen, worker_id, None, num_workers)
 
-        return gen
+        yield from gen
 
 
 class ScriptDataLoader(DataLoader):
@@ -170,7 +171,7 @@ class ScriptDataLoader(DataLoader):
 
     def collate_fn(self, data):
         batch = default_collate(data)
-        # Transpose line_with_ctx to have shape (B, 2*ctx_size+1) instead of (2*ctx_size+1, B)
+        # Transpose line_with_ctx to shape (B, 2*ctx_size+1) instead of (2*ctx_size+1, B)
         batch["line_with_ctx"] = [list(row) for row in zip(*batch["line_with_ctx"])]
         for k, v in batch.items():
             if issubclass(type(v), torch.Tensor):
