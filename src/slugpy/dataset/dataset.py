@@ -145,7 +145,7 @@ class ScriptDataset(IterableDataset):
                 key = self.rng.choice(list(script_iterators.keys()))
                 try:
                     yield next(script_iterators[key])
-                except StopIteration:
+                except StopIteration:  # Script was exhausted and got reset
                     script_iterators.pop(key)
 
     def __iter__(self):
