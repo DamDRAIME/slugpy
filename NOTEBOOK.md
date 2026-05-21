@@ -8,17 +8,17 @@
 
 | Label | Name | ID | Description | Examples |
 |-------|------|----|-------------|----------|
-| A | Audio | 0 | All guidances related to sound | The music fades...
+| A | Audio | 0 | All guidances related to sound | The music fades...<br>BAAAM!<br>Charlie belches. Loudly.
 | G | Camera | 1 | All guidances for the camera | CLOSE UP on Liam<br>We see Liam<br>in the background...
-| C | Character | 2 | Character line from a dialogue block | LIAM |
+| C | Character | 2 | Character line from a dialogue block | LIAM<br>REPORTER<br>MECHANIC SON |
 | D | Deletion | 3 | Omitted/deleted scenes | 4. OMITTED / Replaced by 5.   4. |
 | E | Extension | 4 | Additional information attached to `C` but not related to an action | (V.O.)<br>CONT'D<br>(o.s.) |
 | I | Introduction | 5 | When a character is first introduced | LIAM (30's) strong man with black hair... |
 | M | Metadata | 6 | All meta information (e.g.: Title, End, Author's comments, ...) | Written by ...<br>The End<br>(Note to Postprod: ...)|
 | N | Narrative | 7 | Action lines between dialogue blocks | Liam goes to the other room |
-| O | Omit | 8 | Lines to be ignored such as blank lines, page headers, ... | YS #504 - Produciton Draft(4/29/22) 2. |
+| O | Omit | 8 | Lines to be ignored such as blank lines, page headers, ... | (blank)<br>CONTINUED<br>YS #504 - Produciton Draft(4/29/22) 2. |
 | P | Parenthetical | 9 | Small actions to be performed during a dialogue | (nods to her)<br>(disagreeing) |
-| S | Slugline | 10 | Scene header | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2 |
+| S | Slugline | 10 | Scene header | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2<br>EXT. CHARLIE’S HOUSE - LATER |
 | T | Transition | 11 | Transition between scenes or betwen shots | CUT TO<br>FADE IN | 
 | U | Utterance | 12 | What the actor utters during a dialogue | Let's go<br>You don’t look like a Bethany.|
 
@@ -61,7 +61,7 @@ Some movies' screenplays have been shortened.
 | 13 | tt13868048  | The White Lotus (101)      | TV Show | 2647      | - Page header |
 | 14 | tt2790196   | True Detective (105)       | TV Show | 2689      | - Metadata<br>- Page header<br>- Double extensions<br>- Inconsistent extensions |
 | 15 | tt23642488  | Yellowstone (504)          | TV Show | 2265      | - Characters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
-| 16 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line |
+| 16 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line<br>- Parentheticals on Character line |
 | 17 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in slugs |
 | 18 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata |
 | 19 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
