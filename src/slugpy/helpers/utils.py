@@ -79,3 +79,7 @@ def get_indentation(x: str) -> int:
         int: The indentation level of the string.
     """
     return len(x) - len(x.lstrip())
+
+
+def clamp(value: int, lower_bound: int, upper_bound: int) -> int:
+    return max(lower_bound, min(value, upper_bound))
