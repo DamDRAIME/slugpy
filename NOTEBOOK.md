@@ -51,7 +51,7 @@ Some movies' screenplays have been shortened.
 | 03 | tt6701648   | Electric Dreams (107)      | TV Show | 3151      | - Disclaimer<br>-Quotes in header<br>- Page header<br>- Metadata<br>- Flashbacks<br>- INT./EXT. |
 | 04 | tt8806272   | Euphoria (108)             | TV Show | 3304      | - OCR perturbations<br>- Cast and set lists<br>- Page header |
 | 05 | tt3097534   | Fargo (101)                | TV Show | 3481      |  |
-| 06 | tt8052820   | Fargo (401)                | TV Show | 3639      | - Cast and set lists<br>-Quotes in header<br>- Disclaimer<br>- Page header<br>- Double lines scene headers<br>- Many camera guidances  |
+| 06 | tt8052820   | Fargo (401)                | TV Show | 3639      | - Cast and set lists<br>-Quotes in header<br>- Disclaimer<br>- Page header<br>- Double lines scene headers<br>- Many camera guidances<br>- Many Character Introductions  |
 | 07 | tt11610562  | Mare of Easttown (107)     | TV Show | 3494      | - Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Metadata<br>- Flashbacks<br>- INT./EXT.<br>- Alternative dialogues |
 | 08 | tt11650328  | Severance (101)            | TV Show | 2701      | - Expressions on separate line<br>- Metadata |
 | 09 | tt15242998  | Severance (210)            | TV Show | 2341      | - Cast and set lists<br>- Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits |
