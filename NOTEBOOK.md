@@ -63,7 +63,7 @@ Some movies' screenplays have been shortened.
 | 15 | tt23642488  | Yellowstone (504)          | TV Show | 2265      | - Characters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
 | 16 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line<br>- Parentheticals on Character line |
 | 17 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in slugs |
-| 18 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata |
+| 18 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata<br>- Multi-languages<br>- Subtitles |
 | 19 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
 | 20 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in slugs<br>- Omits |
 | 21 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header |
