@@ -6,22 +6,23 @@
 ## Dataset
 ### Labels
 
-| Label | Name | ID | Description | Examples |
-|-------|------|----|-------------|----------|
-| A | Audio | 0 | All guidances related to sound | The music fades...<br>BAAAM!<br>Charlie belches. Loudly.
-| G | Camera | 1 | All guidances for the camera | CLOSE UP on Liam<br>We see Liam<br>in the background...
-| C | Character | 2 | Character line from a dialogue block | LIAM<br>REPORTER<br>MECHANIC SON |
-| D | Deletion | 3 | Omitted/deleted scenes | 4. OMITTED / Replaced by 5.   4. |
-| E | Extension | 4 | Additional information attached to `C` but not related to an action | (V.O.)<br>CONT'D<br>(o.s.) |
-| I | Introduction | 5 | When a character is first introduced | LIAM (30's) strong man with black hair... |
-| M | Metadata | 6 | All meta information (e.g.: Title, End, Author's comments, ...) | Written by ...<br>The End<br>(Note to Postprod: ...)|
-| N | Narrative | 7 | Action lines between dialogue blocks | Liam goes to the other room |
-| O | Omit | 8 | Lines to be ignored such as blank lines, page headers, ... | (blank)<br>CONTINUED<br>YS #504 - Produciton Draft(4/29/22) 2. |
-| P | Parenthetical | 9 | Small actions to be performed during a dialogue | (nods to her)<br>(disagreeing) |
-| S | Slugline | 10 | Scene header | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2<br>EXT. CHARLIE’S HOUSE - LATER |
-| T | Transition | 11 | Transition between scenes or betwen shots | CUT TO<br>FADE IN | 
-| U | Utterance | 12 | What the actor utters during a dialogue | Let's go<br>You don’t look like a Bethany.|
+| ID | Label | Name          | Definition | Examples |
+|:--:|:-----:|:-------------:|------------|----------|
+| 0  | C     | Character     | A line from a *dialogue block* that indicates **who is speaking**. | LIAM<br>REPORTER<br>MECHANIC SON |
+| 1  | D     | Deletion      | A line that refers to a **deleted/omitted scene**. | 4. OMITTED / Replaced by 5.   4. |
+| 2  | E     | Extension     | A line from a *dialogue block* (usually place directly next to the character's name) that indicates **how or from where the character’s voice is heard, or clarify continuity of speech**, and that is not related to an action, emotion, or camera behavior. | (V.O.)<br>CONT'D<br>(o.s.) |
+| 3  | G     | Camera        | A line that explicitly **directs the camera, describes camera movement, or frames what the audience sees** in a way that is not simply narrative action. | CLOSE UP on Liam<br>We see Liam<br>in the background...
+| 4  | I     | Introduction  | A line that both:<br>&emsp;- mentions a **named character for the first time**, and;<br>&emsp;- provides **descriptive information** about who they are, what they look like, or how they behave | LIAM (30's) strong man with black hair... |
+| 5  | M     | Metadata      | A line that provides **informational, contextual, or production‑oriented notes** that are not part of the story world (e.g.: Title, End, Author's comments, ...) and not part of the screenplay’s formal structure (like scene headers or transitions). | Written by ...<br>The End<br>(Note to Postprod: ...)|
+| 6  | N     | Narrative     | A line that describes **events, behaviors, or physical changes** occurring in the story world, without giving instructions to the camera and without functioning as dialogue.<br>It communicates what happens, what characters do, and what the environment does, strictly from an in‑world perspective. | Liam goes to the other room |
+| 7  | O     | Omit | A line that contains **non‑narrative, non‑structural, or non‑creative content—material** that is not part of the screenplay itself but exists for document formatting, production bookkeeping, or archival purposes (e.g. page header, blank line, ...). As such this line can be ignored. | (blank)<br>CONTINUED<br>YS #504 - Production Draft(4/29/22) 2. |
+| 8  | P     | Parenthetical | A line from a *dialogue block* (usually placed directly beneath a character’s name and immediately before their spoken dialogue), that provides **brief, specific guidance on how a line is delivered or what the character is doing while speaking**. It exists solely to clarify tone, emotion, or small behavioral cues tied to the utterance. | (nods to her)<br>(disagreeing) |
+| 9  | S     | Slugline      | A line that marks the **beginning of a new scene and provides structural information** rather than story action. The scene header formally identifies the location and time of a scene. | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2<br>EXT. CHARLIE’S HOUSE - LATER |
+| 10 | T     | Transition    | A line that indicates a **change in scene, shot, or narrative flow**. They do not describe story events or visuals within the world of the film. | CUT TO<br>FADE IN<br>INSERT<br>Blackness fills the screen | 
+| 11 | U     | Utterance     | A line from a *dialogue block*  that represents **verbal communication** within the story world—anything a character says, whether it’s a full speech, a short response, a shout, a whisper, or a single word. | Let's go<br>You don’t look like a Bethany.|
 
+
+> Remarks:<br>&emsp;For label `I`, the definition explicitly requires a description. This serves two purposes: 1/ Weak guarantee that it is the first mention of the character (otherwise the model wouldn't have any information to know if that character has already been mentioned), 2/ Exclude extras (i.e. background actors) as they are too numerous.
 
 ### File format
 - format convention: `{LABEL_1},{LABEL_2},...,{LABEL_N}|{LINE}`. Example: `N,G|               From his POV is a menu of times and dates, icons for past`
@@ -39,7 +40,7 @@ A mix of contemporary and older movies and TV shows have been selected to create
 
 Great care has been put into creating a dataset representative of the diverse screenplay's formats. However, only those having a generally consistent structure throughout the script were considered.
 
-Some movies' screenplays have been shortened.
+> Note that some movies' screenplays have been shortened.
 
 <details>
 <summary>Screenplays' data and specificities</summary>
@@ -79,11 +80,13 @@ Some movies' screenplays have been shortened.
 
 </details>
 
+TV Show' scripts have the advantage of being shorter, which results in a more diverse set of scripts being annotated. They also present features not commonly seen in Movie's scripts such as Cast and Set lists. However, as TV Shows tend to have a recurring set of characters, those are often not reintroduced in subsequent episodes, resulting in less `I` labels. This obviously doesn't affect Movie's scripts. Another draw for Movie's scripts is their lengths, which can be useful for analysis of richer and more complex characters interactions.
 
 #### Todos
 
+- [x] Annotate 30 screenplays
 - [ ] Annotate 40-50 screenplays
-- [ ] Annotate `A` ?
+- [x] Annotate `A` ? Not for this first iteration 
 - [ ] Second pass:
     - [ ] Standardize annotation of `I`: Only when a new character is introduced for the first time? Only when you have a clear introduction, i.e. not for background actors? Only the name or also the description?
     - [ ] Standardize annotation of `M`: Alternative dialogue? Notes/Comments? Supplement with other label?
@@ -104,3 +107,4 @@ Some movies' screenplays have been shortened.
 - Extract props from scene and link them inter scenes
 - Extract extras (background actors)
 - Read script with different voices for each character and narrator.
+- Capitalize props and new characters that haven't been mentioned before
