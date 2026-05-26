@@ -172,7 +172,7 @@ U|                         out.  Concentrate. Begin to see
 U|                         something?
 O|
 N,G|               The blur on the screen slowly begins to take form. We see a 
-N,G,I|               group of young boys on top of a snow-covered hill.
+N,G|               group of young boys on top of a snow-covered hill.
 O|
 C,E|                                     CLARENCE'S VOICE
 U|                         Why, yes. This is amazing.
@@ -273,15 +273,15 @@ S|               EXT. MAIN STREET  BEDFORD FALLS  SPRING AFTERNOON
 O|
 G|               MEDIUM SHOT
 O|
-N,I,G|               Five or six boys are coming toward camera, arm in arm, 
+N,G|               Five or six boys are coming toward camera, arm in arm, 
 N|               whistling.  Their attention is drawn to an elaborate 
 N|               horsedrawn carriage proceeding down the other side of the 
 N|               street.
 O|
 G|               MEDIUM PAN SHOT
 O|
-N,I|               The carriage driving by. We catch a glimpse of an elderly 
-N,I|               man riding in it.
+N|               The carriage driving by. We catch a glimpse of an elderly 
+N|               man riding in it.
 O|
 G|               CLOSE SHOT
 O|
@@ -478,7 +478,7 @@ N|               He turns back to the cash register, whistling.
 O|
 G|               ANOTHER ANGLE
 O|
-S|               Taking in entrance to prescription room at end of fountain. 
+N|               Taking in entrance to prescription room at end of fountain. 
 N|               Gower comes to the entrance. He is bleary-eyed, unshaven, 
 N|               chewing an old unlit cigar. His manner is gruff and mean. It 
 N|               is evident he has been drinking.
@@ -499,14 +499,14 @@ N|               He turns back to the cash register when he notices an open
 N|               telegram on the shelf. He is about to toss it aside when he 
 N|               starts to read it.
 O|
-G|               INSERT: THE TELEGRAM
+T|               INSERT: THE TELEGRAM
 O|
 N|               It reads: "We regret to inform you that your son, Robert, 
 N|               died very suddenly this morning of influenza stop. Everything 
 N|               possible was done for his comfort stop. We await instructions 
-N,I|               from you.  EDWARD MELLINGTON Pres. HAMMERTON COLLEGE."
+N|               from you.  EDWARD MELLINGTON Pres. HAMMERTON COLLEGE."
 O|
-G|               BACK TO SHOT
+T|               BACK TO SHOT
 O|
 N|               George puts the telegram down. A goodness of heart expresses 
 N|               itself in a desire to do something for Gower. He gives the 
@@ -540,7 +540,7 @@ G|               CLOSE SHOT
 O|
 N|               Capsules spilling on floor at their feet.
 O|
-G|               BACK TO SHOT
+T|               BACK TO SHOT
 O|
 N|               George and Gower.
 O|
@@ -594,11 +594,11 @@ O|
 N|               George comes out into main room. As he puts on his cap he 
 N|               sees a Sweet Caporals ad which says:
 O|
-G|               INSERT
+T|               INSERT
 O|
 N|               "ASK DAD HE KNOWS"  SWEET CAPORAL
 O|
-G|               BACK TO SHOT
+T|               BACK TO SHOT
 O|
 N|               With an inspiration, George dashes out the door and down the 
 N|               street. Mary follows him with her eyes.
@@ -663,13 +663,13 @@ O|
 C|                                     COUSIN TILLY
 U|                         Bank examiner.
 O|
-G|               INSERT
+T|               INSERT
 O|
 N,G|               CLOSEUP  UNCLE BILLY'S LEFT HAND There are pieces of string 
 N|               tied around two of the fingers, obviously to remind him of 
 N|               things he has to do.
 O|
-G|               BACK TO SHOT
+T|               BACK TO SHOT
 O|
 N|               Uncle Billy looking at his hand.
 O|
@@ -677,7 +677,7 @@ C|                                     UNCLE BILLY
 U|                         Bank examiner!  I should have called 
 U|                         him yesterday. Switch it inside.
 O|
-N,I|               He enters a door marked: "WILLIAM BAILEY, PRIVATE". George 
+N|               He enters a door marked: "WILLIAM BAILEY, PRIVATE". George 
 N|               stands irresolute a moment, aware of crisis in the affairs 
 N|               of the Bailey Building and Loan Association, but aware more 
 N|               keenly of his personal crisis. He opens the door of his 
@@ -830,7 +830,7 @@ N|               George stands outside the door with the capsules in his hand.
 O|
 T|                                                                   WIPE TO:
 O|
-G|               BACK TO DRUGSTORE
+T|               BACK TO DRUGSTORE
 O|
 S|               INT. BACK ROOM  GOWER'S DRUGSTORE  DAY
 O|
@@ -950,7 +950,7 @@ S|               INT. LUGGAGE SHOP  DAY  (1928)
 O|
 G|               MEDIUM SHOT
 O|
-N,I|               It is late afternoon. A young man is looking over an 
+N|               It is late afternoon. A young man is looking over an 
 N,I|               assortment of luggage. Across the counter stands Joe Hepner, 
 N,I|               the proprietor of the store  he is showing a suitcase.
 O|
@@ -1021,7 +1021,7 @@ U|                         night.  I want something for a
 U|                         thousand and one nights, with plenty 
 U|                         of room for labels from Italy and 
 U|                         Baghdad, Samarkand... a great big 
-O|                         one. 
+U|                         one. 
 O|
 C|                                     JOE
 U|                         I see, a flying carpet, huh? I don't 
@@ -1080,9 +1080,9 @@ O|
 G|               MEDIUM SHOT
 O|
 N|               The place is practically the same except that it is now full 
-N,I|               of school kids having sodas, etc. A juke box and many little 
+N|               of school kids having sodas, etc. A juke box and many little 
 N|               tables have been added. It has become the hangout of the 
-N,I|               local small fry.  There are now three kids jerking sodas.  
+N|               local small fry.  There are now three kids jerking sodas.  
 N|               Gower is a different man now  sober, shaven and good-humored. 
 N|               He is behind the counter when George comes in. Gower's face 
 N|               lights up when he sees George.
@@ -1204,7 +1204,7 @@ O|
 G|               MEDIUM SHOT
 O|
 N|               On Violet's back as she goes. As she crosses the street, an 
-N,I|               elderly man turns to look at her and is almost hit by a car 
+N|               elderly man turns to look at her and is almost hit by a car 
 N|               that pulls up with screeching brakes.
 O|
 G|               CLOSE SHOT  GEORGE AND BERT AT CAB
@@ -1276,8 +1276,8 @@ C,E|                                     GEORGE'S VOICE
 U|                         Okay, Mom.
 O|
 N|               She goes up the stairs.  Pop is smiling and poking his plate. 
-N,I|               A commotion is heard on the stairs, the boys imitating fanfare 
-N,I|               MUSIC. Down they come, holding their mother high between 
+N|               A commotion is heard on the stairs, the boys imitating fanfare 
+N|               MUSIC. Down they come, holding their mother high between 
 N|               them on their hands. They bring her into the dining room and 
 N|               deposit her gracefully into Pop's lap.
 O|
@@ -1610,13 +1610,13 @@ O|
 G|               MEDIUM CLOSE SHOT
 O|
 N|               At one end of the room an orchestra is playing. George wends 
-N,I|               his way through the dancing couples toward a supper table. 
+N|               his way through the dancing couples toward a supper table. 
 N|               He and Harry are carrying plates and pies.
 O|
 C|                                     GEORGE
 U|                         Here you are.
 O|
-N,I|               Several of the boys take the plates from him. George looks 
+N|               Several of the boys take the plates from him. George looks 
 N|               at them, feeling very grown up and out of place.
 O|
 C|                                     HARRY
@@ -1690,7 +1690,7 @@ O|
 C|                                     SAM
 U|                         Hee-haw!
 O|
-N,I|               An elderly, fussy school principal comes over to George.
+N|               An elderly, fussy school principal comes over to George.
 O|
 C|                                     PRINCIPAL
 U|                         George, welcome back.
@@ -1911,7 +1911,7 @@ O|
 N|               Freddie needs no more. He takes the key from Mickey and turns 
 N|               the switch. The floor begins to part in the middle, each 
 N|               half sliding under the bleacher seats. Pandemonium starts. 
-N,I|               Dancers begin to scream as they try to get off. Some are so 
+N|               Dancers begin to scream as they try to get off. Some are so 
 N|               engrossed in dancing they continue at top speed. Teachers 
 N|               and elders start to scurry off. As the floor opens, it reveals 
 N|               an attractive, lighted swimming pool.  George and Mary are 
@@ -1935,7 +1935,7 @@ O|
 G|               SERIES OF SHOTS
 O|
 N|               George and Mary still trying to dance in the water  the 
-N,I|               crowd on the edge cheering them  some of the crowd leap 
+N               crowd on the edge cheering them  some of the crowd leap 
 N|               into the pool  the principal trying to restore order, finally 
 N|               clasps his hands like a diver and leaps in himself.
 O|
@@ -2172,7 +2172,7 @@ U|                         rock?
 O|
 G|               CLOSE SHOT
 O|
-N,I|               Man on the porch of house, listening to George and Mary.
+N|               Man on the porch of house, listening to George and Mary.
 O|
 G|               MEDIUM CLOSEUP  GEORGE AND MARY
 O|
@@ -2196,7 +2196,7 @@ G|               LONG SHOT
 O|
 N|               Full moon shining through the trees.
 O|
-G|               BACK TO SHOT  GEORGE AND MARY
+T|               BACK TO SHOT  GEORGE AND MARY
 O|
 C|                                     GEORGE
 U|                         ...the word and I'll throw a lasso 
@@ -2390,7 +2390,7 @@ S|               INT. BAILEY BUILDING AND LOAN OFFICE  DAY
 O|
 G|               CLOSE SHOT  DIRECTORS MEETING
 O|
-N,I|               There are about twelve directors seated around a long table. 
+N|               There are about twelve directors seated around a long table. 
 N,I|               They are the substantial citizens of Bedford Falls: Dr. 
 N,I|               Campbell, a lawyer, an insurance agent, a real estate 
 N,I|               salesman, etc.  Prominently seated among them is Henry F. 
@@ -2792,7 +2792,7 @@ O|
 G|               MEDIUM SHOT
 O|
 N|               The train comes to a stop, and Harry is among the first to 
-N,I|               get off, followed by an attractive girl about the same age 
+N|               get off, followed by an attractive girl about the same age 
 N,G|               as he is.  George rushes into the shot, and as the brothers 
 N|               embrace:
 O|
@@ -3036,7 +3036,7 @@ U|                         That's for nothing. How do you like
 U|                         her?
 O|
 N|               She nods toward the house, where Harry and Ruth, among a 
-N,I|               crowd of other couples, are dancing to the MUSIC of a 
+N|               crowd of other couples, are dancing to the MUSIC of a 
 N|               phonograph, and can be seen through the front door.
 O|
 C|                                     GEORGE
@@ -3161,7 +3161,7 @@ O|
 G|               CLOSE SHOT
 O|
 N|               George is standing in the middle of the street, hands in his 
-N,I|               pockets. As a girl passes, he turns and watches her for a 
+N|               pockets. As a girl passes, he turns and watches her for a 
 N|               moment.  He is obviously undecided as to what he wants to 
 N|               do.
 O|
@@ -3169,7 +3169,7 @@ S|               EXT. VIOLET BICK'S BEAUTY SHOP  NIGHT
 O|
 G|               MEDIUM SHOT
 O|
-N,I|               Violet is locking up for the night. A couple of men are 
+N|               Violet is locking up for the night. A couple of men are 
 N|               crowding around her, each one bent on taking her out. There 
 N|               is laughter, kidding and pawing. She looks up and sees George 
 N|               standing there.
@@ -3276,7 +3276,7 @@ C|                                     VIOLET
 P|                              (angrily)
 U|                         You think just because you...
 O|
-N,I|               By this time a small crowd has collected to watch the above 
+N|               By this time a small crowd has collected to watch the above 
 N|               scene.  Violet is furious and talking in a loud voice, and 
 N|               George is trying to quiet her. Finally:
 O|
@@ -3374,13 +3374,13 @@ N|               Mary looks in a mirror at the bottom of the stairs and fixes
 N|               her hair. She is plainly excited at George's visit. She runs 
 N|               into the parlor and puts a sketch on an easel.
 O|
-G|               INSERT: THE SKETCH
+T|               INSERT: THE SKETCH
 O|
 N|               It is a caricature of George throwing a lasso around the 
 N|               moon.  Lettering on the drawing says: "George Lassos The 
 N|               Moon."
 O|
-G|               BACK TO SHOT
+T|               BACK TO SHOT
 O|
 N|               Mary runs into the hall, opens the phonograph and puts on a 
 N|               record of "Buffalo Gals."  Then she opens the front door and 
@@ -3673,7 +3673,7 @@ S|               INT. SAM'S NEW YORK OFFICE  NIGHT
 O|
 G|               MEDIUM CLOSE SHOT
 O|
-N,I|               Sam is seated at his desk, while a couple of his friends are 
+N|               Sam is seated at his desk, while a couple of his friends are 
 N|               nearby, with highballs in their hands.
 O|
 C|                                     SAM
@@ -3710,7 +3710,7 @@ O|
 N|               As she hears this, she hastily hangs up the extension phone 
 N|               on which she has been listening.
 O|
-G|               BACK TO SHOT  GEORGE AND MARY
+T|               BACK TO SHOT  GEORGE AND MARY
 O|
 C|                                     MARY
 U|                         We can both hear. Come here.
@@ -3840,7 +3840,7 @@ C|                                     COUSIN TILLY
 U|                         Here they come!
 O|
 N,G|               CAMERA PULLS BACK, and we hear the SOUND of the Wedding March.  
-N,I|               People are crowded into the rooms: family, friends, neighbors.  
+N|               People are crowded into the rooms: family, friends, neighbors.  
 N|               There is a din of conversation. Mary and George appear at 
 N|               the top of the stairs in traveling clothes, with Mrs. Hatch, 
 N|               red-eyed, behind them. Mary throws her bouquet, which is 
@@ -3855,7 +3855,7 @@ S|               EXT. PORCH OF BAILEY HOUSE  DAY
 O|
 G|               CLOSE SHOT
 O|
-N,I|               Mrs. Bailey and Annie, the maid.
+N|               Mrs. Bailey and Annie, the maid.
 O|
 C|                                     MRS. BAILEY
 U|                         First Harry, now George. Annie, we're 
@@ -3931,14 +3931,14 @@ O|
 C|                                     GEORGE
 U|                         That does it  come here.
 O|
-N,I|               The cab passes the bank, and Ernie sees a crowd of people 
+N|               The cab passes the bank, and Ernie sees a crowd of people 
 N|               around the door. He stops the cab.
 O|
 G|               LONG SHOT
 O|
 N|               Scurrying people under umbrellas, swarming around the bank 
-N,I|               doors.  Panic is in the air. Attendants are trying to close 
-N,I|               down. Several people come running past the cab.
+N|               doors.  Panic is in the air. Attendants are trying to close 
+N|               down. Several people come running past the cab.
 O|
 S|               INT. CAB
 O|
@@ -3976,7 +3976,7 @@ O|
 G|               CLOSE SHOT  SIDEWALK
 O|
 N|               An iron grill blocks the street entrance to the Building and 
-N,I|               Loan.  It has been locked. A crowd of men and women are 
+N|               Loan.  It has been locked. A crowd of men and women are 
 N|               waiting around the grill. They are simply-dressed people, to 
 N|               whom their savings are a matter of life and death.  George 
 N|               comes in with an assumed cheerful manner. The people look at 
@@ -4085,9 +4085,9 @@ S|               INT. POTTER'S LIBRARY  DAY
 O|
 G|               MEDIUM SHOT
 O|
-N,I|               Potter seated behind his desk, his goon alongside him. 
-N,I|               Standing in front of the desk is a distinguished-looking 
-N,I|               man, obviously the president of the bank. He is mopping his 
+N|               Potter seated behind his desk, his goon alongside him. 
+N|               Standing in front of the desk is a distinguished-looking 
+N|               man, obviously the president of the bank. He is mopping his 
 N|               brow with his handkerchief.
 O|
 C|                                     POTTER
@@ -4181,7 +4181,7 @@ S|               INT. OUTER OFFICE  BUILDING AND LOAN  DAY
 O|
 G|               MEDIUM CLOSE SHOT
 O|
-N,I|               More people have crowded around the counter. Their muttering 
+N|               More people have crowded around the counter. Their muttering 
 N|               stops and they stand silent and grim. There is panic in their 
 N|               faces.
 O|
@@ -4758,9 +4758,9 @@ N|               In front of one of the miserable shacks that line the street
 N|               are two vehicles. One of them is George Bailey's rickety 
 N|               car, and the other is an even more rickety truck piled high 
 N|               with household goods. The Martini family is moving. The family 
-N,I|               consists of Martini, his wife and four kid of various ages, 
-N,I|               from two to ten.  George and Mary are helping the Martinis 
-N,I|               move. About a dozen neighbors crowd around. Martini and 
+N|               consists of Martini, his wife and four kid of various ages, 
+N|               from two to ten.  George and Mary are helping the Martinis 
+N|               move. About a dozen neighbors crowd around. Martini and 
 N|               George, assisted by three of the Martini children, are 
 N|               carrying out the last of the furniture.  As they emerge from 
 N,I|               the house, one of the neighbors, Schultz, calls out:
@@ -4848,7 +4848,7 @@ O|
 N,I|               Sam Wainwright is standing in front of his big black town 
 N,I|               car. Sam is the epitome of successful, up-and-coming 
 N,I|               businessman. His wife, in the car, is a very attractive, 
-N,I|               sophisticated-looking lady, dripping with furs and jewels. 
+N|               sophisticated-looking lady, dripping with furs and jewels. 
 N|               Sam is watching George across the street.
 O|
 C|                                     SAM
@@ -5116,7 +5116,7 @@ U|                         making, say... forty a week.
 O|
 C|                                     GEORGE
 P|                              (indignantly)
-O|                         Forty-five!
+U|                         Forty-five!
 O|
 C|                                     POTTER
 U|                         Forty-five. Forty-five. Out of which, 
@@ -5304,7 +5304,7 @@ N|               While the above thoughts are passing through George's head,
 N|               his attention is caught by a picture on the wall near the 
 N|               dresser:
 O|
-G|               INSERT: PICTURE ON THE WALL
+T|               INSERT: PICTURE ON THE WALL
 O|
 N|               It is the sketch of George lassoing the moon that we first 
 N|               saw in Mary's living room. The lettering reads: "George Lassos 
@@ -5374,7 +5374,7 @@ T|                                                                   FADE OUT
 O|
 T|               FADE IN:
 O|
-G|               MONTAGE SEQUENCE
+S|               MONTAGE SEQUENCE
 O|
 N,G|               Over the following SERIES OF SHOTS we hear the voices of 
 N|               Joseph and Clarence in Heaven.
@@ -5405,7 +5405,7 @@ S|               INT. SITTING ROOM  DAY
 O|
 G|               CLOSE SHOT
 O|
-N,I|               Mary sitting on the floor playing with a baby. A little boy 
+N|               Mary sitting on the floor playing with a baby. A little boy 
 N|               is in a playpen nearby.
 O|
 C,E|                                     JOSEPH'S VOICE
@@ -5440,7 +5440,7 @@ S|               EXT. RECRUITING GROUNDS  DAY
 O|
 G|               MEDIUM LONG SHOT
 O|
-N,I|               A group of men, obviously just drafted, marching along in a 
+N|               A group of men, obviously just drafted, marching along in a 
 N|               camp.
 O|
 C,E|                                     JOSEPH'S VOICE
@@ -5450,7 +5450,7 @@ S|               INT. RED CROSS WORKROOM  DAY
 O|
 G|               CLOSE SHOT
 O|
-N,I|               Mrs. Bailey and other women in Red Cross uniforms busily 
+N|               Mrs. Bailey and other women in Red Cross uniforms busily 
 N|               sewing, etc.
 O|
 C,E|                                     JOSEPH'S VOICE
@@ -5462,7 +5462,7 @@ O|
 G|               CLOSE SHOT
 O|
 N|               Mary, with portable U.S.O. pushcart, is serving coffee and 
-N,I|               doughnuts to men leaning from the train.
+N|               doughnuts to men leaning from the train.
 O|
 C,E|                                     JOSEPH'S VOICE
 U|                         Mary had two more babies, but still 
@@ -5472,7 +5472,7 @@ S|               INT. FACTORY  DAY
 O|
 G|               CLOSE SHOT
 O|
-N,I|               Sam Wainwright showing set of blueprints to two Army officers.
+N|               Sam Wainwright showing set of blueprints to two Army officers.
 O|
 C,E|                                     JOSEPH'S VOICE
 U|                         Sam Wainwright made a fortune in 
@@ -5482,8 +5482,8 @@ S|               INT. FACTORY  DAY
 O|
 G|               CLOSE SHOT
 O|
-N,I|               Potter is wheeled in toward a long table around which several 
-N,I|               men are seated.
+N|               Potter is wheeled in toward a long table around which several 
+N|               men are seated.
 O|
 C,E|                                     JOSEPH'S VOICE
 U|                         Potter became head of the draft board.
@@ -5564,8 +5564,8 @@ S|               INT. RATION OFFICE  DAY
 O|
 G|               CLOSE SHOT
 O|
-N,I|               George, behind the counter, is trying to quiet a crowd of 
-N,I|               people all clamoring for more ration points.
+N|               George, behind the counter, is trying to quiet a crowd of 
+N|               people all clamoring for more ration points.
 O|
 C,E|                                     JOSEPH'S VOICE
 U|                         George? Four-F on account of his 
@@ -5661,7 +5661,7 @@ C|                                     GEORGE
 P|                              (holding out paper)
 U|                         Hi, Ernie, look at that.
 O|
-G|               INSERT: NEWSPAPER
+T|               INSERT: NEWSPAPER
 O|
 N|               The front page of the paper, the Bedford Falls Sentinel. The 
 N|               headline reads: "PRESIDENT DECORATES HARRY BAILEY  LOCAL 
@@ -5707,7 +5707,7 @@ O|
 G|               MEDIUM LONG SHOT
 O|
 N|               Uncle Billy is walking along the street, humming happily to 
-N,I|               himself. He sees some men decorating the Court House with 
+N|               himself. He sees some men decorating the Court House with 
 N|               banners and bunting  there is a huge sign reading: "Welcome 
 N|               Home Harry Bailey"
 O|
@@ -5721,7 +5721,7 @@ G|               FULL SHOT
 O|
 N|               The offices are unchanged, still small-time and old-fashioned. 
 N|               The same office force, albeit a few years older: Cousin Tilly 
-N,I|               and Cousin Eustace. Seated on a chair is a middle-aged man 
+N|               and Cousin Eustace. Seated on a chair is a middle-aged man 
 N|               with a brief case. The outer door opens and George enters:
 O|
 C|                                     GEORGE
@@ -5916,7 +5916,7 @@ U|                         the news?
 O|
 N|               He grabs the paper from Potter's hand.
 O|
-C|                                     UNCLE BILLY(CONT'D)
+C,E|                                     UNCLE BILLY(CONT'D)
 U|                         Well, well, well, Harry Bailey wins 
 U|                         Congressional Medal. That couldn't 
 U|                         be one of the Bailey boys? You just 
@@ -6486,7 +6486,7 @@ U|                         Isn't it wonderful about Harry?
 U|                         We're famous, George. I'll bet I had 
 U|                         fifty calls today about the parade, 
 U|                         the banquet. Your mother's so excited, 
-06489UO|                         she...
+U|                         she...
 O|
 N,G|               During this scene, George has been sitting in the chair, 
 N|               hugging Tommy to him, and crying quietly. Mary realizes that 
@@ -6844,8 +6844,8 @@ C|                                     GEORGE
 P|                              (savagely)
 U|                         I'll hang her up!
 O|
-N,I|               But the telephone is suddenly alive with a powerful male 
-N,I|               voice calling:
+N|               But the telephone is suddenly alive with a powerful male 
+N|               voice calling:
 O|
 C,E|                                     MR. WELCH'S VOICE
 U|                         Now, who do you think you are?
@@ -7158,7 +7158,7 @@ O|
 G|               MEDIUM CLOSE SHOT
 O|
 N|               George comes out of the bank into the falling snow. He crosses 
-N,I|               the street, tugs at the door of his old car, finally steps 
+N|               the street, tugs at the door of his old car, finally steps 
 N|               over the door, and drives off.
 O|
 S|               EXT. MARTINI'S BAR  NIGHT
@@ -7193,7 +7193,7 @@ U|                         We got everything.
 O|
 N,G,I|               During this, CAMERA MOVES CLOSER to George. Nick, the 
 N,I|               bartender, is watching him solicitously. Seated on the other 
-N,I|               side of George is a burly individual, drinking a glass of 
+N|               side of George is a burly individual, drinking a glass of 
 N|               beer. George is mumbling:
 O|
 C|                                     GEORGE
@@ -7321,7 +7321,7 @@ N|               George's car comes along the empty street, through the falling
 N|               snow, suddenly swerves and crashes into a tree near the 
 N|               sidewalk of a house.  George gets out to look at the damage, 
 N|               and savagely kicks at the open door of the car, trying to 
-N,I|               shut it. The noise brings the owner of the house running 
+N|               shut it. The noise brings the owner of the house running 
 N|               out.
 O|
 C|                                     OWNER
@@ -7406,7 +7406,7 @@ S|               EXT. TOLL HOUSE ON BRIDGE  NIGHT
 O|
 G|               CLOSE SHOT
 O|
-N,I|               The toll house keeper, hearing the cries for help, comes 
+N|               The toll house keeper, hearing the cries for help, comes 
 N|               running out on the bridge with a flashlight, which he shines 
 N|               on the two figures struggling in the water below.
 O|
@@ -7414,7 +7414,7 @@ S|               EXT. RIVER  NIGHT
 O|
 G|               CLOSE SHOT
 O|
-N,I|               The man in the water is Clarence, the angel whose voice we 
+N|               The man in the water is Clarence, the angel whose voice we 
 N|               have heard speaking from Heaven. George reaches him, grabs 
 N|               hold of him, and starts swimming for shore.
 O|
@@ -7826,7 +7826,7 @@ U|                         here.  I guess somebody moved it.
 O|
 G|               CLOSE SHOT  AT CURB
 O|
-N,I|               The owner of the house passes with some Christmas packages 
+N|               The owner of the house passes with some Christmas packages 
 N|               under his arm.
 O|
 C|                                     OWNER
@@ -7905,7 +7905,7 @@ O|
 N|               It is Martini's place, but almost unrecognizable. The cheerful 
 N|               Italian feeling is gone. It is now more of a hard-drinking 
 N|               joint, a honky-tonk. Same bar, tables have no covers. People 
-N,I|               are lower down and tougher. Nick the bartender is behind the 
+N|               are lower down and tougher. Nick the bartender is behind the 
 N|               bar. George and Clarence come in. George does not notice the 
 N|               difference, but Clarence is all eyes and beaming. They go up 
 N|               to the bar.
@@ -7915,7 +7915,7 @@ P|                              (as they come in)
 U|                         That's all right. Go on in. Martini's 
 U|                         a good friend of mine.
 O|
-N,I|               Two people leave the bar as they approach.
+N|               Two people leave the bar as they approach.
 O|
 C|                                     GEORGE
 U|                         There's a place to sit down. Sit 
@@ -8104,14 +8104,14 @@ U|                         here!
 O|
 G|               CLOSE SHOT
 O|
-N,I|               A small wreck of a man, with weak, watery eyes. Obviously a 
+N|               A small wreck of a man, with weak, watery eyes. Obviously a 
 N|               broken-down panhandler, his hat in his hand.
 O|
 G|               CLOSEUP  GEORGE
 O|
 N|               He can hardly believe his eyes. It is Gower the druggist.
 O|
-G|               BACK TO SHOT  NICK AT THE BAR
+T|               BACK TO SHOT  NICK AT THE BAR
 O|
 C|                                     NICK
 P|                              (to Gower)
@@ -8327,9 +8327,9 @@ G|               CLOSE SHOT
 O|
 N|               George stops before what used to be the offices of the 
 N|               Building and Loan.  There is a garish electric sign over the 
-N,I|               entrance reading: "Welcome Jitterbugs." A crowd of people 
-N,I|               are watching the police, who are raiding the place, and 
-N,I|               dragging out a number of screaming women, whom they throw 
+N|               entrance reading: "Welcome Jitterbugs." A crowd of people 
+N|               are watching the police, who are raiding the place, and 
+N|               dragging out a number of screaming women, whom they throw 
 N|               into a patrol wagon. George talks to one of the cops:
 O|
 C|                                     GEORGE
@@ -9351,7 +9351,7 @@ N|               She runs toward front door and flings it open. Ad lib SOUNDS
 N|               of an excited crowd can be heard. Uncle Billy, face flushed, 
 N|               covered with snow, and carrying a clothes basket filled with 
 N|               money, bursts in. He is followed by Ernie, and about twenty 
-N,I|               more townspeople.
+N|               more townspeople.
 O|
 C|                                     MARY
 U|                         Come in, Uncle Billy! Everybody! In 
@@ -9371,7 +9371,7 @@ N|               smiles.  Each one comes forward with money. In their pockets,
 N|               in shoe boxes, in coffee pots. Money pours onto the table  
 N|               pennies, dimes, quarters, dollar bills  small money, but 
 N|               lots of it. Mrs. Bailey and Mrs. Hatch push toward George. 
-N,I|               More people come in. The place becomes a bedlam. Shouts of 
+N|               More people come in. The place becomes a bedlam. Shouts of 
 N|               "Gangway  gangway" as a new bunch comes in and pours out 
 N|               its money. Mary stands next to George, watching him. George 
 N|               stands there overcome and speechless as he holds Zuzu. As he 
@@ -9438,7 +9438,7 @@ C|                                     VIOLET
 U|                         I'm not going to go, George. I changed 
 U|                         my mind.
 O|
-N,I|               Annie, the colored maid, enters, digging money out of a long 
+N|               Annie, the colored maid, enters, digging money out of a long 
 N|               black stocking.
 O|
 C|                                     ANNIE
@@ -9480,13 +9480,13 @@ C|                                     MARY
 P|                              (calling out)
 U|                         Mr. Martini. How about some wine?
 O|
-N,I|               As various members of the family bring out a punch bowl and 
+N|               As various members of the family bring out a punch bowl and 
 N|               glasses, Janie sits down at the piano and strikes a chord. 
 N|               She starts playing "Hark! The Herald Angels Sing," and the 
 N,G|               entire crowd joins in the singing. We see a SERIES OF SHOTS 
-N,G,I|               of the various groups singing the hymn, and some people are 
+N,G|               of the various groups singing the hymn, and some people are 
 N|               still coming in and dropping their money on the table. Carter, 
-N,I|               the bank examiner, makes a donation; the sheriff sheepishly 
+N|               the bank examiner, makes a donation; the sheriff sheepishly 
 N|               looks at George and tears his warrant in small pieces. In 
 N|               the midst of this scene, Harry, in Naval uniform, enters, 
 N|               accompanied by Bert, the cop.

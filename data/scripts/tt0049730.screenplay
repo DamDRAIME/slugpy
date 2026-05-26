@@ -48,7 +48,7 @@ N,G|               Rider and horse have come a long way. The CAMERA HOLDS and
 N,G|               PANS the rider past and we see another detail; strapped onto 
 N|               his saddle roll is a sabre and scabbard with a gray silk 
 N|               sash wrapped around it... Horse and rider pass, moving closer 
-N,I|               to the ranch as a little girl and a small dog come tearing 
+N|               to the ranch as a little girl and a small dog come tearing 
 N|               around the corner of the house.
 O|
 S,G|               EXT. THE YARD OF THE EDWARDS RANCH - MED. SHOT - DEBBIE - 
@@ -122,7 +122,7 @@ O|
 M|               THE CREDITS END.
 O|
 S,G|               EXT. THE EDWARDS RANCH - MED. CLOSE SHOT - MARTHA, LUCY, AND 
-N|               AARON - LATE AFTERNOON
+S|               AARON - LATE AFTERNOON
 O|
 N|               Suddenly, Martha's eyes widen as she -- even before Aaron -- 
 N|               recognizes the distant rider. Her hand goes to her mouth to 
@@ -591,7 +591,7 @@ D|               OMITTED
 O|
 S,G|               EXT. YARD OF THE EDWARDS' HOUSE - FAINT DAWN LIGHT
 O|
-N,I|               Debbie's dog is barking excitedly as six horsemen slowly 
+N|               Debbie's dog is barking excitedly as six horsemen slowly 
 N|               ride toward the house and dismount. A lamp goes on inside.
 O|
 N|               THE SIX HORSEMEN ARE:
@@ -645,7 +645,7 @@ U|                         Aaron! Open up!... Sam Clayton!
 O|
 N|               The door is opened by Aaron -- holding a lamp and a gun. He 
 N|               is only partly dressed -- pants, boots, undershirt. The bar 
-N,I|               of light slashes across the faces of Sam and some of the men 
+N|               of light slashes across the faces of Sam and some of the men 
 N|               behind him.
 O|
 C|                                     AARON
@@ -1955,7 +1955,7 @@ O|
 S,G|               EXT. NIGHT CAMP - RAVINE - CLOSE SHOT - BRAD AND MARTIN
 O|
 N|               Brad is looking out into the night -- strain and tension in 
-N,G,I|               every line. Beyond them we may see some of the other men -- 
+N,G|               every line. Beyond them we may see some of the other men -- 
 N|               sitting or sprawled on the ground near a sheltered fire.
 O|
 C|                                     BRAD
@@ -2173,7 +2173,7 @@ O|               74-C
 O|
 S,G|               EXT. CANYON COUNTRY - LONG SHOT - PAST THE SEARCHERS
 O|
-N,I|               Another Indian file of eight angles out of a different canyon 
+N|               Another Indian file of eight angles out of a different canyon 
 N|               and begins to cut in toward the group -- riding slowly, very 
 N|               quietly. Clayton slightly alters course, veering slightly 
 N|               away from the converging files, but still riding slowly. And 
@@ -2296,9 +2296,9 @@ U|                         Ay-he... That's jest what I tole Joe
 U|                         Powers... That un's gettin' kinda 
 U|                         sassy, ain't he, Ethan?
 O|
-N,I|               One Comanche rides a few yards into the water, brandishing 
+N|               One Comanche rides a few yards into the water, brandishing 
 N|               his rifle, taunting the white men. A moment later he is joined 
-N,I|               by a second brave.
+N|               by a second brave.
 O|
 C|                                     ETHAN
 P|                              (grimly)
@@ -2356,7 +2356,7 @@ O|
 S,G|               EXT. RIVER'S EDGE - PROFILE SHOT - PAST MARTIN, ETHAN, MOSE
 O|
 N|               They drop their rifles now and pull out revolvers for close-
-N,I|               range work. One Comanche breaks through from the side, his 
+N|               range work. One Comanche breaks through from the side, his 
 N|               buffalo lance ready for the thrust. Ethan whirls and fires.
 O|
 N|               The Comanche horse charges through the defense line and out 
@@ -2368,8 +2368,8 @@ S,G|               EXT. THE RIVER - WIDE ANGLE - THE INDIANS
 O|
 N|               The charge breaks and Comanches wheel left and right, racing 
 N|               back across the river. With magnificent horsemanship, one 
-N,I|               brave rides to an unhorsed warrior crouched in the shallows 
-N,I|               and swings him up behind. Two others, riding together, head 
+N|               brave rides to an unhorsed warrior crouched in the shallows 
+N|               and swings him up behind. Two others, riding together, head 
 N|               for one of the two dead Comanches Ethan and Mose had downed 
 N|               on their first shots. Swinging simultaneously from their 
 N|               saddles, they grab the dead man and carry him off.
@@ -2951,7 +2951,7 @@ N|               appearance and full of unspoken questions.
 O|
 N|               Bearing a lamp, Mrs. Jorgensen hurries out to stand beside 
 N|               her husband -- and her face works and tears begin to well in 
-N,I|               her eyes. Two tow-headed boys -- 13 or 14 -- come after her. 
+N|               her eyes. Two tow-headed boys -- 13 or 14 -- come after her. 
 N|               Jorgensen makes a little signal with one hand, not even 
 N|               looking at the boys, and they hurry out to take the reins as 
 N|               Ethan and Martin dismount.
@@ -3536,7 +3536,7 @@ N|               Ethan and Martin are at a table in the center of the room,
 N|               examining a dirty, rumpled child's dress -- Debbie's.
 O|
 N|               Martin nods soberly in answer to Ethan's inquiring look; 
-N,I|               yes, it's hers. Both look up as FUTTERMAN crosses from the 
+N|               yes, it's hers. Both look up as FUTTERMAN crosses from the 
 N|               bar, carrying a whisky jug and two dirty glasses -- his 
 N,I|               fingers thrust inside the glasses. Futterman is a squaw man 
 N,I|               and a killer -- dead eyes in a white face.
@@ -4056,8 +4056,8 @@ O|
 S,G|               EXT. INDIAN ENCAMPMENT - FULL SHOT - EARLY FALL OR WINTER 
 S|               DAY
 O|
-N,G,I|               As the Indian proudly steps back, we see beyond him a half 
-N,I|               dozen other braves -- all rosetted. Ethan looks them over 
+N,G|               As the Indian proudly steps back, we see beyond him a half 
+N|               dozen other braves -- all rosetted. Ethan looks them over 
 N|               complacently while Martin -- to hide the smile that threatens 
 N|               to split his face -- bends to pick up a huge bundle of furs.
 O|
@@ -4374,9 +4374,9 @@ N|               does Martin.
 O|
 C|                                     ETHAN
 U|                         Unt osupanet cah-nay Scar?
-P|                              (meaning)
-U|                              (You know where Scar 
-U|                              is?)
+M|                              (meaning)
+M|                              (You know where Scar 
+M|                              is?)
 O|
 N|               She stares sullenly, not answering.
 O|
@@ -4396,8 +4396,8 @@ N|               She stands... She indicates Martin. She indicates herself.
 O|
 C|                                     LOOK
 U|                         Mah nee-koo-ur?
-P|                              (meaning)
-U|                              (Your woman?)
+M|                              (meaning)
+M|                              (Your woman?)
 O|
 C|                                     MARTIN
 P|                              (shaking head)
@@ -4640,7 +4640,7 @@ O|
 S,G|               EXT. BURNING INDIAN VILLAGE - WIDE ANGLE - ETHAN AND MARTIN - 
 S|               DAY
 O|
-N,I|               as they ride in, passing dead horses, a few bodies of men.
+N|               as they ride in, passing dead horses, a few bodies of men.
 O|
 C,E|                                     MARTIN'S VOICE
 U|                         Trouble of it was that the soldiers 
@@ -4717,7 +4717,7 @@ O|
 S,G|               EXT. SNOW COUNTRY - WIDE ANGLE - THE CAVALRY AND PRISONERS - 
 S|               DAY
 O|
-N,I|               A long line stretching across the landscape -- women falling 
+N|               A long line stretching across the landscape -- women falling 
 N,G|               and being prodded along by their captors. From behind CAMERA 
 N|               ride Ethan and Martin and move to intercept the column.
 O|
@@ -4728,7 +4728,7 @@ N|               prisoners stumbling along.
 O|
 S,G|               EXT. OPEN COUNTRY - FULL SHOT - ETHAN AND MARTIN - DAY
 O|
-N,I|               as a young OFFICER spurs out of the column and rides toward 
+N|               as a young OFFICER spurs out of the column and rides toward 
 N|               them.
 O|
 C|                                     OFFICER
@@ -4780,12 +4780,12 @@ O|
 S,G|               INT. OFFICE OF NOKONI AGENCY - FULL SHOT - DAY
 O|
 N|               The office has been set up as a temporary army headquarters. 
-N,I|               The GENERAL is being interviewed by two Eastern newspaper 
-N,I|               CORRESPONDENTS. At a table beyond is a telegrapher, sending 
+N|               The GENERAL is being interviewed by two Eastern newspaper 
+N|               CORRESPONDENTS. At a table beyond is a telegrapher, sending 
 N|               out a report of the victory.
 O|
 N|               A pot-bellied stove supplies heat and the General is warming 
-N,I|               his hands at it, intermittently. An adjutant is rather wearily 
+N|               his hands at it, intermittently. An adjutant is rather wearily 
 N|               filling out a long official form.
 O|
 N|               The General, for all his mudded boots remains a beau sabreur 
@@ -4908,10 +4908,10 @@ N|               Across the front of the room, set up either on benches or on
 N|               boards over saw-horses are four blanket-covered figures -- 
 N|               at least two being the bodies of children.
 O|
-N,I|               Squatting on the floor near them is an elderly white woman 
-N,I|               with hair hanging loosely down her back and clad in Indian 
-N,I|               robes. Standing, facing the newcomers, is a woman who may be 
-N,I|               no more than in her mid-thirties.
+N|               Squatting on the floor near them is an elderly white woman 
+N|               with hair hanging loosely down her back and clad in Indian 
+N|               robes. Standing, facing the newcomers, is a woman who may be 
+N|               no more than in her mid-thirties.
 O|
 N|               She is mad -- wild-eyed, frightened, with matted, unbrushed 
 N|               golden hair, torn garments. It is she who has been making 
@@ -5202,8 +5202,8 @@ S,G|               INT. THE CANTINA - FULL SHOT - DAY
 O|
 N|               as Ethan and Martin enter. It is a dirt-floored room with a 
 N|               small bar near the door, chairs and benches along the walls. 
-N,I|               A pair of guitar players are at the far end of the room. A 
-N,I|               couple of Mexicans are playing a noisy game of dominoes, 
+N|               A pair of guitar players are at the far end of the room. A 
+N|               couple of Mexicans are playing a noisy game of dominoes, 
 N,I|               slapping the dominoes down hard... EMILIO FIGUEROA, back to 
 N|               the door, spurred boots across one of the tables, is sipping 
 N,I|               a drink. Emilio is a cynical, middle-aged, aristocratic-
@@ -5445,12 +5445,12 @@ O|
 S|               EXT. (APPROACH TO THE NEEDLES MONUMENT) - A BROAD CANYON -
 S,G|               FULL SHOT - DAY
 O|
-N,I|               A small pack train (nine or ten horses, six or seven men) 
+N|               A small pack train (nine or ten horses, six or seven men) 
 N|               winds through a canyon behind which we can see huge needles 
 N|               of rock: majestic, savage country. At the head of the column 
 N|               ride Ethan, Emilio, and Martin. Behind them come Emilio's 
 N|               cargadores -- lean, hard-bitten wiry little Mexicans. One 
-N,I|               leads a handsome palomino. The SOUND of the CASTANETS ECHOES 
+N|               leads a handsome palomino. The SOUND of the CASTANETS ECHOES 
 N|               in the musical theme.
 O|
 S,G|               EXT. CANYON - MED. SHOT - HEAD OF COLUMN - MOVING - DAY
@@ -5544,14 +5544,14 @@ O|
 C|                                     SCAR
 P|                              (in Comanche)
 U|                         Ah-we pabbo-tie-bo ee-kee-tay?
-U|                              (Why did you bring 
-U|                              the gringos here?)
+M|                              (Why did you bring 
+M|                              the gringos here?)
 O|
 C|                                     EMILIO
 P|                              (a shrug -- in Comanche)
 U|                         Pabbo-tie-bo kim te-moo-er.
-U|                              (The gringos want to 
-U|                              trade.)
+M|                              (The gringos want to 
+M|                              trade.)
 O|
 C|                                     ETHAN
 U|                         That's right... We come to trade... 
@@ -5567,13 +5567,13 @@ C|                                     EMILIO
 P|                              (sharply)
 U|                         Miguel... caballo -- aca!
 O|
-N,I|               One of the Mexicans comes on the trot, leading in the 
+N|               One of the Mexicans comes on the trot, leading in the 
 N|               palomino. Emilio makes a gesture -- giving it to Scar.
 O|
 C|                                     EMILIO
 U|                         Co-bay tabitz-chat.
-P|                              (meaning)
-U|                              (Very fine horse.)
+M|                              (meaning)
+M|                              (Very fine horse.)
 O|
 N|               Scar looks at it greedily, then nods. He'll accept it.
 O|
@@ -5598,17 +5598,17 @@ N|               sunlight strikes in from the smoke flap at the peak.
 O|
 N|               Two chunky squaws, who have been tending the fire or grinding 
 N|               corn in a rock pestle, scuttle to a side of the tepee. Two 
-N,I|               others, one half-grown and the other slightly taller, sit 
+N|               others, one half-grown and the other slightly taller, sit 
 N|               with their backs to the fire, huddled over some leather work 
 N|               or stitching. Both are shawled. As Scar enters, he barks a 
 N|               word to the squaws near the fire.
 O|
 C|                                     SCAR
-U|                         Pie-kay! (Clear out!)
+U,M|                         Pie-kay! (Clear out!)
 P|                              (then he turns to the 
 P|                              white men)
 U|                         IH-CARD!
-U|                              (Sit!)
+M|                              (Sit!)
 O|
 N|               He sits on some robes, signs for them to sit opposite.
 O|
@@ -5641,7 +5641,7 @@ U|                         Two sons -- killed by white men...
 U|                         For each son, I take many scalps...
 P|                              (in Comanche)
 U|                         Mayah-kay zee-eh!...
-U|                              (Bring the lance!)
+M|                              (Bring the lance!)
 O|
 N|               The slightly smaller of the young squaws stiffens but doesn't 
 N|               move. Scar glares.
@@ -5674,7 +5674,7 @@ O|
 C|                                     SCAR
 P|                              (in Comanche)
 U|                         Pie-kay!
-U|                              (Go!)
+M|                              (Go!)
 O|
 N|               Swiftly she straightens, takes away the scalp pole and goes 
 N|               back to her former place.
@@ -5714,8 +5714,8 @@ O|
 C|                                     SCAR
 P|                              (in Comanche)
 U|                         Ee-sap! Pabbo-tie-bo ee-sap!
-U|                              (He lies! The gringo 
-U|                              lies!)
+M|                              (He lies! The gringo 
+M|                              lies!)
 O|
 C|                                     EMILIO
 P|                              (placatingly)
@@ -5849,7 +5849,7 @@ O|
 C|                                     DEBBIE
 P|                              (in Comanche)
 U|                         Unnt-meah!
-U|                              (Go away!)
+M|                              (Go away!)
 N|                         Both men move closer. She takes a 
 N|                         frightened step back, as if to run.
 O|
@@ -5953,7 +5953,7 @@ O|               174-D
 O|
 S,G|               EXT. SAND CREEK - FULL SHOT - INCLUDING THE DUNES - DAY
 O|
-N,I|               A mounted Comanche is on the crest of the dune above them --
+N|               A mounted Comanche is on the crest of the dune above them --
 N|               rifle raised. Martin's first shot brings him down the dune 
 N|               in a spectacular horse-and-man fall. Debbie goes running 
 N|               like a deer up the creek, away from Martin; in the same 
@@ -6190,9 +6190,9 @@ T|               FADE IN
 O|
 S,G|               INT. JORGENSEN KEEPING ROOM - FULL SHOT - NIGHT
 O|
-N,I|               A party is in progress. Fiddler and banjo-player are playing 
-N,I|               a lively square dance for one or two sets of dancers -- 
-N,I|               ranchers, their wives and daughters. Laurie is not in 
+N|               A party is in progress. Fiddler and banjo-player are playing 
+N|               a lively square dance for one or two sets of dancers -- 
+N|               ranchers, their wives and daughters. Laurie is not in 
 N|               evidence. At the far end of the room is a table with a punch 
 N|               bowl set up and a cluster of men and women about.
 O|
@@ -6202,7 +6202,7 @@ N|               Sam Clayton, with a bulky oil-skin package under his arm.
 N|               With him is Charlie MacCorry, dressed in his best black suit 
 N|               and scrubbed until he looks raw.
 O|
-N,I|               Behind them come three or four other competent-looking men -- 
+N|               Behind them come three or four other competent-looking men -- 
 N|               Rangers all of them.
 O|
 C|                                     JORGENSEN
@@ -6619,9 +6619,9 @@ T|                                                                   WIPE TO:
 O|
 S,G|               INT. JORGENSEN KEEPING ROOM - LATER THAT NIGHT
 O|
-N,I|               The last of the wedding guests is leaving: Ed Nesby carrying 
-N,I|               his bull fiddle and with his wife and daughter and two smaller 
-N,I|               children preceding him out the door.
+N|               The last of the wedding guests is leaving: Ed Nesby carrying 
+N|               his bull fiddle and with his wife and daughter and two smaller 
+N|               children preceding him out the door.
 O|
 N|               The Jorgensens stand by -- trying to put a good face on the 
 N|               wedding debacle. Charlie MacCorry is sitting dejectedly, 
@@ -6691,7 +6691,7 @@ U|                         Now, now... let's not grow
 U|                         disputatious...
 O|
 N|               Fast hoofbeats sound o.s. -- signalling the approach of a 
-N,I|               four-man cavalry detail.
+N|               four-man cavalry detail.
 O|
 C|                                     CLAYTON
 P|                              (turning)
@@ -6711,7 +6711,7 @@ S,G|               INT. - EXT. JORGENSEN HOUSE - ANGLE AT DOOR - NIGHT
 O|
 N|               Clayton stands in the opened doorway, Jorgensen behind him, 
 N|               looking out. Drawn up outside is the four-man cavalry detail, 
-N,I|               led by a young and very crisp LIEUTENANT. We may or may not 
+N|               led by a young and very crisp LIEUTENANT. We may or may not 
 N,G|               see the sixth man, slouched over his horse. The Lieutenant 
 N|               swings off and crosses.
 O|
@@ -6986,7 +6986,7 @@ T|                                                               DISSOLVE TO:
 O|
 S,G|               EXT. MESA COUNTRY - LONG SHOT - THE RANGERS - DAWN LIGHT
 O|
-N,I|               A file of eighteen men and horses -- Rangers -- is walking 
+N|               A file of eighteen men and horses -- Rangers -- is walking 
 N|               under the shoulder of a mesa, keeping well below the skyline.
 O|
 G|               FULL SHOT - THE FILE OF RANGERS - DAWN LIGHT
@@ -7238,14 +7238,14 @@ N|               dog runs out of one of the tepees, begins barking.
 O|
 S,G|               EXT. THE HORSE HERD - MED. CLOSE SHOT - SCAR
 O|
-N,I|               He stands with another Comanche -- inspecting the horse lines. 
+N|               He stands with another Comanche -- inspecting the horse lines. 
 N|               In the near distance the dog's barking is heard -- shrill, 
 N|               insistent. Scar, almost like an animal, sniffs the air 
 N|               suspiciously. The other Comanche laughs.
 O|
 C|                                     COMANCHE
 U|                         Tahbo.
-U|                              (A rabbit.)
+M|                              (A rabbit.)
 O|
 N|               Scar isn't satisfied but returns to his work.
 O|
@@ -7289,7 +7289,7 @@ S|               INT. SCAR'S TEPEE
 O|
 N|               as Martin enters. One robe, tossed back, shows where Scar 
 N|               has slept. Against one wall lie the huddled figures of two 
-N,I|               squaws. Two other figures -- one being Debbie's -- sleep in 
+N|               squaws. Two other figures -- one being Debbie's -- sleep in 
 N|               robes. Martin's eyes go to Scar's place and then rove slowly 
 N|               and hold on:
 O|
@@ -7372,8 +7372,8 @@ O|
 N|               Comanches are running from the tepees, trying to reach their 
 N|               horse herd as the file of Rangers knifes in.  The bark of 
 N|               hand guns is a steady sound now -- and the Comanches have 
-N,I|               never been up against such marksmen. One charging Ranger 
-N,I|               rides down a tepee. Another, with two guns drawn, scores a 
+N|               never been up against such marksmen. One charging Ranger 
+N|               rides down a tepee. Another, with two guns drawn, scores a 
 N|               running double on two Indians racing toward him from opposite 
 N|               sides of his fast-running horse. A dodging Comanche screams 
 N|               as a barrel-chested roan hits him broadside and sends him 
@@ -7487,7 +7487,7 @@ N|               red underwear. Behind him Charlie MacCorry is kneeling,
 N|               applying some crude first aid to Sam's rump. Beyond them 
 N|               some of the Rangers are readying for the move-out. Sam looks 
 N,I|               up angrily as COLONEL GREENHILL, a guidon bearer, and bugler 
-N|               ride in. Greenhill is a choleric man.
+N,I|               ride in. Greenhill is a choleric man.
 O|
 C|                                     COLONEL
 U|                         Clayton, if you were in my command 
@@ -7560,4 +7560,3 @@ T|                                                                   FADE OUT
 O|
 M|                                         THE END
 O|
-

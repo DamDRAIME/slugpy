@@ -1,12 +1,12 @@
-T|FADE IN -- Title:
+T,M|FADE IN -- Title:
 O|
-U|For nearly forty years this story has given faithful service
-N|to the Young in Heart; and Time has been powerless to put its
-N|kindly philosophy out of fashion.
+M|For nearly forty years this story has given faithful service
+M|to the Young in Heart; and Time has been powerless to put its
+M|kindly philosophy out of fashion.
 O|
-N|To those of you who have been faithful to it in return
+M|To those of you who have been faithful to it in return
 O|
-N|...and to the Young in Heart --- we dedicate this picture.
+M|...and to the Young in Heart --- we dedicate this picture.
 O|
 T|                                                       FADE OUT:
 O|
@@ -33,7 +33,7 @@ N,G|picks up baby chick -- CAMERA TRUCKS back as Aunt Em and
 N|Dorothy come forward -- Aunt Em puts chick in coop with hen --
 N,G|then TRUCKS forward as they go to b.g. to incubator --
 N,G|Dorothy reacts -- Uncle Henry looks at her -- CAMERA PANS her
-N|to left across yard --
+N,G|to left across yard --
 O|
 C,E|                     DOROTHY (CONT'D)
 U|          Aunt Em!
@@ -47,7 +47,7 @@ U|          Toto! She --
 O|
 C|                    AUNT EM
 U|          Dorothy, please! We're trying to count!
-O|          Fifty-eight--
+U|          Fifty-eight--
 O|
 C|                    DOROTHY
 U|          Oh, but Aunt Em, she hit him over the --
@@ -439,8 +439,8 @@ U|          lullaby.
 U|          Somewhere, over the rainbow, skies are blue, And the dreams
 U|          that you dare to dream really do....
 N,G|CS -- Toto by wheel of
-N,C,E,P|rake -- listening to song -- DOROTHY o.s. (sings) ...come
-N,G|true.... MCS -- Dorothy singing -- swings on wheel of rake --
+N,C,E,P,U|rake -- listening to song -- DOROTHY o.s. (sings) ...come
+N,U,G|true.... MCS -- Dorothy singing -- swings on wheel of rake --
 N|then walks forward around wheel -- Toto jumps up onto seat of
 N,G|rake -- Dorothy pets him -- sits on front of rake -- CAMERA
 N,G|PULLS back -- Dorothy finishes song --
@@ -684,7 +684,7 @@ N|                           In His
 O|
 N|Read Your     PAST - PRESENT and FUTURE     Crystal Also
 N,G|Juggling and Sleight of Hand Dorothy enters in f.g. -- reads
-N,G,C,P,E|sign -- reacts to Professor humming o.s. -- MLS -- Professor
+N,G|sign -- reacts to Professor humming o.s. -- MLS -- Professor
 N|steps down out of wagon -- sees Dorothy -- speaks to her as
 N|he crosses to fire at left -- Dorothy comes forward --
 O|
@@ -743,8 +743,8 @@ U|             Please, Professor, why can't we go along
 U|             with you?
 O|
 N,G,C,E|CS -- Toto enters -- bites wiener off stick -- PROFESSOR o.s.
-U,C,E,G|Well, we -- uh -- DOROTHY o.s. Oh, Toto, that's not.... MCS --
-N,C,E,P|Professor and Dorothy -- Dorothy scolds Toto o.s.
+N,U,C,E,G|Well, we -- uh -- DOROTHY o.s. Oh, Toto, that's not.... MCS --
+N|Professor and Dorothy -- Dorothy scolds Toto o.s.
 O|
 C,E|                          DOROTHY (CONT'D)
 U|             ...polite!     We haven't been asked yet.
@@ -838,7 +838,7 @@ O|                                                             15.
 O|CONTINUED: (3)
 O|
 O|
-G|INSERT -- CU -- photograph of Dorothy and Aunt Em --
+T,G|INSERT -- CU -- photograph of Dorothy and Aunt Em --
 O|
 C,E|                    PROFESSOR (CONT'D)
 U|          ...infinite. Yes.
@@ -880,7 +880,7 @@ O|
 C,E|                    PROFESSOR (CONT'D)
 U|          Yes, there's -- there's a woman --
 U|          she's.... 
-G|INSERT -- CU of the photograph -
+T,G|INSERT -- CU of the photograph -
 O|
 N,G|MCS -- Dorothy and Professor -- he puts the photograph away
 N|again -- looks into crystal --
@@ -933,7 +933,7 @@ U|          much. Someone she's been very kind to.
 U|          Someone she's taken care of in sickness.
 O|
 N,G|CU -- Dorothy reacts -- speaks -- Camera shooting past
-N|Professor --
+G|Professor --
 O|
 C|                    DOROTHY
 U|          I had the measles once -- and she stayed
@@ -946,7 +946,7 @@ C|                    DOROTHY
 U|          What's she doing now?
 O|
 N,G|MCU - Professor looks into crystal - Camera shooting past
-N|Dorothy -
+G|Dorothy -
 O|
 O|
 O|
@@ -958,7 +958,7 @@ O|
 O|
 C|                    PROFESSOR
 U|          Well, she's - she's going into a little
-N|          bed.... 
+U|          bed.... 
 G|CU - Dorothy - Camera shootingpast Professor -
 O|
 C,E|                       PROFESSOR (CONT'D)
@@ -1089,8 +1089,8 @@ N,G|LS -- Zeke points up to sky -- Hunk and others drive horses
 N|out of barn --
 O|
 C|                    ZEKE
-U|          She's here -- it's a twister! ELS -- The
-U|          Gale Farm -- Cyclone approaching --
+U,N,G|          She's here -- it's a twister! ELS -- The
+N,G|          Gale Farm -- Cyclone approaching --
 O|
 N,G|MLS -- Aunt Em runs out of house -- cups hands to her mouth --
 O|
@@ -1107,7 +1107,7 @@ O|
 N,G|MLS -- Dorothy and Toto moving forward against the wind --
 N|weeds and sticks blowing thru -- Dorothy stops -- picks up
 N,G|Toto -- MLS -- Aunt Em on porch -- Uncle Henry -- Hunk --
-N,C,E,P|Zeke and Hickory run in -- Aunt Em calls o.s. again -- then
+N|Zeke and Hickory run in -- Aunt Em calls o.s. again -- then
 N|all start into storm cellar --
 O|
 C|                    AUNT EM
@@ -1139,9 +1139,9 @@ N|Dorothy sitting on edge of bed -- holding Toto in her arms --
 N|the window blows loose -- hits Dorothy on the head -- she
 N|falls to floor - then gets up dazed - sits on edge of bed -
 N,G|Toto jumps up near her - she lies back on bed -- ELS - The
-N|Gale Farm - Cyclone hits it - swirling dust circles house -
+N,G|Gale Farm - Cyclone hits it - swirling dust circles house -
 N,G|ELS - The house spinning up thru dust - ELS - The house
-N|spinning up thru dust - other wreckage flying thru -
+N,G|spinning up thru dust - other wreckage flying thru -
 O|
 T|                                             LAP DISSOLVE TO:
 O|
@@ -1161,7 +1161,7 @@ N,G|window - Cow floats thru - Cow mooing - MS - Dorothy and Toto
 N,G|- Toto barks - jumps down off the bed - (Cow o.s. mooing) MCS
 N,G|- Toto crawls under bed - MS -- Dorothy sitting on bed --
 N,G|looking out window to b.g. -- reacts as various things float
-N,I|thru -- Two men in row boat float in -- both tip their hats
+N|thru -- Two men in row boat float in -- both tip their hats
 N,G|to Dorothy -- Dorothy waves to them -- MCS - Toto looks out
 N|from under bed - Cow moos o.s. - he darts back under the bed -
 N,G|MLS - Shooting through window - Cow floats thru - MCS -
@@ -1171,7 +1171,7 @@ O|
 C,E|                    DOROTHY (CONT'D)
 U|          We must be up inside.... 
 N|MCS -- Totolooks out from under bed -- 
-C,P|                    DOROTHY o.s.
+C,E|                    DOROTHY o.s.
 U|            ...the cyclone.
 T,M|FADE IN -- THE END -- FADE OUT
 O|

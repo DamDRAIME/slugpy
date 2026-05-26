@@ -21,7 +21,7 @@ O|
 N|               Calligraphy place cards are painstakingly hand-written in 
 N|               preparation for a formal reception.
 O|
-N,I|               Servants meticulously clean an elaborate crystal chandelier.
+N|               Servants meticulously clean an elaborate crystal chandelier.
 O|
 N|               Hands rapidly shine silver cutlery.
 O|
@@ -38,8 +38,8 @@ N|               decorative garnish.
 O|
 N|               Extravagant tiered cake is lavishly iced. A glob of frosting 
 N|               enters a pair of puckered lips. The perpetrator, a fey, 
-N,I|               pompous, HEAD VALET, seriously considers the texture and 
-N,I|               flavor of the icing, then gives the PASTRY CHEF a withering, 
+N|               pompous, HEAD VALET, seriously considers the texture and 
+N|               flavor of the icing, then gives the PASTRY CHEF a withering, 
 N|               sour look.
 O|
 N|               The valet, oblivious to the chef's fury, gathers a prepared 
@@ -88,7 +88,7 @@ N|               Carriages begin to arrive.
 O|
 N|               Orchestra leader signals the musicians to play.
 O|
-N,I|               Guests fill the ballroom in formal attire.
+N|               Guests fill the ballroom in formal attire.
 O|
 S|               INT. BEDROOM - NIGHT
 O|
@@ -146,7 +146,7 @@ U|                         who lights up the room... simply by
 U|                         leaving it.
 O|
 N,I|               He bows. As he rises, the reflection of Leopold's UNCLE OTTO, 
-N|               a pampered, effectual man in his 60's, appears behind Leopold 
+N,I|               a pampered, effectual man in his 60's, appears behind Leopold 
 N|               in the looking glass.
 O|
 C|                                     UNCLE OTTO
@@ -233,7 +233,7 @@ O|
 N|               Music fills the air as the creme de la creme of Victorian 
 N|               society gather inside. Leopold holds a prearranged dance 
 N|               card. He looks at the names and finds his first partner is 
-N,I|               MISS TREE. Leopold looks upward helplessly at an unrelenting 
+N|               MISS TREE. Leopold looks upward helplessly at an unrelenting 
 N|               God.
 O|
 S|               INT. BALLROOM DANCE FLOOR - NIGHT
@@ -244,12 +244,12 @@ N,I|               SPRY woman who gapes up at him searchingly, unblinking.
 O|
 N|               Leopold opens his mouth to speak, can think of nothing 
 N|               suitable to say, and clamps his mouth shut. They dance out 
-N|               of frame.
+N,G|               of frame.
 O|
 S|               INT. BALLROOM DANCE FLOOR - NIGHT
 O|
-N,I|               Leopold dances into frame with CLARA, a BEAUTIFUL girl of 
-N|               19. He glances at her and smiles. She titters, turning away 
+N,G,I|               Leopold dances into frame with CLARA, a BEAUTIFUL girl of 
+N,I|               19. He glances at her and smiles. She titters, turning away 
 N|               shyly. They whirl around the dance floor. His smile grows 
 N|               into a broad grin. Caught up in the excitement, Clara beams 
 N|               up at him... happily revealing a mouth full of missing, inky 
@@ -260,7 +260,7 @@ O|
 S|               INT. BALLROOM DANCE FLOOR - NIGHT
 O|
 N,G,I|               Leopold lumbers into frame with MISS FAIRCHILD, a woman of 
-N|               immense girth. With great dignity and extreme difficulty he 
+N,I|               immense girth. With great dignity and extreme difficulty he 
 N|               maneuvers her around the floor, looking everywhere except 
 N|               her enormous bosom.
 O|
@@ -270,9 +270,9 @@ U|                         Fairchild. You light up the room. I
 U|                         thank you.
 O|
 N|               Miss Fairchild curtseys heavily. Leopold glances at his card, 
-N,I|               sees the name Miss Serena Clacket and shudders.
+N|               sees the name Miss Serena Clacket and shudders.
 O|
-N,I|               He spots a VERY LOVELY WOMAN hidden amongst the guests. She 
+N|               He spots a VERY LOVELY WOMAN hidden amongst the guests. She 
 N|               scribbles in a small note pad, occasionally glancing around. 
 N|               Hiding his dance card, he saunters over.
 O|
@@ -283,7 +283,7 @@ O|
 N|               The young woman stares vacantly at Leopold until she realizes 
 N|               he is addressing her. She puts her pad away.
 O|
-C,I|                                     CARLSON
+C|                                     CARLSON
 U|                         ...Julia Carlson.
 O|
 N|               Leopold takes her hand and kisses it gently.
@@ -402,7 +402,7 @@ S|               EXT. GARDEN - NIGHT
 O|
 N|               Leopold makes his way through the manicured garden in the 
 N|               dark. He hears an EERIE METALLIC SOUND. He slows down, brushes 
-N,I|               back the thicket. The silhouette of a woman is revealed. She 
+N|               back the thicket. The silhouette of a woman is revealed. She 
 N|               is once again writing in her notebook.
 O|
 C|                                     LEOPOLD
@@ -473,7 +473,7 @@ O|
 C|                                     CARLSON
 U|                         Shit!!
 O|
-N,G|               There is a BRIGHT WHITE FLASH. Blackness fills the screen.
+N,T|               There is a BRIGHT WHITE FLASH. Blackness fills the screen.
 O|
 T|                                                                    CUT TO:
 O|
@@ -1088,7 +1088,7 @@ U|                         we lunch together. 2:15 you answer a
 U|                         daily questionnaire, I type up my 
 U|                         notes. At precisely 6:15 you will 
 U|                         enjoy 15 minutes of FREE TIME, then, 
-N|                         at 6:30, I listen to Tom Brokaw while 
+U|                         at 6:30, I listen to Tom Brokaw while 
 U|                         making dinner as YOU write down any 
 U|                         questions that come up during your 
 U|                         day. At 7:00, we dine together. If 
@@ -1118,7 +1118,7 @@ U|                         ...At what time shall I WEE and POOH?
 O|
 N|               Kate is forced into a stunned silence.
 O|
-C,E,I|                                     CHARLIE'S VOICE
+C,E|                                     CHARLIE'S VOICE
 U|                         Kate? I'm home.
 O|
 C|                                     KATE
@@ -1320,7 +1320,7 @@ N|               rest on the television set. The ON OFF buttons loom large.
 N|               He looks around the room then brazenly presses the button 
 N|               ON.
 O|
-N,I|               Instantly, REGIS and KATHY LEE loudly berate each other before 
+N|               Instantly, REGIS and KATHY LEE loudly berate each other before 
 N|               an excited crowd.
 O|
 N|               Leopold jumps back several feet, hands flailing in front of 
@@ -1572,7 +1572,7 @@ N|               The bell rings louder, interrupting Kate's routine.
 O|
 C|                                     KATE
 P|                              (eyes closed, screaming 
-U|                              like a fishwife)
+P|                              like a fishwife)
 U|                         WHAT IS IT, LEOPOLD?!
 O|
 N|               Leopold's bell rings with determination. Kate is off the bed 
@@ -1936,7 +1936,7 @@ N|               Leopold leaves Central Park profoundly lost. Looking both
 N|               ways in the wrong direction, he crosses the street. SCREECHING 
 N|               brakes, HONKING horns, FURIOUS shouts with Leopold, horrified, 
 N|               caught in the middle. He makes it across shaking and dazed. 
-N,I|               A motorist pulls along side of him.
+N|               A motorist pulls along side of him.
 O|
 C|                                     WOMAN MOTORIST
 U|                         You stupid fucking son of a bitch. 
@@ -1975,7 +1975,7 @@ C|                                     LEOPOLD
 P|                              (to the counter man)
 U|                         $7.95 for a sandwich? Is that correct?
 O|
-C,I|                                     COUNTER MAN
+C|                                     COUNTER MAN
 U|                         You gotta problem with that?
 O|
 C|                                     LEOPOLD
@@ -2026,7 +2026,7 @@ U|                         accept this modern convention of
 U|                         desecrating one's patrons with such 
 U|                         contemptuous disregard.
 O|
-C,I|                                     YUPPIE WOMAN
+C|                                     YUPPIE WOMAN
 U|                         You tell him.
 O|
 C|                                     LEOPOLD
@@ -2279,8 +2279,8 @@ T|                                                                    CUT TO:
 O|
 S|               EXT. N.Y.C. - DAY
 O|
-S|               the Brooklyn Bridge, the Chrysler Building, Rockefeller 
-S|               Center, 5th Avenue.
+N|               the Brooklyn Bridge, the Chrysler Building, Rockefeller 
+N|               Center, 5th Avenue.
 O|
 S|               EXT. 5TH AVENUE - DAY
 O|
@@ -2467,7 +2467,7 @@ P|                              (to the saleslady)
 U|                         She is the woman to whom I was 
 U|                         referring. You see the problem?
 O|
-C,I|                                     SALESLADY
+C|                                     SALESLADY
 P|                              (giving Kate the once 
 P|                              over)
 U|                         Yep.
@@ -2700,7 +2700,7 @@ N|               Kate waits in line at the turnstile. Leopold, a ways back,
 N|               grimaces noticeably at the smell.
 O|
 N|               Kate heads through. Leopold follows banging painfully into 
-N,I|               the bar. A NUN hurriedly bumps into him from behind.
+N|               the bar. A NUN hurriedly bumps into him from behind.
 O|
 N|               He tries pushing the bar but it doesn't budge. He turns around 
 N|               to step out of line but it is already too long. He stands 
@@ -2728,11 +2728,11 @@ N|               distance.
 O|
 S|               INT. DANCE STUDIO - EVENING
 O|
-N,I|               Elderly Blue haired couples chat amongst themselves, men on 
+N|               Elderly Blue haired couples chat amongst themselves, men on 
 N|               the right, women on the left. Kate, in dance clothes, out of 
 N|               breath, stumbles in, making a b-line for the women's side.
 O|
-C,I|                                     MRS. PINCUS
+C|                                     MRS. PINCUS
 U|                         I was worried. I thought you weren't 
 U|                         going to make it.
 O|
@@ -2743,9 +2743,9 @@ U|                         thing I have to look forward to all
 U|                         week. Is that a new dress Mrs. Pincus?
 O|
 N|               Mrs. Pincus executes a fancy spin, proudly showing off her 
-N,I|               purchase. Across the room, MR. Pincus beams in anticipation.
+N|               purchase. Across the room, MR. Pincus beams in anticipation.
 O|
-N,I|               An elderly, overly made up dance instructor enters. She claps 
+N|               An elderly, overly made up dance instructor enters. She claps 
 N|               her hands together loudly.
 O|
 C|                                     INSTRUCTOR
@@ -2825,7 +2825,7 @@ U|                         No. She's really not.
 O|
 N|               Photograph of a SWEATSHOP 1896. The conditions are APPALLING. 
 N,I|               Positioned among the workers, Julia Carlson, thin, ragged, 
-N|               worn out, stares helplessly into the camera.
+N,I|               worn out, stares helplessly into the camera.
 O|
 C|                                     DR. KAU
 U|                         It was taken a year after she arrived. 
@@ -2972,12 +2972,12 @@ T|                                                                    CUT TO:
 O|
 S|               EXT. N.Y.C. - DAY
 O|
-S|               Chinatown, Little Italy, chess in Washington Square Park.
+N|               Chinatown, Little Italy, chess in Washington Square Park.
 O|
 S|               EXT. WASHINGTON SQUARE PARK - DAY
 O|
 N|               Leopold and Charlie explore the city. Leopold works diligently 
-N,I|               on his walk. A beautiful woman walks by in a revealing outfit. 
+N|               on his walk. A beautiful woman walks by in a revealing outfit. 
 N|               Charlie catches Leopold watching her and smiles broadly.
 O|
 C|                                     CHARLIE
@@ -3122,8 +3122,8 @@ U|                         It's revolting.
 P|                              (to Kate)
 U|                         The pudding tonight is excellent. 
 U|                         Another thing I've noticed, everyone 
-N|                         is in a great rush today. Instant 
-N|                         Oatmeal, Instant Coffee, Speed Stick, 
+U|                         is in a great rush today. Instant 
+U|                         Oatmeal, Instant Coffee, Speed Stick, 
 U|                         Minute Maid. You'll find there's 
 U|                         much to be said for moderation and 
 U|                         languor.
@@ -3291,7 +3291,7 @@ N|               reluctant Charlie.
 O|
 S|               INT. CAFFEINE - NIGHT
 O|
-N,I|               Charlie's friends are sitting at a table talking. They are a 
+N|               Charlie's friends are sitting at a table talking. They are a 
 N|               relaxed and friendly group. Charlie and Leopold approach.
 O|
 C|                                     ALL
@@ -3370,7 +3370,7 @@ O|
 S|               INT. SUBWAY - NIGHT
 O|
 N|               The subway car is inhabited solely by Leopold, Charlie, and 
-N,I|               the oldest Ukrainian woman in New York City. Despite the 
+N|               the oldest Ukrainian woman in New York City. Despite the 
 N|               fact that the train is empty, they are all seated on the 
 N|               same bench.
 O|
@@ -4264,7 +4264,7 @@ U|                         What else did Jeannie say about me?
 O|
 S|               INT. THE FOUR SEASONS - NIGHT
 O|
-N,I|               The Maitre d' of this very fancy restaurant shows Charlie 
+N|               The Maitre d' of this very fancy restaurant shows Charlie 
 N|               and Patrice to their seats. Charlie motions Patrice to go 
 N|               first just as Leopold has instructed.
 O|
@@ -4883,7 +4883,7 @@ U|                         must make a difference.
 O|
 S|               INT. BLOOMINGDALES - DAY
 O|
-N,I|               Customers fill the aisles. In the center of it all, Leopold 
+N|               Customers fill the aisles. In the center of it all, Leopold 
 N|               is hard at work. He holds a bottle of perfume.
 O|
 C|                                     LEOPOLD
@@ -5838,7 +5838,7 @@ N,I|               LEO, 24 and his BRIDE take to the floor for the first time
 N|               as husband and wife and are greeted with applause. Kate, 
 N|               older, beautiful, hair cut short, looks on in wonder.
 O|
-N,I|               Charlie, standing with Patrice and their 6 blonde children, 
+N|               Charlie, standing with Patrice and their 6 blonde children, 
 N|               approaches Kate and leads her to the dance floor.
 O|
 C|                                     KATE
@@ -5957,7 +5957,7 @@ O|
 N|               There is a BRIGHT WHITE FLASH. Kate is gone. The others stand 
 N|               there motionless, stunned.
 O|
-G|               The screen is BLACK.
+T|               The screen is BLACK.
 O|
 S|               EXT. A LARGE VICTORIAN ESTATE - 1924 - NIGHT
 O|
@@ -5974,8 +5974,8 @@ N|               a shoe. She hesitates briefly then continues to the dance
 N|               floor.
 O|
 N|               In the center of the floor, Leopold, looking very 
-N,I|               distinguished and attractive, dances with a flirtatious young 
-N,I|               woman. Try as she might, Leopold keeps her at a distance.
+N|               distinguished and attractive, dances with a flirtatious young 
+N|               woman. Try as she might, Leopold keeps her at a distance.
 O|
 C|                                     FLIRT
 P|                              (brushing his shirt 
@@ -5996,7 +5996,7 @@ U|                         you. I thank you.
 O|
 C|                                     FLIRT
 P|                              (with a big smile)
-O|                         Thank YOU.
+U|                         Thank YOU.
 O|
 N|               The music changes: A LIVELY CHARLESTON. Leopold heaves a 
 N|               sigh of relief and makes his way through the crowd, up the 
@@ -6043,12 +6043,12 @@ N|               silently. Leopold smiles, counting along.
 O|
 N|               THEY DANCE...
 O|
-N,I|               An elderly couple watch Leopold with interest.
+N|               An elderly couple watch Leopold with interest.
 O|
-C,I|                                     LORD WHITEHEAD
+C|                                     LORD WHITEHEAD
 U|                         Who is that dancing with Leopold?
 O|
-C,I|                                     LADY WHITEHEAD
+C|                                     LADY WHITEHEAD
 U|                         I've never seen her before.
 O|
 N|               Kate and Leopold dance past. They are older. As they gaze 
@@ -6057,8 +6057,8 @@ O|
 N|               At the center of the floor they stop dancing. THEY KISS. The 
 N|               rest of the world dances around them.
 O|
-N,G|               Over this background... THE SCRAPBOOK PICTURES BLEED ONTO 
-N,G|               SCREEN.
+T,G|               Over this background... THE SCRAPBOOK PICTURES BLEED ONTO 
+T|               SCREEN.
 O|
 N|               The old formal wedding photo becomes a photograph of Kate 
 N|               and Leopold the perfect bride and groom, both discreetly 

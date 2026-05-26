@@ -59,7 +59,7 @@ N|               outside the window. It registers 84.
 O|
 N,G|               THE CAMERA MOVES ON into the open, and brings nearer to us a 
 N,G|               room with a large studio window. We are able to see inside 
-N,I|               this room. A short, balding man is standing near the window, 
+N|               this room. A short, balding man is standing near the window, 
 N|               shaving, using a small bowl of water and a portable mirror 
 N|               which he has set up on a shelf.
 O|
@@ -83,13 +83,13 @@ N,G|               THE CAMERA MOVES ON AND OVER to a far building. It passes
 N,G|               over the face of this building until it comes to fire escapes. 
 N,G|               It goes up and near enough to one which has become the outdoor 
 N,G|               bedroom of a couple. We are near enough to see an alarm clock 
-N,I|               hanging from the rail which is now ringing vigorously. A man 
+N|               hanging from the rail which is now ringing vigorously. A man 
 N|               rises lazily to a sitting position. He gropes to switch the 
 N|               alarm off.
 O|
 N,G|               We see that his pajamas are stained with sweat. In his sitting 
 N|               position he leans forward and shakes somebody beside him. To 
-N,I|               our surprise, the head of this other person -- a woman -- 
+N|               our surprise, the head of this other person -- a woman -- 
 N|               rises where his feet are. They have been sleeping in opposite 
 N|               directions. They sit limply looking at each other with 
 N|               bedraggled and weary expressions which show they enjoyed 
@@ -101,7 +101,7 @@ N|               inside the windowsill, a small fan is oscillating. The fan
 N|               sits on the right side of the table, and to the left of it 
 N|               is an automatic toaster.
 O|
-N,I|               Behind the toaster stands a full-bodied young woman, 
+N|               Behind the toaster stands a full-bodied young woman, 
 N|               apparently wearing only a pair of black panties. Her stomach, 
 N|               navel, and the lower part of her chest are naked. Just below 
 N|               her breasts, the curtain, partly drawn, has thrown a deep 
@@ -121,7 +121,7 @@ N,G|               THE CAMERA MOVES ON to a distant street corner seen between
 N|               two buildings. The traffic is very light at this hour, but a 
 N|               Sanitation Department truck moves through the intersection 
 N|               spraying water out behind it to cool the pavement and keep 
-N,I|               the dust down. Three little kids in bathing suits run behind 
+N|               the dust down. Three little kids in bathing suits run behind 
 N|               the truck, playing in the water.
 O|
 N,G|               THE CAMERA MOVES OFF and around to some buildings at the 
@@ -307,7 +307,7 @@ O|
 S,G|               EXT. NEIGHBORHOOD - DAY - LONG SHOT
 O|
 N,G|               While Jeff is continuing his phone conversation, we see the 
-N,I|               object of his look. Two pretty girls have appeared on the 
+N,G|               object of his look. Two pretty girls have appeared on the 
 N|               distant roof. They are smiling and talking, although we cannot 
 N|               hear their dialogue. Each wears a terrycloth robe. With their 
 N,G|               backs to the CAMERA, they take off the robes, slipping them 
@@ -413,9 +413,9 @@ O|
 S,G|               EXT. NEIGHBORHOOD - DAY - LONG SHOT
 O|
 N,G|               THE CAMERA PANS from the window of the dancing girl, to the 
-N,I|               window below. Someone is reading the New York Herald Tribune. 
-N,G,I|               The paper lowers, and we see an elderly lady, in her late 
-N,I|               sixties. She is a faded, refined type. She looks up in the 
+N|               window below. Someone is reading the New York Herald Tribune. 
+N,G|               The paper lowers, and we see an elderly lady, in her late 
+N|               sixties. She is a faded, refined type. She looks up in the 
 N|               direction of the music and in a calm routine fashion adjusts 
 N|               the volume of her hearing aid. She resumes her reading.
 O|
@@ -504,8 +504,8 @@ S,G|               EXT. NEIGHBORHOOD - DAY - SEMI-LONG SHOT
 O|
 N,G|               We now see the source of the piano music. It comes from the 
 N|               apartment with the studio window which we saw earlier where 
-N,I|               the man was shaving and listening to the radio. The short, 
-N,I|               balding man sits at the piano playing a few notes, then 
+N|               the man was shaving and listening to the radio. The short, 
+N|               balding man sits at the piano playing a few notes, then 
 N|               transferring them by pencil to notepaper on the piano rack. 
 N|               He continues this process, fighting the interference of the 
 N|               ballet music. The opening bars of his melody are beautiful 
@@ -581,7 +581,7 @@ N|               The brick is weather-worn and faded. Each apartment has three
 N|               windows facing the back, one showing a hallway, one a living 
 N|               room, and the window on the right opening into a bedroom.
 O|
-N,I|               On the second floor, a man has entered the living room from 
+N|               On the second floor, a man has entered the living room from 
 N|               a hallway door. He carries a large aluminum sample case common 
 N|               to salesmen. He sets down the case heavily, removes his hat, 
 N|               and slowly wipes his brow with the back of his right hand. 
@@ -621,7 +621,7 @@ N|               Jeff shifts his look more to the right.
 O|
 S,G|               EXT. NEIGHBORHOOD - DAY - SEMI-LONG SHOT
 O|
-N,G,I|               The man enters the bedroom. We can see a woman lying on the 
+N,G|               The man enters the bedroom. We can see a woman lying on the 
 N|               far bed. Near her, a small table is covered with medicine 
 N|               bottles, spoons, boxes of pills, a water pitcher and the 
 N|               other impedimenta of the chronically ill. The woman sits up 
@@ -704,8 +704,8 @@ N|               Behind him, the entrance door to his apartment opens.
 O|
 N,I|               STELLA McGAFFERY comes in. She is a husky, unhandsome, dark-
 N,I|               haired woman who is dressed like a district nurse, with dark 
-N|               coat, dark felt hat, with a white uniform showing underneath 
-N|               the coat. She carries a small black bag.
+N,I|               coat, dark felt hat, with a white uniform showing underneath 
+N,I|               the coat. She carries a small black bag.
 O|
 N|               Stella pauses on the landing to watch Jeff. He doesn't appear 
 N|               to notice her entrance.
@@ -907,7 +907,7 @@ P|                              back)
 U|                         What kind of trouble?
 O|
 C|                                     JEFF
-U,I|                         Lisa Fremont.
+U|                         Lisa Fremont.
 O|
 C|                                     STELLA
 U|                         You must be kidding. A beautiful 
@@ -1145,10 +1145,10 @@ O|
 S,G|               EXT. NEIGHBORHOOD - DAY - SEMI-LONG SHOT
 O|
 N|               He is now looking at the windows of the apartments nearest 
-N,I|               to him. A shade has gone up, and a man, obviously a caretaker 
+N|               to him. A shade has gone up, and a man, obviously a caretaker 
 N|               is raising a window with some effort. Having accomplished 
 N,G|               this, he turns back into the room, and we now see him approach 
-N,I|               a young man and woman who are standing just inside the 
+N|               a young man and woman who are standing just inside the 
 N|               doorway. He hands a key to the young man, and then obligingly 
 N|               brings in two suitcases which he places on the floor beside 
 N|               them. He gives them a studied, but agreeable nod, then 
@@ -1196,12 +1196,12 @@ N,G|               The CAMERA makes a short sweep around the neighborhood showin
 N|               that some of the rooms are now with their lights on.
 O|
 N,G|               The CAMERA PULLS BACK into Jeff's apartment until his head 
-N,I|               fills the screen. He is asleep. A shadow of some other person 
+N,G|               fills the screen. He is asleep. A shadow of some other person 
 N|               creeps over his face. His eyes start to open. He looks up.
 O|
 S,G|               INT. JEFF'S APARTMENT - SUNSET - CLOSEUP
 O|
-N,G,I|               The screen is filled with the eyes, nose and mouth of a woman 
+N,G|               The screen is filled with the eyes, nose and mouth of a woman 
 N,G|               coming nearer and nearer to the CAMERA to kiss Jeff. The 
 N|               face is more or less in shadow, a faint light coming onto 
 N|               the profile from the window. It moves down until the lips 
@@ -1411,7 +1411,7 @@ P|                              (Simply)
 U|                         Better than that. The "21."
 O|
 N|               She swings open the door and stands to one side. Framed in 
-N,I|               the doorway is middle-aged waiter wearing a white linen pea 
+N|               the doorway is middle-aged waiter wearing a white linen pea 
 N|               jacket with a red collar. He's carrying in one hand a large 
 N|               portable warming oven, and in the other hand an ice bucket 
 N|               containing a bottle of wine covered with a napkin.
@@ -1664,8 +1664,8 @@ O|
 S,G|               EXT. NEIGHBORHOOD - NIGHT - SEMI-LONG SHOT
 O|
 N|               Jeff's attention is concentrated on an apartment we have not 
-N,I|               seen before. This belongs to a single woman, about forty 
-N,I|               years of age. She lives alone. Her apartment is below that 
+N|               seen before. This belongs to a single woman, about forty 
+N|               years of age. She lives alone. Her apartment is below that 
 N|               of the salesman with the invalid wife.
 O|
 S,G|               INT. JEFF'S APARTMENT - NIGHT - CLOSEUP
@@ -1766,7 +1766,7 @@ N|               surroundings.
 O|
 N|               Miss Torso is now wearing a cocktail dress, which shows off 
 N|               her figure to great advantage, especially when she leans 
-N,I|               toward three assorted men to offer them a plate of hors d' 
+N|               toward three assorted men to offer them a plate of hors d' 
 N|               oeuvres. She is the perfect hostess, animated, charming, and 
 N|               with an added personal touch for each guest. She is behaving 
 N|               with a sophistication which was not apparent when we first 
@@ -1774,7 +1774,7 @@ N|               saw her in the morning. Her every movement is followed
 N|               admiringly by the eyes of the three men -- one wearing black 
 N|               tie, with a touch of grey in his hair, a Long Island socialite -- 
 N|               a young rather handsome, actor in grey flannel suit -- and 
-N,I|               last, a bright, pleasant, young man who might possibly be 
+N|               last, a bright, pleasant, young man who might possibly be 
 N|               from Wall street, wearing a blue-pin-striped suit. The latter 
 N|               two are engaged in an animated conversation. The young man 
 N|               in the grey suit is showing the other young man some newspaper 
@@ -2363,7 +2363,7 @@ S,G|               EXT. NEIGHBORHOOD - NIGHT - SEMI-LONG SHOT
 O|
 N,G|               The CAMERA slowly sweeps over the various apartments with an 
 N|               odd window lit here and there. In the distant street there 
-N,I|               is still some traffic passing, with one or two pedestrians 
+N|               is still some traffic passing, with one or two pedestrians 
 N,G|               going by. THE CAMERA completes its sweep, and starts to move 
 N,G|               back again. Somewhere a dog howls. The PANNING CAMERA comes 
 N|               to a sudden halt.
@@ -2445,7 +2445,7 @@ O|
 N|               Jeff looks wonderingly at this nocturnal activity. Then he 
 N|               looks down at his wristwatch.
 O|
-G|               INSERT
+T|               INSERT
 O|
 N|               Jeff's watch reads 1:55.
 O|
@@ -2453,7 +2453,7 @@ T|                                                            QUICK FADE OUT:
 O|
 T|               QUICK FADE IN:
 O|
-G|               INSERT
+T|               INSERT
 O|
 N|               The watch now reads 2:35.
 O|
@@ -2545,7 +2545,7 @@ N|               Jeff's eyes turn sharply in the direction of the street.
 O|
 S,G|               EXT. NEIGHBORHOOD - NIGHT - SEMI-LONG SHOT
 O|
-N|               The street is deserted. At the right hand side of the screen 
+N,G|               The street is deserted. At the right hand side of the screen 
 N,G|               a light goes on. THE CAMERA PANS OVER and we see that Miss 
 N|               Torso has returned from her date. She is wearing a three-
 N|               quarter length coat over her evening dress. She is inside, 
@@ -3037,10 +3037,10 @@ N,G|               THE CAMERA CONTINUES ITS PAN to the left, to include the
 N|               couple who sleep on the fire escape in the hot weather.
 O|
 N|               We now get an opportunity to examine these people more 
-N,I|               closely. The man is balding, and middle-aged. He is wearing 
+N|               closely. The man is balding, and middle-aged. He is wearing 
 N|               striped pajamas. He is in the act of laying out the mattress. 
-N,I|               His wife is slightly younger, peroxided, faded show girl 
-N,I|               type. Also wearing pajamas, with a fluffy handkerchief in 
+N|               His wife is slightly younger, peroxided, faded show girl 
+N|               type. Also wearing pajamas, with a fluffy handkerchief in 
 N|               the left pocket, the wife is leaning over the railing holding 
 N|               onto the rope which leads to the dog's basket now on the 
 N|               floor of the courtyard. Having been a one-time siffleuse, 
