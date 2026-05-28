@@ -177,7 +177,7 @@ O|
 C|                              TOSCA
 U|                 White wine, please.
 O|
-N,I|    A white man who looks like a banker - and is - sits down
+N|    A white man who looks like a banker - and is - sits down
 N|    next to Frank.
 O|
 C|                              BANKER
@@ -257,8 +257,8 @@ O|
 O|
 S|A7   INT. CLASSROOM - NIGHT                                           A7
 O|
-N,I|     A figure, his back to us, walks slowly toward a blackboard
-N,I|     like a man to the gallows.
+N|     A figure, his back to us, walks slowly toward a blackboard
+N|     like a man to the gallows.
 O|
 C,E|                             RICHIE V.O.
 U|                I live in fear of hearing my name                             
@@ -305,7 +305,7 @@ N|     another report about Bumpy Johnson.
 O|
 M|     Legend:   New Jersey
 O|
-N,I|     A motel clerk looks up, glimpses the sledgehammer -
+N|     A motel clerk looks up, glimpses the sledgehammer -
 O|
 O|
 O|                                                                    (CONT)
@@ -365,8 +365,8 @@ N|    Richie beats at him before Rivera can pull him off.
 O|
 S|9   INT. AMBULANCE - MOVING - DAY                                      9
 O|
-N,I|    A male paramedic attends to Campizi's bloodied face while a
-N,I|    female paramedic cleans Richie's bloodied hand.
+N|    A male paramedic attends to Campizi's bloodied face while a
+N|    female paramedic cleans Richie's bloodied hand.
 O|
 O|                                                                    (CONT)
 O|
@@ -401,9 +401,9 @@ N|     smiles back.
 O|
 S|10   INT. NY POLICE HQ - ENTRANCE/STAIRS - DAY                        10
 O|
-N,I|     Four men in long black leather coats stride toward like
-N,I|     they own the city. It's impossible to tell if they're cops
-N,I|     or gangsters.
+N|     Four men in long black leather coats stride toward like
+N|     they own the city. It's impossible to tell if they're cops
+N|     or gangsters.
 O|
 M|     Legend:   New York City
 O|
@@ -487,7 +487,7 @@ O|
 S|17     INT. ITALIAN BAR - NY - DAY                                      17
 O|
 N|       Frank comes into an empty bar, chairs up on tables. A
-N,I|       middle-aged man mopping up glances up at him as he crosses
+N|       middle-aged man mopping up glances up at him as he crosses
 N|       to a back room.
 O|
 C,E|                              ROSSI V/O
@@ -556,8 +556,8 @@ M|       A street sign on a corner:        116th and 8th Avenue.
 O|
 S|20     INT. DINER - HARLEM - DAY                                           20
 O|
-N,I|       As is his custom, Frank eats breakfast alone. A middle-
-N,I|       aged waitress appears when he's done, picks up his plate
+N|       As is his custom, Frank eats breakfast alone. A middle-
+N|       aged waitress appears when he's done, picks up his plate
 N|       and refills his coffee.
 O|
 C|                                 FRANK
@@ -581,8 +581,8 @@ N|       Frank leads the servicemen up the stairs of a building.
 O|
 S|22     INT. REDTOP'S APARTMENT - DAY                                       22
 O|
-N,I|       Corner apartment above the street. A girl sits smoking at
-N,I|       a work table covered with drug-cutting apparatus. Another -
+N|       Corner apartment above the street. A girl sits smoking at
+N|       a work table covered with drug-cutting apparatus. Another -
 N|       Frank's cutter and sometimes-girlfriend, Red Top - sets a
 N|       couple of packets of heroin in front of the servicemen.
 O|
@@ -640,13 +640,13 @@ D|23 OMIT                                                                23 OMIT
 S|24        EXT. SOCIAL CLUB - NEWARK - LATE AFTERNOON                         24
 O|
 N|          Across the river, Richie, Rivera and Campizi sit in the car             
-N,I|          parked across from a closed social club. A man carrying a
-N,I|          grocery bag comes out and Campizi ducks lower in the seat.
+N|          parked across from a closed social club. A man carrying a
+N|          grocery bag comes out and Campizi ducks lower in the seat.
 O|
 C|                                     CAMPIZI
 U|                       That's him.
 O|
-N,I|          Newsboy Moriarty's mob accountant puts the grocery bag in
+N|          Newsboy Moriarty's mob accountant puts the grocery bag in
 N|          the trunk of a car, climbs in behind the wheel.
 O|
 S|25        EXT. NEWARK - SCRAP METAL YARD - LATE AFTERNOON                    25
@@ -980,7 +980,7 @@ N|     others hover overhead, flapping and cawing. Alone near the
 N|     water, Frank tosses a stick for the German shepherd he
 N|     inherited.
 O|
-S,G|37   INT. RICHIE'S APARTMENT - NIGHT - INTERCUT                    37     
+S,T|37   INT. RICHIE'S APARTMENT - NIGHT - INTERCUT                    37     
 O|
 N|     Richie opens a small wooden box in his bleak apartment,
 N|     revealing an ounce of marijuana, rolling papers and clips.
@@ -1042,15 +1042,15 @@ N|     is still with him, but Bumpy is gone, and the gulls and the
 N|     people on the roller coaster squeal as Frank comes out of
 N|     his meditative trance with an idea.
 O|
-S|42   CLOSE-UP: (DOCTOR'S OFFICE)                                      42
+G|42   CLOSE-UP: (DOCTOR'S OFFICE)                                      42
 O|
 N|     A needle pierces the crook of Frank's arm.       Slight grimace.
 N|     A cotton ball is pushed onto the puncture.       Malaria shot.
-S|43   CLOSE-UP: (PHOTOGRAPHY SHOP)                                     43
+G|43   CLOSE-UP: (PHOTOGRAPHY SHOP)                                     43
 O|
 N|     A strobe lights up Frank's face:      a passport photo.
 O|
-S|44   CLOSE-UP: (POST OFFICE)                                          44
+G|44   CLOSE-UP: (POST OFFICE)                                          44
 O|
 N|     The photo and a duplicate are stapled to a passport
 N|     application.
@@ -1072,15 +1072,15 @@ O|
 O|
 S|46      INT. CHEMICAL BANK - VICE PRESIDENT'S OFFICE - DAY              46
 O|
-N,I|        Under portraits of bank Vice Presidents before him, the man
-N,I|        types out a Chemical Bank check for Frank for $400,000.                
+N|        Under portraits of bank Vice Presidents before him, the man
+N|        types out a Chemical Bank check for Frank for $400,000.                
 O|
 D|47 - 48 OMIT                                                47 - 48 OMIT
 O|
 S|49      EXT. PARK - NEWARK - DAY - SAME TIME                            49
 O|
-N,I|        The sound of the plane growls and fades overhead as Richie's
-N,I|        ex-wife keeps an eye on their son playing on a grassy area.
+N|        The sound of the plane growls and fades overhead as Richie's
+N|        ex-wife keeps an eye on their son playing on a grassy area.
 O|
 C|                                RICHIE
 U|                  I'm sorry.
@@ -1207,8 +1207,8 @@ O|
 S|53      INT. SOUL BROTHERS BAR - NIGHT                                   53
 O|
 N|        The clientele is almost exclusively black servicemen on R&R
-N,I|        and Asian women. A trio of ex-GI's plays authentic Southern
-N,I|        blues on a small stage. Ham hocks and collard greens come
+N|        and Asian women. A trio of ex-GI's plays authentic Southern
+N|        blues on a small stage. Ham hocks and collard greens come
 N|        out of the kitchen. Smoke chokes the place.
 O|
 N|        Frank, one of the few men not in uniform, and not drunk or
@@ -1216,7 +1216,7 @@ N|        stoned, sits alone at a table with a Coca-Cola and surveys
 N|        the activity: Dope being rolled. Dope being smoked. Dope
 N|        being shot. GI's and prostitutes climbing a staircase.
 O|
-N,I|        His eyes follow an Army Master Sergeant, moving among the
+N|        His eyes follow an Army Master Sergeant, moving among the
 N|        tables as if checking on the GI's well being. But at some,
 N|        his hand takes money, leaves in its place packets of powder.
 O|
@@ -1325,7 +1325,7 @@ N|       less than half of them will pass.
 O|
 S|A56    EXT. JUNGLE - DAY                                               A56
 O|
-N,I|       A motley bunch of Thai thugs and black American soldiers
+N|       A motley bunch of Thai thugs and black American soldiers
 N|       with automatic weapons ride mules through the dense jungle
 N|       with Nate and Frank, who - armed with a pistol, a rifle and
 N|       ammo bandolier like Pancho Villa - is enjoying himself.
@@ -1349,16 +1349,16 @@ O|
 C|                                 FRANK
 U|                    They ain't Chinese.
 O|
-N,I|       A handful of better-armed American sentries at the perimeter
-N,I|       of the farm. CIA. Frank, Nate and the others hang back as
+N|       A handful of better-armed American sentries at the perimeter
+N|       of the farm. CIA. Frank, Nate and the others hang back as
 N|       one of the Thais steps ahead to speak to the guerillas.
 O|
 S|C56    EXT. OPIUM FARM - LATER                                         C56
 O|
 N|       The processing center for the entire region. The Thai
 N|       translator is with Frank to negotiate with a vanquished
-N,I|       Chinese general. Other Americans and Thais guard them
-N,I|       while the Chinese with their CIA advisors guard them.
+N|       Chinese general. Other Americans and Thais guard them
+N|       while the Chinese with their CIA advisors guard them.
 O|
 O|                                                                   24.
 O|                            
@@ -1445,7 +1445,7 @@ N|      bandolier. Now a press card dangles from his neck.
 O|
 S|F56   INT/EXT. TENT / JUNGLE ARMY LZ - LATER - DAY                    F56
 O|
-N,I|      Stripes on the uniform of a black colonel with Nate under a
+N|      Stripes on the uniform of a black colonel with Nate under a
 N|      canopy. Outside, in the distance, in the rain, Frank hangs
 N|      out with some other black servicemen.
 O|
@@ -1721,7 +1721,7 @@ O|                                                                       (CONT)
 O|
 O|                                                                       30.
 O|                                 
-S|A60     CONTINUED:                                                     A60
+O|A60     CONTINUED:                                                     A60
 O|
 O|
 N|        Rivera suddenly tries to get tough -                                    
@@ -1761,8 +1761,8 @@ S|70      EXT. ARMY BASE, NEW JERSEY - DUSK                                70
 N|        Silence. Marshland. A beat-up Chevy parked alongside a
 N|        perimeter fence. Frank waits by the car as a military Jeep
 N|        with its lights out comes across a firing range. It slows,
-N,I|        stops. In it, the silhouettes of three servicemen, black,
-N,I|        armed with M-16's. Silence again, before:
+N|        stops. In it, the silhouettes of three servicemen, black,
+N|        armed with M-16's. Silence again, before:
 O|
 C|                                  ARMY CAPTAIN
 U|                     Open the trunk.
@@ -1787,7 +1787,7 @@ N|      The German shepherd watches as Frank removes the tape from
 N|      one of the bags. He pulls it open - has almost no reaction -
 N|      except to breathe again - then opens the next, and the next.
 O|
-N|      And we see: Several brick-like packages of No. 4 heroin
+N,G|      And we see: Several brick-like packages of No. 4 heroin
 N|      wrapped in paper marked with Chinese writing, stamped with
 N|      a label: two lions on their hind legs, paws on a globe,
 N|      and, in English: DOUBLE UOGLOBE BRAND 100%.
@@ -1795,8 +1795,8 @@ O|
 S|A72   INT. FRANK'S APARTMENT - LATER - DAWN                           A72     
 O|
 N|      The duffel bags are elsewhere. The only evidence of any
-N,I|      drugs is the small amount Frank has given a chemist - who
-N,I|      looks like a Harvard student - to test. It responds                     
+N|      drugs is the small amount Frank has given a chemist - who
+N|      looks like a Harvard student - to test. It responds                     
 N|      instantly. The young man looks at Frank.                                
 O|
 C|                                CHEMIST
@@ -1822,19 +1822,19 @@ O|
 S|72    EXT. GREENSBORO, NORTH CAROLINA - DUSK                           72
 O|
 N|      A clapboard house set down on a piece of land that was
-N,I|      probably once worked by sharecroppers. An elderly woman
-N,I|      framed in a lit kitchen window, doing dishes.
+N|      probably once worked by sharecroppers. An elderly woman
+N|      framed in a lit kitchen window, doing dishes.
 O|
 N|      Dark yew trees and scavenged, discarded cars and car parts
 N|      like patches of rusty snow. Crickets and bullfrogs. From a
-N,I|      mound of dirt, a young man hurls a baseball to another with
-N,I|      a catcher's mitt exactly sixty feet away. The kid's got a
+N|      mound of dirt, a young man hurls a baseball to another with
+N|      a catcher's mitt exactly sixty feet away. The kid's got a
 N|      major league arm.
 O|
 M|      Legend:   Greensboro, North Carolina
 O|
-N,I|      A glow spills out from a detached shed where a short man in
-N,I|      his early 30's works on a stock car.
+N|      A glow spills out from a detached shed where a short man in
+N|      his early 30's works on a stock car.
 O|
 O|                                                                     (CONT)
 O|
@@ -1875,10 +1875,10 @@ U|                  Frank your brother.
 O|
 S|73   INT. COURTROOM - DAY                                               73
 O|
-N,I|     Divorced couples in custody battles wait with their                       
-N,I|     attorneys in a packed courthouse. An lawyer carrying papers               
-N,I|     clipped with a $10 bill, comes past Richie, who's sitting                 
-N,I|     with his lawyer, a woman he's probably slept with.                        
+N|     Divorced couples in custody battles wait with their                       
+N|     attorneys in a packed courthouse. An lawyer carrying papers               
+N|     clipped with a $10 bill, comes past Richie, who's sitting                 
+N|     with his lawyer, a woman he's probably slept with.                        
 O|
 C|                               SHEILA
 U|                  I'm not talking about your proclivities,
@@ -1981,15 +1981,15 @@ O|
 S|74   EXT. HOUSE - TEANECK, NEW JERSEY - DAY                             74
 O|
 N|     Frank and the dog in the back yard of a suburban house.
-N,I|     His neighbors - those he can see - are white. He hears a
+N|     His neighbors - those he can see - are white. He hears a
 N|     sound - cars arriving - and crosses toward the house where
 N|     a sold "For Sale" sign leans against a half-built kennel.
 O|
 N|     Out front, a caravan of cars and pickup trucks - North
 N|     Carolina plates - loaded with boxes and suitcases - has just
-N,I|     arrived. Exhausted from the drive but excited to be here,
-N,I|     the travelers climb out: Frank's five brothers, their wives
-N,I|     and kids, and their mother.
+N|     arrived. Exhausted from the drive but excited to be here,
+N|     the travelers climb out: Frank's five brothers, their wives
+N|     and kids, and their mother.
 O|
 N|     Teddy thinks it's the right place. The others aren't as
 N|     sure. The house is too nice. There's a new Lincoln Towncar
@@ -2011,9 +2011,9 @@ C|                               TURNER
 U|                  He got an arm on him.     Major League arm,
 U|                  ain't that right.
 O|
-N,I|     Everyone agrees as Turner's son - Frank's nephew - the 18-
-N,I|     year-old boy seen pitching in the North Carolina back yard -
-N,I|     tries to shrug.
+N|     Everyone agrees as Turner's son - Frank's nephew - the 18-
+N|     year-old boy seen pitching in the North Carolina back yard -
+N|     tries to shrug.
 O|                                                                      (CONT)
 O|
 O|                                                                      35.
@@ -2140,9 +2140,9 @@ N|     Frank pushes the door open, revealing -
 O|
 S|80   INT. REDTOP'S APARTMENT - CONTINUOUS - DAY                        80
 O|
-N,I|     Five naked women at work tables, their faces veiled by
-N,I|     surgical masks, cutting heroin with lactose and quinine in a
-N,I|     precise mixture of controlled purity. The Lucas brothers
+N|     Five naked women at work tables, their faces veiled by
+N|     surgical masks, cutting heroin with lactose and quinine in a
+N|     precise mixture of controlled purity. The Lucas brothers
 N|     stare as the supervisor of the activity - clothed, with red
 N|     hair - comes over.
 O|
@@ -2402,7 +2402,7 @@ N|     strewn church.
 O|
 S|89   INT. PENTHOUSE - NEW YORK - DAY                                  89
 O|
-N,I|     A real estate broker watches Frank consider the high-
+N|     A real estate broker watches Frank consider the high-
 N|     ceilinged spaciousness of a grand, unfurnished 50's modern
 N|     Upper East Side penthouse -
 O|
@@ -2444,8 +2444,8 @@ N|     Brown on the marquee.
 O|
 S|95   INT. SMALL'S PARADISE - NIGHT                                    95
 O|
-N,I|     A still-powerful older man in a nice suit rises from his
-N,I|     chair to wild applause. From the stage -
+N|     A still-powerful older man in a nice suit rises from his
+N|     chair to wild applause. From the stage -
 O|
 C|                               SINGER
 U|                  Mr. Joe Louis, ladies and gentlemen.
@@ -2453,12 +2453,12 @@ O|
 N|     Joe bows graciously, gives a little wave to the crowd, and
 N|     sits back down as the band starts up again.
 O|
-N,I|     At another table, Frank sits with Charlie Williams and
-N,I|     Rossi, slightly older dope men. Like Frank, they favor
-N,I|     expensive tailored suits. Their dates, too, are nicely
-N,I|     dressed - not too much make-up or jewelry. Frank's glance
-N,I|     moves from Joe Louis and his wife to a beautiful young woman
-N,I|     at the table.
+N|     At another table, Frank sits with Charlie Williams and
+N|     Rossi, slightly older dope men. Like Frank, they favor
+N|     expensive tailored suits. Their dates, too, are nicely
+N|     dressed - not too much make-up or jewelry. Frank's glance
+N|     moves from Joe Louis and his wife to a beautiful young woman
+N|     at the table.
 O|
 C|                               FRANK
 U|                  Who's the beauty queen?
@@ -2467,8 +2467,8 @@ C|                               CHARLIE
 U|                  She is a beauty queen.    No kidding.
 U|                  Miss Puerto Rico.
 N|     Her glance crosses Frank's briefly but is yanked to the
-N,I|     entrance of the club when Frank's brothers come in with
-N,I|     their wives and girlfriends. Teddy's in a parrot green
+N|     entrance of the club when Frank's brothers come in with
+N|     their wives and girlfriends. Teddy's in a parrot green
 N|     suit, gold chains, hat, acting like he owns the place.
 O|
 S|96   INT. BACK ROOM - SMALL'S PARADISE - LATER                        96
@@ -2628,8 +2628,8 @@ O|
 S|100   INT. NIGHTCLUB - NEWARK - SAME TIME - NIGHT                     100
 O|
 N|      A club across the river. Not nearly as nice as Small's -
-N,I|      much louder - but like Small's, almost all black. Richie
-N,I|      shares a booth with a black undercover detective.
+N|      much louder - but like Small's, almost all black. Richie
+N|      shares a booth with a black undercover detective.
 O|
 C|                                RICHIE
 U|                   I'm reluctant to bring anyone in I
@@ -2652,14 +2652,14 @@ C|                                SPEARMAN
 U|                   That's Jones. With the skinny white
 U|                   woman.
 O|
-N,I|      Richie's glance finds a young black man dancing wildly with
-N,I|      his skinny white date.
+N|      Richie's glance finds a young black man dancing wildly with
+N|      his skinny white date.
 O|
 C|                                SPEARMAN
 U|                   That's Abruzzo, with the fat black one.
 O|
-N,I|      Richie sees a young Italian with tatoos - the only other
-N,I|      white man in the place - dancing with a heavy black woman.
+N|      Richie sees a young Italian with tatoos - the only other
+N|      white man in the place - dancing with a heavy black woman.
 N|      Both Jones and Abruzzo look more like criminals than cops.
 O|
 O|
@@ -2761,8 +2761,8 @@ U|                   Anything else?
 O|
 T|      FLASHCUTS -
 O|
-N,I|      Sudden bursts of violence - guys beat up - others shot - one
-N,I|      being poured with gasoline as Bumpy looks on calmly -
+N|      Sudden bursts of violence - guys beat up - others shot - one
+N|      being poured with gasoline as Bumpy looks on calmly -
 T|      BACK TO FRANK'S LIVING ROOM
 O|
 N|      The same calm, benign face in the photograph.        Frank nods.
@@ -2887,11 +2887,11 @@ N|      photos haphazardly thumb-tacked to a bulletin board - known
 N|      dope men in the hierarchies of their individual crime
 N|      families - almost all of them Italian.
 O|
-T|      WOMB TO TOMB SEQUENCE:
+S,T|      WOMB TO TOMB SEQUENCE:
 O|
 N|      An R & B song begins and continues over -
 O|
-S,T,G|109   CLOSE-UPS:                                                      109
+G|109   CLOSE-UPS:                                                      109
 O|
 N|      A poppy bulb being pierced, the white liquid oozing,
 N|      changing into filthy liquids in wooden bowls, and finally
@@ -2937,7 +2937,7 @@ O|
 N|      The same plane on the tarmac here, taxiing. A pile of
 N|      discarded TV boxes outside a supply warehouse.
 O|
-N,I|      At the perimeter of the base, black servicemen transfer
+N|      At the perimeter of the base, black servicemen transfer
 N|      heavy taped-up duffel bags from an Army Jeep to a station
 N|      wagon, hoisting those that won't fit inside onto a roof
 N|      rack. Two Lucas brothers tie them down with twine.
@@ -2949,8 +2949,8 @@ N|      spire of the Washington monument glows.
 O|
 S|117   EXT. DISCOUNT DRUGSTORE - HARLEM - DAY                       117
 O|
-N,I|      A black woman pushes a shopping cart containing a baby,
-N,I|      Pampers, and cases of milk sugar across a parking lot.
+N|      A black woman pushes a shopping cart containing a baby,
+N|      Pampers, and cases of milk sugar across a parking lot.
 O|
 S|118   INT. RED TOP'S APARTMENT - HARLEM - DAY                      118
 O|
@@ -3102,7 +3102,7 @@ C|                                SIBOTA
 U|                   So I hear. You have him come see me.
 U|                   We'll give him a try-out.
 O|
-N|      As the scout hands his card to Frank, we whip over to where
+N,G|      As the scout hands his card to Frank, we whip over to where
 N,I|      Teddy, his driver Jimmy Racine and their girlfriends, coked
 N|      up, are laughing as a black cop, flashing his detective's
 N|      shield, pretends to frisk Jimmy.

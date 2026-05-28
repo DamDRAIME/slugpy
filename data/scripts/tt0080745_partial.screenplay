@@ -13,7 +13,7 @@ O|
 O|                         
 T|          FADE IN:
 O|                         
-S,G|          EXT. WIDE AFRICAN LANDSCAPE - MORNING
+S|          EXT. WIDE AFRICAN LANDSCAPE - MORNING
 O|                         
 N|          At first only darkness, then the rising sun paints in an
 N|          endless savanna from horizon to horizon. We hear savage drums
@@ -57,9 +57,9 @@ N|          that's habitual to her in moments of stress.
 O|                         
 N|          There's nothing to see outside but the pretty clouds. She
 N|          looks forward again and watches FLASH standing up easily,
-N,I|          leaning in t..e cockpit doorway to speak to the PILOTS.
+N|          leaning in t..e cockpit doorway to speak to the PILOTS.
 O|                         
-N|          INT. PLANE/ COCKPIT - CONTINUOUS
+S|          INT. PLANE/ COCKPIT - CONTINUOUS
 M|          (CO-PILOT, DALE, FLASH, PILOT)
 O|                         
 C|                          FLASH
@@ -81,7 +81,7 @@ O|
 C|                          FLASH
 U|           Sure -- my pleasure.
 O|                         
-N,I|          As FLASH takes a bit of paper from the CO-PILOT, the plane
+N|          As FLASH takes a bit of paper from the CO-PILOT, the plane
 N|          takes another jolt, even more violent than the first.
 O|                         
 C|                          PILOT
@@ -185,20 +185,20 @@ N|          In the center of the greenhouse rises a glass-paned tower
 N,G|          through which we glimpse something MIRROR BRIGHT. Floating
 N|          high in the air above the structure are several silvery helium-
 N,G|          filled balloons, secured by wires. As we move closer, we
-N,I|          discern a MAN moving about actively on a platform inside the
+N|          discern a MAN moving about actively on a platform inside the
 N|          central tower, about half-way up:
 O|                         
 S|          INT. GREENHOUSE TOWER - DAY
 M|          (MUNSON, TV NEWSMAN, ZARKOV)
 O|                         
 N,I|          The man is DR. HANS ZARKOV: big, bearded, feverish looking
-N|          and seemingly half mad with exhaustion. In striking contrast
+N,I|          and seemingly half mad with exhaustion. In striking contrast
 N|          to the antique greenhouse exterior, here there are all kinds
 N|          of computers and displays connected together in a slapdash
 N|          fashion. Quantities of neglected plants, most brown and
 N|          dead or dying, hide the works in here from outside view. As
 N|          Zarkov runs around throwing switches and eyeing displays, a
-N,I|          grim-voiced TV. NEWSMAN is appearing and speaking from a
+N|          grim-voiced TV. NEWSMAN is appearing and speaking from a
 N|          good-sized television screen above the main control console:
 O|                         
 C|                          TV NEWSMAN
@@ -393,7 +393,7 @@ N|          which rain down in intermittent bursts. One strikes an end
 N|          of a gallery, exploding glass and foliage. From inside, we
 N|          HEAR a furious echoing VOICE:
 O|                         
-C|                          ZARKOV'S VOICE
+C,E|                          ZARKOV'S VOICE
 U|           I see you, Munson! Come out or I
 U|           shoot!
 O|           8.
@@ -708,7 +708,7 @@ O|
 N|          Curving light-rays from another galaxy are drawn fantastically
 N|          together and then simply DISAPPEAR as they are pulled in by
 N,G|          the unimaginable gravitation force of is THING. we SEE the
-N|          CAPSULE, tiny, curving, and spinning along amidst the mind-
+N,G|          CAPSULE, tiny, curving, and spinning along amidst the mind-
 N|          blowing display of light rays, sucked along with them ····
 N|          then simply DISAPPEARING as it too enters the void.
 O|                         
@@ -750,7 +750,7 @@ N|          rapidly SLOWING DOWN. The three voyagers are crumpled on the
 N|          floor against the wall in strange attitudes, FLASH'S arms
 N|          still holding DALE. They seem semi-conscious, as if dropped.
 O|                         
-N|          An AMBER GLOW bathes them, and soon we see its source. A
+N,G|          An AMBER GLOW bathes them, and soon we see its source. A
 N|          huge planet wheels into view through the transparent wall.
 N|          It is MONGO. Its curved surface is a pure sea of AMBER FIRE
 N|          molten lava, with great tongues of flame erupting
@@ -782,11 +782,11 @@ N|          rises the shimmering CITY OF MONGO.... a place of many levels,
 N|          golden tiers and turrets, towers, flags and pennants. It is
 N|          like something dreamed.
 O|                         
-N,I|          Several STRANGELY ARMORED MEN watch the MIRROR-BRIGHT CAPSULE
-N,I|          descending slowly. The LEADER waves and they all start toward
+N|          Several STRANGELY ARMORED MEN watch the MIRROR-BRIGHT CAPSULE
+N|          descending slowly. The LEADER waves and they all start toward
 N|          the CAPSULE.
 O|                         
-C|          INT. CAPSULE
+S|          INT. CAPSULE
 M|          (DALE, FLASH, ZARKOV)
 O|                         
 N|          Gentle bump as the thing touches down.
@@ -835,7 +835,7 @@ C|                          FLASH
 U|           Hi!
 O|                         
 N|          CLACK! With lightning speed a manacle is slammed on FLASH'S
-N,I|          wrist and he is thrown to ·the ground as other RED MEN advance
+N|          wrist and he is thrown to ·the ground as other RED MEN advance
 N|          to handcuff DALE and ZARKOV.
 O|                         
 C|                          LEADER
@@ -921,7 +921,7 @@ C|                          DALE
 U|           You're mad.
 O|                         
 N,G|          Look down over a balcony from a MOVING POV. A fencing glass
-N,I|          is in session. SIX PAIRS OF MEN go at each other with magic
+N|          is in session. SIX PAIRS OF MEN go at each other with magic
 N|          swords which give off pyrotechnical displays each time the
 N|          blades clash. Thrust, parry, SLASH! The head of one duellist
 N|          EXPLODES in a bloodless fountain of fire.
@@ -988,7 +988,7 @@ O|
 N|          There is a low throaty LAUGH from the shadows. FLASH and
 N|          DALE turn their eyes quickly in its direction.
 O|                         
-G,I|          FEATURE PRINCESS AURA
+G|          FEATURE PRINCESS AURA
 O|                         
 N|          Emerging half into the light beside a column, fondling the
 N|          head of an obscure BEAST slouching between her legs.
@@ -1005,7 +1005,7 @@ C|                          DALE
 U|           Watch it, fella -- you came with me!
 O|                         
 N,G|          AURA laughs again, sidles up toward MING. We dimly SEE a
-N|          couple of MUTANT CREATURES dragging away the lifeless body
+N,G|          couple of MUTANT CREATURES dragging away the lifeless body
 N|          of the one who so vividly proved his loyalty.
 O|                         
 C|                          MING
@@ -1044,8 +1044,8 @@ U|           to Ming! What greater crime can be
 U|           committed?
 O|                         
 N|          The palace rings with an answering chorus: VOICES of all the
-N|          ARMORED MEN and numerous others presently UNSEEN, including
-N,I|          many WOMEN.
+N,G|          ARMORED MEN and numerous others presently UNSEEN, including
+N|          many WOMEN.
 O|                         
 C|                          VOICES
 U|           Hail, Ming! Hail, Great One Without
@@ -1158,7 +1158,7 @@ U|           Take the Earth-woman to our quarters!
 U|           Bathe and annoint her for our
 U|           pleasure!
 O|                         
-N,I|          A HOODED GUARD comes from shadow, moves towards DALE.
+N|          A HOODED GUARD comes from shadow, moves towards DALE.
 O|                         
 N|          FLASH starts around to defend her, but before he can do it
 N|          DALE has made her own move. WHAM! Quick as lightning, she
@@ -1173,7 +1173,7 @@ O|
 C|                          FLASH
 U|           Watch out! Behind you!
 O|                         
-N,I|          Three more HOODED GUARDS are emerging from the shadows towards
+N|          Three more HOODED GUARDS are emerging from the shadows towards
 N|          DALE.
 O|                         
 G|                         QUICK ANGLES
@@ -1192,7 +1192,7 @@ O|
 N|          Unearthly MARTIAL MUSIC comes in a glissando from the
 N|          Cavernous space above.
 O|                         
-N,I|          To its tempo MING'S PERSONAL GUARDS now starts· appearing.
+N|          To its tempo MING'S PERSONAL GUARDS now starts· appearing.
 N|          They are all a race of AMAZON WARRIORS, and the most amazing
 N|          thing is that they all have the SAME FACE.
 O|                         
@@ -1294,7 +1294,7 @@ O|
 C|                          MING
 U|           I haven't taken a wife in centuries.
 U|           I could bring myself to marry this
-C|           Dale Arden --
+U|           Dale Arden --
 P|                          (A BEAT)
 U|           What do you see in her future, Klytus?
 O|                         
@@ -1385,7 +1385,7 @@ O|
 N|          An infernal place, chief feature of which is a LAKE OF
 N|          SEETHING MAGMA that slowly rotates within a wide encircling
 N|          platform. The platform is piled with GLOWING RADIOACTIVE
-N,I|          GRAVEL, being shoveled into the magma by LIZARDMAN SLAVES
+N|          GRAVEL, being shoveled into the magma by LIZARDMAN SLAVES
 N|          who toil in rythmic unison.
 O|                         
 C,E|           FLASH (O.S.)
@@ -1401,9 +1401,9 @@ G|          ANGLES - LIZARDMAN SLAVES
 O|           26.
 O|                         
 N|          Showing ankle electrodes shackled to each SLAVE, so that
-N,I|          those who collapse can be shocked back to their feet by GUARDS
-N,I|          stationed on a surrounding catwalk above. Any SLAVE unable
-N,I|          to rise is summarily pitched into the magma by HOODED MEN,
+N|          those who collapse can be shocked back to their feet by GUARDS
+N|         stationed on a surrounding catwalk above. Any SLAVE unable
+N|          to rise is summarily pitched into the magma by HOODED MEN,
 N|          waiting like executioners to perform this chore.
 O|                         
 C,E|           AURA (O.S.) (CONT'D)
@@ -1419,7 +1419,7 @@ O|
 S,G|          INT. GROTTO - HIS POV IN CAVERN - ON A CATWALK
 M|                         (AURA)
 O|                         
-N,I|          ZARKOV is being led along by SOLDIERS, heavily shackled. He
+N|          ZARKOV is being led along by SOLDIERS, heavily shackled. He
 N|          stops, gazing in wonder at the seething lake, which FLARES
 N|          UP BLINDINGLY with each shovel full of gravel.
 O|                         
@@ -1443,7 +1443,7 @@ O|
 C|                          SOLDIER
 U|           We are but soldiers. We do not know.
 O|                         
-C|                          MING'S VOICE
+C,E|                          MING'S VOICE
 U|           You guess well, Dr. Zarkov!
 O|                         
 N|          ZARKOV wheels in his chains, looks up.
@@ -1471,7 +1471,7 @@ C|                          MING
 U|           Bring him up to the dome, Soldiers --
 U|           we wish to show him wonders.
 O|                         
-N,I|          At that instant a couple of worn-out SLAVES are pitched into
+N|          At that instant a couple of worn-out SLAVES are pitched into
 N|          the magma. Their dying SCREAMS are drowned by the chorus
 N|          from all the minions:
 O|                         
@@ -1490,7 +1490,7 @@ O|
 C|                          FLASH
 U|           Listen, where's he got Dale?
 O|                         
-N,I|          As she looks at him, she SEES a detachment of SOLDIERS
+N|          As she looks at him, she SEES a detachment of SOLDIERS
 N|          marching this direction. Quickly she pulls FLASH into a niche,
 N|          presses her body against his in the narrow space. WHISPERS:
 O|                         
@@ -1643,7 +1643,7 @@ O|
 C|                          ZARKOV
 U|           Monster!
 O|                         
-N,I|          MING laughs, makes a sign to a SOLDIER.
+N|          MING laughs, makes a sign to a SOLDIER.
 O|                         
 C|                          MING
 U|           Return him to the dungeon.
@@ -1651,7 +1651,7 @@ O|
 S|          INT. MING'S SERAGLIO
 M|          (DALE, HEDONIA)
 O|                         
-N,I|          DALE stands amongst the EXOTIC FEMALES of this lavish place,
+N|          DALE stands amongst the EXOTIC FEMALES of this lavish place,
 N|          being gently but firmly divested of her clothes and put into
 N|          a diaphanous gown. They intend her no harm. Though each has
 N|          some slight unearthly peculiarity, all are very beautiful.
@@ -1819,7 +1819,7 @@ O|
 N|          AURA drops the plastic hood, lunges to move. her own hands
 N|          on the controls, but FLASH seizes her wrists.
 O|                         
-N,G|          EXT. SHOOTING THROUGH BUBBLE TO EXT.
+S,G|          EXT. SHOOTING THROUGH BUBBLE TO EXT.
 O|                         
 N|          Showing the windblown surface of the moon ARDENTIA dead ahead.
 O|                         
@@ -1843,8 +1843,8 @@ O|
 S|          INT. MING'S SERAGLIO - BATHING AREA
 M|          (DALE, FLASH'S VOICE, HEDONIA)
 O|                         
-N,I|          DALE is immersed naked in a bubbly swirling tub, a luxuriant
-N,I|          prisoner of the FEMALES who bathe and groom her. She seems
+N|          DALE is immersed naked in a bubbly swirling tub, a luxuriant
+N|          prisoner of the FEMALES who bathe and groom her. She seems
 N|          dazed by steam and by the sensuous movement of the water.
 O|           34.
 O|                         
@@ -1859,7 +1859,7 @@ N|          DALE starts to oil herself as the FEMALES exchange looks and
 N|          LAUGH softly. Suddenly a FILTERED VOICE is HEARD from nowhere,
 N|          though it seems very close:
 O|                         
-C|                          FLASH'S VOICE
+C,E|                          FLASH'S VOICE
 U|           Dale, it's me -- Flash! Am I with
 U|           you?
 O|                         
@@ -1884,7 +1884,7 @@ N,G|          we SEE the moon Ardentia falling behind rapidly through the
 N|          glass. FLASH concentrates fiercely. We HEAR his VOICED
 N|          THOUGHTS but his lips do not move.
 O|                         
-C|                          FLASH'S VOICE
+C,E|                          FLASH'S VOICE
 U|           No, Dale -- you're not dreaming I'm
 U|           Flash -- I'm with you and you are
 U|           with me!
@@ -1892,96 +1892,96 @@ O|
 S|          INT. MING'S BATHING AREA
 M|          (DALE'S VOICE, FLASH'S VOICE, FLASH' S VOICE)
 O|                         
-C|                          FLASH'S VOICE
+C,E|                          FLASH'S VOICE
 U|           Are you receiving my thoughts?
 O|                         
 N|          Now we HEAR DALE'S VOICE, without her lips moving either:
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 U|           I'm receiving something --
 O|           35.
 O|                         
-C|           FLASH' S VOICE
+C,E|           FLASH' S VOICE
 P|                          (EXCITEDLY)
 U|           I read you, Dale -- I'm getting you
 U|           too! Think of me -- hard!
 O|                         
-G|          INTERCUTS - FLASH AND DALE - SERAGLIO BATH AND COCKPIT
+T,G|          INTERCUTS - FLASH AND DALE - SERAGLIO BATH AND COCKPIT
 O|                         
-N|          As they communicate. NOTE: There might be some faint glow
-N|          in the air above the tub some spectral suggestion. of FLASH'S
-N|          presence, the idea being to show that HEDONIA and other
-N|          FEMALES are unaware of this interchange going on as they
-N|          continue to bathe and groom DALE.
+N,M|          As they communicate. NOTE: There might be some faint glow
+M|          in the air above the tub some spectral suggestion. of FLASH'S
+M|          presence, the idea being to show that HEDONIA and other
+M|          FEMALES are unaware of this interchange going on as they
+M|          continue to bathe and groom DALE.
 O|                         
 S,G|          INT. CUTTING BETWEEN BATHING AREA AND COCKPIT
 M|          (DALE'S VOICE, FLASH'S VOICE, FLASH' S VOICE)
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 U|           Where are you Flash?
 O|                         
-C|                          FLASH'S VOICE
+C,E|                          FLASH'S VOICE
 U|           Speeding for the Kingdom of Arboria
 U|           to get help! I'm in a spacecraft
 U|           with Aura, Ming's daughter!
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 U|           What? That bitch? Don't trust her!
 U|           She's after you!
 O|                         
-C|                          FLASH'S VOICE
+C,E|                          FLASH'S VOICE
 U|           Listen, she means nothing to me --
 U|           not a darn thing. Where are you,
 U|           Dale?
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 U|           Naked in a bathtub.
 O|                         
-C|                          FLASH'S VOICE
+C,E|                          FLASH'S VOICE
 P|                          (CHOKED)
 U|           Oh God -- if I could only see you,
 U|           Dale. If I could touch you -- what
 U|           are you in a tub for?
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 U|           I'm being fixed up for Ming.
 O|                         
-C|           FLASH' S VOICE
+C,E|           FLASH' S VOICE
 U|           No! Where's Dr. Zarkov?
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 U|           Chained in a dungeon, I think.
 U|           What'll I do, Flash?
 O|                         
-C|           FLASH' S VOICE
+C,E|           FLASH' S VOICE
 U|           Fake 'em out!
 O|           36.
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 U|           How?
 O|                         
-C|                          FLASH'S VOICE
+C,E|                          FLASH'S VOICE
 U|           Just fake 'em out, Dale -- girls
 U|           know how. But don't go too far. I
 U|           mean get to Zarkov and release him,
 U|           I'll have help by then -- I'll find
 U|           you. Can you do all that?
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 U|           Sounds like fourth down and about
 U|           ninety yards to go, but I'll try.
 O|                         
-C|                          FLASH'S VOICE
+C,E|                          FLASH'S VOICE
 U|           Dale, you're some girl -- God, you
 U|           really are.
 P|                          (PAUSE)
 U|           Do you get what I'm thinking now?
 O|                         
-C|                          DALE'S VOICE
+C,E|                          DALE'S VOICE
 P|                          (SUPER-SENSUOUS)
 U|           Oh yes.
 O|                         
-C|           FLASH' S VOICE
+C,E|           FLASH' S VOICE
 U|           Dale, we're gonna get out of this
 U|           jam -- I swear we will -- I'll find
 U|           you, and when I do we'll -----
@@ -2060,7 +2060,7 @@ S|          INT. MING'S BEDCHAMBER
 M|          (DALE, SERVING GIRL)
 O|                         
 N|          Ultra-Byzantine splendor. The only light is by a huge bed
-N,I|          on which DALE reclines. A SERVING GIRL glides up with a
+N|          on which DALE reclines. A SERVING GIRL glides up with a
 N|          flagon of that liquid.
 O|                         
 C|                          SERVING GIRL
@@ -2090,7 +2090,7 @@ O|
 S|          INT. MING'S BEDCHAMBER
 O|                         
 N|          It's nearly dark. MING comes from shadows, looks down at the
-N,I|          bed. There is a feminine silhouette on it.
+N|          bed. There is a feminine silhouette on it.
 O|                         
 N|          MING sits, extends a hand. His FINGERS travel sensuously up
 N|          a BARE THIGH, suddenly stop.
@@ -2109,7 +2109,7 @@ N|          ZARKOV wakes with a start to SEE a SERVING GIRL bending over
 N|          him, tray in hand. She moves her cloak to reveal that she is
 N|          DALE.
 O|                         
-N,I|          A GUARD stands nearby against a wall, faceless in the shadow
+N|          A GUARD stands nearby against a wall, faceless in the shadow
 N|          of a cowled uniform.
 O|                         
 C|                          GUARD
@@ -2176,7 +2176,7 @@ N|          AURA leads him on at a run to the wide balcony above.
 O|                         
 S,G|          EXT. FOREST - MOVING SHOT
 O|                         
-N,I|          With a desperate LION MAN, running full tilt; roaring and
+N|          With a desperate LION MAN, running full tilt; roaring and
 N|          snarling as he zig-zags this way and that.
 O|           40.
 O|                         
@@ -2190,8 +2190,8 @@ N,I|          BARIN, PRINCE OF ARBORIA and looking every inch the part,
 N|          stands with a fired crossbow. Over his shoulder is a quiver
 N|          of GLASS ARROWS, each a little POINTED CYLINDER at the end.
 O|                         
-N,I|          Some distance behind and around we see a number of his loyal
-N,I|          TREE MEN.
+N,G|          Some distance behind and around we see a number of his loyal
+N,G|          TREE MEN.
 O|                         
 C|                          TREE MAN
 U|           Barin got him!
@@ -2231,12 +2231,12 @@ N|          At BARIN'S footfall, he DISINTEGRATES in a tinkling fall of
 N|          frozen shards.
 O|                         
 N,I|          THE TIGER MAN is poised behind a tree near the lodge, panting.
-N|          He is a magnificent creature, with a horn sticking out of
-N|          his forehead. He tenses, HEARING the BIRDLIKE CALLS of the
+N,I|          He is a magnificent creature, with a horn sticking out of
+N,I|          his forehead. He tenses, HEARING the BIRDLIKE CALLS of the
 N|          advancing hunters. Closer, closer.
 O|           41.
 O|                         
-N,G,I|          ANGLE WIDENS. We SEE another PAIR OF LION MEN crouching
+N,G|          ANGLE WIDENS. We SEE another PAIR OF LION MEN crouching
 N,G|          nearby, terrified. The line of TREE MEN comes INTO VIEW. The
 N|          crouching pair look in appeal to the TIGER MAN by the tree.
 N|          He watches a beat, waves them to run backward, then covering
@@ -2418,7 +2418,7 @@ U|           Snake keeper! Rouse your beast!
 O|                         
 G|          ANGLE - SNAKE KEEPER
 O|                         
-N,I|          A HALFWIT TREE MAN, drowsing against another part of the
+N|          A HALFWIT TREE MAN, drowsing against another part of the
 N|          parapet, He jerks awake, shuffles across to a big wicker
 N|          basket, pulls off the lid. A hideous EEL-LIKE SERPANT rears
 N|          it's head, HISSING and SNAPPING venemously. The KEEPER sticks
@@ -2438,7 +2438,7 @@ O|
 C,E|                          BARIN (CONT'D)
 U|           Who dares the beast?
 O|                         
-N,I|          A battle-scarred OLD TREE MAN steps forward. without a word,
+N|          A battle-scarred OLD TREE MAN steps forward. without a word,
 N|          he goes to the stump and plunges a hand INTO one of the holes.
 O|                         
 G|          INSIDE THE STUMP
@@ -2726,7 +2726,7 @@ N|          Rising looking upward, as the light through the leaves is
 N|          changing, becoming less intensely green.
 O|                         
 C|                          TIGER MAN
-N|           What is that color above?
+U|           What is that color above?
 O|                         
 C|                          FLASH
 U|           Blue. We call is blue.
@@ -2841,7 +2841,7 @@ N|          BARIN notches another arrow, cocks his bow, with slow pleasure
 N|          raises it and aims at FLASH'S heart. Suddenly a SHADOW covers
 N|          BARIN. He jerks his head up to SEE:
 O|                         
-N,I|          A WINGED SILHOUETTE
+N|          A WINGED SILHOUETTE
 O|                         
 N|          Diving from the sun at him. It is a HAWKMAN, magnificiently
 N|          fierce. It seizes BARIN in its talons and lifts him INTO THE
@@ -2874,7 +2874,7 @@ N|          TRANSFER hood over her head, with the other waves the craft
 N|          into a sharp turn away from the HAWKMEN. Without her lips
 N|                         MOVING:
 O|                         
-C|                          AURA'S VOICE
+C,E|                          AURA'S VOICE
 U|           Princess Aura returns to Mingo City
 U|           The passage through the force-field
 U|           opens at her approach --
@@ -3036,7 +3036,7 @@ O|
 N|          Light streams rough tremendous El Greco clouds. HAWKMEN Are
 N|          tiny figures, rising against it.
 O|                         
-N|          Higher, higher. Above the clouds a blinding DAZZLE comes
+N,G|          Higher, higher. Above the clouds a blinding DAZZLE comes
 N,G|          INTO FRAME. It resolves into a fantastic SKY PALACE hanging
 N|          in mid-air, reflecting sunlight from myriad turrets and
 N|          terraces. The HAWKMEN climb above it.
@@ -3049,16 +3049,16 @@ O|
 S,G|          EXT. SKY PALACE - HAWKMEN POV
 O|                         
 N,G|          Rushing at us with horrifying speed. ZOOMING DOWN we see a
-N|          dark opening. The wind howling around wings, we rush dizzingly
+N,G|          dark opening. The wind howling around wings, we rush dizzingly
 N|          into the aperture.
 O|                         
 S|          EXT. SKY PALACE - VULTAN'S EYRIE - A HIGH TERRACE
 M|                         (DALE)
 O|                         
-N,I|          VULTAN circles admiringly around DALE. VULTAN is a lusty
+N|          VULTAN circles admiringly around DALE. VULTAN is a lusty
 N|          viking of the sky, winged like his men, one eye blinded, his
 N|          beard cloven by an old scar from forehead to jaw. Gorgeous
-N,I|          HAWKGIRLS watch jealously as VULTAN inspects DALE very
+N|          HAWKGIRLS watch jealously as VULTAN inspects DALE very
 N|          closely, reaches out a sly hand and touches her bosom. DALE
 N|          slaps his hand away.
 O|                         
@@ -3435,7 +3435,7 @@ U|           get a leg up here!
 O|                         
 N|          Suddenly an ECHOING VOICE BOOMS from the sky:
 O|                         
-C|                          MING'S VOICE
+C,E|                          MING'S VOICE
 U|           Vultan! Hear Ming, Ruler of the
 U|           Universe!
 O|                         

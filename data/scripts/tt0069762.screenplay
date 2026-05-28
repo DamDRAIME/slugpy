@@ -13,7 +13,7 @@ O|
 S|INT. BEDROOM 
 O|
 N,I|The time is 1959. HOLLY SARGIS, the 15-year-old heroine, sits on 
-N.G|her bed, petting her dog. The CAMERA DOLLIES BACK as she talks on 
+N,G|her bed, petting her dog. The CAMERA DOLLIES BACK as she talks on 
 N|VOICE OVER. 
 O|
 C,E|HOLLY (v.o.)
@@ -32,7 +32,7 @@ O|
 O|
 S,G|EXT. ALLEYS AND STREETS - SERIES OF ANGLES - DAWN 
 O|
-S|The streets and alleys of Ft. Dupree at dawn. On sound we hear 
+N|The streets and alleys of Ft. Dupree at dawn. On sound we hear 
 N|the clucking of DOVES. A garbage truck appears. Details of the 
 N|mechanisms at the back of the truck. 
 O|
@@ -135,9 +135,9 @@ O|
 S|EXT. ALLEYS 
 O|
 N|Kit walks through the deserted alleys of the sleeping town... as 
-N|the MAIN TITLES APPEAR. He balances a stolen mop on his finger; 
+N,M|the MAIN TITLES APPEAR. He balances a stolen mop on his finger; 
 N|he stomps a can and looks around to see if anyone has spotted him 
-N|at this. As the CREDITS end he sees Holly in front of her house 
+N,M|at this. As the CREDITS end he sees Holly in front of her house 
 N|twirling her baton. He crosses the street and introduces himself. 
 O|
 S|EXT. FRONT LAWN 
@@ -198,7 +198,7 @@ C|KIT
 U|Well, I don't mind getting up early, so I got a job throwing 
 U|garbage... I'm not in love with the stuff, okay.
 O|
-N,I|In the distance we hear Holly's FATHER calling her. She eases 
+N|In the distance we hear Holly's FATHER calling her. She eases 
 N|off. 
 O|
 C|HOLLY
@@ -277,7 +277,7 @@ U|and for him not to bother us.
 O|
 S|INT. EMPLOYMENT AGENCY 
 O|
-N,I|Kit is talking with a CLERK inside an employment agency. 
+N|Kit is talking with a CLERK inside an employment agency. 
 O|
 C,E|CLERK (o.c.)
 U|You ever held another job before?
@@ -424,7 +424,7 @@ O|
 N,G|We see Kit at work at the feedlot. throwing hay to the cattle, 
 N|feeding them pills, etc. 
 O|
-C,P|HOLLY (v.o.)
+C,E|HOLLY (v.o.)
 U|Kit went to work in the feedlot while I carried on with my 
 U|studies. Little by little we fell in love... As I'd never been 
 U|popular in school and didn't have a lot of personality, I was 
@@ -434,7 +434,7 @@ O|
 N,G|The MONTAGE includes a shot of Holly running toward Kit's car for 
 N|some rendezvous. 
 O|
-C,P|HOLLY (v.o.)
+C,E|HOLLY (v.o.)
 U|He said that I was grand, though, that he wasn't interested in me 
 U|for sex and that coming from him this was a compliment. Held 
 U|never met a fifteen-year-old girl who behaved more like a grownup 
@@ -646,7 +646,7 @@ O|
 N|Kit releases a large red balloon into the evening sky. A small 
 N|basket is fixed to the bottom of the balloon. 
 O|
-C,R|HOLLY (v.o.)
+C,E|HOLLY (v.o.)
 U|Kit made a solemn vow that he would always stand beside me and 
 U|let nothing come between us. He wrote this out in writing, put 
 U|the paper in a box with some of our little tokens and things, 
@@ -753,7 +753,7 @@ O|
 N|He lets these words sink in, then returns to his seat. 
 O|
 C|FATHER
-P,U|(shaking his head) You're something.
+U,P|(shaking his head) You're something.
 O|
 N|Kit waves goodbye. 
 O|
@@ -1107,7 +1107,7 @@ N|a piece of flint; Kit weaves tamarisk branches through the frame
 N,G|of the house. This MONTAGE ends with a PAN DOWN the four stories 
 N|of the completed treehouse. 
 O|
-C,P|HOLLY (v.o.)
+C,E|HOLLY (v.o.)
 U|We planned a huge network of tunnels under the forest floor, and 
 U|our first order of business every morning was to decide on a new 
 U|password for the day. ow and then weld sneak out at night and 
@@ -1185,7 +1185,7 @@ U|Take a break. Red... Life of Riley, huh?
 O|
 N|Holly ignores him as he walks off down the flat. 
 O|
-C|HOLLY (v.o.)
+C,E|HOLLY (v.o.)
 U|Mostly. though. we got along fine and stayed in love.
 O|
 S|EXT. FRONT OF TREEHOUSE 
@@ -1297,7 +1297,7 @@ U|happened.
 O|
 N|Kit, frustrated draws his pistol from his back pocket and looks 
 N|around for the fish that has been eluding him. He does not see, 
-N,G,I|as we do, a MAN watching him from across the river. He fires at 
+N,G|as we do, a MAN watching him from across the river. He fires at 
 N|the fish. misses it and fires again. The Man across the river 
 N|hesitates. then moves back into the undergrowth. 
 O|
@@ -1310,7 +1310,7 @@ N|Holly is off somewhere in the forest. putting on lipstick. Kit
 N|sits on watch in the crowls nest, a pair of binoculars close at 
 N|hand. On sound, over the music, we hear voices whispering to 
 N|them. Kit sees a movement in the brush. A moment later a figure 
-N,I|appears, a hunter, carrying a gun. Kit shouts a code word to 
+N|appears, a hunter, carrying a gun. Kit shouts a code word to 
 N|Holly. She takes off running, as Kit clambers down the planks of 
 N|the treehouse and collects his shotgun. He tells her to hide, 
 N|runs through the woods and dives in a hole, under a cover of 
@@ -1358,8 +1358,8 @@ O|
 S,G|EXT. BADLANDS - SERIES OF ANGLES 
 O|
 N,G|We see a flat expanse of the Badlands. The Mercury appears over 
-N,I|the horizon and heads toward a solitary house. A man appears at 
-N,I|the door of the house, Kit's friend, Cato. 
+N|the horizon and heads toward a solitary house. A man appears at 
+N|the door of the house, Kit's friend, Cato. 
 O|
 C,E|HOLLY (v.o.)
 U|We went to hide out with a friend of Kit's from the days of the 
@@ -1620,8 +1620,8 @@ N|turns and looks.
 O|
 S|EXT. CATO'S HOUSE 
 O|
-N,I|A 1951 Studebaker approaches the house. There are two people 
-N,I|inside, a BOY and a GIRL. Kit comes out the front door. The Boy 
+N|A 1951 Studebaker approaches the house. There are two people 
+N|inside, a BOY and a GIRL. Kit comes out the front door. The Boy 
 N|and Girl get out, but seeing Kit, they wait by the car. 
 O|
 C|BOY
@@ -1848,17 +1848,17 @@ O|
 C|KIT
 U|They're probably going to blame that on me, too, bastards.
 O|
-G|VIGILANTE MONTAGE - SERIES OF ANGLES - BLACK AND WHITE 
+S,G|VIGILANTE MONTAGE - SERIES OF ANGLES - BLACK AND WHITE 
 O|
 N,G|Various shots characterizing the Midwest's reaction to Kit and 
 N|Holly
-N,I|a deserted street, law officers posing with their guns and 
-N,I|ammunition, children walking from class under armed guard, a 
-N,I|detective in a trench coat pointing at a pump, a woman calling in 
-N,I|her children at dusk, a county official posing with the county 
-N,I|records, the court reporter with a book of signatures, vigilantes 
+N|a deserted street, law officers posing with their guns and 
+N|ammunition, children walking from class under armed guard, a 
+N|detective in a trench coat pointing at a pump, a woman calling in 
+N|her children at dusk, a county official posing with the county 
+N|records, the court reporter with a book of signatures, vigilantes 
 N|signing up and being deputized, then riding through the streets 
-N,I|of their town in the backs of pickups, a priest among them, etc. 
+N|of their town in the backs of pickups, a priest among them, etc. 
 O|
 C,E|HOLLY (v.o.)
 U|The whole country was out looking for us, for who knew where Kit 
@@ -1883,7 +1883,7 @@ U|We needed supplies, so we went to a rich man's house. Kit figured
 U|it'd be safer and quicker than shopping in the downtown... A maid 
 U|came to the door.
 O|
-N,I|A MAID opens the door. 
+N|A MAID opens the door. 
 O|
 C|KIT
 U|Hi, I come to check the meter. My tools are in here.
@@ -1907,7 +1907,7 @@ O|
 S|INT. LIVING ROOM 
 O|
 N|Kit leads the others into the living room. The owner of the 
-N,I|house, a RICH MAN, sits in a chair in the corner, reviewing some 
+N|house, a RICH MAN, sits in a chair in the corner, reviewing some 
 N|prints. At the sight of Kit he comes to his feet. 
 O|
 C|KIT
@@ -2056,7 +2056,7 @@ N|checks the chamber of his pistol and leaves the room.
 O|
 S|EXT. FRONT OF HOUSE 
 O|
-N,I|Kit opens the front door to find a VISITOR on the stoop. The 
+N|Kit opens the front door to find a VISITOR on the stoop. The 
 N|Visitor carries a roll of blueprints under his arm. 
 O|
 C|KIT
@@ -2301,7 +2301,7 @@ O|
 N|The Cadillac races through a herd of cows, 
 O|
 C,E,U|HOLLY (v.o.) Kit'd sometimes ram a cow, to save on ammo, and we'd 
-N|cook it.
+U|cook it.
 O|
 G|CLOSE ON SALT GRASS 
 O|
@@ -2578,7 +2578,7 @@ N|Kit and Holly's faces are strangely lit by the dash lights. Holly
 N|is absorbed in her map. The radio is on. 
 O|
 C|KIT
-P,U|(responding to v.o.) I could get a job with the Mounties. The 
+U,P|(responding to v.o.) I could get a job with the Mounties. The 
 U|Northwest Mounties ... Hell, I got all the qualifications. I can 
 U|ride, shoot and... I don't mind the cold. Fact. I kind of like 
 U|the cold.
@@ -2682,7 +2682,7 @@ O|
 C|KIT
 U|Love this air.
 O|
-N,I|The ROUGHNECK in charge of the rig steps out of his trailer. It 
+N|The ROUGHNECK in charge of the rig steps out of his trailer. It 
 N|seems there is nobody else around. 
 O|
 C|KIT
@@ -2808,8 +2808,8 @@ U|got that?
 O|
 N|She nods, bewildered. The helicopter is landing. He grabs a 
 N|discarded fender off the truck, hangs it over his arm like a 
-N,I|shield and runs to the Cadillac, exchanging shots with a State 
-N,I|Trooper who has arrived in the helicopter. The Trooper is hit and 
+N|shield and runs to the Cadillac, exchanging shots with a State 
+N|Trooper who has arrived in the helicopter. The Trooper is hit and 
 N|falls. Kit jumps in the car and roars off. Holly surrenders 
 N|herself to the pilot of the helicopter and is taken off. 
 O|
@@ -2821,7 +2821,7 @@ O|
 C|KIT
 U|Hey, anybody here?
 O|
-N,I|An ATTENDANT walks out the door. 
+N|An ATTENDANT walks out the door. 
 O|
 C|KIT
 U|Hi... Say,, you got any shells for a Savage, a .300 Savage?
@@ -3035,8 +3035,8 @@ S|INT. AIRPORT HANGAR
 O|
 N|Kit stands on the wing of a light plane, inside a large hangar at 
 N|the local airport. He is shackled in a leather transfer vest. He 
-N,I|takes souvenirs out of his pockets and tosses them out to a crowd 
-N,I|of Montana State Troopers and National Guardsmen milling around 
+N|takes souvenirs out of his pockets and tosses them out to a crowd 
+N|of Montana State Troopers and National Guardsmen milling around 
 N|on the tarmac ground below him. 
 O|
 C|MECHANIC
@@ -3162,7 +3162,7 @@ O|
 S|EXT. POLICE CAR 
 O|
 N|Holly leans against the fender of the police car. She wears 
-N,I|handcuffs. Kit turns to a State Trooper who holds him by a 
+N|handcuffs. Kit turns to a State Trooper who holds him by a 
 N|tether. 
 O|
 C|KIT
@@ -3206,8 +3206,8 @@ O|
 N|The plane that will take them back to South Dakota, a B-25, comes 
 N|in for a landing. The mass of Troopers and National Guardsmen, 
 N|with Kit and Holly, walks out to meet it. A jeep leads it down 
-N,I|the taxiway. A civilian bystander points Kit and Holly out to a 
-N,I|young boy he holds in his arms. 
+N|the taxiway. A civilian bystander points Kit and Holly out to a 
+N|young boy he holds in his arms. 
 O|
 S|EXT. PLANE 
 O|
@@ -3258,7 +3258,7 @@ S,G|EXT. RUNWAY - SERIES OF ANGLES
 O|
 N|The props start turning. The crowd waves goodbye as the boarding 
 N|door is closed. The wheels turn toward the sun. The Guardsmen 
-N,I|race back to their trucks. A mailman carries off the mail bags he 
+N|race back to their trucks. A mailman carries off the mail bags he 
 N|collected from the plane. The plane taxies down the runway and 
 N|lifts into the air. 
 O|
@@ -3273,12 +3273,12 @@ U|was being read, and he was sentenced to die in the electric
 U|chair. On a warm spring night, six months later, after donating 
 U|his body to science, he did. 
 O|
-N,G|With Holly's last words we CUT INSIDE the cabin of the plane. 
+N,G,T|With Holly's last words we CUT INSIDE the cabin of the plane. 
 O|
 S|INT. CABIN 
 O|
 N|Kit sits next to the Trooper at the back of the plane. Holly sits 
-N,I|opposite them, with a Detective behind her. Kit's attention is 
+N|opposite them, with a Detective behind her. Kit's attention is 
 N|fixed on the military hat in the Trooper's lap. 
 O|
 C|KIT

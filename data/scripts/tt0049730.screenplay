@@ -20,7 +20,7 @@ N|               drifts with the light breeze across the pattern of prints;
 N|               and lightly-blown soil and sand begin the work of erasing 
 N,G|               them. The CAMERA FOLLOWING the hoofprints
 O|
-G|               RAISES SLOWLY TO:
+T,G|               RAISES SLOWLY TO:
 O|
 S,G|               EXT. PLAINS COUNTRY - LONG SHOT - LATE AFTERNOON
 O|
@@ -5659,7 +5659,7 @@ N|               every moment of it. The girl extends the lance between them,
 N|               so that it is like a bare blade separating two duelists. 
 N|               Neither Ethan nor Martin dares at first look at more than 
 N|               the scalp pole... Then slowly their eyes lift... and the 
-N,G|               CAMERA MOVES IN and RAISES TO:
+N,G,T|               CAMERA MOVES IN and RAISES TO:
 O|
 S,G|               INT. THE TEPEE - EXTREME CLOSE SHOT - DEBBIE
 O|

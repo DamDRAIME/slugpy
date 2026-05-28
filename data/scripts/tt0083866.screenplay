@@ -13,7 +13,7 @@ M|traditionally the color of that which is sacred.]
 O|
 S|EXT: NIGHT SKY: NIGHT
 O|
-N,G|The black screen becomes a night sky. The camera angles lowers to show a
+N,T,G|The black screen becomes a night sky. The camera angles lowers to show a
 N|forest against the night sky.
 O|
 S|EXT: LANDING SITE: NIGHT
@@ -29,9 +29,9 @@ M|really look like.]
 O|
 N|One creature walks up the gang blank and into the ship.
 O|
-G|INSERT: ALIEN HAND
+T|INSERT: ALIEN HAND
 O|
-N,I|A strange hand, with two long and slender fingers protruding, move aside a
+N|A strange hand, with two long and slender fingers protruding, move aside a
 N|branch that obstructs the view.
 O|
 M|[This concentrates the audience's attention. The creature going into the
@@ -55,7 +55,7 @@ M|doesn't insult their intelligence.]
 O|
 S|EXT: SPACECRAFT: NIGHT
 O|
-N,I|A group of the aliens work in front of the spacecraft. Suddenly, they hear
+N|A group of the aliens work in front of the spacecraft. Suddenly, they hear
 N|a dog howl, and they all stop working. Red lights begin to glow in their
 N|chests. It appears as if their hearts have lit up at the sign of danger, as
 N|the red glow seeps through their translucent skin. After a moment the red
@@ -71,7 +71,7 @@ O|
 N|A small fern grows on the forest floor. An alien hand, with two fingers
 N|protruding, reaches out for the fern. The alien groans. A rabbit turns and
 N|listens. The fingers dig up the plant as the rabbit watches. The alien then
-N,I|carefully uproots the plant. A small wayward alien walks alone among the
+N|carefully uproots the plant. A small wayward alien walks alone among the
 N|gigantic redwood trees. He's dwarfed by the huge trees.
 O|
 M|[The awesome towering trees psychologically creates audience empathy for
@@ -89,7 +89,7 @@ O|
 N|The creature runs from the lights. Several other trucks with head- lights
 N|glaring drive up. Smoke flows from their exhaust pipes. Men's legs are seen
 N|as they walk among the trucks. They step into a mud puddle as E.T. watches
-N,I|from behind a shrub. A man with keys jangling from his waist walks past a
+N|from behind a shrub. A man with keys jangling from his waist walks past a
 N|headlight. He carries a flashlight in his hands.
 O|
 M|[Keys have now become a prop which identifies the antagonist of the story:
@@ -151,7 +151,7 @@ M|[The audience still hasn't seen the face of the protagonist.]
 O|
 S|EXT: SPACECRAFT: NIGHT
 O|
-N,I|A lone alien stands before a large round white light, as he signals for the
+N|A lone alien stands before a large round white light, as he signals for the
 N|other aliens to return to the ship.
 O|
 S|EXT: FOREST: NIGHT
@@ -213,7 +213,7 @@ G|[This is an establishing shot.]
 O|
 S|INT: ELLIOTT'S HOUSE: NIGHT
 O|
-N,I|A group of boys are sitting around a table playing a DUNGEONS AND DRAGONS
+N|A group of boys are sitting around a table playing a DUNGEONS AND DRAGONS
 N|game. One boy is on the telephone ordering a pizza. They throw wads of
 N|paper at each other as they play.
 O|
@@ -223,7 +223,7 @@ O|
 M|[The character's positions are structured to emphasize Elliott's separation
 M|from the others.]
 O|
-N,I|One of the boys tells Elliott that he can't join when they are in the
+N|One of the boys tells Elliott that he can't join when they are in the
 N|middle of the game.
 O|
 M|[Audience empathy is generated for the young child who is being excluded
@@ -252,7 +252,7 @@ S|EXT: ELLIOTT'S HOUSE: NIGHT
 O|
 N|It's a rainy, misty night. Elliott, with ball and glove in hand wait at the
 N|bottom of the driveway for the pizza. A car pulls up and parks in the
-N,I|driveway. Elliott pays the driver, then takes the pizza box from him as the
+N|driveway. Elliott pays the driver, then takes the pizza box from him as the
 N|car pulls out of the driveway.
 O|
 N|Elliott walks up the driveway and into the garage. He hears a noise in the
@@ -260,7 +260,7 @@ N,U|backyard, then calls out the name "HARVEY," presumably his dogs name.
 O|
 S|INT: ELLIOTT'S HOUSE: NIGHT
 O|
-N,I|Elliott's mother wears an orange outfit as she works in the kitchen. She
+N|Elliott's mother wears an orange outfit as she works in the kitchen. She
 N|bends over to put dishes into the dishwasher. When she does this one of the
 N|young boys reaches out to put his finger on her rear. Mike yells for him to
 N|stop. He pulls his finger away.
@@ -418,8 +418,8 @@ M|[Elliott is in jeopardy both from the faceless man and the faceless alien.]
 O|
 S|INT: ELLIOTT'S HOUSE: DAY
 O|
-N,I|Elliott's mother sits at the tale with the dog, Harvey, at her side.
-N,I|Elliott, Michael and Gertie are eating supper.
+N|Elliott's mother sits at the tale with the dog, Harvey, at her side.
+N|Elliott, Michael and Gertie are eating supper.
 O|
 M|[This is a home without a father, which creates more empathy for the
 M|protagonist.]
@@ -549,7 +549,7 @@ M|success.]
 O|
 N|Suddenly, Elliott becomes tired and yawns, then sways as if in a trance. He
 N|slowly walks backwards and sits down in a chair. Elliott seems asleep as
-N|the camera moves up for a closeup of Elliott's face.
+N,G|the camera moves up for a closeup of Elliott's face.
 O|
 M|[Presumably, E.T. has used his telepathic powers to place Elliott into a
 M|trance in order to merge their minds and feelings.]
@@ -595,13 +595,13 @@ S|EXT: DRIVEWAY: DAY
 O|
 N|Mike backs the car down the driveway.
 O|
-S,T|INTERCUT: ELLIOTT'S ROOM
+T|INTERCUT: ELLIOTT'S ROOM
 O|
 N|Mary walks out of the closet carrying a blue sleeping bag. Elliott is
 N|tense, then relieved, once he realizes that she didn't find E.T. He falls
 N|back into bed.
 O|
-S,T|INTERCUT: DRIVEWAY
+T|INTERCUT: DRIVEWAY
 O|
 N|Mike backs the car over part of the lawn.
 O|
@@ -610,7 +610,7 @@ M|the scene here Mike has to drive the van during E.T.'s escape sequence.
 M|This demonstrates both his incompetence, and that he is only allowed to
 M|drive the car backwards down the driveway.]
 O|
-S,T|INTERCUT: ELLIOTT'S ROOM
+T|INTERCUT: ELLIOTT'S ROOM
 O|
 N|Mary covers Elliott with the blue sleeping bag as Elliott puts the
 N|thermometer back into his mouth (first backwards, then he corrects it).
@@ -618,12 +618,12 @@ O|
 M|[Humor is generated because the audience knows that he is fooling his
 M|mother.]
 O|
-S,T|INTERCUT: DRIVEWAY
+T|INTERCUT: DRIVEWAY
 O|
 N|Mike continues to back the car down the driveway. He overshoots the edge
 N|and goes out into the street. He then pulls forward across the sidewalk.
 O|
-S,T|INTERCUT: ELLIOTT'S ROOM
+T|INTERCUT: ELLIOTT'S ROOM
 O|
 N,U,C|"You were outside waiting for that thing?" says Mary. Elliott nods.
 O|
@@ -681,39 +681,39 @@ O|
 N|Elliott, dressed only in white underwear, opens the refrigerator door and
 N|takes out some food.
 O|
-S,T|INTERCUT: ELLIOTT'S ROOM
+T|INTERCUT: ELLIOTT'S ROOM
 O|
 N|E.T. walks around the room.
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|Elliott opens up a jar of peanut butter.
 O|
-S,T|INTERCUT: ELLIOTT'S ROOM
+T|INTERCUT: ELLIOTT'S ROOM
 O|
 N|E.T. touches a tennis racket.
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|Elliott picks up cheese and tomatoes.
 O|
-S,T|INTERCUT: ELLIOTT'S ROOM
+T|INTERCUT: ELLIOTT'S ROOM
 O|
 N|E.T. picks up an umbrella.
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|Elliott takes a carton of milk out of the refrigerator.
 O|
-S,T|INTERCUT: ELLIOTT'S ROOM
+T|INTERCUT: ELLIOTT'S ROOM
 O|
 N|E.T. accidentally opens up the umbrella.
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|Elliott screams with fright and drops the milk carton onto the floor.
 O|
-S,T|INTERCUT: ELLIOTT'S ROOM
+T|INTERCUT: ELLIOTT'S ROOM
 O|
 N|E.T. screams with fright, drops the umbrella, then runs into the closet.
 O|
@@ -951,8 +951,8 @@ M|finds E.T.]
 O|
 S|INT: ELLIOTT'S BEDROOM: DAY
 O|
-N|Mary walks into the closet and looks around. The camera pans across the
-N|large faces of all the stuffed dolls: Raggedy Ann, a Bear, a Monkey, E.T.'s
+N,G|Mary walks into the closet and looks around. The camera pans across the
+N,G|large faces of all the stuffed dolls: Raggedy Ann, a Bear, a Monkey, E.T.'s
 N|Face, a Lion, etc. Mary doesn't notice E.T., then closes the closet door
 N|and leaves.
 O|
@@ -982,7 +982,7 @@ O|
 M|[Jeopardy: will the dog attack E.T.? At there last encounter E.T. was
 M|frightened by Harvey.]
 O|
-S,T|INTERCUT: CLASSROOM
+T|INTERCUT: CLASSROOM
 O|
 N|The teacher continues his instructions, telling the students that the
 N|scalpel is very sharp, and that they should use discretion when cutting.
@@ -1001,18 +1001,18 @@ N|container of potato salad, opens it, then sticks his tongue into the salad.
 N|He hates the taste and throws it onto the floor. Harvey licks it up. E.T.
 N|then picks up a can of beer and drinks it as Harvey barks.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott sits at his desk as he listens to the teacher speak. Elliott burps.
 N|All the children in the classroom stare at him.
 O|
 M|[This again shows the merging of Elliott and E.T.]
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|E.T., drunk, wobbles across the kitchen floor and walks into a counter.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott places his fingers to his head. He is also becoming drunk. The
 N|teacher tells the class that in this bisection they should locate the heart
@@ -1022,43 +1022,43 @@ M|[The red-lit heart is the most prominent feature of E.T. Having the teacher
 M|focus on the frog's heart starts the identification in the audience's mind
 M|of the frogs and E.T.]
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|E.T. turns and walks into another wall as Harvey continues to eat the
 N|potato salad on the floor.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott, now drunk, slides down in his chair.
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|E.T. turns, walks, then collapses head first onto the floor.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott slides under his desk and falls onto the floor. The teacher doesn't
 N|hear this because at that moment he pulls down a wall hanging which
 N|contains pictures of a frog's anatomy.
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|E.T. opens another can of beer.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott pulls himself up off the floor with a drunken smile on his face.
 O|
-S,T|INTERCUT: KITCHEN
+T|INTERCUT: KITCHEN
 O|
 N|E.T. gulps down another can of beer.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott, drunk, sits at his desk. He turns and smiles at the pretty blonde
 N|girl across the aisle. She turns away from him with disgust.
 O|
-S,T|INTERCUT: LIVING ROOM
+T|INTERCUT: LIVING ROOM
 O|
 N|E.T. plays on the keys of a voice generating language game. He next presses
 N|a button on a remote control which activates the TV set. A cartoon appears
@@ -1072,7 +1072,7 @@ N|He then presses another button on the remote, and the image of a flying
 N|plane appears on the screen. A spaceship next appears, and pulls the plane
 N|up towards it.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|The teacher carries a jar of cotton balls soaked in chloroform, which he
 N|drops into the jars containing frogs. He tells the children to immediately
@@ -1097,7 +1097,7 @@ M|[A cinematic technique which reinforces the identification of the frog with
 M|E.T. This sets up the audience for E.T.'s operation. They expect the frog
 M|to die, and they project these expectations to E.T. later in the story.]
 O|
-S,T|INTERCUT: LIVING ROOM
+T|INTERCUT: LIVING ROOM
 O|
 N|E.T. has a hangover as he hiccups and puts his hand on his head. He then
 N|picks up the cartoon section of a newspaper. One cartoon strip has a
@@ -1106,7 +1106,7 @@ O|
 N|On the TV monitor a woman is talking long distance n her telephone to her
 N|Uncle Ralph in California. E.T. hears the sounds coming from the TV, then
 N|turns to look at the monitor, where he sees a man talking into a phone in
-N|his hand. The camera pans to a phone near E.T. A child in the TV program
+N,G|his hand. The camera pans to a phone near E.T. A child in the TV program
 N|picks up the phone, says hello to his uncle, then hangs up.
 O|
 M|[This generates laughter because it's inappropriate behavior to just say
@@ -1117,7 +1117,7 @@ N|man in a spacesuit setting up a transmitter. The next cell has him saying
 N|"It works" as the communication device transmits "help, help!" E.T. lifts
 N|up his head from the newspaper.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N,U,P,C|"Save him" shouts Elliott. Elliott picks up his jar, unscrews the top, then
 N,P,C|lets out his frog, screaming "Run for your life. Back to the forest! Run!"
@@ -1130,65 +1130,65 @@ N|He next opens the jar of the girl besides him. Elliott struggles with one
 N|student, then proceeds to turn over many of the other jars as he frees the
 N|frogs. Some of the other children also free their frogs.
 O|
-S,T|INTERCUT: LIVINGROOM
+T|INTERCUT: LIVINGROOM
 O|
 N|E.T. studies the electronic circuitry of the language game. Suddenly John
 N|Wayne comes on the screen. E.T. is fascinated with his image. It's a scene
 N|from the movie "QUIET MAN." Maureen O'Sullivan huddles in a corner of the
 N|room.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|A pile of frogs gather at the feet of a terrified little girl with blonde
 N|braids. Elliott, drunk, staggers by her.
 O|
-S,T|INTERCUT: LIVINGROOM
+T|INTERCUT: LIVINGROOM
 O|
 N|E.T. continues to watch the TV monitor as the woman in the movie screams.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
-N,I|A blonde girl who has a crush on Elliott screams when a frog is placed on
+N|A blonde girl who has a crush on Elliott screams when a frog is placed on
 N|her shoes.
 O|
-S,T|INTERCUT: LIVINGROOM
+T|INTERCUT: LIVINGROOM
 O|
 N|The woman in the movie runs out the door. John Wayne grabs hold of her arm.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott grabs hold of the blonde girl as she runs out the door.
 O|
-S,T|INTERCUT: LIVINGROOM
+T|INTERCUT: LIVINGROOM
 O|
 N|John Wayne pulls the woman back.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott pulls the blonde girl back.
 O|
-S,T|INTERCUT: LIVINGROOM
+T|INTERCUT: LIVINGROOM
 O|
 N|John Wayne takes the woman into his arms.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott takes the blonde girl into his arms.
 O|
-S,T|INTERCUT: LIVINGROOM
+T|INTERCUT: LIVINGROOM
 O|
 N|John Wayne kisses the woman.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|Elliott, too short to kiss her, stands on the back of a student who was
 N|crawling on the floor after a frog. Elliott kisses the girl.
 O|
-S,T|INTERCUT: LIVINGROOM
+T|INTERCUT: LIVINGROOM
 O|
 N|E.T., filled with fascination, watches the TV monitor.
 O|
-S,T|INTERCUT: SCHOOL
+T|INTERCUT: SCHOOL
 O|
 N|The children's hands poke through the windows and free the frogs by
 N|throwing them out onto the grass.
@@ -1552,7 +1552,7 @@ M|upset mother if they haven't returned by the assigned time.]
 O|
 S|EXT: COMMUNITY: DAY
 O|
-N|Establishing shot of the neighborhood. On a hilltop by a fence stands
+N,G|Establishing shot of the neighborhood. On a hilltop by a fence stands
 N|another person in a white sheet (presumably Gertie). She kicks dirt at the
 N|bicycle near the fence.
 O|
@@ -1564,7 +1564,7 @@ S|EXT: STREET: DAY
 O|
 N|The sun is setting. Children in Halloween costumes walk through the
 N|streets. E.T. walks between Mike and Elliott, as he watches the other
-N,I|children parade by. One child dressed as YODA from RETURN OF THE JEDI walks
+N|children parade by. One child dressed as YODA from RETURN OF THE JEDI walks
 N,U|by. E.T. turns and walks after him saying "HOME,HOME."
 O|
 M|[The laughter is obviously the result of E.T. misinterpreting the situation
@@ -1653,7 +1653,7 @@ M|house so that the antagonist can invade their home. She could have stayed
 M|inside, we never see her in the car searching for the children, and the
 M|next time we do see her is by the refrigerator in the kitchen.]
 O|
-N,I|Men get out of a parked car as Mary drives away. They take suitcases out of
+N|Men get out of a parked car as Mary drives away. They take suitcases out of
 N|a second car, then walk up the driveway to Elliott's house.
 O|
 S|EXT: FOREST: NIGHT
@@ -1684,9 +1684,9 @@ O|
 S|INT: HALLWAY: NIGHT
 O|
 N|A pile of yellow electrical cord is stacked on the floor near a chair. It
-N,I|slowly unwinds as it is pulled by someone in Elliott's room. The door to
+N|slowly unwinds as it is pulled by someone in Elliott's room. The door to
 N|Elliott's room is shut, with a poster sign hanging on it saying "DO NOT
-N,I|ENTER." The silhouette of a man passes behind the door, as sounds of a
+N|ENTER." The silhouette of a man passes behind the door, as sounds of a
 N|Geiger counter filter into the air. Muffled voices are heard as the cord is
 N|pulled to its fullest extent. It forces a chair to slam against the wall.
 O|
@@ -1756,7 +1756,7 @@ O|
 S|INT: ELLIOTT'S HOUSE: DAY
 O|
 N|Mary opens the refrigerator door and puts back a carton of milk. Mike and
-N,I|Gertie sit besides her. A policeman asks Mary how Elliott was dressed when
+N|Gertie sit besides her. A policeman asks Mary how Elliott was dressed when
 N|she last saw him. Mary tells him that he was dressed as a hunchback. The
 N|policeman, whose face is not shown (I suppose so that the audience will
 N|associate him as "one of them"), asks Mary if there is any indication that
@@ -1827,7 +1827,7 @@ M|above him in the unseen presence of the ever observing antagonist.]
 O|
 S|EXT: ELLIOTT'S HOUSE: DAY
 O|
-N,I|The shadow of a man falls on the driveway. The sound of keys jangling is
+N|The shadow of a man falls on the driveway. The sound of keys jangling is
 N|heard.
 O|
 M|[High jeopardy: the antagonist is about to invade the home of the
@@ -1873,13 +1873,13 @@ O|
 N|Mary carries Elliott down the stairs. He protests that she can't leave E.T.
 N|alone. Michael runs down the stairs with Gertie on his back. He opens the
 N|door, freezes, then backs away. Mary, with Elliott in her arms, approaches
-N,I|the door and is confronted by a man in a spacesuit.
+N|the door and is confronted by a man in a spacesuit.
 O|
 N|Mary backs into the living room as the spaceman enters and reaches out for
 N|her. She goes in the opposite direction, only to run into another man in a
 N|spacesuit. She runs into the kitchen, followed by Mike carrying Gertie. The
 N|are blocked by still another spaceman with outstretched arms. Mary and her
-N,I|children are backed into a corner. Another man in a spacesuit opens up the
+N|children are backed into a corner. Another man in a spacesuit opens up the
 N,C,P,U|window blinds from the outside. Mary shouts "THIS IS MY HOME."
 O|
 S|EXT: STREET: DAY
@@ -1899,7 +1899,7 @@ M|her children.]
 O|
 S|EXT: STREET: DAY
 O|
-N,I|Men in helmets walk up a street as they push a large plastic tunnel. Police
+N|Men in helmets walk up a street as they push a large plastic tunnel. Police
 N|cars slowly drive up the street, as faceless men march to a drumbeat.
 O|
 M|[This is the beginning of the third act with the forces of the antagonist
@@ -1907,7 +1907,7 @@ M|in complete control.]
 O|
 S|EXT: STREET: NIGHT
 O|
-N,I|Men with welding torches work on a truck. The plastic tunnel leads up the
+N|Men with welding torches work on a truck. The plastic tunnel leads up the
 N|driveway to Elliott's house. The faces of the men are still not shown. They
 N|are either wearing helmets or are silhouettes.
 O|
@@ -1916,11 +1916,11 @@ O|
 N|The man with keys jangling on his side is putting on a pair of light-blue
 N|pants.
 O|
-S,T|INTERCUT: STREET
+T|INTERCUT: STREET
 O|
-N,I|Men are working outside. Large bright lights flood the area.
+N|Men are working outside. Large bright lights flood the area.
 O|
-S,T|INTERCUT: "KEYS"
+T|INTERCUT: "KEYS"
 O|
 N|The man in the blue suit puts on a white pair of plastic gloves. Red and
 N|black colors on his cuff are associated with his keys as ominous music
@@ -1939,7 +1939,7 @@ O|
 N|Finally, the antagonist's face is shown. His head is covered by a blue hood
 N|while a light under his face mask accentuates his white shirt.
 O|
-N,I|Mary stands in the middle of the room with Gertie at her side. A doctor
+N|Mary stands in the middle of the room with Gertie at her side. A doctor
 N|asks her questions about E.T., but Mary is more concerned with Elliott's
 N|state. A nurse cuts a lock from Gertie's hair (presumably for analysis),
 N|while both Elliott and E.T. can be seen on a video monitor. This nurse
@@ -1956,7 +1956,7 @@ M|to a character new to the story.]
 O|
 S|INT: CHAMBER: DAY
 O|
-N,I|A man stands in what appears to be a decontamination chamber.
+N|A man stands in what appears to be a decontamination chamber.
 O|
 S|INTERCUT: MEDICAL INSTRUMENTS
 O|
@@ -1969,7 +1969,7 @@ M|merged and are to be considered as one being.]
 O|
 S|INT: MEDICAL ROOM: DAY
 O|
-N,I|Two people in white suits zip open a plastic covering and enter the room
+N|Two people in white suits zip open a plastic covering and enter the room
 N|where Elliot and E.T. are being examined.
 O|
 M|[The color white traditionally signifying purity. A transition in the
@@ -2006,7 +2006,7 @@ M|function. For the rest of the film the forces of the United States
 M|Government, who attempt to block E.T.'s escape, will function as the
 M|antagonist.]
 O|
-N,I|Another Doctor dressed in white enters the room and announces that E.T. has
+N|Another Doctor dressed in white enters the room and announces that E.T. has
 N|DNA. Suddenly, a display screen shows a drop in E.T. and Elliott's graphs.
 N|One doctor says there's a drop in the creature's blood temperature, while
 N|another states that Elliott's condition is stabilizing: his blood pressure
@@ -2067,8 +2067,8 @@ M|[Previously, the vans and cars associated with the antagonist were of dark
 M|colors. The color changes allows the filmmaker to use culturally determined
 M|color associations to manipulate the audience's emotional responses.]
 O|
-N,I|Police and other officials walk past a white van, white truck, police cars
-N,I|and other white vehicles towards a tan colored car. Mike's friends sit on
+N|Police and other officials walk past a white van, white truck, police cars
+N|and other white vehicles towards a tan colored car. Mike's friends sit on
 N|their bikes behind police barriers. They make comments that something has
 N|just happened inside the house.
 O|
@@ -2173,7 +2173,7 @@ N|Elliott runs down the tunnel past two men dressed in blue, then enters the
 N|back of the van. Elliott then pulls aside the white curtains that separate
 N|the drivers compartment from the back of the van to reveal Michael in the
 N|driver's seat. He to is wearing a blue jacket. Elliott yells at Mike for
-N,I|not wearing his mask. Suddenly, a black official walks by the van, spots
+N|not wearing his mask. Suddenly, a black official walks by the van, spots
 N|Mike in the driver's seat, and knocks on the window. He holds a
 N|walkie-talkie in his hand as he asks Mike who he is. Mike responds that
 N|he's driving. The official tells Mike to open the door. When Mike looks to
@@ -2181,7 +2181,7 @@ N|Elliott for advice, Elliott tells him to drive away.
 O|
 M|[Elliott and Mike's objective is to escape with E.T.]
 O|
-N,I|A group of men approach the van. Mike screams that he's never driven
+N|A group of men approach the van. Mike screams that he's never driven
 N|forward before, shifts into first gear, and drives away.
 O|
 M|[This is the payoff to the scene of Mike incompetently backing the car down
@@ -2190,7 +2190,7 @@ O|
 N|As Mike drives away he drags along the plastic tunnel with the two men
 N|still inside. Mike briefly stops by his friends and tells them to meet him
 N|at the playground at the top of he hill. He then drives away, pursued by a
-N,I|group of men. Mike's friends put on their hats and sun- glasses, and join
+N|group of men. Mike's friends put on their hats and sun- glasses, and join
 N|the fray.
 O|
 M|[The chase is on. Suspense is created because the audience wonders whether
@@ -2287,9 +2287,9 @@ N|him. Police cars encircle them and try to cut them off. The bikers turn off
 N|the main road and ride into a dirt field. A tan car with "UNITED STATES
 N|GOVERNMENT" written on the driver's door rides parallel to the bikers.
 O|
-N,I|Two men ride inside the tan car. One speaks into the car radio saying that
+N|Two men ride inside the tan car. One speaks into the car radio saying that
 N|they'll get them at the bottom of the hill. The tan car pulls into the base
-N,I|of the hill and stops. One man gets out and starts to climb up the
+N|of the hill and stops. One man gets out and starts to climb up the
 N|embankment. The bikers almost run him over. They ride over the hood of the
 N|car, then continue down the street, now pursued by a blue police car.
 O|
@@ -2305,7 +2305,7 @@ M|[It seems that the chase is over and they have eluded the antagonist.]
 O|
 N|The biker's are overjoyed by their victory. One takes off his hat, waves it
 N,P,U|in the air, and shouts "We've made it!" Suddenly, he quickly ducks to avoid
-N,I|being grabbed by a man. A group of men continue the chase. Several cars
+N|being grabbed by a man. A group of men continue the chase. Several cars
 N|pull up ahead and form a blockade in the road.
 O|
 N|Elliott and E.T. ride forward. Horror grows on Elliott's face as he stares
@@ -2325,7 +2325,7 @@ O|
 N|The shadow of a shotgun covers the sign. Next, two shotguns are raised
 N|against E.T. and Elliott.
 O|
-N|Elliott shuts his eyes with fear. There is a closeup of E.T.'s face. With
+N,G|Elliott shuts his eyes with fear. There is a closeup of E.T.'s face. With
 N|shotguns drawn, government agents gesture for them to stop.
 O|
 M|[This is the life and death final moment before the climax. The audience
@@ -2408,7 +2408,7 @@ M|[Orange and blue were also the colors of E.T.'s makeshift communication
 M|device as found by Mike in the forest.]
 O|
 N|Mary watches and laughs with happiness. The other boys also watch, as Mike
-N|holds Gertie in his arms. The film ends with a shot of Elliott gazing up
+N,G|holds Gertie in his arms. The film ends with a shot of Elliott gazing up
 N|into the sky.
 O|
 M|THE END

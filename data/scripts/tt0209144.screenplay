@@ -4,16 +4,16 @@ O|
 S|1    INT. DERELICT HOUSE - DAY >    1
 O|
 N|A POLAROID PHOTOGRAPH, clasped between finger and thumb: a
-N,I|crude, crime scene flash picture of a MAN'S BODY lying on a
+N|crude, crime scene flash picture of a MAN'S BODY lying on a
 N|decaying wooden floor, a BLOODY MESS where his head should
 N|be.
 O|
-N,G|The image in the photo starts to FADE as we SUPER TITLES. The
+N,M|The image in the photo starts to FADE as we SUPER TITLES. The
 N|hand holding the photo suddenly FANS it in a rapid FLAPPING
 N|motion, then holds it still. The image fades more, and again
 N|the picture is FANNED.
 O|
-N,G|As TITLES END the image fades to nothing. The hand holding
+N,M|As TITLES END the image fades to nothing. The hand holding
 N|the photo FLAPS it again, then places it at the front of a
 N|POLAROID CAMERA.
 O|
@@ -273,7 +273,7 @@ O|
 S|6    INT. DISCOUNT INN OFFICE - DAY >         6
 O|
 N,G|E.C.U. of fingers rifling bills in a wallet. Leonard counts
-N|out some money and hands it to the fat, sweaty middle-aged
+N,I|out some money and hands it to the fat, sweaty middle-aged
 N,I|man behind the counter. (BURT). Burt takes the money,
 N|spotting something over Leonard's shoulder.
 O|
@@ -722,7 +722,7 @@ O|
 N|"THE FACTS:"
 O|
 N|Leonard is about to roll his sleeve up further when the
-N,I|restroom door opens and a MAN enters. Leonard dries his
+N|restroom door opens and a MAN enters. Leonard dries his
 N|hands, then exits the rest room.
 O|
 S|18   INT. RESTAURANT - DAY >                18
@@ -730,7 +730,7 @@ O|
 N|Leonard emerges .nto the waiting area of a crowded
 N|restaurant. He glances around, lost, then pulls out his
 N|Polaroids, flipping through them. Someone taps him on his
-N,I|shoulder and he turns to see the smiling face of a waiter.
+N|shoulder and he turns to see the smiling face of a waiter.
 O|
 C|                WAITER
 U|        Sir? You left these at your table.
@@ -1197,7 +1197,7 @@ U|        eyes, remember her.
 O|
 N|Leonard smiles and shuts his eyes.
 O|
-G|INSERT FLASHBACK:
+T,M|INSERT FLASHBACK:
 O|
 S|25   INT. LEONARD'S APARTMENT - DAY >         25
 O|
@@ -1312,7 +1312,7 @@ O|
 O|27   CONTINUED:                             27
 O|
 N|Leonard is about to roll his sleeve up further when the
-N,I|restroom door opens and a MAN enters. Leonard dries his
+N|restroom door opens and a MAN enters. Leonard dries his
 N|hands, then exits the rest room.
 O|
 S,G|28   INT. MOTEL ROOM 21 - DAY ##BLACK AND WHITE SEQUENCE##       28
@@ -1342,7 +1342,7 @@ O|
 S,G|29   INT. LEONARD'S OFFICE - DAY ##BLACK AND WHITE SEQUENCE##    29
 O|
 N,G|Montage: Leonard, wearing a CHEAP DARK SUIT and TIE, sitting
-N,I|opposite various DIFFERENT PEOPLE in an interview situation.
+N|opposite various DIFFERENT PEOPLE in an interview situation.
 O|
 C,E|                LEONARD(V.0.)
 U|        Throw in the occasional "why?" but just
@@ -1572,7 +1572,7 @@ U|        can't get a handle on what's going on.
 O|
 S,G|39   INT. A DOCTOR'S OFFICE - DAY ##BLACK AND WHITE SEQUENCE##    39
 O|
-N,I|A DOCTOR examines SAMMY'S head. SAMMY'S WIFE looks on.
+N|A DOCTOR examines SAMMY'S head. SAMMY'S WIFE looks on.
 O|
 C,E|                LEONARD(V.O.)
 U|        The doctors find some possible damaqe to
@@ -1675,7 +1675,7 @@ U|        I can read people and I'm thinking bad             *
 U|        actor. Now I'm suspicious and I order
 U|        more tests.
 O|
-G,T|CUT BACK TO LEONARD IN MOTEL ROOM:
+T|CUT BACK TO LEONARD IN MOTEL ROOM:
 O|
 O|
 O|MEMENTO Pink Revisions - 9/7/99
@@ -1901,7 +1901,7 @@ U|        conditioning...
 O|
 S,G|48   INT. EXAMINATION ROOM - DAY ##BLACK AND WHITE SEQUENCE##    48
 O|
-N,I|Sammy sits at a table. A DOCTOR sits opposite pointing out
+N|Sammy sits at a table. A DOCTOR sits opposite pointing out
 N|various METAL OBJECTS sitting on the table.
 O|
 C|                DOCTOR
@@ -1938,7 +1938,7 @@ C,E|                LEONARD (V.O.)
 U|        Some of the objects were electrified,
 U|        They'd give him a small shock.
 O|
-G,T|BACK TO LEONARD IN MOTEL ROOM
+T|BACK TO LEONARD IN MOTEL ROOM
 O|
 S,G|49   INT. MOTEL ROOM 21 - DAY #BLACK AND WHITE SEQUENCE#        49
 O|
@@ -1954,7 +1954,7 @@ S|FURNISHED - MORNING >
 O|
 N|Leonard opens his eyes, naked in bed. He looks around,
 N|confused. With a START, he realizes that someone else is in
-N,I|the bed: a BRUNETTE with her back to him.
+N|the bed: a BRUNETTE with her back to him.
 O|
 N|Leonard leans right over her to get a look at her face. It is
 N|NATALIE. The BRUISE on her eye and the MARK on her lip are
@@ -2173,7 +2173,7 @@ U|        previous cases of short-term memory loss
 U|        had responded to conditioning in some
 U|        way. Sammy didn't respond at all.
 O|
-G,T|BACK TO LEONARD IN MOTEL ROOM
+T|BACK TO LEONARD IN MOTEL ROOM
 O|
 S,G|55   INT. MOTEL ROOM 21 - DAY #BLACK AND WHITE SEQUENCE#        55
 O|
@@ -2542,7 +2542,7 @@ O|
 N|Natalie, eyes open, slides her hand over to where Leonard was
 N|lying, feeling his residual warmth.
 O|
-N|ii    61   INT. NATALIE'S LIVING ROOM - NIGHT >
+S|ii    61   INT. NATALIE'S LIVING ROOM - NIGHT >
 O|61
 O|
 N|Leonard has his Polaroid photograph of Natalie out. He takes
@@ -2601,7 +2601,7 @@ O|
 N|Sammy's Wife THROWS her drink in Sammy's face, puts her head
 N|in her hands, SOBBING. Sammy wipes his face on his sleeve.
 O|
-G,T|BACK TO LEONARD IN MOTEL ROOM:
+T|BACK TO LEONARD IN MOTEL ROOM:
 O|
 S,G|65   INT. MOTEL ROOM 21 - DAY ##BLACK AND WHITE SEQUENCE##       65
 O|
@@ -2638,7 +2638,7 @@ O|
 N,G|We move along a hallway towards a closed door. An ominous      *
 N|rumbling builds.
 O|
-G|A66  INSERT QUICK CUTS:                               A66
+T|A66  INSERT QUICK CUTS:                               A66
 O|
 G|TREMBLING, SHALLOW-FOCUS EXTREME CLOSE UPS:
 O|
@@ -2700,7 +2700,7 @@ N|Leonard turns, looks over the rest of the room. He moves to
 N|the bureau and opens drawers. Empty. He goes to the closet
 N|and OPENS it.
 O|
-N,I|Inside is a BOUND and GAGGED MAN on the floor, knees against
+N|Inside is a BOUND and GAGGED MAN on the floor, knees against
 N|chest. His mouth is taped up with silver electrical tape,
 N|stained with DRIED BLOOD from his swollen nose. He looks up
 N|at Leonard, blinking in the sudden bright light, TERRIFIED.
@@ -2713,7 +2713,7 @@ N|peephole.
 O|
 S|68   INT./EXT. DODD'S MOTEL - DAY >           68
 O|
-G|INSERT LEONARD'S P.O.V.:
+T,G|INSERT LEONARD'S P.O.V.:
 O|
 N|A FISH-EYE TEDDY, grinning and waving.
 O|
@@ -3089,7 +3089,7 @@ O|
 N|Leonard SHOWERS. He turns the water off, then hears the DOOR
 N|BEING UNLOCKED. Leonard freezes, standing in the SHOWER
 N|STALL, NAKED and DRIPPING. Through the distortion of the
-N,I|PEBBLED PLASTIC DOOR, Leonard sees a FIGURE enter the
+N|PEBBLED PLASTIC DOOR, Leonard sees a FIGURE enter the
 N|bathroom and start pissing into the toilet. The distorted
 N|Figure turns and approaches the shower stall, becoming
 N|clearer as it gets closer, then YANKS the door open. It is
@@ -3220,7 +3220,7 @@ O|
 N|He examines the NEEDLE, then holds it in the flame again.
 O|
 N|Leonard puts down the lighter and picks up a second BALL-
-S|POINT PEN.
+N|POINT PEN.
 O|
 S|80   EXT. DODD'S MOTEL - DAY >               80
 O|
@@ -3248,7 +3248,7 @@ O|
 N|Leonard watches the POINT OF LIGHT in the PEEPHOLE to Room 9.
 O|
 N|The point of light GOES OUT. Leonard KICKS the door in,
-N,I|SMASHING THE ROOM'S OCCUPANT BACK INTO THE ROOM.
+N|SMASHING THE ROOM'S OCCUPANT BACK INTO THE ROOM.
 O|
 N|Leonard stands over him, looking down. The man is
 N|unconscious, blood on his face. Something is not right.
@@ -3685,7 +3685,7 @@ O|
 S|105      INT. LEONARD'S APARTMENT BATHROOM - NIGHT SEQUENCE>>105
 O|
 N|The wet plastic shower curtain pulls TAUT across a GASPING,
-N,I|THRASHING FEMALE FACE.
+N|THRASHING FEMALE FACE.
 O|
 S|106  INT. MOTEL ROOM 304 - NIGHT >            106
 O|
@@ -3698,7 +3698,7 @@ N|Leonard GRABS the handle, THROWS OPEN THE DOOR.
 O|
 S|107  INT. STEAM-FILLED BATHROOM ROOM 304 - NIGHT SEQUENCE>>
 O|
-N,I|A BLONDE WOMAN in a silk dressing gown, seated on the toilet,
+N|A BLONDE WOMAN in a silk dressing gown, seated on the toilet,
 N|looks up from SNORTING a line of cocaine off a small hand
 N|mirror. She GIGGLES as she speaks to Leonard.
 O|
@@ -5082,7 +5082,7 @@ C,E|                LEONARD (cont'd)
 U|        I told them what I remembered. I was
 U|        asleep, something woke me up...
 O|
-T|CUT TO FLASHBACK >
+T,M|CUT TO FLASHBACK >
 O|
 S|127  INT. LEONARD'S APARTMENT BEDROOM - NIGHT > 127
 O|
@@ -5102,7 +5102,7 @@ N,G|We move down the hail towards a closed door. Shadows and       *
 N|light play across the floorboards from the gap under the       *
 N|door. An ominous rumbling builds.                         *
 O|
-G|A128 INSERT QUICK CUTS:                               A128
+T|A128 INSERT QUICK CUTS:                               A128
 O|
 G|Extreme close ups:
 O|
@@ -5116,10 +5116,10 @@ N|then quietly makes his way into the corridor.
 O|
 S|A129 INT. LEONARD'S APARTMENT BATHROOM - NIGHT SEQUENCE>>
 O|
-N,I|He KICKS the door open, revealing two figures struggling on
+N|He KICKS the door open, revealing two figures struggling on
 N|the floor of a BATHROOM.
 O|
-N,I,G|Close up of a WOMAN'S FACE, wrapped in the wet clear plastic
+N,G|Close up of a WOMAN'S FACE, wrapped in the wet clear plastic
 N|shower curtain, STRUGGLING to breathe.
 O|
 O|                            (CONTINUED)
@@ -5146,7 +5146,7 @@ O|
 N|A SHOT rings out and the white cotton mask is BLOWN into RED,
 N|the Masked Man falling of f the struggling woman. Leonard
 N|stands in the doorway, smoking gun in hand. He is HIT HARD
-N,I|from behind by an UNSEEN ASSAILANT who GRABS Leonard by the
+N|from behind by an UNSEEN ASSAILANT who GRABS Leonard by the
 N|HAIR and THROWS his HEAD into the MIRROR, SHATTERING IT.
 N|Leonard DROPS to the floor.
 O|
@@ -5220,7 +5220,7 @@ O|
 N|Natalie smiles unconvincingly, perturbed, and exits. Leonard
 N|sits down on the couch and writes "Natalie" on the white
 N|strip under her photo as it develops into the blurred image
-N|of Natalie which we have seen before. He takes out his other
+N,M|of Natalie which we have seen before. He takes out his other
 N|Polaroids, flipping through them.
 O|
 N|LATER:
@@ -5290,7 +5290,7 @@ O|
 S|132  INT. FERDY'S BAR - DAY >                132
 O|
 N|Leonard sits at a booth looking through his Polaroids. A
-N,I|DRUNK with shaky hands sits at the bar. Natalie (without
+N|DRUNK with shaky hands sits at the bar. Natalie (without
 N|bruises) is working behind the bar. She tops up a silver
 N|tankard with beer, brings it over and sets it in front of
 N|Leonard, smiling.
@@ -5340,11 +5340,11 @@ C|                NATALIE
 U|        What's the last thing you remember?
 U|        Leonard looks at her.
 O|
-T|CUT TO FLASHBACK:
+T,M|CUT TO FLASHBACK:
 O|
 S|133  INT. LEONARD'S BATHROOM - NIGHT >        133
 O|
-N,G,I|An extreme close up, from floor level, of a woman's staring
+N,G|An extreme close up, from floor level, of a woman's staring
 N,G|eyes seen through water-beaded, blood-spattered clear
 N|plastic.
 O|
@@ -5352,7 +5352,7 @@ N|The EYES BLINK.
 O|
 S|134  INT. FERDY'S BAR - DAY >                134
 O|
-G|BACK TO LEONARD IN BAR:
+T|BACK TO LEONARD IN BAR:
 O|
 N|Leonard looks at Natalie.
 O|
@@ -5429,7 +5429,7 @@ O|
 S|139  INT. FERDY'S BAR ON MAIN STREET - DAY >    139
 O|
 N|Leonard enters and sits at the bar a couple of places down
-N,I|from a filthy, toothless Drunk. Natalie (without bruises)
+N|from a filthy, toothless Drunk. Natalie (without bruises)
 N|appears in front of him. Leonard looks up at Natalie without
 N|recognition. She eyes him coldly, staring at his clothes.
 O|
@@ -5581,7 +5581,7 @@ P|            (quiet)
 O|
 U|        Your pocket.
 O|
-N,I|She retreats down the bar to attend to a CUSTOMER, eyeing
+N|She retreats down the bar to attend to a CUSTOMER, eyeing
 N|Leonard suspiciously as he pulls out his Polaroids.
 O|
 N|LATER:
@@ -5861,7 +5861,7 @@ O|
 S,G|143  INT. CROWDED DAY ROOM OF A NURSING HOME - DAY ##BLACK AND    143
 S,G|WHITE SEQUENCE##
 O|
-N,I|Sammy sits watching other patients and nursing staff pass by.
+N|Sammy sits watching other patients and nursing staff pass by.
 N|(LEONARD TO SUBSTITUTE) He looks at each one with a fresh
 N|look of expectant recognition.
 O|
@@ -5923,7 +5923,7 @@ N|"TATTOO: FACT 6. CAR LICENSE: SG13 7IU"
 O|
 S|146  INT. TATTOO PARLOR - DAY >              146
 O|
-N,I|Leonard (beige suit) enters. A TATTOOIST is sitting with a
+N|Leonard (beige suit) enters. A TATTOOIST is sitting with a
 N|magazine, smoking.
 O|
 C|                LEONARD
@@ -6269,7 +6269,7 @@ O|
 S,G|155  INT. DISCOUNT INN OFFICE - DAY ##BLACK AND WHITE SEQUENCE##  155
 O|
 N|The BELL CHIMES as Leonard enters. Burt is behind the
-N,I|counter. A MAN stands by the free coffee. The Man TURNS        *
+N|counter. A MAN stands by the free coffee. The Man TURNS        *
 N|AROUND. It is Teddy, with a big grin.
 O|
 C|                TEDDY
@@ -6367,7 +6367,7 @@ N,I|smartly dressed in BEIGE SUIT and BLUE SHIRT. This is JIMMY,
 N|the young man from Natalie's photograph. He looks at the
 N|truck then at the house.
 O|
-S|161  INT. DERELICT BUILDING - DAY ##BLACK AND WHITE SEQUENCE##    161
+S,G|161  INT. DERELICT BUILDING - DAY ##BLACK AND WHITE SEQUENCE##    161
 O|
 N|Leonard steps back into the shadows of the crumbling kitchen.
 N|Jimmy approaches the doorway, peering into the dark hallway.
@@ -6410,10 +6410,10 @@ O|
 C,E|                JIMMY (cont'd)
 U|        Well?
 O|
-T|                            FLASHBACK TO:
+T,M|                            FLASHBACK TO:
 O|
 S,G|162    INT. LEONARD'S APARTMENT BATHROOM - NIGHT ##BLACK AND WHITE 162
-S,G|SEQUENCE##
+S|SEQUENCE##
 O|
 N|Leonard's wife, head wrapped in a water-beaded clear plastic
 N|shower curtain, THRASHING around, GASPING for breath.
@@ -6588,7 +6588,7 @@ N|Leonard leafs through his Polaroids finding the one of Teddy.
 N|There is nothing on the back. He sticks his Polaroids back in
 N|his pocket, pausing at the one of the STRANGLED JIMMY.
 O|
-C|                LEONARD (V.0.)                        *
+C,E|                LEONARD (V.0.)                        *
 U|        What have I done?                              *
 O|
 S|171  EXT. DERELICT BUILDING - DAY >           171
@@ -6843,8 +6843,8 @@ O|
 S|175  INT. LEONARD'S APARTMENT - DAY >         175
 O|
 N|Leonard's Wife sitting on the edge of the bed. She feels a
-N|sharp pain, and turns to Leonard (just as we have seen
-N|before).
+N,M|sharp pain, and turns to Leonard (just as we have seen
+M|before).
 O|
 C|                LEONARD'S WIFE
 U|        Gentle.
@@ -7229,7 +7229,7 @@ U|        can't remember them. I have to believe
 U|        that when my eyes are closed, the world's
 U|        still there.
 O|
-N|Leonard CLOSES HIS EYES, driving blind. Stay on Leonard, not
+N,G|Leonard CLOSES HIS EYES, driving blind. Stay on Leonard, not
 N|seeing the road ahead, hearing cars whip past.
 O|
 C,E|                LEONARD (V.O.) (cont'd)
