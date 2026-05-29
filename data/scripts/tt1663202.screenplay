@@ -60,7 +60,7 @@ N|          BOAT. We hear the VOICES EVEN CLEARER... MEN'S VOICES, as we
 N|          rise up the bow... see it's a FLATBOAT BEACHED ON A SANDBAR
 N|          at the center of the river.
 O|                         
-N,I|          Beyond the flatboat are the voices... TWENTY MEN of the Rocky
+|          Beyond the flatboat are the voices... TWENTY MEN of the Rocky
 N|          Mountain Fur Company, making camp along the shore... hauling
 N|          wood, building campfires, pitching squares of canvas for
 N|          makeshift rooftops. And this camp is full of life because
@@ -237,10 +237,10 @@ N|          the back of the neck... erupts out the front of his throat.
 O|                         
 N|          Boone stands frozen... confused... reaches up and grabs the
 N|          bloody arrow... finally drops to his knees. And that's when
-N,I|          a TRAPPER looks up... sees Boone on his knees, holding that
+N|          a TRAPPER looks up... sees Boone on his knees, holding that
 N|          arrow, his mouth open like a dying fish.
 O|                         
-N,I|          AND BEYOND BOONE ARE FORTY ARIKARA WARRIORS CHARGING THROUGH
+N|          AND BEYOND BOONE ARE FORTY ARIKARA WARRIORS CHARGING THROUGH
 N|          THE TREES... FEATHERS RISING FROM THE MOHAWKS SPLITTING THEIR
 N|          SHAVED HEADS... FACES PAINTED FOR BATTLE.
 O|                         
@@ -266,7 +266,7 @@ N|          mix of war cries and screams of death.
 O|                         
 N|          Fitzgerald rises up from behind a log... aims his rifle...
 N|          BOOM... takes down one of the warriors. He starts reloading
-N,I|          as ANOTHER WARRIOR charges him... draws back his knife.
+N|          as ANOTHER WARRIOR charges him... draws back his knife.
 N|          Fitzgerald pours the powder, but knows he isn't going to make
 N|          it in time... the warrior leaps toward him...
 O|                         
@@ -284,7 +284,7 @@ C,E|                          GLASS (CONT'D)
 P|                          (TO HENRY)
 U|           THE BOAT, CAPTAIN!
 O|                         
-N,I|          Henry shoves a TRAPPER toward the water. An arrow drives
+N|          Henry shoves a TRAPPER toward the water. An arrow drives
 N|          into the trapper's leg... he goes down. Henry lifts the man
 N|          to pull him into the river, but several more arrows bury in
 N|          the man's back... he falls limp. Henry FIRES HIS PISTOLS,
@@ -300,8 +300,8 @@ N|          Glass is still in the shallows... aims his pistol... BAM...
 N|          shoots an oncoming warrior... spins after the other men...
 N|          joins them as they near the flatboat.
 O|                         
-N,I|          A final TRAPPER charges down the shore behind them. SEVERAL
-N,I|          WARRIORS pursue him.
+N|          A final TRAPPER charges down the shore behind them. SEVERAL
+N|          WARRIORS pursue him.
 O|                         
 C|                          TRAPPER
 U|           WAIT!
@@ -323,7 +323,7 @@ N|          Glass and the men shove the flatboat off the sandbar... start
 N|          scrambling aboard, as arrows dart past them... drive into the
 N|          wooden boat.
 O|                         
-N,I|          Suddenly a WARRIOR EXPLODES FROM THE WATER... tackles Bridger
+N|          Suddenly a WARRIOR EXPLODES FROM THE WATER... tackles Bridger
 N|          as he climbs up the side of the flatboat... jerks him back
 N|          into the river. Bridger flails in the water... watches the
 N|          warrior raise his hatchet high to slam down... just as Glass
@@ -348,8 +348,8 @@ O|
 N|          Fitzgerald and Glass grab LONGPOLES... shove them against the
 N|          river's bottom to pick up speed.
 O|                         
-N,I|          Henry stands on deck, watching as Elk's Tongue yanks a DYING
-N,I|          TRAPPER's head back by his hair to peel away his scalp.
+N|          Henry stands on deck, watching as Elk's Tongue yanks a DYING
+N|          TRAPPER's head back by his hair to peel away his scalp.
 O|                         
 N|          Henry drops his eyes... can't watch. The TRAPPER'S SCREAM
 N|          ECHOES OVER HIM.
@@ -358,13 +358,13 @@ O|
 S|          EXT. MISSOURI RIVER/FLATBOAT - LATER
 O|                         
 N|          Quiet and dark... the battle long over. The flatboat floats
-N,I|          with the gentle current. The NINE SURVIVING TRAPPERS are
+N|          with the gentle current. The NINE SURVIVING TRAPPERS are
 N|          scattered around the deck...
 O|           7.
 N,I|          Glass digging an arrow out of WALLACE MURPHY'S SHOULDER...
 N|          Fitzgerald poling on one side with Anderson on the other...
 N,I|          STUBBY BILL VANCE and Pig standing patrol with their
-N,I|          rifles... Bridger doctoring a badly WOUNDED TRAPPER... and
+N|          rifles... Bridger doctoring a badly WOUNDED TRAPPER... and
 N|          Henry standing at the front of the flatboat, staring off
 N|          blankly.
 O|                         
@@ -1425,7 +1425,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          GLASS' POV - ON BRIDGER...
+G|          GLASS' POV - ON BRIDGER...
 O|                         
 N|          ...the boy looking away as he pulls the rag over our eyes...
 N|          everything goes black.
@@ -1569,7 +1569,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          GLASS' POV - ON FITZGERALD...
+G|          GLASS' POV - ON FITZGERALD...
 O|                         
 N|          ...smiling down at Glass as he grabs the Anstadt, holds it...
 N|          runs his hand down the barrel, as comfortable as if it were
@@ -1578,8 +1578,8 @@ O|
 C|                          FITZGERALD
 U|           You were right to protect this.
 O|                         
-N|          Then he disappears... and we're left alone, staring up at the
-N|          branches above us... the evening sky... accompanied by Glass'
+N,G|          Then he disappears... and we're left alone, staring up at the
+N,G|          branches above us... the evening sky... accompanied by Glass'
 N|          deathly breaths.
 O|                         
 T|                          DISSOLVE TO:
@@ -1834,7 +1834,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          GLASS' POV - OUT OF THE GRAVE... TIGHT AND CLAUSTROPHOBIC...
+G|          GLASS' POV - OUT OF THE GRAVE... TIGHT AND CLAUSTROPHOBIC...
 N|          JUST THE NIGHT SKY THROUGH THOSE BRANCHES... AND THE SOUND OF
 N|          HIS PAINFUL BREATHS.
 O|                         
@@ -2088,7 +2088,7 @@ S|          EXT. MARSH - DAY
 O|                         
 N|          Thick with a sea of four-foot high Cattails... like miniature
 N,G|          cornstalks. Looking down from above the marsh we see a two-
-N|          foot wide path of crushed plants that reaches the center of
+N,G|          foot wide path of crushed plants that reaches the center of
 N|          the marsh, and stops.
 O|                         
 N,G|          We tighten on the end of the path, until we see Glass lying
@@ -2183,7 +2183,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          GLASS' POV - ON A RATTLESNAKE COILED INCHES FROM HIS FACE.
+N,G|          GLASS' POV - ON A RATTLESNAKE COILED INCHES FROM HIS FACE.
 O|                         
 N|          Glass stares back in horror... has time to throw up his arm
 N|          in protection as the snake STRIKES... SINKS ITS FANGS INTO
@@ -2344,7 +2344,7 @@ N,G|          And then a VULTURE'S HEAD DROPS INTO FRAME...
 O|                         
 N|          ...latches its beak onto Glass' cheek... tugs at it...
 N,G|          stretches it. Glass' eyes pop open... we PULL BACK to see
-N|          THREE VULTURES surrounding Glass' body, pecking and clawing
+N,G|          THREE VULTURES surrounding Glass' body, pecking and clawing
 N|          at his battered wounds.
 O|           44.
 O|                         
@@ -2441,7 +2441,7 @@ S|          EXT. CAVE - NIGHT
 O|                         
 N|          Rain pouring... gullies of water run down the ridge, spewing
 N|          over the mouth of the cave. But inside, Glass doesn't
-N|          stir... lying there just as we last saw him.
+N,M|          stir... lying there just as we last saw him.
 O|                         
 O|                         
 S|          EXT. GRAND RIVER - DAY
@@ -2501,7 +2501,7 @@ N|          at the deer... pulls the trigger. If only he had his Anstadt.
 O|                         
 N|          But then the deer's head snaps... to something beyond Glass.
 N|          Glass follows the animal's eyes... turns to the ridge... and
-N,I|          the FIVE ARIKARA WARRIORS STANDING AT GLASS' CAVE.
+N|          the FIVE ARIKARA WARRIORS STANDING AT GLASS' CAVE.
 O|                         
 N|          Glass drops flat to the ground behind a tree uprooted in the
 N|          flood. He looks back across the river... THE DEER IS LONG
@@ -2730,8 +2730,8 @@ O|
 S|          INT. LODGE/BACK ROOM - CONTINUOUS
 O|                         
 N|          Glass limps across the room... turns the corner of the
-N,I|          crumbled wall... and sees the dog slide to a stop beside an
-N,I|          ANCIENT ARIKARA SQUAW, huddled in the corner, her bony arms
+N|          crumbled wall... and sees the dog slide to a stop beside an
+N|          ANCIENT ARIKARA SQUAW, huddled in the corner, her bony arms
 N|          outstretched in front of her in weak defense. And her eyes
 N|          are SOLID WHITE... the old woman is blind. She CRIES OUT A
 N|          CHANT over and over... her death chant, as she waits for this
@@ -2799,7 +2799,7 @@ O|
 O|                         
 S|          EXT. DISTANT RIDGE - CONTINUOUS
 O|                         
-N,I|          THREE INDIANS sit on horseback, watching Glass light the
+N|          THREE INDIANS sit on horseback, watching Glass light the
 N|          pyre... the flames rise into the night.
 O|                         
 O|                         
@@ -2819,8 +2819,8 @@ N|          he just stands there. But the dog's seen enough... darts
 N|          away.
 O|                         
 N|          Glass watches the Indians ride into the village... their
-N|          braided hair and dress is different than the Arikara we've
-N|          seen earlier, because these are SIOUX WARRIORS, and Glass
+N,M|          braided hair and dress is different than the Arikara we've
+N,M|          seen earlier, because these are SIOUX WARRIORS, and Glass
 N|          knows it.
 O|                         
 N|          The Sioux surround Glass on horseback... stare down at Glass.
@@ -2887,7 +2887,7 @@ O|
 N|          Dozens of glowing campfires dot the prairie, along with a sea
 N|          of tee-pees, their willow poles fanning against the night
 N|          sky. Animal hides and painted designs decorate the various
-N,I|          tee-pees and lodges. SIOUX CHILDREN laugh and play about the
+N|          tee-pees and lodges. SIOUX CHILDREN laugh and play about the
 N|          village... freeze when they hear Spotted Horse and the other
 N|          riders splash across the stream.
 O|                         
@@ -2900,7 +2900,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          GLASS' POV - FROM THE BACK OF THE HORSE...
+G|          GLASS' POV - FROM THE BACK OF THE HORSE...
 O|                         
 N|          ...to the children's eager faces swarming around him...
 N|          studying this strange face.
@@ -2908,12 +2908,12 @@ O|
 N|          Spotted Horse - YELLING SOMETHING at the children... they
 N|          back away from Glass... fall into line behind the riders.
 O|                         
-N,I|          Sioux MEN and WOMEN watch as the procession moves past... to
+N|          Sioux MEN and WOMEN watch as the procession moves past... to
 N|          a tee-pee set away from the rest... its hide walls decorated
 N|          with wild lightning bolts and buffalo and vaguely human
 N|          figures circling the sun.
 O|                         
-N,I|          An OLD MEDICINE MAN, gnarled and leathery, a DEAD RAVEN tied
+N|          An OLD MEDICINE MAN, gnarled and leathery, a DEAD RAVEN tied
 N|          in his long hair, his naked chest painted with red and black
 N|          stripes, steps out of the tee-pee. He eyes Glass, as Three
 N|          Feathers and Running Fox carry him inside.
@@ -3082,7 +3082,7 @@ O|
 C|                          BRIDGER
 U|           I hope not.
 O|                         
-N,I|          A PROSTITUTE walks down the stairs... stops on the landing,
+N|          A PROSTITUTE walks down the stairs... stops on the landing,
 N|          waiting for her next customer. Fitzgerald spots her...
 N|          grins.
 O|                         
@@ -3214,11 +3214,11 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          GLASS' POV - ON THE BUFFALO AND DANCING FIGURE DESIGNS
-S|          SHADOWED THROUGH THE TEE-PEE.
+N,G|          GLASS' POV - ON THE BUFFALO AND DANCING FIGURE DESIGNS
+N|          SHADOWED THROUGH THE TEE-PEE.
 O|                         
 N|          GLASS - His hand reaching up to his throat. It looks much
-N|          better than we last saw. And the stitches are gone from his
+N,M|          better than we last saw. And the stitches are gone from his
 N|          face, now just long, pink scars. He stiffly raises himself
 N|          up... remembers his back... struggles to reach behind him...
 N|          scarred but clean... no maggots.
@@ -3241,7 +3241,7 @@ N,G|          And then we see what Glass is looking at, and understand his
 N|          reaction... the entire village is blanketed in snow. The
 N|          Sioux VILLAGERS move about, wearing heavy skins and furs.
 O|                         
-N,I|          A WOMEN'S O.S. VOICE turns Glass...
+N|          A WOMEN'S O.S. VOICE turns Glass...
 O|                         
 N|          ...to WAKI, the woman from the images, walking toward him,
 N|          bundled in fur. She says something else we can't
@@ -3323,8 +3323,8 @@ O|
 C,E|                          GLASS (CONT'D)
 U|           Christ.
 O|                         
-N,I|          Glass glances around... for the first time, notices Sioux MEN
-N,I|          and WOMEN staring at him. Children freeze in the middle of
+N|          Glass glances around... for the first time, notices Sioux MEN
+N|          and WOMEN staring at him. Children freeze in the middle of
 N,I|          their play... all eyes locked on Glass. TWO SMALL BOYS, (NEW
 N,I|          MOON and LITTLE ONE), repeat the same TWO WORDS to each
 N|          other...
@@ -3415,7 +3415,7 @@ S|          INT. CHIEF'S LODGE - NIGHT
 O|                         
 N|          Glass, Spotted Horse, Three Feathers, Running Fox and OTHER
 N,I|          WARRIORS sit around a fire, eating with CHIEF RED HAWK, the
-N,I|          Medicine Man, and several other TRIBAL ELDERS.
+N|          Medicine Man, and several other TRIBAL ELDERS.
 O|                         
 C|                          GLASS
 U|           The men stole my rifle.
@@ -3478,7 +3478,7 @@ N|          testing its recovered strength.
 O|                         
 N|          Suddenly, a SPEAR PLANTS INTO THE GROUND BETWEEN HIS FEET.
 N|          Glass turns, startled... sees Spotted Horse, Three Feathers,
-N,I|          Running Fox, and several OTHER WARRIORS staring at him.
+N|          Running Fox, and several OTHER WARRIORS staring at him.
 O|                         
 N|          Glass' eyes jump from the spear to the warriors, unsure.
 O|                         
@@ -3509,7 +3509,7 @@ N|          up from the white ground.
 O|                         
 N|          Then out of the white... a SHAPE APPEARS... a GIANT WOLF
 N|          WALKING ON ITS HIND LEGS. But as the wolf comes closer, we
-N|          see it's not a wolf at all... it's THREE FEATHERS, wearing
+N,G|          see it's not a wolf at all... it's THREE FEATHERS, wearing
 N|          his WOLF SKIN. He CRIES OUT... HOWLING WILDLY.
 O|                         
 N|          A few yards beside him, another WARRIOR is doing the same...
@@ -3561,7 +3561,7 @@ N|          THE WARRIORS - EYES PIERCING THROUGH THE SNOW... CHANTING...
 N|          BEATING THE BUSHES.
 O|                         
 O|                         
-N,G|          OUR LOW POV AGAIN - RACING CHAOTICALLY THROUGH THE BRUSH...
+G|          OUR LOW POV AGAIN - RACING CHAOTICALLY THROUGH THE BRUSH...
 O|                         
 N|          ...to Spotted Horse waving his spear... back over the snow...
 N,G|          to Three Feathers SCREAMING... we spin again... crash through
@@ -3747,7 +3747,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          FITZGERALD'S POV...
+G|          FITZGERALD'S POV...
 O|                         
 N|          ...on GLASS STANDING OVER HIM... his scarred face calm and
 N|          deadly... raising a knife to drive down into Fitzgerald's
@@ -3781,7 +3781,7 @@ N|          of the Missouri. Dozens of tee-pees and tents are set up
 N|          outside the complex.
 O|                         
 N|          Glass follows Spotted Horse and Three Feathers into the camp.
-N,I|          BEGGING INDIANS and DRUNK TRAPPERS paw at the men as they
+N|          BEGGING INDIANS and DRUNK TRAPPERS paw at the men as they
 N|          ride past, pleading for handouts.
 O|           71.
 O|                         
@@ -3865,7 +3865,7 @@ P|           (off Glass' nod)
 U|           I wish I could give you a room for
 U|           the night, but...
 O|                         
-N,I|          Brazeau looks to SEVERAL TRAPPERS standing across the room,
+N|          Brazeau looks to SEVERAL TRAPPERS standing across the room,
 N|          glaring at Glass.
 O|                         
 C,E|                          BRAZEAU (CONT'D)
@@ -4120,7 +4120,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          POV DOWN MURPHY'S RIFLE...
+G|          POV DOWN MURPHY'S RIFLE...
 O|                         
 N|          ...on Fitzgerald moving toward the river... disappearing into
 N|          the darkness.
@@ -4169,7 +4169,7 @@ N|          until SEVERAL DARK SHAPES APPEAR... moving through the
 N|          distant trees... coming straight toward Glass' camp.
 O|                         
 N|          Then an O.S. SNAP BEHIND GLASS... he glances back in time to
-N,I|          see an ARIKARA WARRIOR SWINGING A HATCHET.
+N|          see an ARIKARA WARRIOR SWINGING A HATCHET.
 O|                         
 N|          Glass spins his rifle... shoves it into the stomach of the
 N|          Warrior as he swings... BOOM... the Warrior flies back.
@@ -4269,7 +4269,7 @@ O|
 S|          INT. FORT TALBOT/GENERAL STORE - DAY
 O|                         
 N|          More like a saloon that sells a few supplies. A gang of
-N,I|          TRAPPERS drink and play cards. A RUNTY MAN stands behind the
+N|          TRAPPERS drink and play cards. A RUNTY MAN stands behind the
 N|          counter, watching them...
 O|                         
 N|          ...until the door blows open, and in steps Glass. He pulls
@@ -4277,7 +4277,7 @@ N|          the fur hat away from his face, and what a sight he is...
 N|          scarred face stiff from the cold... ice frozen in his beard.
 O|                         
 N|          The room falls silent... everyone staring at Glass. Until
-N,I|          TRAPPER #1 snorts a laugh. Glass limps to the counter. All
+N|          TRAPPER #1 snorts a laugh. Glass limps to the counter. All
 N|          eyes follow him.
 O|                         
 C|                          GLASS
@@ -4442,7 +4442,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          STUBBY BILL'S POV...
+G|          STUBBY BILL'S POV...
 O|                         
 N|          ...on the blanket of fog hanging in the air... that same
 N|          CRUNCHING, as a SHADOW APPEARS... growing clearer... a FIGURE
@@ -4795,14 +4795,14 @@ O|
 N|          The Runty Man behind the counter. A few of the same Trappers
 N|          drinking... playing cards. Just another day at Fort Talbot.
 O|                         
-N,I|          The door swings open, and a FUR-COVERED FIGURE enters.
+N|          The door swings open, and a FUR-COVERED FIGURE enters.
 O|                         
 C|                          RUNTY MAN
 U|           We ain't got no food to spare,
 U|           friend, if that's what you're
 U|           lookin' for.
 O|                         
-N|          The figure pulls back his furs, and we see it's Fitzgerald...
+N,G|          The figure pulls back his furs, and we see it's Fitzgerald...
 N|          cold and miserable.
 O|           90.
 O|                         
@@ -5197,7 +5197,7 @@ O|
 S|          EXT. FOREST - NIGHT
 O|                         
 N|          Glass moves silently through the darkness... rifle poised to
-N|          aim and fire... just like the first time we saw him,
+N,M|          aim and fire... just like the first time we saw him,
 N|          perfectly comfortable in this world.
 O|                         
 N|          His eyes shine in the darkness, drifting back and forth...
