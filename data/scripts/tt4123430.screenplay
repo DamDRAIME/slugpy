@@ -25,7 +25,7 @@ N,I|         The long-haired, bearded GRINDELWALD sits motionless,
 N|         magically fixed to a chair. The air shimmers, charged with
 N|         spells.
 O|
-N,I|         ABERNATHY peers in at GRINDELWALD from the corridor.
+N|         ABERNATHY peers in at GRINDELWALD from the corridor.
 O|
 N|         A baby Chupacabra -- part lizard, part homunculus, a blood-
 N|         sucking creature of the Americas -- is chained to
@@ -97,7 +97,7 @@ O|
 N|         A hearse-like black carriage, drawn by eight THESTRALS,
 N|         waits.
 O|
-N,I|         AURORS 1 & 2 climb into the driver's seat, the rest force
+N|         AURORS 1 & 2 climb into the driver's seat, the rest force
 N|         GRINDELWALD inside.
 O|
 C|                                  SPIELMAN
@@ -216,7 +216,7 @@ N|          through the night sky, past the broomstick riders.
 O|
 N|          GRINDELWALD casts another spell so the black ropes of the
 N|          reins bind AUROR 2 like a chrysalis, launching him forward in
-N,I|          the air, then slingshotting him back to knock AURORS 3 & 4
+N|          the air, then slingshotting him back to knock AURORS 3 & 4
 N|          from the rear of the Thestral-drawn carriage. They fall away
 N|          into darkness.
 O|
@@ -336,7 +336,7 @@ N,I|          NEWT SCAMANDER sits alone in a dingy waiting area, staring
 N|          abstractedly into space.
 O|
 N|          After a moment, he feels something tugging on his wrist. He
-N,I|          looks down. Pickett, a Bowtruckle, is swinging on a loose
+N|          looks down. Pickett, a Bowtruckle, is swinging on a loose
 N|          thread in his cuff.
 N|          The thread snaps. Pickett falls. NEWT'S button rolls away
 N|          down a corridor. NEWT and Pickett watch it go.
@@ -486,8 +486,8 @@ S|19        INT. MINISTRY OF MAGIC, HEARING ROOM - AFTERNOON                    
 O|
 N,I|          NEWT and THESEUS enter the room, where TORQUIL TRAVERS
 N,I|          (harsh, mean-spirited), ARNOLD GUZMAN (American), and RUDOLPH
-N,I|          SPIELMAN (who is still bruised from GRINDELWALD'S escape, the
-N,I|          bloody bite visible on his neck) are already sitting.
+N,I,M|          SPIELMAN (who is still bruised from GRINDELWALD'S escape, the
+N,I,M|          bloody bite visible on his neck) are already sitting.
 O|
 N|          Two empty chairs, which NEWT and THESEUS take.
 O|
@@ -627,7 +627,7 @@ O|
 C|                                   GRIMMSON
 U|                         Same old Scamander.
 O|
-N,I|           NEWT reacts to the sound of the voice. GRIMMSON moves into
+N|           NEWT reacts to the sound of the voice. GRIMMSON moves into
 N|           the light.
 O|
 N|           Scarred, brutal, he is a beast hunter for hire.
@@ -744,7 +744,7 @@ N|           points his cane at a particularly fine house.
 O|
 N|           A clatter announces the arrival of a horse-drawn hearse.
 N,I|           NAGEL, KRALL, CARROW, ABERNATHY, KRAFFT, ROSIER (female), and
-N,I|           MACDUFF approach the front door. KRALL opens it with his
+N|           MACDUFF approach the front door. KRALL opens it with his
 N|           wand. The ACOLYTES enter.
 O|
 C,E|                                   PARISIAN MAN (O.S.)
@@ -764,7 +764,7 @@ O|23         CONTINUED:                                                         
 N|           GRINDELWALD looks around the street, calm, waiting, tapping
 N|           on the pavement with his cane.
 O|
-N|           We see a green flash--the Killing Curse. The door reopens. Two
+N,G|           We see a green flash--the Killing Curse. The door reopens. Two
 N|           black coffins exit.
 O|
 N|           GRINDELWALD watches as NAGEL and KRAFFT load the coffins onto
@@ -935,7 +935,7 @@ O|                                                                              
 O|     17.
 O|
 O|28         CONTINUED:                                                                    28
-N,I|           A noise behind them. The silhouette of a man appears out of
+N|           A noise behind them. The silhouette of a man appears out of
 N|           shadows. They Disapparate --
 O|
 O|
@@ -1085,14 +1085,14 @@ S|32         INT. NEWT'S HOUSE  (NIGHT)                                         
 O|
 N|           NEWT opens the front door cautiously.
 O|
-N,I|           Inside, a baby Niffler is swinging from the brass cord of a
+N|           Inside, a baby Niffler is swinging from the brass cord of a
 N|           table lamp, causing the light to flicker on and off.
 O|
 N|           The baby Niffler succeeds in stealing the brass cord before
 N|           spotting NEWT. It scampers away, knocking all manner of
 N|           objects to the floor.
 O|
-N,I|           NEWT spots a second baby Niffler sitting on a set of weighing
+N|           NEWT spots a second baby Niffler sitting on a set of weighing
 N|           scales, pinned down by gold-colored weights it is clearly
 N|           attempting to steal.
 O|
@@ -1204,7 +1204,7 @@ P|                              (oblivious)
 U|                         Don't worry, I'll dry off quickly
 U|                         enough.
 O|
-N,I|           NEWT smiles and jumps backward into the water. The Kelpie
+N|           NEWT smiles and jumps backward into the water. The Kelpie
 N|           erupts: a gigantic, semi-spectral horse intent on drowning
 N|           NEWT, who grabs it around the neck and manages to scramble
 N|           onto its back as it thrashes.
@@ -1667,8 +1667,8 @@ U|                         Papyrus Reparo.
 O|
 N|           It reconstitutes into a whole.
 O|
-N|           We see a picture of Paris. Postcard text becomes visible
-N|           onscreen.
+N,G|           We see a picture of Paris. Postcard text becomes visible
+N,G|           onscreen.
 O|
 C,E|                                   TINA (V.O.)
 U|                         My dear Queenie,
@@ -1704,7 +1704,7 @@ N|           BUNTY, DON'T TOUCH UNTIL I GET BACK.
 O|
 N|           He walks on.
 O|
-N,I|           An Augurey caws mournfully at JACOB as he walks past.
+N|           An Augurey caws mournfully at JACOB as he walks past.
 O|
 C|                                   JACOB
 U|                         I got my own problems.
@@ -1760,7 +1760,7 @@ C|                                                   JACOB
 P|                                              (impressed)
 U|                                         Oh. Beautiful.
 O|
-N|                    They leave. We close in on the note that has appeared:
+N,G|                    They leave. We close in on the note that has appeared:
 O|
 N|                    BUNTY, GONE TO PARIS. HAVE TAKEN NIFFLERS WITH ME. NEWT.
 O|
@@ -1789,10 +1789,10 @@ O|
 N|                    TINA walks past the street performers working in the open,
 N|                    scrutinizing them.
 O|
-N,I|                    A HALF-TROLL performs feats of strength.
+N|                    A HALF-TROLL performs feats of strength.
 O|
-N,I|                    A few misshapen and particularly downtrodden humanoids --
-N,I|                    UNDERBEINGS without powers but of magical ancestry -- shuffle
+N|                    A few misshapen and particularly downtrodden humanoids --
+N|                    UNDERBEINGS without powers but of magical ancestry -- shuffle
 N|                    around, taking money from the crowd.
 O|
 N|                    Horns hidden beneath hats, unusual eyes beneath hoods; HALF-
@@ -1805,7 +1805,7 @@ O|
 O|            Fantastic Beasts: The Crimes of Grindelwald        FINAL SHOOTING SCRIPT   2017/11/16   32.
 O|
 O|     41             CONTINUED:                                                                      41
-N,I|                    A magnificent Chinese Zouwu, a giant catlike creature with a
+N|                    A magnificent Chinese Zouwu, a giant catlike creature with a
 N|                    long, plumed tail, is imprisoned in a cage. Fireworks burst
 N|                    overhead.
 O|
@@ -2311,7 +2311,7 @@ S|     48             EXT. PLACE CACH E - DAY                                   
 O|
 N|                    NEWT and JACOB peer around the corner.
 O|
-N,I|                    A French POLICEMAN is standing in front of the statue of the
+N|                    A French POLICEMAN is standing in front of the statue of the
 N|                    robed woman.
 O|
 N|                    JACOB is pale, sweaty, and still clutching the bucket, which
@@ -2355,7 +2355,7 @@ N|                    illuminates traces of recent magical activity in the squar
 O|
 C,E|                                                   NEWT (CONT'D)
 U|                                         Accio Niffler!
-U|                    The case bursts open and a Niffler jumps out.
+N|                    The case bursts open and a Niffler jumps out.
 O|
 C,E|                                                   NEWT (CONT'D)
 U|                                         Get looking.
@@ -2546,7 +2546,7 @@ U|                                         definitely packed it. Where is it?
 O|
 N|                    As the RECEPTIONIST gives a Gallic shrug --
 O|
-N,I,G|                    -- a genteel ELDERLY LADY crosses INTO THE SHOT BEHIND
+N,G|                    -- a genteel ELDERLY LADY crosses INTO THE SHOT BEHIND
 N,G|                    QUEENIE.
 O|
 N|                    She has a distinctive bag in her hands --
@@ -2638,7 +2638,7 @@ O|
 S|     54             EXT. RUE PHILIPPE LORAND - SHORTLY AFTERWARD - DAY                           54
 O|
 N|                    CREDENCE and NAGINI peer around the corner at the distant
-O|                    Number Eighteen.
+N|                    Number Eighteen.
 O|
 N|                    A light shines in the attic. A shadow moves in front of it.
 O|
@@ -2686,7 +2686,7 @@ O|
 N|                    She takes CREDENCE'S hand and pulls him gently into the room.
 O|
 N|                    Mended and freshly washed clothing hang from racks on the
-N,I|                    ceiling. They can see the shadow of a woman.
+N|                    ceiling. They can see the shadow of a woman.
 O|
 O|
 O|                                                                                        (CONTINUED)
@@ -2834,7 +2834,7 @@ O|
 O|
 S|     58             EXT. PARISIAN CAF  - EVENING                                                 58
 O|
-N,I|                    A pair of lovers sit over coffee.
+N|                    A pair of lovers sit over coffee.
 O|
 N|                    NEWT is scanning every man who leaves the caf , checking the
 N|                    reaction of the feather trapped beneath the glass.
@@ -3433,7 +3433,7 @@ N|                    while students in cloaks trundle by, pushing trunks and
 N|                    carrying owls. It is the last day of the winter term and
 N|                    nearly everyone is going home.
 O|
-N,G,I|                    ANGLE ON: TWO 13-YEAR-OLD GRYFFINDOR GIRLS pushing trunks.
+N,G|                    ANGLE ON: TWO 13-YEAR-OLD GRYFFINDOR GIRLS pushing trunks.
 O|
 C|                                                   GRYFFINDOR GIRL 1
 U|                                         You know she stays here every
@@ -3855,7 +3855,7 @@ N|                    which mingle and merge to create one. A metal shape begins
 N|                    form around the droplet, becoming more defined and intricate.
 N|                    It is GRINDELWALD'S vial.
 O|
-N,G|                    THE VISION FADES --
+N,G,T|                    THE VISION FADES --
 O|
 N|                    -- and the present-day GRINDELWALD stands smiling out of the
 N|                    mirror, surrounded by blackness.
@@ -4150,7 +4150,7 @@ O|
 N|                    All lights are extinguished as every building is wrapped in
 N|                    black banners.
 O|
-N,I|                    MUGGLES pass, totally immune, but a YOUNG RED-HAIRED WITCH
+N|                    MUGGLES pass, totally immune, but a YOUNG RED-HAIRED WITCH
 N|                    nearby is walking along. She, like NEWT and TINA, can see the
 N|                    banners.
 O|
@@ -4308,7 +4308,7 @@ O|
 O|     86             CONTINUED:                                                                       86
 N|                    Now fully awake, JACOB'S stomach begins to rumble.
 O|
-N,I|                    A figure appears behind JACOB.
+N|                    A figure appears behind JACOB.
 O|
 N,I|                    Six-hundred-year-old NICOLAS FLAMEL stands at the entrance to
 N|                    his alchemist's studio.
@@ -4664,7 +4664,7 @@ O|
 O|                                                                                          (CONTINUED)
 O|
 O| 
-S|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   80.
+O|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   80.
 O|
 O|     89             CONTINUED:                                                                     89
 N,G|                    THESEUS MOVES INTO SHOT.
@@ -4763,7 +4763,7 @@ C|                                                   JACOB
 P|                                              (whispers)
 U|                                         Queenie?
 O|
-O|                    No answer.
+N|                    No answer.
 O|
 N|                    He enters.
 O|
@@ -4817,7 +4817,7 @@ O|
 N|                    An increased awkwardness between them as MELUSINE lifts an
 N|                    ancient book onto the desk and opens it.
 O|
-N|                    CLOSE ON: MELUSINE'S WIZENED FINGER as it runs down a list of
+N,G|                    CLOSE ON: MELUSINE'S WIZENED FINGER as it runs down a list of
 N|                    surnames beginning with "L".
 O|
 C|                                                   MELUSINE
@@ -4844,7 +4844,7 @@ O|
 O|                                                                                        (CONTINUED)
 O|
 O| 
-N|            Fantastic Beasts: The Crimes of Grindelwald        FINAL SHOOTING SCRIPT   2017/11/16   83.
+O|            Fantastic Beasts: The Crimes of Grindelwald        FINAL SHOOTING SCRIPT   2017/11/16   83.
 O|
 O|     95             CONTINUED:                                                                      95
 C|                                                   TINA
@@ -4852,7 +4852,7 @@ P|                                              (brittle)
 U|                                         Sorry, yeah. I should have
 U|                                         congratulated you --
 O|
-S|                    The doors to the records office open.
+N|                    The doors to the records office open.
 O|
 N|                    They enter briskly.
 O|
@@ -4904,7 +4904,7 @@ O|
 O|                                                                                           (CONTINUED)
 O|
 O| 
-N|            Fantastic Beasts: The Crimes of Grindelwald        FINAL SHOOTING SCRIPT   2017/11/16   84.
+O|            Fantastic Beasts: The Crimes of Grindelwald        FINAL SHOOTING SCRIPT   2017/11/16   84.
 O|
 O|     96             CONTINUED:                                                                      96
 C,E|                                                   NEWT (CONT'D)
@@ -4964,7 +4964,7 @@ O|
 O|                                                                                           (CONTINUED)
 O|
 O| 
-N|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   85.
+O|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   85.
 O|
 O|     96             CONTINUED: (2)                                                                 96
 C|                                                   TINA
@@ -5082,11 +5082,11 @@ O|
 O|                                                                                        (CONTINUED)
 O|
 O| 
-N|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   87.
+O|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   87.
 O|
 O|     96             CONTINUED: (4)                                                                 96
-U|                    Her spell not only fails, it causes the Matagots to multiply
-U|                    and become even more aggressive.
+N|                    Her spell not only fails, it causes the Matagots to multiply
+N|                    and become even more aggressive.
 O|
 C|                                                      NEWT
 U|                                                 (UNLESS YOU ATTACK THEM!)
@@ -5142,7 +5142,7 @@ O|
 O|                                                                                          (CONTINUED)
 O|
 O| 
-N|            Fantastic Beasts: The Crimes of Grindelwald      FINAL SHOOTING SCRIPT   2017/11/16   88.
+O|            Fantastic Beasts: The Crimes of Grindelwald      FINAL SHOOTING SCRIPT   2017/11/16   88.
 O|
 O|     96             CONTINUED: (5)                                                                96
 N|                    NEWT points his wand at the ceiling.
@@ -5279,11 +5279,11 @@ O|
 O|
 S|     100            EXT. PARK - 1896 - DAY                                                      100
 O|
-N|                    We see a beautiful woman, LAURENA, dressed in an exquisite
-N|                    gown, walking through a park with her husband, MUSTAFA --
+N,G,I|                    We see a beautiful woman, LAURENA, dressed in an exquisite
+N,I|                    gown, walking through a park with her husband, MUSTAFA --
 N|                    clearly in love.
 O|
-N|                    A YOUNG YUSUF by their side.
+N,I|                    A YOUNG YUSUF by their side.
 O|
 C,E|                                                    KAMA (V.O.)
 U|                                         My mother, Laurena, was equally
@@ -5319,7 +5319,7 @@ O|
 O|                                                                                        (CONTINUED)
 O|
 O| 
-S|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   91.
+O|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   91.
 O|
 O|     101            CONTINUED:                                                                    101
 N|                    LESTRANGE SR points his wand at KAMA and sends him sprawling.
@@ -5482,8 +5482,8 @@ C,E|                                                   LETA (CONT'D)
 U|                                         My father owned a very strange
 U|                                         family tree. It only recorded the
 U|                                         men...
-U|                    We glimpse a tree with an orchid-like flower twisting around
-U|                    it.
+N,G|                    We glimpse a tree with an orchid-like flower twisting around
+N|                    it.
 O|
 C,E|                                                   LETA (CONT'D)
 U|                                         ... the women in my family were
@@ -5590,12 +5590,12 @@ N|                    A huge wave is approaching. CHILD LETA watches as the
 N|                    lifeboat bearing CREDENCE'S AUNT and BABY CORVUS is
 N|                    overturned.
 O|
-N|                    CLOSE ON: THE SURFACE OF THE WATER. A few survivors reappear,
+N,G|                    CLOSE ON: THE SURFACE OF THE WATER. A few survivors reappear,
 N|                    including CREDENCE'S AUNT, but not BABY CORVUS... CREDENCE'S
 N|                    AUNT pulls off her life jacket so she can dive too...
 O|
-N|                    She does not reemerge. We close in through the surface of the
-N|                    water, past the drowning woman, and see the dark shape of a
+N,G|                    She does not reemerge. We close in through the surface of the
+N,G|                    water, past the drowning woman, and see the dark shape of a
 N|                    drowning baby trailing bubbles of magical light as he
 N|                    sinks... and his figure becomes...
 O|
@@ -5617,7 +5617,7 @@ O|
 O|                                                                                        (CONTINUED)
 O|
 O| 
-N|            Fantastic Beasts: The Crimes of Grindelwald      FINAL SHOOTING SCRIPT   2017/11/16   96.
+O|            Fantastic Beasts: The Crimes of Grindelwald      FINAL SHOOTING SCRIPT   2017/11/16   96.
 O|
 O|     110            CONTINUED:                                                                   110
 C|                                                   LETA
@@ -5677,7 +5677,7 @@ O|
 O|                                                                                         (CONTINUED)
 O|
 O| 
-N|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   97.
+O|            Fantastic Beasts: The Crimes of Grindelwald       FINAL SHOOTING SCRIPT   2017/11/16   97.
 O|
 O|     111            CONTINUED:                                                                    111
 N|                    He carries on walking.

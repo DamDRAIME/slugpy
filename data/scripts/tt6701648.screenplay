@@ -39,7 +39,7 @@ G,I|               ON CHARLIE COTRELL
 N,I|               A typical 11-year-old. But with dried blood on his face.             
 N|               Talking to us -- or at least that is what it seems.                  
 O|
-M,I|               In actuality, he is recording a message for THE OTHERS. But          
+M|               In actuality, he is recording a message for THE OTHERS. But          
 M|               we will not realize that until the end of our story.                 
 O|
 N|               Charlie Cotrell is an eloquent kid:                                  
@@ -67,10 +67,10 @@ N|               winds up and lets loose a 70 mph fastball.
 O|
 N|               Charlie lifts the bat from his shoulders and:                        
 O|
-A|               CRACK                                                                
+N|               CRACK                                                                
 O|
 N|               Charlie makes contact, the ball rocketing down the left field        
-N,I|               line just past the outstretched glove of the THIRD BASEMAN.          
+N|               line just past the outstretched glove of the THIRD BASEMAN.          
 N|               The ball gains a little altitude and then drops into the             
 N|               corner of the Pony League field.                                     
 O|
@@ -82,18 +82,18 @@ O|
 O|
 O|                                                                      2.            
 O|
-N,I|               The CATCHER throws off his mask and steps forward as it all          
+N|               The CATCHER throws off his mask and steps forward as it all          
 N,G|               SLOWS DOWN 113-fold.                                                 
-N,A,I|               Charlie looks up. The SOUND drops away. There are a HUNDRED          
-N,A,I|               YELLING PEOPLE filling the rickety stands, but they are              
-N,A,G|               silent, out of focus, and the only person Charlie can SEE is         
-N,I|               his FATHER.                                                          
+N|               Charlie looks up. The SOUND drops away. There are a HUNDRED          
+N|               YELLING PEOPLE filling the rickety stands, but they are              
+N,G|               silent, out of focus, and the only person Charlie can SEE is         
+N|               his FATHER.                                                          
 O|
 N|               Charlie’s Father rises to his feet.                                  
 O|
 N,G|               And then everything SPEEDS UP and is over in a nanosecond.           
 O|
-N,A|               A lot of screaming. Charlie hurtling.  The Catcher sneering.         
+N|               A lot of screaming. Charlie hurtling.  The Catcher sneering.         
 N|               Charlie sliding on his stomach. The sound of the ball in the         
 N|               Catcher’s mitt. A huge dust cloud around home plate. The             
 N|               tag.  And after an eternity:                                         
@@ -140,9 +140,9 @@ U|                         I think my father would be proud of
 U|                         me.                                                        
 T,G|                                                           BLACK, THEN:             
 O|
-N|               A chyron appears across the screen:                                  
+M|               A chyron appears across the screen:                                  
 O|
-N|                                  “Three Days  Earlier”                             
+M|                                  “Three Days  Earlier”                             
 O|
 T|                                                              SMASH TO:             
 O|
@@ -367,8 +367,8 @@ N|               10+, gets out, stretches, fills the car.
 O|
 S|               INT. GAS STATION/CONVENIENCE STORE - MOMENTS LATER                   
 O|
-N,A|               The Father enters, his arrival announced by the bell above           
-N,I|               the glass door. He walks up to an ATTENDANT behind the               
+N|               The Father enters, his arrival announced by the bell above           
+N|               the glass door. He walks up to an ATTENDANT behind the               
 N|               counter.  The Attendant is staring at a shitty TV (LET’S MAKE        
 N|               A DEAL), mesmerized by a bunch of people dressed in stupid           
 N|               costumes trying to get the attention of Wayne Brady. The             
@@ -391,8 +391,8 @@ O|
 S|               INT./EXT. VOLVO - MOMENTS LATER                                      
 O|
 N|               Charlie is playing a game on the phone. Digital Whack-A-Mole.        
-N,I|               He looks up. There is a car in front of him. A TALL BALD             
-N,I|               MAN is filling up the car. On the trunk of the car is a DEAD         
+N|               He looks up. There is a car in front of him. A TALL BALD             
+N|               MAN is filling up the car. On the trunk of the car is a DEAD         
 N|               DEER, bloodied, tongue sticking out. The image is                    
 N|               disturbing.                                                          
 O|
@@ -409,7 +409,7 @@ O|
 C|                                   CHARLIE                                          
 U|                         Well...  I guess.                                          
 O|
-N,A|               A smile passes between the two as The Father slams the door,         
+N|               A smile passes between the two as The Father slams the door,         
 N|               starts the car, pulls out past the loaded, fleeing Trash             
 N|               Truck.                                                               
 N|               Charlie looks out the window as they pass the pumps and head         
@@ -425,12 +425,12 @@ N|               What is wrong with that guy?
 O|
 S|               INT. VOLVO - MOVING - MINUTES LATER                                  
 O|
-N,A|               The windshield wipers beat time on the front window. Charlie         
-N,A|               sucks down the last few drops of his milkshake with a noisy          
-N,A|               flourish.  His Father spills the last crispy French fry from         
+N|               The windshield wipers beat time on the front window. Charlie         
+N|               sucks down the last few drops of his milkshake with a noisy          
+N|               flourish.  His Father spills the last crispy French fry from         
 N|               the little French fry sack into his mouth.                           
 O|
-N,A|               Charlie belches. Loudly.  His father stares at him. Charlie          
+N|               Charlie belches. Loudly.  His father stares at him. Charlie          
 N|               shrugs:                                                              
 O|
 C|                                   CHARLIE                                          
@@ -458,9 +458,9 @@ U|                         I’m sure we could find one.
 O|
 N|               Charlie nods, then:                                                  
 O|
-N,A|               He lets loose with a world record-breaking belch. His Father         
-N,A|               follows on the heels of Charlie’s belch with a professional          
-N,A|               rendition of his own. One after the other, Charlie and The           
+N|               He lets loose with a world record-breaking belch. His Father         
+N|               follows on the heels of Charlie’s belch with a professional          
+N|               rendition of his own. One after the other, Charlie and The           
 N|               Father continue as:                                                  
 O|
 N|               THE VOLVO                                                            
@@ -469,7 +469,7 @@ N|               Heads down the hill towards the city as the rain subsides.
 O|
 S|               EXT. CHARLIE’S HOUSE - LATER                                         
 O|
-N,I|               CHARLIE’S MOTHER is unloading groceries from the back of her         
+N|               CHARLIE’S MOTHER is unloading groceries from the back of her         
 N|               SUV.  Charlie and The Father pull up, get out.                       
 O|
 C|                                   THE MOTHER                                       
@@ -532,7 +532,7 @@ O|
 C|                                   CHARLIE                                          
 U|                         Already did.                                               
 O|
-N,A|               He punches the keyboard, FaceTimes:                                  
+N|               He punches the keyboard, FaceTimes:                                  
 O|
 N|               DYLAN PERETTI                                                        
 O|
@@ -545,7 +545,7 @@ O|                                                                     11.
 O|
 C,E|                                   CHARLIE (CONT’D)                                 
 U|                         Hey, can you talk?                                         
-N,I|               But before Peretti can answer, PERETTI’S MOTHER yells:               
+N|               But before Peretti can answer, PERETTI’S MOTHER yells:               
 O|
 C,E|                                    PERETTI’S MOTHER (O.S.)                         
 U|                         Dylan!  Get off that computer right                        
@@ -668,7 +668,7 @@ T|                                                              SMASH TO:
 O|
 N|               CHARLIE STARTS, CATCHES HIS BREATH AS                                
 O|
-N,A|               His computer dings. Charlie goes over to the desk. There is          
+N|               His computer dings. Charlie goes over to the desk. There is          
 N|               a text from Peretti. “Hey.”  Charlie types back. “Hey.”              
 N|               “How was camping?” “My father loved it.” “LOL!”                      
 O|
@@ -742,7 +742,7 @@ O|
 C,E|                                   THE MOTHER (CONT’D)                              
 U|                         What are we going to do?--                                 
 O|
-N,A|               But before he can answer, there is a noise from outside.             
+N|               But before he can answer, there is a noise from outside.             
 O|
 C|                                   THE FATHER                                       
 U|                         Shit.                                                      
@@ -754,8 +754,8 @@ S|               INT. CHARLIE’S BEDROOM - RESUME
 N|               Charlie types away. “See you tomorrow?” “Yeah.”  “DO NOT,            
 N|               DO NOT BE LATE.”                                                     
 O|
-N,A|               As Charlie closes his laptop, he hears a loud noise.                 
-A|               CLANGING.  BANGING.                                                  
+N|               As Charlie closes his laptop, he hears a loud noise.                 
+N|               CLANGING.  BANGING.                                                  
 O|
 N|               Charlie goes to the window, looks out to the driveway. The           
 N|               downstairs lights go on beneath his window. Charlie SEES The         
@@ -763,16 +763,16 @@ N|               Father step out, a big torch/flashlight in his hand.
 O|
 N|               His father stands in the middle of the driveway.                     
 O|
-S|               THE FATHER - INTERCUT WITH CHARLIE IN THE WINDOW                     
+S,T|               THE FATHER - INTERCUT WITH CHARLIE IN THE WINDOW                     
 O|
-N,A|               The Father looks around. Another CLANG. The Father senses            
+N|               The Father looks around. Another CLANG. The Father senses            
 N|               Charlie, looks up, motions for Charlie to go back to sleep.          
 N|               Charlie disappears from the window.                                  
 O|
 S|               EXT. SIDE OF THE HOUSE - MOMENTS LATER                               
 O|
 N|               A bunch of those metallic, old school drum-like trash bins.          
-N,A|               The Father walks up slowly. A lot of racket coming from              
+N|               The Father walks up slowly. A lot of racket coming from              
 N|               inside one of the bins. The Father picks up a baseball left          
 N|               on the side of the house, lets loose a fastball that whacks          
 N|               the can.                                                             
@@ -808,9 +808,9 @@ S|               INT. CHARLIE’S BEDROOM - NEXT MORNING
 O|
 N|               Charlie sleeping. Fluttering eyes.  Groggy then clear, when:         
 O|
-N,A|               CLICK.  The alarm clock goes off. LOUD MUSIC. I dunno.               
-N,M,A|               Maybe something retro. The Ramones.  Or The Beastie Boys.            
-N,M,A|               Kick-ass with a load of attitude.                                    
+N|               CLICK.  The alarm clock goes off. LOUD MUSIC. I dunno.               
+N,M|               Maybe something retro. The Ramones.  Or The Beastie Boys.            
+N,M|               Kick-ass with a load of attitude.                                    
 O|
 S|               INT. KITCHEN - MINUTES LATER                                         
 O|
@@ -850,9 +850,9 @@ O|
 O|                                                                     17.            
 O|
 S|               EXT. CHARLIE’S HOUSE - MINUTES LATER                                 
-N,A|               The back door bangs open. Charlie, struggling to put on his          
+N|               The back door bangs open. Charlie, struggling to put on his          
 N|               coat and backpack, runs across the backyard toward the               
-N,A|               street.  However, as he crosses he hears something coming            
+N|               street.  However, as he crosses he hears something coming            
 N|               from the garage. Charlie slows to a stop.                            
 O|
 S|               INT. GARAGE - CONTINUOUS                                             
@@ -878,7 +878,7 @@ O|
 N|               CHARLIE                                                              
 O|
 N|               Running.  Down an alley/street. And if it seems like his             
-U|               life depends on it... well... in a way, it does.                     
+N|               life depends on it... well... in a way, it does.                     
 O|
 N|               At the end of the block is another kid waiting:                      
 O|
@@ -985,8 +985,8 @@ O|
 S|               INT. CLASSROOM - LAKESHORE ELEMENTARY SCHOOL - DAY                   
 O|
 N|               Charlie and Peretti are sitting in the classroom. In front           
-N,I,A|               of Charlie sits a kid with curly hair, DASHIELL. The second          
-N,A|               bell rings.                                                          
+N,I|               of Charlie sits a kid with curly hair, DASHIELL. The second          
+N|               bell rings.                                                          
 C|                                   DASHIELL                                         
 P|                             (turning around)                                       
 U|                         Where’s Mr. Anderson?                                      
@@ -1163,9 +1163,9 @@ N|               And with that Charlie whips his head around again. The
 N|               substitute teacher is flummoxed. Charlie looks at the clock.         
 N|               The big red second hand crosses the 12.                              
 O|
-A|               CLICK.                                                               
+N|               CLICK.                                                               
 O|
-N,A|               And as the bell RINGS, Charlie and Peretti explode from their        
+N|               And as the bell RINGS, Charlie and Peretti explode from their        
 N|               chairs.                                                              
 O|
 S|               EXT. RICHARD M. NIXON MIDDLE SCHOOL - DAY                            
@@ -1186,7 +1186,7 @@ S|               EXT. BIKE RACKS - SECONDS LATER
 O|
 N|               Charlie and Peretti, crouching low, make their way down the          
 N|               line of bikes. At the end of the row, Henry’s METALLIC PLUM          
-N,A|               BICYCLE.  As they reach the bike, the SCHOOL BELL GOES OFF.          
+N|               BICYCLE.  As they reach the bike, the SCHOOL BELL GOES OFF.          
 O|
 C|                                   CHARLIE                                          
 U|                         Hurry!                                                     
@@ -1205,7 +1205,7 @@ U|                         grew up, really wanted gold fronts.
 U|                         Yo.  But that’s what you get when                          
 U|                         Wu-Tang raised you--                                       
 O|
-N,A|               He’s cut off by a WHISTLE.                                           
+N|               He’s cut off by a WHISTLE.                                           
 O|
 O|
 O|                                                                     24.            
@@ -1222,13 +1222,13 @@ N|               fast as they can. But they are no match for Henry.
 O|
 N|               Henry pumps the pedals. He is gaining on them. Today is his          
 N|               day.  The wheels are spinning, kicking up gravel when:               
-N,A|               THE BIKE COMES APART.                                                
+N|               THE BIKE COMES APART.                                                
 O|
 N|               Henry hits the deck. And the newly freed wheel keeps                 
 N|               spinning down the alley towards the fleeing Charlie and              
 N|               Peretti until:                                                       
 O|
-N,A|               The wheel veers and crashes into a dumpster.                         
+N|               The wheel veers and crashes into a dumpster.                         
 O|
 N|               Henry struggles to his feet, picks up the bike frame, looks          
 N|               at the front of the frame where the wheel is missing. The            
@@ -1238,7 +1238,7 @@ N|               Henry is pissed.
 O|
 S|               INT. KITCHEN - CHARLIE’S HOUSE - MINUTES LATER                       
 O|
-N,A|               Charlie blasts in the door. His Mother is working (she is a          
+N|               Charlie blasts in the door. His Mother is working (she is a          
 N|               real estate agent) in her home office off of the kitchen.            
 N|               Charlie opens the refrigerator, pulls out a carton of orange         
 N|               juice, drinks.                                                       
@@ -1305,9 +1305,9 @@ S|               EXT. BASKETBALL HOOP - LATER
 O|
 N|               Charlie is playing Around the World. Solo.                           
 O|
-N,A|               Swish.  Swish. Swish.  Then, as he sets up a shot, he HEARS:         
+N|               Swish.  Swish. Swish.  Then, as he sets up a shot, he HEARS:         
 O|
-N,A,I|               ARGUING.  Two men. And it’s coming from the garage.                  
+N,I|               ARGUING.  Two men. And it’s coming from the garage.                  
 O|
 O|
 O|                                                                     26.            
@@ -1331,7 +1331,7 @@ T|                                                              SMASH TO:
 O|
 S|               INT. KITCHEN - CHARLIE’S HOUSE - CONTINUOUS                          
 O|
-N,A|               Charlie slams the door. His mother is finishing making               
+N|               Charlie slams the door. His mother is finishing making               
 N|               dinner.                                                              
 O|
 C|                                   THE MOTHER                                       
@@ -1482,7 +1482,7 @@ O|
 C,E|                                   THE FATHER THING (CONT’D)                        
 U|                         I am your father.                                          
 O|
-N,A|               The Father Thing stares. A beat.  Gives the door a shoulder.         
+N|               The Father Thing stares. A beat.  Gives the door a shoulder.         
 N|               The door gives way but it doesn’t matter because:                    
 O|
 N,G|               CHARLIE -- ON THE ROOF                                               
@@ -1552,7 +1552,7 @@ O|
 S|               EXT. PERETTI’S HOUSE - LATER                                         
 O|
 N|               Out of breath, Charlie stands in front of the house, picks up        
-N,A|               a handful of pebbles, tosses them at a second-floor window.          
+N|               a handful of pebbles, tosses them at a second-floor window.          
 O|
 N|               On the third pebble toss, the window opens. Peretti sticks           
 N|               his head out, holds up one finger:                                   
@@ -1567,7 +1567,7 @@ N|               Peretti walks down the side of the house and as he steps up
 N|               to Charlie, Henry appears.                                           
 O|
 N|               Henry get’s in Charlie’s face, pulls out his Zippo, starts to        
-N,A|               flick.                                                               
+N|               flick.                                                               
 O|
 C|                                   HENRY                                            
 U|                         What are you doing here, dickhead?                         
@@ -1581,7 +1581,7 @@ N|               Charlie might not have a choice.
 O|
 S|               INT. HALLWAY - PERETTI HOUSE - MOMENTS LATER                         
 O|
-N,A|               The three boys. A lot of “shushing.”  They don’t wanna wake          
+N|               The three boys. A lot of “shushing.”  They don’t wanna wake          
 N|               up Mrs. Peretti. Through the hallway and down the stairs.            
 O|
 S|               INT. BASEMENT - LATER                                                
@@ -1736,7 +1736,7 @@ O|
 S|               INT. VOLVO - MOVING - MINUTES LATER                                  
 O|
 N|               Charlie and The Father Thing. Not a word is spoken. The              
-N,A|               Father Thing scans the radio in the car. One station after           
+N|               Father Thing scans the radio in the car. One station after           
 N|               another.  Not really listening. More like he is sampling.            
 N|               It’s unnerving. Never landing on a station for longer than           
 N|               two seconds. Finally:                                                
@@ -1785,8 +1785,8 @@ N|               Eyes wide open.
 O|
 S|               INT. CHARLIE’S BEDROOM - LATER                                       
 O|
-N,A|               Charlie sits on the bed watching the door. He HEARS                  
-N,A|               footsteps. A shadow darkens the crack under the door.                
+N|               Charlie sits on the bed watching the door. He HEARS                  
+N|               footsteps. A shadow darkens the crack under the door.                
 N|               Charlie holds his breath until the shadow passes. He then            
 N|               gets up, goes to the window, tries to open it. It has been           
 N|               nailed shut from the outside.                                        
@@ -1829,7 +1829,7 @@ G|               CLOSE ON A DIGITAL ALARM CLOCK
 O|
 N|               Flickering. It’s 3:14 A.M.                                           
 O|
-N,A|               Charlie stares at it, HEARS voices from outside. He steps up         
+N|               Charlie stares at it, HEARS voices from outside. He steps up         
 N|               to the window.                                                       
 O|
 N|               Down below it looks like a late night neighborhood watch             
@@ -1961,7 +1961,7 @@ O|
 S|               INT. HALLWAY - LAKESHORE ELEMENTARY SCHOOL - DAY                     
 O|
 N|               Charlie walking down the hall, lost in thought, heading              
-N,A|               toward his locker. He slams right into someone heading the           
+N|               toward his locker. He slams right into someone heading the           
 N|               other direction.                                                     
 O|
 O|
@@ -2008,16 +2008,16 @@ O|
 N|               No teacher -- though Mr. Dick’s smudgy name is still up on           
 N|               the board.                                                           
 O|
-N,A|               Suddenly, SIRENS:                                                    
+N|               Suddenly, SIRENS:                                                    
 O|
-N,I|               THE KIDS IN THE CLASS rush to the windows. Charlie looks             
+N|               THE KIDS IN THE CLASS rush to the windows. Charlie looks             
 N|               out, SEES:                                                           
 O|
 O|
 O|                                                                     40.            
 O|
 S|               EXT. ELEMENTARY SCHOOL - SAME TIME                                   
-N,I|               A BUNCH OF COP CARS screech to a stop. COPS get out. On              
+N|               A BUNCH OF COP CARS screech to a stop. COPS get out. On              
 N|               their heels, a COUPLE OF FIRE TRUCKS pull up.                        
 O|
 S|               THE ROOF OF THE GYM - CONTINUOUS                                     
@@ -2027,7 +2027,7 @@ N|               is not watching. He is standing perilously close to the edge
 N|               and gazing vacantly out across the city.                             
 O|
 S|               BELOW THE GYM - CONTINUOUS                                           
-N,I|               COPS.  FIREMEN. THE PRINCIPAL.  SCHOOL PERSONNEL. Looking            
+N|               COPS.  FIREMEN. THE PRINCIPAL.  SCHOOL PERSONNEL. Looking            
 N,I|               up at the man on the roof.  The HEAD COP, CAPTAIN MILLER,            
 N|               takes a bullhorn, turns to the Principal.                            
 O|
@@ -2148,7 +2148,7 @@ U|                         steal some of her medicine and you
 U|                         can sneak it in his food--                                 
 N|               A hand reaches over and grabs a pepperoni. The hand is               
 N|               attached to Henry. Henry’s other hand is around the waist of         
-N|               the Girl we saw him with before. By the way, her name is             
+N,M,I|               the Girl we saw him with before. By the way, her name is             
 N,I|               TAYLOR.                                                              
 O|
 C|                                   HENRY                                            
@@ -2210,7 +2210,7 @@ U|                         Hey, I’m just sayin’...
 O|
 S|               INT. POLICE PRECINCT - DAY                                           
 O|
-N,I|               A busy urban precinct. The DESK SERGEANT looks up. Charlie           
+N|               A busy urban precinct. The DESK SERGEANT looks up. Charlie           
 N|               is standing before him.                                              
 O|
 C|                                   CHARLIE                                          
@@ -2378,14 +2378,14 @@ O|
 O|                                                                     47.            
 O|
 N|               The Crown Vic slams to a stop. RUNNING in front of the car,          
-N,I|               against the light, is a “RUNNER”/PEDESTRIAN chased by a MOB          
-N,I|               of TWO DOZEN OTHER PEDESTRIANS. They look like they are              
+N|               against the light, is a “RUNNER”/PEDESTRIAN chased by a MOB          
+N|               of TWO DOZEN OTHER PEDESTRIANS. They look like they are              
 N|               going to tear The Runner apart.                                      
 C|                                   GOLAN                                            
 U|                         What the--                                                 
 O|
 N|               Golan, forgetting about Charlie in the back seat, flips on           
-N,A|               the BUBBLE LIGHTS, turns on the siren, pursues the Mob.              
+N|               the BUBBLE LIGHTS, turns on the siren, pursues the Mob.              
 O|
 S|               AROUND THE CORNER - CONTINUOUS                                       
 N|               As the Crown Vic turns the corner, Golan hits the brakes.            
@@ -2396,7 +2396,7 @@ O|
 C|                                   GOLAN                                            
 U|                         Get the hell out of the way!                               
 O|
-N,I|               A STRAGGLER at the back of the crowd turns, stares at                
+N|               A STRAGGLER at the back of the crowd turns, stares at                
 N|               Detective Fernandez who is weirdly still sitting, unmoving in        
 N|               the passenger seat. A LOOK IS EXCHANGED between the                  
 N|               Straggler and Fernandez. And Fernandez nods.                         
@@ -2428,7 +2428,7 @@ O|
 O|
 O|                                                                     48.            
 O|
-N,I|               A TRANSIT COP yells and gives chase. (It’s a good thing the          
+N|               A TRANSIT COP yells and gives chase. (It’s a good thing the          
 N|               cops in Chicago weigh three bucks fifty.) Detective                  
 N|               Fernandez overtakes the Transit Cop and closes in on Charlie.        
 O|
@@ -2443,7 +2443,7 @@ N|               stamina.  She is gaining. Gaining.  Gaining.
 N|               But at the last second, Charlie leaps into an EL CAR as the          
 N|               doors are closing.                                                   
 O|
-N,A|               Detective Fernandez bangs on the window as the train pulls           
+N|               Detective Fernandez bangs on the window as the train pulls           
 N|               away.  Charlie stares at her through the glass. You can              
 N|               almost detect a smile on his face.                                   
 O|
@@ -2451,8 +2451,8 @@ S|               INT. SUBWAY/EL TRAIN CAR - MOVING - SECONDS LATER
 O|
 N|               Charlie, still trying to catch his breath, sits in the train         
 N|               car.                                                                 
-N,I|               Commuters fill the car. Most of them stare out the windows,          
-N,I|               impassive. A few seats down the aisle, a BLIND MAN faces             
+N|               Commuters fill the car. Most of them stare out the windows,          
+N|               impassive. A few seats down the aisle, a BLIND MAN faces             
 N|               him.  It almost feels like he is WATCHING CHARLIE.                   
 O|
 N|               Charlie tenses.                                                      
@@ -2508,7 +2508,7 @@ C|                                   THE FATHER THING
 U|                         You know why they call third base                          
 U|                         the hot corner, Charlie?                                   
 O|
-A|               Whack!                                                               
+N|               Whack!                                                               
 C,E|                                   THE FATHER THING (CONT’D)                        
 U|                         Because when the ball is hit hard                          
 U|                         in the direction of left-field and                         
@@ -2518,7 +2518,7 @@ U|                         per second, the third baseman has --
 U|                         at most -- about four seconds to                           
 U|                         get the ball from third to first.                          
 O|
-A|               Whack!                                                               
+N|               Whack!                                                               
 O|
 N|               The way The Father Thing behaves... and what he says... it is        
 N|               downright abusive.                                                   
@@ -2540,7 +2540,7 @@ U|                         And you have to harbour beyond the
 U|                         sharpest of motor skills that will                         
 U|                         allow you to act defensively on                            
 U|                         impulse.                                                   
-A|               Whack!                                                               
+N|               Whack!                                                               
 N|               It becomes more and more dangerous, as though Charlie is a           
 N|               target.                                                              
 O|
@@ -2572,7 +2572,7 @@ U|                         every breath I take in, I keep
 U|                         coming back to one undeniable                              
 U|                         perplexing conundrum.                                      
 O|
-A|               Whack!                                                               
+N|               Whack!                                                               
 O|
 O|
 O|                                                                     51.            
@@ -2614,7 +2614,7 @@ S|               EXT. CHARLIE’S HOUSE - NIGHT
 N|               Charlie leads Henry and Peretti past the side of Charlie’s           
 N|               house.  Unseen, they peer through the family room window.            
 O|
-N,A|               The Father Thing sits on the couch watching TV, staring at SO        
+N|               The Father Thing sits on the couch watching TV, staring at SO        
 N|               YOU THINK YOU CAN DANCE.                                             
 O|
 C|                                   HENRY                                            
@@ -2733,7 +2733,7 @@ O|
 N|               The Mother kisses him. And as she walks away, he touches the         
 N|               small of her back. It is a strange intimacy.                         
 O|
-S|               ON THE BOYS - RESUME                                                 
+G|               ON THE BOYS - RESUME                                                 
 O|
 N|               Henry shakes his head.                                               
 C|                                   HENRY                                            
@@ -2804,7 +2804,7 @@ O|
 N|               The Father Thing steps out.                                          
 O|
 C|                                   THE FATHER THING                                 
-N|                         Charlie.                                                   
+U|                         Charlie.                                                   
 O|
 N|               Across the way, the side door to the garage is open. The             
 N|               Father Thing walks slowly toward the garage.                         
@@ -2845,7 +2845,7 @@ U|                         Now.
 O|
 N|               And then he does it. He makes his move.                              
 O|
-N,A|               The wire is tripped. Buckets fall from the exposed beams. A          
+N|               The wire is tripped. Buckets fall from the exposed beams. A          
 N|               rake and a shovel fly. Christmas lights blink on and off as          
 N|               electricity flows through bare wires. Croquet Wickets zoom           
 N|               through the air like an Aboriginal booby trap. It’s very             
@@ -2853,7 +2853,7 @@ N|               exciting.
 O|
 N|               But EVERYTHING misses the mark. It’s a valiant effort but a          
 N|               complete pig fuck.                                                   
-N,A|               The Boys are frozen. And as the clanging settles:                    
+N|               The Boys are frozen. And as the clanging settles:                    
 O|
 C,E|                                    THE FATHER THING (CONT’D)                       
 U|                         Nice try, Charlie.                                         
@@ -2870,10 +2870,10 @@ O|
 C,E|                                   THE MOTHER (O.C.)                                
 U|                         Charlie...                                                 
 O|
-G|               ANGLE ON THE MOTHER - INTERCUT                                       
+G,T|               ANGLE ON THE MOTHER - INTERCUT                                       
 O|
 N|               The Mother stands on the back porch. The Father Thing,               
-N,A,G|               unseen, yells from the garage.                                       
+N,G|               unseen, yells from the garage.                                       
 O|
 O|
 O|                                                                     57.            
@@ -2908,7 +2908,7 @@ O|
 N|               Charlie rushes The Father Thing. He’s been holding a                 
 N|               LOUISVILLE SLUGGER behind his back, and he takes a home run          
 N|               swing, hitting The Father Thing right in the back of the             
-N,A|               head.  The Father Thing doubles up, hits the deck.                   
+N|               head.  The Father Thing doubles up, hits the deck.                   
 O|
 C,E|                                   CHARLIE (CONT’D)                                 
 U|                         Run!                                                       
@@ -2958,7 +2958,7 @@ U|                         Leave us alone!
 C|                                   THE FATHER THING                                 
 U|                         Not in the stars, Charlie.                                 
 O|
-N,A|               The Father Thing opens its mouth. A SILENT ROAR. And then            
+N|               The Father Thing opens its mouth. A SILENT ROAR. And then            
 N|               ENERGY and LIGHT and MIST flood out.                                 
 O|
 N|               Charlie takes a step back, covers his ears in pain. Blood            
@@ -2967,14 +2967,14 @@ O|
 N|               Oh God, please make it stop!                                         
 N|               And then God or something comes to Charlie’s rescue.                 
 O|
-N,A,G|               We HEAR it first. 362 HORSEPOWER.  Then we SEE the HIGH              
+N,G|               We HEAR it first. 362 HORSEPOWER.  Then we SEE the HIGH              
 N|               BEAMS of a CAR. The Car jumps the curb, plows through the            
 N|               Garden, careening out of control, tearing up dirt at 60              
 N|               m.p.h.                                                               
 O|
 N|               The Father Thing turns into the glare of the headlights.             
 O|
-A|               BOOM.                                                                
+N|               BOOM.                                                                
 O|
 N|               Direct hit. The Father Thing goes over the hood, smacks into         
 N|               the windshield.                                                      
@@ -2993,8 +2993,8 @@ O|
 N|               The Boys surround the fallen Father Thing. Green “blood”             
 N|               escapes from its mouth. And then:                                    
 O|
-N,A,M|               Its lips start to move/quiver/separate. (N.B. The sound              
-N,A,M|               effects are disgusting and scary as shit!) Crawling out of           
+N,M|               Its lips start to move/quiver/separate. (N.B. The sound              
+N,M|               effects are disgusting and scary as shit!) Crawling out of           
 N|               The Father Thing’s mouth is a:                                       
 N|               LITTLE UGLY THING                                                    
 O|
@@ -3004,12 +3004,12 @@ N|               thing struggles out of the orifice and starts wildly running
 N|               around in the dirt.                                                  
 O|
 N|               The Boys are sickened, afraid. They start hopping around and         
-N,A|               yelling.                                                             
+N|               yelling.                                                             
 O|
 G|               ON THE UGLY THING                                                    
 N|               Scurrying. Angry as hell--                                           
 O|
-A|               WHAP!                                                                
+N|               WHAP!                                                                
 O|
 N|               A SIZE 8 SHOE comes down on it. When the show lifts up, the          
 N|               Ugly Thing isn’t moving anymore.                                     
@@ -3038,7 +3038,7 @@ O|
 N|               Henry tosses his Zippo to Charlie. Charlie does the honors,          
 N|               snaps it, lights the pods on fire.                                   
 N|               As it goes up in flames, The Charlie Thing starts                    
-N,A|               screaming/struggling.                                                
+N|               screaming/struggling.                                                
 O|
 N|               The partially-formed Mother Thing slowly, quietly turns her          
 N|               head, stares at Charlie from the cocoon. He watches it burn.         
@@ -3092,7 +3092,7 @@ N|               marker on his recording program, uploads it to YouTube for
 N|               the world to see.                                                    
 T|                                                                CUT TO:             
 O|
-S|               THE THREE BOYS                                                       
+N|               THE THREE BOYS                                                       
 O|
 N|               Charlie.  Peretti. And Henry.  At night. Walking up a hill           
 N,M|               overlooking the City. A hill that we saw before in better            
