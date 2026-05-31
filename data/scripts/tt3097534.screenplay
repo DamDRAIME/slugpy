@@ -16,11 +16,11 @@ O|                                         MGM
 O|                                     FX Network                                     
 O|
 O|
-N,G|               The following text fades in over black:                              
-N|               This is a true story. The events depicted took place in              
-N|               Minnesota in 2006. At the request of the survivors, the              
-N|               names have been changed. Out of respect for the dead, the            
-N|               rest has been told exactly as it occurred.                           
+M|               The following text fades in over black:                              
+M|               This is a true story. The events depicted took place in              
+M|               Minnesota in 2006. At the request of the survivors, the              
+M|               names have been changed. Out of respect for the dead, the            
+M|               rest has been told exactly as it occurred.                           
 O|
 T|                                                        FLARE TO WHITE:             
 O|
@@ -46,9 +46,9 @@ N|               appears in the road ahead of him. Malvo turns too late, HITS
 N|               it.  The CAR SKIDS off the road, ROLLS twice -- the trunk            
 N|               popping open -- before coming to rest on its wheels.                 
 O|
-N,I|               Beat. A MAN emerges from the trunk wearing only underwear.           
+N|               Beat. A MAN emerges from the trunk wearing only underwear.           
 N|               He is stunned from the crash, but sound enough of mind to            
-N|               know this is his chance. As we watch he LOPES off through            
+N,G|               know this is his chance. As we watch he LOPES off through            
 N|               waist-deep snow, making for the tree line.                           
 O|
 N|               Beat.  The driver’s door opens. Slowly, Malvo climbs out.            
@@ -199,7 +199,7 @@ T|                                                                CUT TO:
 O|
 S|               INT. INSURANCE AGENCY. SAINT CLOUD, MINNESOTA - DAY                  
 O|
-N,I|               Lester Nygaard sits across from a YOUNG COUPLE.                      
+N|               Lester Nygaard sits across from a YOUNG COUPLE.                      
 O|
 C|                                   LESTER NYGAARD                                   
 U|                         So, that’s -- like I said, there’s                         
@@ -407,7 +407,7 @@ U|                         I know what rack means, ya fairy.
 O|
 N|               Hess smacks both boys in the back of the head.                       
 O|
-C|                                   MICKEY (CONT’D)                                  
+C,E|                                   MICKEY (CONT’D)                                  
 U|                         Ow.                                                        
 C|                                   MOE                                              
 U|                         Ya, dad. Ow.                                               
@@ -859,8 +859,8 @@ O|
 O|
 O|                                                                     17.            
 O|
-G|               VERN                                                                 
-U|               Thinks about opening it, the pros and cons.                          
+N|               VERN                                                                 
+N|               Thinks about opening it, the pros and cons.                          
 O|
 C,E|                                   MOLLY (CONT’D)                                   
 U|                         Should I unholster my sidearm?                             
@@ -875,7 +875,7 @@ N|               THE DEER
 O|
 N|               Still alive, flailing weakly.                                        
 O|
-G|               VERN AND MOLLY                                                       
+N|               VERN AND MOLLY                                                       
 O|
 N|               Look at the deer.                                                    
 O|
@@ -929,7 +929,7 @@ C|                                   MOLLY
 U|                         Chief.                                                     
 O|
 N|               He looks where her flashlight is pointed. There, sitting in          
-N,I|               the snow, is A MAN IN HIS UNDERWEAR, frozen to death.                
+N|               the snow, is A MAN IN HIS UNDERWEAR, frozen to death.                
 O|
 C|                                   VERN                                             
 P|                             (beat)                                                 
@@ -1220,7 +1220,7 @@ N|               The boy SLAMS the door in their face. Beat. Lester rings
 N,I|               the bell again. KITTY NYGAARD, 32, opens the door. She’s             
 N|               pretty, well appointed.                                              
 O|
-C|                                   LESTER NYGAARD (CONT’D)                          
+C,E|                                   LESTER NYGAARD (CONT’D)                          
 P|                             (tries again)                                          
 U|                         We’re here.                                                
 O|
@@ -1532,8 +1532,8 @@ T|                                                                CUT TO:
 O|
 S|               INT. BACK ROOM. THE LUCKY PENNY - NIGHT                              
 O|
-N,I|               Sam Hess is giving it to a HOOKER, who couldn’t look more            
-N,I|               bored, a cigarette dangling from her lips.                           
+N|               Sam Hess is giving it to a HOOKER, who couldn’t look more            
+N|               bored, a cigarette dangling from her lips.                           
 O|
 C|                                   HOOKER                                           
 U|                         Oh, yeah, big fella. Oh, yeah.                             
@@ -1630,7 +1630,7 @@ U|                         of death?
 O|
 C|                                   VERN                                             
 U|                         Put self-explanatory.                                      
-U|               Vern crouches, examines Hess’s profile.                              
+N|               Vern crouches, examines Hess’s profile.                              
 O|
 C,E|                                   VERN (CONT’D)                                    
 U|                         Well, heck. That’s Sam Hess.                               
@@ -1668,7 +1668,7 @@ T|                                                                CUT TO:
 O|
 S|               INT. FARMDALE MOTEL. SAINT CLOUD, MINNESOTA - NIGHT                  
 O|
-N,I|               The owner, a heavyset WOMAN, is yelling at a sullen TEEN.            
+N|               The owner, a heavyset WOMAN, is yelling at a sullen TEEN.            
 N|               Malvo enters.                                                        
 O|
 C|                                   WOMAN                                            
@@ -1846,7 +1846,7 @@ C|                                   VERN
 U|                         Sorry to hear it.                                          
 O|
 C|                                   LOU                                              
-O|                         Interested?                                                
+U|                         Interested?                                                
 O|
 C|                                   VERN                                             
 U|                         No.  Only thing I ever caught                              
@@ -1938,7 +1938,7 @@ N|               Mickey and Moe, wearing black suits too short in the arms and
 N,I|               legs, sit on the sofa, looking bored. Their mother, GINA             
 N,I|               HESS (30s) sits in a chair, wearing red. She’s not from              
 N|               around here. Bruce Gold, Hess’s consigliere, is there,               
-N,I,M|               drinking coffee. As are the TWO HEAVIES we saw at the                
+N,M|               drinking coffee. As are the TWO HEAVIES we saw at the                
 N|               garage.                                                              
 O|
 C|                                   BRUCE GOLD                                       
@@ -1971,7 +1971,7 @@ U|                         his funeral.
 O|
 N|               She breaks into tears, inconsolable. The men of Minnesota            
 N|               watch her cry, mystified by her emotional range.                     
-N,I|               A MAID comes in.                                                     
+N|               A MAID comes in.                                                     
 O|
 C|                                   MAID                                             
 U|                         Mr. Mickey. You have a phone call.                         
@@ -2718,7 +2718,7 @@ U|                         said, he’s the kind of boy who
 U|                         loses all the time. And you know                           
 U|                         what those boys grow up ta be,                             
 U|                         don’t ya? Losers.                                          
-G|               LESTER                                                               
+N|               LESTER                                                               
 O|
 N|               Looks at his tools.                                                  
 O|
@@ -2770,10 +2770,10 @@ N|               taped to a bare concrete wall. On it a school of yellow fish
 N|               all face the same direction, except one. The poster reads            
 N|               There’s Always One. Be the One.                                      
 O|
-G|               LESTER                                                               
+N|               LESTER                                                               
 O|
 N|               Stares at it. As he does, an idea hits him. A brilliant,             
-N|               dangerous plan. Could he really do it? As we watch, Lester           
+N,G|               dangerous plan. Could he really do it? As we watch, Lester           
 N|               strips off his clothes, shoves them in a garbage bag.                
 O|
 N|               Carefully Lester wipes the handle of the claw hammer to              
@@ -2995,7 +2995,7 @@ O|
 N|               Vern glances down the basement stairs.                               
 G|               ANGLE ON PEARL’S FEET                                                
 O|
-G|               Visible at the bottom of the stairs.                                 
+N,G|               Visible at the bottom of the stairs.                                 
 O|
 C,E|                                   LESTER NYGAARD (CONT’D)                          
 U|                         -- That’s not -- I didn’t do                               
@@ -3464,7 +3464,7 @@ C,E|                                   MOLLY (CONT’D)
 U|                         On second thought, I’m gonna head                          
 U|                         in ta work. Coroner’s report should                        
 U|                         be in.  Rain check on the fishin’?                         
-U|               He nods.  She kisses his cheek.                                      
+N|               He nods.  She kisses his cheek.                                      
 O|
 C,E|                                   MOLLY (CONT’D)                                   
 U|                         Love ya, dad.                                              

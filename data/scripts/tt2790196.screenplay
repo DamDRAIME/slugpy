@@ -24,7 +24,7 @@ O|                       "CH. 5: THE SECRET FATE OF ALL LIFE" - 5/12/13 1.
 O|
 O|                                  TRUE DETECTIVE                                    
 O|                    Chapter Five: ‘The Secret Fate of All Life’                     
-N|             TITLE CREDITS.                                                         
+M|             TITLE CREDITS.                                                         
 O|
 T|             FADE IN:                                                               
 O|
@@ -44,7 +44,7 @@ O|
 S|      3      INT. ROADHOUSE - DAY                                      3            
 O|
 N,G|             Soft in b.g., Waylon Jennings sings ‘BAKER STREET’ from an old         
-N,I|             jukebox while a beefy BARTENDER cleans nozzles. Only other             
+N|             jukebox while a beefy BARTENDER cleans nozzles. Only other             
 N,I|             inhabitants, RUST COHLE and GINGER at a gouged booth--                 
 N|             Dewall enters, nods to bartender, spots Cohle and Ginger--             
 N|             Bartender alert as Dewall lumbers to them--                            
@@ -266,7 +266,7 @@ N|             swallowed--
 O|
 S|      10     INT. INTERROGATION ROOM - DAY                            10            
 O|
-N,I|             Hart, 52--                                                             
+N|             Hart, 52--                                                             
 O|
 C|                                 GILBOUGH                                           
 U|                       So you get a tip where Ledoux                                
@@ -416,7 +416,7 @@ U|                       mean, we’re ready to just leave the
 U|                       shit be. Wasn’t what happened. Soon                          
 U|                       as we’d decided to back off--                                
 O|
-N|             He claps his hands together- whack!                                    
+N,A|             He claps his hands together- whack!                                    
 S|      17     INT. INTERROGATION ROOM - DAY                            17            
 O|
 N|             Hart, 52--                                                             
@@ -482,7 +482,7 @@ O|
 S|      21     INT. TRAILER / METH SHACK - FOREST - DAY                 21            
 O|
 N,I|             REGGIE LEDOUX stands at a sink, rinsing out what look likes an         
-N|             old dog dish. Tattooed, he wears only a towel wrapped around           
+N,I|             old dog dish. Tattooed, he wears only a towel wrapped around           
 N|             his waist-- The small kitchen filthy, full of dirty dishes,            
 N|             chemistry equipment, hot-plates-- A spiral brand on his back--         
 N|             Outside the window, unseen, Cohle has Ledoux in his sights--           
@@ -529,7 +529,7 @@ O|
 S|      23     INT. CONFERENCE ROOM, POLICE HQ - DAY                    23            
 O|
 N,I|             Hart, 35, testifies across a long table to members of the              
-N,I|             police SHOOTING BOARD, telling the same story as in 2012--             
+N|             police SHOOTING BOARD, telling the same story as in 2012--             
 O|
 C|                                 HART                                               
 U|                       They’d spotted us before we crossed                          
@@ -658,7 +658,7 @@ O|
 O|                      "CH. 5: THE SECRET FATE OF ALL LIFE" - 5/12/13 13.            
 O|
 N|             He sees what Marty saw: Their forms partially obscured by              
-N,I|             shadow, TWO CHILDREN’S LEGS are visible, bruised, shackled--           
+N|             shadow, TWO CHILDREN’S LEGS are visible, bruised, shackled--           
 S|      32     INT. INTERROGATION ROOM - DAY                            32            
 O|
 N|             Rust Cohle, 49--                                                       
@@ -738,17 +738,17 @@ O|
 S|      37     EXT. BACK ROADS, FOREST - DAY                            37            
 O|
 N|             Where Cohle and Hart had left their vehicles parked, now with          
-N,I|             STATE PD CRUISERS, lights flashing, AMBULANCES. MEDICS and             
-N,I|             PATROLMEN standing around, a REPORTER waiting as--                     
+N|             STATE PD CRUISERS, lights flashing, AMBULANCES. MEDICS and             
+N|             PATROLMEN standing around, a REPORTER waiting as--                     
 O|
 N,G|             ON WOODS-- Martin Hart and Rust Cohle emerge side-by-side, each        
-N,I|             of them carrying a CHILD covered in a ratty blanket--                  
+N|             of them carrying a CHILD covered in a ratty blanket--                  
 O|
-N,I|             Hart carries a little girl, her eyes closed, face dirty--              
+N|             Hart carries a little girl, her eyes closed, face dirty--              
 N|             We don’t know the gender of Cohle’s, because the blanket               
 N,G|             covers the child’s face-- Only see the small feet--                    
 O|
-N,I|             As the medics and patrolmen rush to their aid, a news REPORTER         
+N|             As the medics and patrolmen rush to their aid, a news REPORTER         
 N|             takes a picture--                                                      
 O|
 T|                                                           FADE TO WHITE.           
@@ -771,7 +771,7 @@ N|             homicide to applause-- Copies everywhere of THE LAFAYETTE
 N|             ADVERTISER, front page pictures of Cohle and Hart carrying             
 N|             the children. Headline: ‘Hero Detectives Stop Killers, Save            
 N|             Girl’--                                                                
-N,I|             The other detectives shake hands with Cohle and Hart. A                
+N|             The other detectives shake hands with Cohle and Hart. A                
 N|             victory for the whole team--                                           
 O|
 C,E|                                 COHLE 2012 (V.O.)                                  
@@ -825,8 +825,8 @@ U|                       Getting in a shootout kinda opened
 U|                       her up to forgiveness. Or the                                
 U|                       possibility.                                                 
 S|      41     INT. SKATE RINK - DAY                                    41            
-N,I|             SKATING RINK. Hart skating with Macie and Audrey-- Maggie              
-N,I|             skates too, left back by the girls wanting to both hold their          
+N|             SKATING RINK. Hart skating with Macie and Audrey-- Maggie              
+N|             skates too, left back by the girls wanting to both hold their          
 N|             father’s hands--                                                       
 O|
 N,G|             MAGGIE’S POV as Hart skates through stage-fog and laser-               
@@ -977,8 +977,8 @@ U|                       now.
 O|
 S|      48     INT. MEETING HALL / PROMISE KEEPERS - DAY                48            
 O|
-N,I|             About eighty MEN in a multi-purpose hall, all white, middle-           
-N,I|             age, like a Kiwanis meeting-- SIGNS on wall and at front               
+N|             About eighty MEN in a multi-purpose hall, all white, middle-           
+N|             age, like a Kiwanis meeting-- SIGNS on wall and at front               
 N|             proclaim ‘PROMISE KEEPERS ‘99: TOWARD THE MILLENNIUM’--                
 N|             SPEAKER at the front of room with podium-- Seated behind the           
 N,I|             speaker is BILLY LEE TUTTLE--                                          
@@ -1169,8 +1169,8 @@ N|             surroundings--
 O|
 S|      54     INT. DINING AREA, HART HOME - NIGHT                      54            
 O|
-N|             Hart sits at table eating with his family. Maggie (39)                 
-N|             serves. Macie is 13, bubbly, girly, and Audrey, 16, dresses            
+N,I|             Hart sits at table eating with his family. Maggie (39)                 
+N,I|             serves. Macie is 13, bubbly, girly, and Audrey, 16, dresses            
 N|             grungy, frowns at her food-- WALL CALENDAR - 2002--                    
 O|
 C|                                 HART                                               
@@ -1373,7 +1373,7 @@ N|             Cohle’s eyes lock with his--
 O|
 S|      57     INT. ABBEVILLE PD - DAY                                  57            
 O|
-N,I|             TWO PD DETECTIVES and SERGEANT observe Cohle working a                 
+N|             TWO PD DETECTIVES and SERGEANT observe Cohle working a                 
 N|             suspect through windows into an INTERVIEW ROOM--                       
 S|      58     INT. INTERVIEW ROOM, ABBEVILLE POLICE - DAY              58            
 O|
@@ -1575,12 +1575,12 @@ C|                                 SERGEANT
 U|                       You can visit the prisoner when you                          
 U|                       calm down, request further                                   
 U|                       interview. We appreciate the                                 
-O|                       assist.                                                      
+U|                       assist.                                                      
 O|
 C|                                 DETECTIVE 1                                        
 U|                       Come on--                                                    
 O|
-N,I|             TWO PATROLMEN pass by to take Francis to holding-- One of              
+N|             TWO PATROLMEN pass by to take Francis to holding-- One of              
 N|             them is Childress, who heard the conversation--                        
 C|                                 COHLE                                              
 U|                       What’s going on here?                                        
@@ -1889,8 +1889,8 @@ N|             They exit--
 O|
 S|      71     INT. HOLDING AREA - ABBEVILLE PD - DAY                   71            
 N|             At the gated entrance toward the HOLDING CELLS-- commotion as          
-N,I|             Cohle and Hart face off against TWO ABBEVILLE PD DETECTIVES            
-N,I|             and TWO PATROLMEN--                                                    
+N|             Cohle and Hart face off against TWO ABBEVILLE PD DETECTIVES            
+N|             and TWO PATROLMEN--                                                    
 O|
 C|                                 COHLE                                              
 U|                       What the fuck are you talking                                
@@ -1905,7 +1905,7 @@ U|                       What happened? You assholes--
 O|
 S|      72     INT. HALLWAY, ABBEVILLE PD - DAY                         72            
 O|
-N,I|             WALKING down a hallway of HOLDING CELLS with PD--                      
+N|             WALKING down a hallway of HOLDING CELLS with PD--                      
 O|
 C|                                 SERGEANT                                           
 U|                       We did take his belt. Shoelaces                              
@@ -1957,7 +1957,7 @@ N|             Cohle fumes as Hart leads him away, looking at Francis’s dead b
 N|             slumped in the cell, the dark river flowed out it...                   
 S|      73     INT. VIDEO ROOM - DAY                                    73            
 O|
-N,I|             Cohle leans past an IA INVESTIGATOR and TECHNICIAN watching the        
+N|             Cohle leans past an IA INVESTIGATOR and TECHNICIAN watching the        
 N|             holding area’s camera footage-- FAST-FORWARDING through footage        
 N|             of empty holding area for some time-- Francis is taken out his         
 N|             cell, walked out, then walked back to his cell--                       
@@ -1996,7 +1996,7 @@ O|
 S|      74     EXT. PHONE BOOTH / DEFUNCT GAS STATION - DAY             74            
 O|
 N|             An abandoned GAS STATION on the prairie, convenience store             
-N,I|             empty, gas pumps ripped out-- A DEPUTY stands with Cohle and Hart      
+N|             empty, gas pumps ripped out-- A DEPUTY stands with Cohle and Hart      
 N|             outside a PHONE BOOTH on the edge of the lot--                         
 N|             Cohle looks the phone over, the desolation--                           
 O|
@@ -2331,7 +2331,7 @@ C|                                 PAPANIA
 U|                       He’s not close to right. Come on.                            
 O|
 N|             Gilbough weighs where they were against where Papania left             
-U|             them--                                                                 
+N|             them--                                                                 
 O|
 O|
 O|                      "CH. 5: THE SECRET FATE OF ALL LIFE - 5/12/13 45.            
@@ -2427,7 +2427,7 @@ O|
 N|             On Hart’s face, thinking these things over, not believing it--         
 S|      89     INT. INTERROGATION ROOM - DAY                            89            
 O|
-C|             Cohle, 49--                                                            
+N|             Cohle, 49--                                                            
 O|
 C|                                 COHLE                                              
 U|                       Fuck no you can’t look at my                                 
@@ -2516,7 +2516,7 @@ U|                       Think about this. You said it. He’d
 U|                       been there three months.                                     
 S|      91     EXT. CANE FIELDS - DAY                                   91            
 O|
-N,G|             FLASHBACK from early in the first ep., Cohle and Hart being led by     
+N,M|             FLASHBACK from early in the first ep., Cohle and Hart being led by     
 N|             a sheriff’s deputy through the field, toward the Lange scene--         
 O|
 C,E|                                 GILBOUGH (V.O.)                                    
@@ -2543,7 +2543,7 @@ N|             Marty’s face bleaches, staring at the new PHOTOS--
 O|
 S|      93     INT. SQUAD ROOM, STATE POLICE HQ - DAY                   93            
 O|
-N,G|             FLASHBACK scene from ep. 3, Cohle and Hart with the Rianne Olivier     
+N,M|             FLASHBACK scene from ep. 3, Cohle and Hart with the Rianne Olivier     
 N|             file, the photo of the girl’s back, the spiral tattoo--                
 O|
 O|
