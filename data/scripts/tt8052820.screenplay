@@ -121,7 +121,7 @@ C,E|                                   ETHELRIDA (V.O.)
 U|                         My history report, by Ethelrida                            
 U|                         Pearl Smutny.                                              
 O|
-A|               MUSIC UP                                                             
+N|               MUSIC UP                                                             
 O|
 T|                                                            HARD IN ON:             
 O|
@@ -148,7 +148,7 @@ U|                         this head, these limbs, this body
 U|                         from my master, and ran off with                           
 U|                         them.                                                      
 O|
-G|               REVERSE ON MS. HAGBLOOM                                              
+G,I|               REVERSE ON MS. HAGBLOOM                                              
 N,I|               The Principal’s secretary. A heavyset humorless Polish-              
 N,I|               American woman. She stares at Ethelrida with disdain.                
 O|
@@ -169,7 +169,7 @@ O|                              © 2018 FX Productions, LLC. All rights reserved
 O|            F A R G O #401 Blue Rev. - 11/18/19 2.     
 O|
 N,G|               we can see PRINCIPAL RICE CRISCOE through the window of his          
-N,A|               office. He’s WHACKING another student’s behind with a large          
+N|               office. He’s WHACKING another student’s behind with a large          
 N|               paddle.                                                              
 N|               Criscoe is a ruddy Irishman with hams for hands. This is how         
 N|               it works in the Land of the Free and the Home of the Brave.          
@@ -205,8 +205,8 @@ O|
 S|       3       EXT. JACKSON DEMOCRATIC CLUB. KANSAS CITY, MO - DAY (1900)     3     
 N|               The Year 1900 --                                                     
 O|
-N,I|               The street is bustling with activity, merchants with carts           
-N,I,G|               selling wares. Horse-drawn carriages. The people we see are          
+N|               The street is bustling with activity, merchants with carts           
+N,G|               selling wares. Horse-drawn carriages. The people we see are          
 N|               mostly Jewish.                                                       
 O|
 C,E|                                   ETHELRIDA (V.O.)                                 
@@ -219,7 +219,7 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 Blue Rev. - 11/18/19 2A.   
 O|
-N,G,I|               We see MEN in hats on the street outside the club. This is           
+N,G|               We see MEN in hats on the street outside the club. This is           
 N|               THE MOSKOWITZ CONTINGENCY. They control gambling,                    
 N|               prostitution, etc.                                                   
 O|
@@ -229,9 +229,9 @@ O|                              © 2018 FX Productions, LLC. All rights reserved
 O|            F A R G O #401 WHITE PRODUCTION DRAFT - 11/18/19 3.
 O|
 S|       4       INT. JACKSON DEMOCRATIC CLUB. KANSAS CITY - DAY                4     
-N,I|               Inside the club, local Missourians indulge their baser               
-N,I,G|               instincts. Cards are played. Prostitutes visible in the              
-N,G,I|               background. Around them we see Jewish gangsters at work,             
+N|               Inside the club, local Missourians indulge their baser               
+N,G|               instincts. Cards are played. Prostitutes visible in the              
+N,G|               background. Around them we see Jewish gangsters at work,             
 N|               keeping things orderly.                                              
 O|
 N,G,I|               We PUSH INTO a CLOSE UP of Jewish Boss, LIEV MOSKOWITZ (50s) -       
@@ -251,7 +251,7 @@ O|
 N|               The clothes have changed, but it’s still very much an                
 N|               immigrant community -- the neighborhood now less Jewish, more        
 N|               Irish.                                                               
-N,G,I|               As we watch, TWO GROUPS OF MEN approach each other: The              
+N,G|               As we watch, TWO GROUPS OF MEN approach each other: The              
 N|               Moskowitz Contingency and a group of Irish immigrants we will        
 N|               call THE MILLIGAN SYNDICATE. The two groups appraise each            
 N|               other warily.                                                        
@@ -318,7 +318,7 @@ N|               11-year-old Ari.
 O|
 C|                                   YIDDLES                                          
 U|                         Put some hair on yer bollocks.                             
-N,A|               The boy drinks. Everybody cheers.                                    
+N|               The boy drinks. Everybody cheers.                                    
 O|
 G|               ANGLE ON LIEV MOSKOWITZ                                              
 O|
@@ -369,7 +369,7 @@ T|                                                                CUT TO:
 O|
 S|       8       INT. HALLWAY. GROVER CLEVELAND HIGH SCHOOL. KANSAS CITY, MO -  8     
 S|               DAY (1950)                                                           
-N,I|               Ms. HAGBLOOM walks ETHELRIDA down the hall. We see a JANITOR         
+N,G|               Ms. HAGBLOOM walks ETHELRIDA down the hall. We see a JANITOR         
 N|               wiping graffiti from the wall.                                       
 O|
 C,E|                                   ETHELRIDA (V.O.)                                 
@@ -388,10 +388,10 @@ O|
 S|       9       INT. JACKSON DEMOCRATIC CLUB. KANSAS CITY - DAY (1925)         9     
 N|               It is 1925.                                                          
 O|
-N,I,G|               The place is full of members of the Moskowitz clan. We PAN           
+N,G|               The place is full of members of the Moskowitz clan. We PAN           
 N,G,I|               PAST THEM to the back, where Patrick Milligan (we recognize          
 N,I|               the cap), now 12, sneaks past the guards and OPENS THE BACK          
-N,I|               DOOR -- letting in A DOZEN IRISH MEN with TOMMY GUNS.                
+N|               DOOR -- letting in A DOZEN IRISH MEN with TOMMY GUNS.                
 O|
 G|               CLOSE UP ON YOUNG PATRICK                                            
 O|
@@ -400,7 +400,7 @@ N,G|               IN ON HIM as the men move past him, just dark blurs. He looks
 N|               nervous, but also filled with a rightness of purpose.                
 G|               ANGLE ON THE CLUB                                                    
 O|
-N,A|               as the Irish OPEN FIRE on the MOSKOWITZ CONTINGENCY. It’s a          
+N|               as the Irish OPEN FIRE on the MOSKOWITZ CONTINGENCY. It’s a          
 N|               massacre.                                                            
 O|
 G|               CLOSE UP ON PATRICK                                                  
@@ -458,7 +458,7 @@ G|               ANGLE ON THE TRIGGER
 O|
 N|               As Yiddles forces Patrick to pull it.                                
 O|
-A|               -- BANG --                                                           
+N|               -- BANG --                                                           
 O|
 C,E|                                   ETHELRIDA (V.O.)                                 
 U|                         Logic dictates that in every fight                         
@@ -518,8 +518,8 @@ O|
 G|               ANGLE ON YIDDLES                                                     
 O|
 N|               The Irish King of Kansas City, our disfigured, snake-                
-N,A|               charming, back-stabber. He SPITS into his hand, offers it to         
-N,A|               Donatello -- who SPITS in his own hand and shakes.                   
+N|               charming, back-stabber. He SPITS into his hand, offers it to         
+N|               Donatello -- who SPITS in his own hand and shakes.                   
 T|                                                                CUT TO:             
 O|
 S|       11      INT. JACKSON DEMOCRATIC CLUB. KANSAS CITY - DAY               11     
@@ -615,7 +615,7 @@ S|               - DAY (1950)
 O|
 N,I|               After school detention is in session. The teacher, MISS              
 N,I|               FRENCH is at the front of a room full of African-American            
-N,I|               students. Ms. Hagbloom brings Ethelrida to the door. It’s            
+N|               students. Ms. Hagbloom brings Ethelrida to the door. It’s            
 N|               obvious Ethelrida has been paddled and is walking stiffly.           
 C,E|                                   ETHELRIDA (V.O.)                                 
 U|                         And how come so many of us who are,                        
@@ -645,7 +645,7 @@ U|                         sit, you might as well come to the
 U|                         board and show us how to calculate                         
 U|                         the volume of a sphere.                                    
 O|
-N,A|               Ethelrida sighs, approaches the board, takes the chalk. Miss         
+N|               Ethelrida sighs, approaches the board, takes the chalk. Miss         
 N|               French has set her up to fail. Beat. Ethelrida studies the           
 N|               board, then -- quickly draws out the solution without                
 N|               hesitation.                                                          
@@ -669,7 +669,7 @@ O|
 N|               It is 1931.                                                          
 O|
 N|               THREE YEARS since the two gangs traded sons.                         
-N,I|               The place is full of members of the Milligan clan. Yiddles           
+N|               The place is full of members of the Milligan clan. Yiddles           
 N|               holds court, drinking whiskey and telling tales.                     
 O|
 C|                                   YIDDLES                                          
@@ -682,10 +682,10 @@ U|                         and shot the other side, just ta be
 U|                         sure.                                                      
 N,G,I|               As he’s talking we PAN PAST THE MEN to the back door. TEENAGE        
 N,I|               JOSTO (now 17) sits on an overturned barrel, whittling with          
-N,A,I|               his knife. There’s a knock. ONE of the TWO GUARDS opens it,          
+N|               his knife. There’s a knock. ONE of the TWO GUARDS opens it,          
 N|               peeks out.                                                           
 O|
-G|               ANGLE ON PATRICK MILLIGAN (now 17)                                   
+G,N|               ANGLE ON PATRICK MILLIGAN (now 17)                                   
 O|
 N|               Out of breath.                                                       
 O|
@@ -700,7 +700,7 @@ N,I|               An Italian Man, CONSTANT CALAMITA, steps into view and STABS
 N|               the GUARD in the EYE. He falls.                                      
 O|
 N|               As he does -- JOSTO SNEAKS UP BEHIND the OTHER GUARD and             
-N,I|               STABS HIM with his whittling knife. Then A DOZEN ITALIAN MEN         
+N|               STABS HIM with his whittling knife. Then A DOZEN ITALIAN MEN         
 N|               with TOMMY GUNS file in silently, past Patrick.                      
 O|
 G|               CLOSE UP ON PATRICK                                                  
@@ -721,7 +721,7 @@ C|                                   YIDDLES
 U|                         What the fuck?                                             
 O|
 N|               The Irish scramble for their guns, but -- too late -- the            
-N,A|               Italians OPEN FIRE. It’s carnage.                                    
+N|               Italians OPEN FIRE. It’s carnage.                                    
 G|               ANGLE ON PATRICK                                                     
 O|
 N|               This time when the machine guns fire he doesn’t flinch, just         
@@ -777,7 +777,7 @@ U|                         A curse on you -- agus do leanaí.
 G|               CLOSE UP ON RABBI MILLIGAN                                           
 O|
 N|               His earlier hesitation is gone. Today he is a man. He pulls          
-N,A|               the trigger.                                                         
+N|               the trigger.                                                         
 O|
 C,E|                                   ETHELRIDA (V.O.)                                 
 U|                         Winston Churchill said -- history                          
@@ -798,7 +798,7 @@ N|               The Year 1949 --
 O|
 N|               The Great Depression has come and gone. World War Two is             
 N|               over. This is post-war Kansas City. Business is booming. The         
-N,I|               neighborhood is fancier now. Men in three piece suits and            
+N|               neighborhood is fancier now. Men in three piece suits and            
 N|               hats. Cars on the street.                                            
 O|
 C,E|                                   ETHELRIDA (V.O.)                                 
@@ -812,7 +812,7 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 Yellow Rev. - 11/18/19 14.
 O|
-N,G,I|               A GROUP of FADDA’S MEN enter frame left, walking in slow             
+N,G|               A GROUP of FADDA’S MEN enter frame left, walking in slow             
 N|               motion.                                                              
 N,G,I|               From frame right, walking to meet them, we see a SINGLE MAN --       
 O|
@@ -844,14 +844,14 @@ O|
 C|                                   DONATELLO                                        
 U|                         You come alone?                                            
 O|
-N,A|               Loy WHISTLES --                                                      
+N|               Loy WHISTLES --                                                      
 O|
-N,I|               His MEN APPEAR from doorways, some crossing the street. Some         
+N|               His MEN APPEAR from doorways, some crossing the street. Some         
 N|               are BEHIND the Faddas. A tense moment, then Loy’s men                
 N|               assemble together behind Loy, facing Donatello.                      
 G|               ANGLE ON DONATELLO                                                   
 O|
-N,A|               He smiles, SPITS in his hand, offers it to Cannon.                   
+N|               He smiles, SPITS in his hand, offers it to Cannon.                   
 O|
 G|               ANGLE ON LOY                                                         
 O|
@@ -970,7 +970,7 @@ O|
 T|                                                                CUT TO:             
 O|
 S|       17      EXT. SMUTNY HOUSE & MORTUARY. KANSAS CITY, MO - DAY (1950)    17     
-N,A|               The BUS pulls up, door open. Ethelrida climbs down.                  
+N|               The BUS pulls up, door open. Ethelrida climbs down.                  
 O|
 N|               She approaches A FUNERAL HOME in a residential neighborhood.         
 N|               The mortuary is set in an old Victorian. Business is done on         
@@ -980,7 +980,7 @@ N|               The bodies of the dead are prepared and preserved in the
 N|               basement.                                                            
 O|
 N,I|               THURMAN SMUTNY (40, Caucasian) stands at the front door of           
-N,I|               the house, saying goodbye to the line of WHITE MOURNERS who          
+N|               the house, saying goodbye to the line of WHITE MOURNERS who          
 N|               file out. This is Ethelrida’s father. He wears a black suit.         
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
@@ -1263,7 +1263,7 @@ U|                         conclusory idea, dear reader, which
 U|                         is that history is made up of the                          
 U|                         actions of individuals.                                    
 O|
-N,A|               As her mother CLOSES THE DOOR --                                     
+N|               As her mother CLOSES THE DOOR --                                     
 O|
 C,E|                                   ETHELRIDA (V.O.)                                 
 U|                         And yet none of us can know at the                         
@@ -1281,7 +1281,7 @@ O|
 N|               looking at Ethelrida through the narrowing gap. He smiles            
 N|               just as --                                                           
 O|
-N,A|               The DOOR SWINGS CLOSED and we --                                     
+N|               The DOOR SWINGS CLOSED and we --                                     
 O|
 T|                                                          CUT TO BLACK:             
 O|
@@ -1313,8 +1313,8 @@ C|                                   RABBI MILLIGAN
 U|                         It’s not about strength. It’s about                        
 U|                         leverage.                                                  
 O|
-N,A|               He swings the axe up and let’s it fall. The axe splits the           
-N,A|               wood neatly.                                                         
+N|               He swings the axe up and let’s it fall. The axe splits the           
+N|               wood neatly.                                                         
 O|
 C|                                   SATCHEL                                          
 U|                         Are you Jewish?                                            
@@ -1330,7 +1330,7 @@ O|
 C|                                   SATCHEL                                          
 U|                         Then how come they call you Rabbi?                         
 U|                         Isn’t a rabbi a Jewish priest?                             
-N,A|               Milligan chops another piece of wood.                                
+N|               Milligan chops another piece of wood.                                
 O|
 C|                                   RABBI MILLIGAN                                   
 U|                         Ya ever play poker?                                        
@@ -1463,7 +1463,7 @@ N,G|               landscape. In the BACKSEAT of the lead car we see LOY CANNON
 N|               and ZERO FADDA. In front sits OPAL RACKLEY and LEON BITTLE.          
 G|               ANGLE ON LOY CANNON                                                  
 O|
-N|               Sitting in the back with Zero (7). On the other side of the          
+N,I|               Sitting in the back with Zero (7). On the other side of the          
 N,I|               boy is LEMUEL CANNON (22), Loy’s oldest son. We hear:                
 O|
 C,E|                                   DOCTOR SENATOR (O.S.)                            
@@ -1573,8 +1573,8 @@ T|                                                                CUT TO:
 O|
 S|       26      EXT. ELEMENTARY SCHOOL. KANSAS CITY, MO - DAY                 26     
 O|
-N,I|               A SCHOOL CROSSING. A crossing guard steps out with a stop            
-N,I|               sign. The two cars slow and stop. Small kids cross.                  
+N|               A SCHOOL CROSSING. A crossing guard steps out with a stop            
+N|               sign. The two cars slow and stop. Small kids cross.                  
 O|
 T|                                                                CUT TO:             
 O|
@@ -1884,7 +1884,7 @@ N|               Watching his son be led away and put in the car. He’s not
 N|               going to put up with this arrangement much longer.                   
 G|               ANGLE ON MILLIGAN                                                    
 O|
-N,A|               who shuts the car door behind the boy, looks up. He meets            
+N|               who shuts the car door behind the boy, looks up. He meets            
 N|               Loy’s eye, tips his hat.                                             
 O|
 G|               ANGLE ON LOY                                                         
@@ -1952,7 +1952,7 @@ O|
 C|                                   DONATELLO                                        
 U|                         Basta! If I say it’s so -- it’s so.                        
 O|
-N,A|               Josto turns and SPITS his disgust onto the floorboard.               
+N|               Josto turns and SPITS his disgust onto the floorboard.               
 O|
 C,E|                                   DONATELLO (CONT'D)                               
 U|                         Ay!                                                        
@@ -1992,7 +1992,7 @@ O|
 S|       31      EXT. ELEMENTARY SCHOOL. KANSAS CITY, MO - CONTINUOUS          31     
 O|
 N|               The cars have retraced their steps to the school. As they            
-N,I|               approach the CROSSWALK again, THE CROSSING GUARD steps out           
+N|               approach the CROSSWALK again, THE CROSSING GUARD steps out           
 N|               again, holding up her STOP SIGN.                                     
 O|
 N|               The Fadda cars slow, stop.                                           
@@ -2028,7 +2028,7 @@ N|               Realizing his mistake, his testicles retract.
 O|
 S|       33      EXT. ELEMENTARY SCHOOL. KANSAS CITY, MO - CONTINUOUS          33     
 O|
-N,I|               The CROSSING GUARD shepherds a large group of kids across the        
+N|               The CROSSING GUARD shepherds a large group of kids across the        
 N|               street.                                                              
 O|
 G|               ANGLE ON ANTOON DUMINI                                               
@@ -2049,9 +2049,9 @@ N|               He sees --
 O|
 G|               ANGLE ON THE STREETS                                                 
 O|
-N,G,I|               From Milligan’s POV. HAPPY PARENTS reunite with their kids.          
+N,G|               From Milligan’s POV. HAPPY PARENTS reunite with their kids.          
 O|
-N,G,I|               In the DISTANCE we see TWO BOYS playing with a BB GUN.               
+N,G|               In the DISTANCE we see TWO BOYS playing with a BB GUN.               
 O|
 N,G|               We PAN RIGHT and find --                                             
 O|
@@ -2076,7 +2076,7 @@ O|            F A R G O #401 Yellow Rev. - 11/18/19 37.
 O|
 C|                                   CONSTANT CALAMITA                                
 U|                         Come on already.                                           
-N,A|               He reaches over, HONKS THE HORN.                                     
+N|               He reaches over, HONKS THE HORN.                                     
 O|
 C,E|                                   CONSTANT CALAMITA (CONT'D)                       
 P|                             (yells)                                                
@@ -2108,7 +2108,7 @@ O|
 G|               CLOSE ON SATCHEL                                                     
 O|
 N|               as he brings his toy cars together in a violent collision,           
-N,A|               making crashing sounds with his mouth.                               
+N|               making crashing sounds with his mouth.                               
 N|               IN FRONT                                                             
 O|
 N|               Milligan checks the bus stop again.                                  
@@ -2141,7 +2141,7 @@ N|               It’s clear Donatello is in pain. Josto helps him loosen his
 N|               coat, reaches over and rolls down his window.                        
 G|               CLOSE UP ON THE TOY CARS                                             
 O|
-N,A|               colliding. Crash.                                                    
+N|               colliding. Crash.                                                    
 O|
 G|               ANGLE ON CONSTANT CALIMATA                                           
 O|
@@ -2162,17 +2162,17 @@ O|
 C|                                   CONSTANT CALAMITA                                
 U|                         Shit.                                                      
 O|
-N,A|               He OPENS HIS DOOR and steps out. Quietly he PULLS HIS GUN and        
+N|               He OPENS HIS DOOR and steps out. Quietly he PULLS HIS GUN and        
 N|               stands in the door jam watching, ready.                              
 N|               THE TOY CARS                                                         
 O|
-N,A|               Collide. Crash.                                                      
+N|               Collide. Crash.                                                      
 O|
 G|               CLOSE UP ON THE TWO MEN                                              
 O|
 N|               in the crosswalk, as the one man’s HAND comes out of his             
 N|               pocket with a pack of cigarettes. He says something and the          
-N,A|               other man laughs.                                                    
+N|               other man laughs.                                                    
 O|
 N|               Time resumes its normal speed.                                       
 N|               They finish crossing the street.                                     
@@ -2194,14 +2194,14 @@ N|               heart.
 O|
 C,E|                                   CONSTANT CALAMITA (CONT'D)                       
 U|                         Boss?                                                      
-N,A|               Donatello clutches his heart, groaning.                              
+N|               Donatello clutches his heart, groaning.                              
 O|
 C|                                   JOSTO                                            
 U|                         Pop. Say something! Pop!                                   
 O|
 N|               A long beat then --                                                  
 O|
-N,A|               Donatello lets out a tremendous fart. The other men recoil.          
+N|               Donatello lets out a tremendous fart. The other men recoil.          
 N|               It goes on a while and comes with real violence. But this            
 N|               does the trick. The fart done, Donatello begins to breathe           
 N|               normally.                                                            
@@ -2222,12 +2222,12 @@ N,G|               We are PROFILE. Out the window past him we see the TWO BOYS
 N|               with their BB GUN. One boy pulls it away from the other and          
 N|               then --                                                              
 O|
-N,A|               With a faint phut --                                                 
+N|               With a faint phut --                                                 
 O|
 N|               A BB comes through the open passenger window and HITS                
 N|               DONATELLO in the NECK.                                               
 O|
-N,A|               His hand snaps up, as if he has been bitten. For a beat it           
+N|               His hand snaps up, as if he has been bitten. For a beat it           
 N|               seems he’ll be okay. Then BLOOD BEGINS TO FLOW, pouring out          
 N|               from between his fingers.                                            
 N|               He has been hit in the JUGULAR.                                      
@@ -2317,8 +2317,8 @@ T|                                                                CUT TO:
 O|
 S|       39      INT. WINCKLE SAVINGS AND LOAN. KANSAS CITY, MO - DAY          39     
 O|
-N,I|               Loy comes in through the side entrance with Opal. An OLD             
-N,I|               SECURITY GUARD by the MAIN DOOR eyes them suspiciously.              
+N|               Loy comes in through the side entrance with Opal. An OLD             
+N|               SECURITY GUARD by the MAIN DOOR eyes them suspiciously.              
 O|
 N|               Loy looks around, sees --                                            
 O|
@@ -2361,7 +2361,7 @@ N|               weak.
 O|
 S|       40      INT. ST. THECLA’S PRIVATE HOSPITAL. KANSAS CITY, MO - DAY     40     
 N|               An upscale teaching hospital. It’s a quiet afternoon in the          
-N,I|               EMERGENCY ROOM. There are a COUPLE OF PATIENTS checking in at        
+N|               EMERGENCY ROOM. There are a COUPLE OF PATIENTS checking in at        
 N|               the main desk. The doors burst open. Constant Calamita comes         
 N|               through holding up Donatello Fadda, whose shirt is now soaked        
 N|               with blood.                                                          
@@ -2413,8 +2413,8 @@ C|                                   JOSTO
 P|                             (in Italian)                                           
 U|                         Don’t worry, dad. The doctor is                            
 U|                         almost here.                                               
-N,G,I|               In the distance we see Nurse Tapley talking to a MAN in a            
-N,I|               suit and TWO SECURITY GUARDS.                                        
+N,G|               In the distance we see Nurse Tapley talking to a MAN in a            
+N|               suit and TWO SECURITY GUARDS.                                        
 O|
 N,I|               The man is Hospital Administrator DR. DAVID HARVARD, an old-         
 N,I|               school patrician. He approaches with TWO SECURITY GUARDS.            
@@ -2456,7 +2456,7 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 Yellow Rev. - 11/18/19 44A.
 O|
-N,A|               Donatello gasps in pain, clutches Josto’s arm.                       
+N|               Donatello gasps in pain, clutches Josto’s arm.                       
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -2486,7 +2486,7 @@ U|                         Bartholemew’s. Immediately.
 O|
 G|               ANGLE ON JOSTO AND HIS MEN                                           
 O|
-N,A|               As POLICE SIRENS begin to cut through the silence.                   
+N|               As POLICE SIRENS begin to cut through the silence.                   
 C|                                   CONSTANT CALAMITA                                
 U|                         Boss.                                                      
 O|
@@ -2670,7 +2670,7 @@ U|                         What you hold in your hand is
 U|                         something I call a “financial                              
 U|                         instrument.” It is a product your                          
 U|                         bank would offer to customers.                             
-N,A|               The PNEUMATIC TUBE next to Clayton shudders to life and a            
+N|               The PNEUMATIC TUBE next to Clayton shudders to life and a            
 N|               capsule appears. Clayton opens it, pulls out a piece of              
 N|               paper, reads it as the two men try to continue their pitch.          
 O|
@@ -2818,7 +2818,7 @@ C|                                   LOY CANNON
 U|                         Just get the damn car.                                     
 O|
 N|               Loy storms past Opal, and heads for the MAIN DOOR until --           
-N,I|               The SECURITY GUARD steps in his path.                                
+N|               The SECURITY GUARD steps in his path.                                
 O|
 C|                                   SECURITY GUARD                                   
 U|                         Not so fast, son.                                          
@@ -2938,7 +2938,7 @@ U|                         morning -- if he makes it.
 O|
 N|               Calamita moves away. Josto studies his father, standing in           
 N,I|               the middle of the hall. A NURSE approaches, pushing a cart.          
-N|               We recognize her as ORAETTA MAYFLOWER.                               
+N,I|               We recognize her as ORAETTA MAYFLOWER.                               
 C|                                   ORAETTA MAYFLOWER                                
 U|                         Excuse me, young fella.                                    
 O|
@@ -2991,7 +2991,7 @@ O|
 T|                                                                CUT TO:             
 O|
 S|       45      INT. STORE ROOM. ST. BARTHOLEMEW’S HOSPITAL - DAY             45     
-N,A|               Josto snorts a crushed up pill from the back of his hand. His        
+N|               Josto snorts a crushed up pill from the back of his hand. His        
 N|               head snaps back.                                                     
 O|
 C|                                   JOSTO                                            
@@ -3212,7 +3212,7 @@ O|
 N,I|               Loy enters. His kids, FLORINE (8) and PESSIMINDLE (11) are on        
 N,I|               the floor doing a jigsaw puzzle with his wife BUEL CANNON and        
 N,I|               Zero Fadda. Buel‘s mother, NARCISSA RIVERS, is there as well.        
-N,A|               Lemuel is nearby practicing his trumpet.                             
+N|               Lemuel is nearby practicing his trumpet.                             
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -3283,7 +3283,7 @@ O|
 C,E|                                   LOY CANNON (CONT'D)                              
 U|                         Now who made dinner, you? You?                             
 O|
-N,A|               The girls laugh. He tickles them.                                    
+N|               The girls laugh. He tickles them.                                    
 O|
 S|       47      INT. FADDA ROOM. ST. BARTHOLEMEW'S HOSPITAL. KANSAS CITY, MO - 47    
 S|               NIGHT                                                                
@@ -3306,10 +3306,10 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 Yellow Rev. - 11/18/19 58.
 O|
-N,G,I|               We see A FIGURE attending to the sleeping patient. The figure        
+N,G|               We see A FIGURE attending to the sleeping patient. The figure        
 N|               is backlit, just a dark shape. Something about the way it            
 N|               hovers over the patient -- like a vampire -- is unsettling.          
-N,A,G,I|               We hear a sound, PAN TO see A DOCTOR approaching down the            
+N,G|               We hear a sound, PAN TO see A DOCTOR approaching down the            
 N|               hall. He reaches the opposite room, goes in. As he does we           
 N,G|               see the FIGURE IS GONE.                                              
 O|
@@ -3427,7 +3427,7 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 Yellow Rev. - 11/18/19 60.
 O|
-N,A|               slaps his hand.                                                      
+N|               slaps his hand.                                                      
 C,E|                                   ORAETTA MAYFLOWER (CONT'D)                       
 U|                         Stop that.                                                 
 O|
@@ -3448,16 +3448,16 @@ O|
 G|               CLOSE UP ON DONATELLO                                                
 O|
 N|               Color drains from his face as the poison weakens him. He             
-N,A|               gasps, sputters, growing weaker.                                     
+N|               gasps, sputters, growing weaker.                                     
 O|
 N|               ORAETTA                                                              
 N|               leans over him, peering into his eyes, watching for the sight        
-N,A|               of death approaching. We realize she is humming.                     
+N|               of death approaching. We realize she is humming.                     
 O|
 N|               Then --                                                              
 O|
 N|               Oraetta Mayflower LAYS DOWN on the bed next to the old man,          
-N,A|               rests her head on his chest, begins to sing quietly.                 
+N|               rests her head on his chest, begins to sing quietly.                 
 O|
 C,E|                                   ORAETTA MAYFLOWER (CONT'D)                       
 U|                         I was standing by my window -- and                         
@@ -3470,11 +3470,11 @@ O|
 G|               ANGLE ON DONATELLO’S HAND                                            
 O|
 N,G|               It twitches, goes still. Oraetta’s hand comes into frame. She        
-N,A|               slips the ring from his finger, singing gently.                     
+N|               slips the ring from his finger, singing gently.                     
 O|
 G|               ANGLE ON ORAETTA                                                     
 O|
-N,A|               as she studies her trophy, singing gently.                           
+N|               as she studies her trophy, singing gently.                           
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -3505,7 +3505,7 @@ O|
 C,E|                                   ORAETTA MAYFLOWER (V.O.)                         
 U|                         There’s a better -- home awaitin --                        
 U|                         in the sky, Lord, in the sky.                              
-N,A|               The front door opens. Ethelrida comes out on the porch. She          
+N|               The front door opens. Ethelrida comes out on the porch. She          
 N|               sits on the porch swing. It’s a clear, Fall night.                   
 O|
 N|               Ethelrida likes to come out here sometimes when the day is           
@@ -3515,10 +3515,10 @@ N|               troubled waters.
 O|
 N|               It’s cold enough that she can see her breath, and so she             
 N|               lifts her fingers to her lips like she’s taking a puff on a          
-N,A|               cigarette, exhales -- feeling sophisticated.                         
+N|               cigarette, exhales -- feeling sophisticated.                         
 G|               ANGLE ON THE STREET                                                  
 O|
-N,A|               A BUS pulls in. The doors open.                                      
+N|               A BUS pulls in. The doors open.                                      
 O|
 G|               CLOSE UP ON ETHELRIDA                                                
 O|
@@ -3526,9 +3526,9 @@ N|               looking to see who will get off.
 O|
 G|               ANGLE ON THE BUS                                                     
 O|
-N,A|               For a beat the OPEN DOORS create a dark hole. And then               
+N|               For a beat the OPEN DOORS create a dark hole. And then               
 N|               Oraetta Mayflower steps down. She has a scarf tied around her        
-N,A|               head, and, as the bus pulls away, she adjusts it in the wind.        
+N|               head, and, as the bus pulls away, she adjusts it in the wind.        
 N|               She appears to be talking quietly to herself, but we don’t           
 N|               hear her words.                                                      
 N|               Watching her --                                                      
@@ -3618,7 +3618,7 @@ U|                         Whatdya say? Wizard of Oz?
 O|
 N|               Ethelrida nods. That would be nice.                                  
 O|
-N,A|               She goes inside. Thurman follows. The front door closes.             
+N|               She goes inside. Thurman follows. The front door closes.             
 N|               Beat. The hall light turns off.                                      
 O|
 N,G|               Then the CAMERA PANS away, back to the street and PUSHES             
