@@ -208,13 +208,13 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S|          GLASS - TEARING THROUGH THE WOODS...
+N|          GLASS - TEARING THROUGH THE WOODS...
 O|                         
 N|          ...dodging trees... leaping over fallen logs... loading his
 N|          Anstadt as he runs.
 O|                         
 O|                         
-S|          BRIDGER AND PIG - CHASING AFTER GLASS...
+N|          BRIDGER AND PIG - CHASING AFTER GLASS...
 O|                         
 N|          ...but not as gracefully. Pig trips... slams to the
 N|          ground... scrambles back to his feet to continue on.
@@ -222,7 +222,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S|          BOONE - CARRYING AN ARMLOAD OF WOOD INTO CAMP...
+N|          BOONE - CARRYING AN ARMLOAD OF WOOD INTO CAMP...
 O|                         
 N|          ...seeing other men playing cards. He stops along the edge
 N|          of camp, drops the wood to the ground.
@@ -254,7 +254,7 @@ N|          as they duck behind trees.
 O|           5.
 O|                         
 O|                         
-S|          HENRY - PULLING THE PISTOLS FROM HIS BELT...
+N|          HENRY - PULLING THE PISTOLS FROM HIS BELT...
 O|                         
 N|          ...taking aim at the attacking figures.
 O|                         
@@ -820,7 +820,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S|          HENRY - HEARING THE BLAST.
+N|          HENRY - HEARING THE BLAST.
 O|                         
 C|                          HENRY
 U|           UP AHEAD!
@@ -830,7 +830,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S|          GLASS - AS THE BEAR LEAPS ON TOP OF HIM...
+N|          GLASS - AS THE BEAR LEAPS ON TOP OF HIM...
 O|                         
 N|          ...tosses Glass aside with a powerful swing. Glass hits the
 N|          ground with a PAINFUL THUD. He starts CRAWLING AWAY, pulling
@@ -854,12 +854,12 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S|          HENRY - LEADING THE CHARGE THROUGH THE FOREST.
+N|          HENRY - LEADING THE CHARGE THROUGH THE FOREST.
 O|                         
 T|                          CUT TO:
 O|                         
 O|                         
-S|          GLASS AND THE GRIZZLY - FIGHTING THIS EPIC BATTLE...
+N|          GLASS AND THE GRIZZLY - FIGHTING THIS EPIC BATTLE...
 O|                         
 N|          ...locked in a death grip... tumbling along the ground...
 N|          trading violent blows... Glass' blade versus the Grizzly's
@@ -2532,7 +2532,7 @@ N|          coming... near the river. So Glass drops beneath the surface.
 O|                         
 T|                          CUT TO:
 O|                         
-S,G|                         UNDERWATER -
+N,G|                         UNDERWATER -
 O|                         
 N|          And Glass' eyes spread wide... searching the muddy water. He
 N|          grabs a LARGE ROCK... rolls onto his back, and places the
@@ -2548,7 +2548,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|                         UNDERWATER -
+N,G|                         UNDERWATER -
 O|                         
 N|          Glass pressing his head back against the bottom... staring up
 N|          through the cloudy water... to the FIVE SHADOWS STANDING ONLY
@@ -4387,7 +4387,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S|          GLASS - GALLOPING AWAY ON HORSEBACK...
+N|          GLASS - GALLOPING AWAY ON HORSEBACK...
 O|                         
 N|          ...with Trapper #1 sitting backward on the horse behind him.
 N|          Glass has the pistol jammed into his ribs, and keeps glancing
@@ -5122,7 +5122,7 @@ T|                          CUT TO:
 O|           96.
 O|                         
 O|                         
-S|          FITZGERALD - SQUATTING BESIDE A SMALL FIRE...
+N|          FITZGERALD - SQUATTING BESIDE A SMALL FIRE...
 O|                         
 N|          ...staring out into the darkness, as the GUNSHOT ECHOES OVER
 N|          HIM. Fitzgerald immediately throws dirt over the flames.
@@ -5432,7 +5432,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S,G|          UNDERWATER...
+N,G|          UNDERWATER...
 O|                         
 N|          ...and Glass just under the ice, floating with the current.
 N|          His fingers search for a hole, but there's nothing.
@@ -5441,7 +5441,7 @@ T|                          CUT TO:
 O|           102.
 O|                         
 O|                         
-S|          FITZGERALD...
+N|          FITZGERALD...
 O|                         
 N|          ...making his way down the river, peering through the ice,
 N|          searching for Glass. He spots something... stops... leans
@@ -5478,7 +5478,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-S|          FITZGERALD...
+N|          FITZGERALD...
 O|                         
 N|          ...floating under the surface... pounding at the ice as he
 N|          drifts, until his swinging slows... stops... his body drifts

@@ -31,62 +31,62 @@ O|
 O|          MGM Television Entertainment Inc.                                         
 O|
 O|
-M|                                 THE HANDMAID’S TALE                                
-M|                                  EP 211 – “Holly”                                  
-M|                              Pink Revisions – 2/25/18                              
+O|                                 THE HANDMAID’S TALE                                
+O|                                  EP 211 – “Holly”                                  
+O|                              Pink Revisions – 2/25/18                              
 O|
-M|                                      CAST LIST                                     
+O|                                      CAST LIST                                     
 O|
-M|            OFFRED/JUNE                                                             
-M|            SERENA JOY                                                              
-M|            COMMANDER                                                               
-M|            MOIRA                                                                   
-M|            LUKE                                                                    
-M|            AUNT LYDIA                                                              
-M|            JANINE *                                                                
-M|            HANNAH                                                                  
+O|            OFFRED/JUNE                                                             
+O|            SERENA JOY                                                              
+O|            COMMANDER                                                               
+O|            MOIRA                                                                   
+O|            LUKE                                                                    
+O|            AUNT LYDIA                                                              
+O|            JANINE *                                                                
+O|            HANNAH                                                                  
 O|
-M|            GRACE                                                                   
-M|            MRS. TANAKA                                                             
-M|            D.J.                                                                    
-M|            HOLLY                                                                   
-M|            DOCTOR                                                                  
-M|            ALMA *                                                                  
-M|            DOULA                                                                   
+O|            GRACE                                                                   
+O|            MRS. TANAKA                                                             
+O|            D.J.                                                                    
+O|            HOLLY                                                                   
+O|            DOCTOR                                                                  
+O|            ALMA *                                                                  
+O|            DOULA                                                                   
 O|
 O|
-M|                                 THE HANDMAID’S TALE                                
-M|                                  EP 211 – “Holly”                                  
-M|                             Production Draft – 1/25/18                             
+O|                                 THE HANDMAID’S TALE                                
+O|                                  EP 211 – “Holly”                                  
+O|                             Production Draft – 1/25/18                             
 O|
-M|                                      SET LIST                                      
+O|                                      SET LIST                                      
 O|
-M|            INTERIORS                        EXTERIORS                              
+O|            INTERIORS                        EXTERIORS                              
 O|
-M|            LAKE HOUSE                       LAKE HOUSE                             
-M|               - KITCHEN                                                            
-M|               - FOYER                       GARAGE                                 
-M|               - OFFICE                                                             
-M|               - MASTER BEDROOM              PRE-SCHOOL ENTRANCE                    
-M|               - HALLWAY                                                            
-M|               - ATTIC                                                              
+O|            LAKE HOUSE                       LAKE HOUSE                             
+O|               - KITCHEN                                                            
+O|               - FOYER                       GARAGE                                 
+O|               - OFFICE                                                             
+O|               - MASTER BEDROOM              PRE-SCHOOL ENTRANCE                    
+O|               - HALLWAY                                                            
+O|               - ATTIC                                                              
 O|
-M|               - LIVING ROOM                                                        
+O|               - LIVING ROOM                                                        
 O|
-M|            GARAGE                                                                  
+O|            GARAGE                                                                  
 O|
-M|            JUNE AND LUKE’S APARTMENT                                               
+O|            JUNE AND LUKE’S APARTMENT                                               
 O|
-M|            BIRTHING CENTER                                                         
+O|            BIRTHING CENTER                                                         
 O|
-M|            HOSPITAL                                                                
-M|               - BIRTHING SUITE                                                     
+O|            HOSPITAL                                                                
+O|               - BIRTHING SUITE                                                     
 O|
-M|            RED CENTER                                                              
+O|            RED CENTER                                                              
 O|               - GYMNASIUM                                                          
 O|
-S|            PUTNAM HOUSE                                                            
-S|               - BEDROOM                                                            
+O|            PUTNAM HOUSE                                                            
+O|               - BEDROOM                                                            
 O|
 O|
 O|              THT Production Draft     Ep. 211 "Holly" 1/25/18        1.            
@@ -94,7 +94,7 @@ O|
 M|                                       TEASER                                       
 S|       1       EXT. LAKE HOUSE - LATE AFTERNOON                         1           
 O|
-N,G|               ON OFFRED, moments after we left her in Episode 210, among           
+N,G,M|               ON OFFRED, moments after we left her in Episode 210, among           
 N|               the bare winter trees and stretching shadows.                        
 O|
 N|               Devastated by her too-brief reunion with Hannah.                     
@@ -267,9 +267,9 @@ N|               She left Hannah, and now someone else loves her.
 O|
 T|                                                          FLASHBACK TO:             
 O|
-S|       6       EXT. PRE-SCHOOL ENTRANCE - MORNING - FLASHBACK           6           
-N,I|               The usual morning mayhem of PRESCHOOLERS, PARENTS, and               
-N,I|               TEACHERS.                                                            
+S,M|       6       EXT. PRE-SCHOOL ENTRANCE - MORNING - FLASHBACK           6           
+N|               The usual morning mayhem of PRESCHOOLERS, PARENTS, and               
+N|               TEACHERS.                                                            
 O|
 N,I|               JUNE tries to drop off an unhappy 4-year-old HANNAH, giving  *       
 N|               her a final hug.                                                     
@@ -471,8 +471,8 @@ O|              THT Blue Revisions      Ep. 211 "Holly" 2/11/18         8.
 O|
 O|       9       CONTINUED:                                               9           
 O|
-N|               - A DOLL, abandoned by Hannah during the visit in Episode            
-N|               210, a talisman of hope that Offred will see her again.              
+N,M|               - A DOLL, abandoned by Hannah during the visit in Episode            
+N,M|               210, a talisman of hope that Offred will see her again.              
 N|               All go into a big, sturdy BAG.                                       
 O|
 N|               Under the above, we hear Offred’s VOICEOVER:                         
@@ -495,7 +495,7 @@ C,E|                                   OFFRED (V.O.)
 U|                         I took too much for granted. I                             
 U|                         trusted fate, back then.                                   
 O|
-U|               It stings a little less, this new evidence of how careful and        
+N|               It stings a little less, this new evidence of how careful and        
 N|               caring Hannah’s new family is.                                       
 N|               But it still stings.                                                 
 O|
@@ -534,12 +534,12 @@ N|               nearby full-length MIRROR.
 O|
 T|                                                          FLASHBACK TO:             
 O|
-S|       12      INT. JUNE AND LUKE’S APARTMENT - NIGHT - FLASHBACK      12           
+S,M|       12      INT. JUNE AND LUKE’S APARTMENT - NIGHT - FLASHBACK      12           
 O|
 N|               Wearing a stunning maternity cocktail dress, June puts on            
 N|               earrings, ready to go out.                                           
 O|
-N,I|               LUKE chooses a tie to go with his collared shirt and suit            
+N|               LUKE chooses a tie to go with his collared shirt and suit            
 N|               coat.                                                                
 C|                                   JUNE                                             
 U|                         Roger’s wife is Patricia. She does                         
@@ -576,7 +576,7 @@ O|
 C|                                   LUKE                                             
 U|                         Just you.                                                  
 O|
-T|                                                         END FLASHBACK:             
+M|                                                         END FLASHBACK:             
 O|
 O|
 O|             THT Production Draft     Ep. 211 "Holly" 1/25/18        10.            
@@ -591,9 +591,9 @@ N|               A car could mean good news or bad news: Nick, the Eyes,
 N|               Mayday.                                                              
 O|
 N|               This one, an anonymous black Commander VEHICLE, isn’t                
-N,I|               familiar, but the people getting out of it are.                      
+N|               familiar, but the people getting out of it are.                      
 O|
-N,I|               SERENA JOY and the COMMANDER.                                        
+N|               SERENA JOY and the COMMANDER.                                        
 N|               Holy shit.                                                           
 O|
 N,G|               ON Offred. Bad news. Very fucking bad news.                          
@@ -884,7 +884,7 @@ C,E|                                   SERENA JOY (CONT’D)
 U|                         I have nothing, Fred. You’ve left                          
 U|                         me with nothing.                                           
 N|               Serena’s such a pathetic mess that Offred hesitates, finger          
-U|               on the trigger.                                                      
+N|               on the trigger.                                                      
 O|
 C,E|                                   SERENA JOY (CONT’D)                              
 U|                         I have nothing.                                            
@@ -952,7 +952,7 @@ U|                         I went into labor in the middle of
 U|                         performing a uterine myomectomy.                           
 T|                                                          FLASHBACK TO:             
 O|
-S|       21      INT. BIRTHING CENTER - DAY - FLASHBACK                  21           
+S,M|       21      INT. BIRTHING CENTER - DAY - FLASHBACK                  21           
 O|
 N,I|               Pregnant June, her mother HOLLY, and MOIRA tour a birthing           
 N|               suite. Comfortable and clean but very granola. Water birth           
@@ -1039,7 +1039,7 @@ U|                         My friend Bridget gave birth in the
 U|                         woods. In a stream. YouTubed it and                        
 U|                         everything.                                                
 O|
-T|                                                         END FLASHBACK:             
+M|                                                         END FLASHBACK:             
 O|
 O|
 O|             THT Blue Revisions      Ep. 211 "Holly" 2/11/18         19.            
@@ -1225,14 +1225,14 @@ O|
 O|            THT Pink Revisions      Ep. 211 "Holly" 2/25/18          23.            
 O|
 M|                                      ACT FOUR                                      
-S|       25      INT. HOSPITAL - BIRTHING SUITE - DAY - FLASHBACK        25           
+S,M|       25      INT. HOSPITAL - BIRTHING SUITE - DAY - FLASHBACK        25           
 O|
 N,M|               Modern, comfortable, state-of-the-art. We’ve been in this            
 N,M|               hospital before, in Episode 102, after June gave birth to            
 N|               Hannah.                                                              
 O|
 N|               Now we’re here earlier: June’s in labor, in bed. A swarm of          
-N,I|               DOCTORS and NURSES attend her along with DOULAS. Moira               
+N|               DOCTORS and NURSES attend her along with DOULAS. Moira               
 N|               adjusts June’s pillows while Luke fusses with his phone.             
 O|
 C|                                   DOCTOR                                           
@@ -1303,7 +1303,7 @@ N|               Of course she’s not.
 O|
 N|               June winces as a new CONTRACTION hits her.                           
 O|
-T|                                                         END FLASHBACK:             
+M|                                                         END FLASHBACK:             
 O|
 S|       26      INT. LAKE HOUSE - LIVING ROOM - NIGHT                   26           
 N|               Offred comes to in her firelit nest of sheets and blankets.          
@@ -1431,7 +1431,7 @@ O|
 N|               And she PUSHES.                                                      
 O|
 T|               INTERCUT WITH:                                                       
-S|       29      INT. HOSPITAL - BIRTHING SUITE - DAY - FLASHBACK        29           
+S,M|       29      INT. HOSPITAL - BIRTHING SUITE - DAY - FLASHBACK        29           
 O|
 N|               Ready to bring Hannah into the world, June lies in bed               
 N|               surrounded by hospital staff. She’s cranky and hurting and           
@@ -1472,10 +1472,10 @@ N|               June breathes deep to --
 O|
 N|               PUSH.                                                                
 O|
-S|       30      INT. RED CENTER - GYMNASIUM - DAY - FLASHBACK           30           
+S,M|       30      INT. RED CENTER - GYMNASIUM - DAY - FLASHBACK           30           
 O|
-N,I|               AUNT LYDIA oversees a lesson in Gileadean childbirth.                
-N,I|               June and HANDMAIDS including Moira and JANINE sit in pairs:          
+N|               AUNT LYDIA oversees a lesson in Gileadean childbirth.                
+N|               June and HANDMAIDS including Moira and JANINE sit in pairs:          
 N|               one on the floor, one on the edge of a cot behind her.               
 N|               Handmaid and Wife, mimicking the two-tiered birthing chair.          
 O|
@@ -1496,7 +1496,7 @@ N|               pretends to --
 O|
 N|               PUSH.                                                                
 O|
-S|       31      INT. PUTNAM HOUSE - BEDROOM - DAY - FLASHBACK           31           
+S,M|       31      INT. PUTNAM HOUSE - BEDROOM - DAY - FLASHBACK           31           
 O|
 N,M|               The birthing scene from Episode 102. Offred, Serena Joy,             
 N|               WIVES, AUNTS, and HANDMAIDS surround NAOMI and JANINE.               
@@ -1535,7 +1535,7 @@ N|               And she PUSHES one last time.
 N|               Gasping against the pain as the baby finally crowns.                 
 O|
 N|               Offred reaches with both hands between her legs to guide the         
-N,I|               BABY out.                                                            
+N|               BABY out.                                                            
 O|
 N|               A girl.                                                              
 O|
@@ -1570,7 +1570,7 @@ N|               Her daughter.
 O|
 T|                                                          FLASHBACK TO:             
 O|
-S|       33      INT. HOSPITAL - BIRTHING SUITE - DAY - FLASHBACK        33           
+S,M|       33      INT. HOSPITAL - BIRTHING SUITE - DAY - FLASHBACK        33           
 O|
 N,I|               Nurses deliver newborn HANNAH to a wrung-out June and Luke.          
 N|               Moira smiles, joyful and near tears.                                 
@@ -1602,7 +1602,7 @@ O|
 C,E|                                   JUNE (CONT'D)                                    
 U|                         Hannah, this is your grandmother.                          
 U|                         Holly.                                                     
-T|                                                         END FLASHBACK:             
+M|                                                         END FLASHBACK:             
 O|
 S|       34      INT. LAKE HOUSE - LIVING ROOM - NIGHT                   34           
 O|
