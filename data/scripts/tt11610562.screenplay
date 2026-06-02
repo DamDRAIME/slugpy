@@ -254,7 +254,7 @@ O|
 N|               John moves down the rock-ribbed slope to the banks of the            
 N|               waterfall where Billy stands fishing.                                
 O|
-N,A|               The waterfall is SO LOUD that Billy doesn’t hear his                 
+N|               The waterfall is SO LOUD that Billy doesn’t hear his                 
 N|               brother’s approach.                                                  
 N|               John raises the pistol to the back of Billy’s head.                  
 O|
@@ -305,7 +305,7 @@ C|                                   BILLY
 U|                         Don’t be. I want it, John. Pull the                        
 U|                         trigger.                                                   
 O|
-G|               MARE                                                                 
+N|               MARE                                                                 
 O|
 N|               Makes her way around a bend in the river.                            
 N|               She ducks under gnarled, overhanging branches and sees, up           
@@ -317,13 +317,13 @@ O|
 C|                                   MARE                                             
 U|                         JOHN! PUT THE GUN DOWN!                                    
 O|
-G|               JOHN                                                                 
+N|               JOHN                                                                 
 O|
 N|               Alarmed by the voice, turns and sees MARE. Panicked now --           
 C|                                   JOHN                                             
 U|                         WHAT’RE YOU DOIN’ HERE, MARE!?                             
 O|
-G|               MARE                                                                 
+N|               MARE                                                                 
 O|
 N|               Keeps her pistol trained on John as she slowly advances down         
 N|               the opposite bank.                                                   
@@ -331,7 +331,7 @@ O|
 C|                                   MARE                                             
 U|                         PUT THE GUN DOWN, JOHN! PUT IT DOWN                        
 U|                         GODDAMNIT!                                                 
-G|               JOHN                                                                 
+N|               JOHN                                                                 
 O|
 N|               Looks at Billy...then back at Mare. He can feel the walls            
 N|               closing in on him and knows there’s no way out.                      
@@ -341,7 +341,7 @@ N|               finger hooks the trigger when --
 O|
 N|               BILLY TACKLES HIM!                                                   
 O|
-N,A|               BLAM! THE PISTOL FIRES A BULLET UP INTO THE BARREN TREES,            
+N|               BLAM! THE PISTOL FIRES A BULLET UP INTO THE BARREN TREES,            
 N|               sending a yellow warbler into flight.                                
 O|
 O|                                                                (CONTINUED)
@@ -375,7 +375,7 @@ U|                         Just let me die. Mare! Mare,
 U|                         please! MARE! Just kill me now. Oh                         
 U|                         God, just kill me now.                                     
 N|               Drenched and confused, Mare catches her breath as POLICE             
-N,A|               SIRENS RISE in the distance...                                       
+N|               SIRENS RISE in the distance...                                       
 O|
 T|                                                           DISSOLVE TO:             
 O|
@@ -433,7 +433,7 @@ C,E|                                   CHIEF CARTER (CONT'D)
 U|                         Good.                                                      
 O|
 N|               Mare looks up at him. Carter smiles, like a proud father. He         
-N,A|               TAPS the door frame twice, then goes.                                
+N|               TAPS the door frame twice, then goes.                                
 N|               As Mare sits in the silent office, contemplating all that’s          
 N|               happened --                                                          
 O|
@@ -502,7 +502,7 @@ O|                          107 - Third Green Collated (11/01/2020) 8A.
 O|       6      CONTINUED:                                         6     
 C|                                   CHIEF CARTER                                     
 U|                         Walk us through the night of                               
-O|                         January 10th.                                              
+U|                         January 10th.                                              
 O|
 C|                                   JOHN                                             
 U|                         I was at Forest Lodge for Frank’s                          
@@ -661,7 +661,7 @@ U|                         Erin. When she got out of my car
 U|                         that night. I wish I would have                            
 U|                         pulled her back in and told her not                        
 U|                         to go out to that park.                                    
-U|               A look between them. The tragedy of it all.                          
+N|               A look between them. The tragedy of it all.                          
 O|
 C|                                   MARE                                             
 U|                         Wherever you go after this, I hope                         
@@ -676,7 +676,7 @@ O|
 O|                         107 - Third Green Collated (11/01/2020) 11A.
 O|
 S|       9       EXT. DISTRICT COURTHOUSE - DAY                               9       
-N,I|               NEWS CREWS crowd the parking lot, all anxious to get a look          
+N|               NEWS CREWS crowd the parking lot, all anxious to get a look          
 N|               at Erin McMenamin’s killer.                                          
 O|
 N|               CHIEF CARTER’S FORD EXPLORER and an EASTTOWN PATROL CAR              
@@ -689,7 +689,7 @@ O|
 O|
 O|                          107 - Third Green Collated (11/01/2020) 12.
 O|       9      CONTINUED:                                         9     
-N,I|               REPORTERS immediately swarm as the Officers, Mare, and Chief         
+N|               REPORTERS immediately swarm as the Officers, Mare, and Chief         
 N|               Carter escort John up the court steps, pushing their way             
 N|               through CAMERAMEN and REPORTERS hollering questions --               
 O|
@@ -706,7 +706,7 @@ S|       A10     INT. DISTRICT COURTHOUSE - PRIVATE CORRIDOR - MORNING      A10
 O|
 N|               Lori, looking shellshocked and enervated, waits at the end of        
 N|               a corridor, behind a barrier. John, handcuffed and in an             
-N,I|               orange jumpsuit, is led towards her by a CONSTABLE.                  
+N|               orange jumpsuit, is led towards her by a CONSTABLE.                  
 O|
 C|                                   CONSTABLE                                        
 U|                         You have two minutes.                                      
@@ -753,7 +753,7 @@ N|               John looks at Lori. She reads the desperate plea of a father
 N|               in his eyes as he’s led back down the corridor.                      
 N|               Now Lori is alone with all that she’s been asked to do. A            
 N|               NOISE SWELLS nearby, snapping her from her trance. She turns         
-N,I|               to find MARE, CHIEF CARTER, and TWO OTHER EASTTOWN OFFICERS          
+N|               to find MARE, CHIEF CARTER, and TWO OTHER EASTTOWN OFFICERS          
 N|               entering through a private entrance, talking.                        
 O|
 N|               Mare notices Lori and stops.                                         
@@ -770,8 +770,8 @@ N|               It’s Mare who turns away first, indignant. She walks off...
 O|
 S|       10      INT. DISTRICT COURTHOUSE - COURTROOM - MORNING              10       
 O|
-N,I|               A HANDCUFFED JOHN sits at a table beside his ATTORNEY. He            
-N,I|               listens as the JUDGE reads his charges.                              
+N|               A HANDCUFFED JOHN sits at a table beside his ATTORNEY. He            
+N|               listens as the JUDGE reads his charges.                              
 M|               NOTE: FOR PLAYBACK ON TV PURPOSES ONLY                               
 O|
 C,E|                                   JUDGE (O.S.)                                     
@@ -804,7 +804,7 @@ C|                                   FATHER DAN
 U|                         We were with him that night. At                            
 U|                         Frank’s engagement party.                                  
 O|
-N,A|               They hear a CAR DOOR SHUT outside.                                   
+N|               They hear a CAR DOOR SHUT outside.                                   
 O|
 C|                                   HELEN                                            
 U|                         Shit, that’s Mare.                                         
@@ -922,7 +922,7 @@ N|               asleep. The COSMOS PROJECTOR is on. Familiar planets and
 N|               stars glide across the ceiling. Mare watches him a moment,           
 N,G|               then WE FOLLOW HER AS SHE moves down the hall into the --            
 O|
-G|               MASTER BEDROOM                                                       
+N|               MASTER BEDROOM                                                       
 O|
 N|               She sits on the edge of the bed and switches on the lamp atop        
 N|               the night stand. Slides off her Asics now and massages her           
@@ -1056,7 +1056,7 @@ O|
 O|
 O|                        107 - Third Green Collated (11/01/2020) 20-22.
 O|       AAA17 CONTINUED:                                  AAA17 
-N,I|               THE DOOR OPENS. A NURSE enters.                                      
+N|               THE DOOR OPENS. A NURSE enters.                                      
 O|
 N|               Lori snaps from her dark trance, scoops DJ into her arms.            
 O|
@@ -1145,7 +1145,7 @@ O|
 O|                          107 - Third Green Collated (11/01/2020) 24.
 O|
 S|       20      INT. ROSS HOME - MASTER BEDROOM/HALLWAY - NIGHT             20       
-N,A|               Lori’s asleep in bed. WE HEAR A BABY WAILING down the hall.          
+N|               Lori’s asleep in bed. WE HEAR A BABY WAILING down the hall.          
 N|               She stirs, climbs out of bed and groggily WALKS DOWN THE HALL        
 N|               into DJ’S BEDROOM. Ryan’s in here already. He’s taken a              
 N|               feverish, crying DJ out of the crib and pats his back gently.        
@@ -1175,8 +1175,8 @@ O|
 S|       21      INT. LOCAL COURTHOUSE - MEDIATION ROOM - MORNING            21       
 O|
 N|               Inside a conference room, Mare and Frank sit beside their            
-N,I|               CUSTODY LAWYER, 50s. Across the table are CARRIE’S ATTORNEYS.        
-N,I|               But Carrie is noticeably absent. And the MEDIATOR is                 
+N|               CUSTODY LAWYER, 50s. Across the table are CARRIE’S ATTORNEYS.        
+N|               But Carrie is noticeably absent. And the MEDIATOR is                 
 N|               noticeably annoyed --                                                
 C|                                   MEDIATOR                                         
 U|                         Mr. Reid, have you spoken to your                          
@@ -1339,7 +1339,7 @@ O|
 C|                                   FAYE                                             
 U|                         Attractive?                                                
 O|
-N,A|               Everyone LAUGHS.                                                     
+N|               Everyone LAUGHS.                                                     
 O|
 O|                                                                (CONTINUED)
 O|
@@ -1371,8 +1371,8 @@ O|
 C|                                   FAYE                                             
 U|                         What’s wrong?                                              
 N,I|               Mare gestures towards a thin woman, SANDRA ELLIOT, 40s, who          
-N,I|               has just entered the restaurant with her HUSBAND and THREE           
-N,I|               YOUNG BOYS.                                                          
+N|               has just entered the restaurant with her HUSBAND and THREE           
+N|               YOUNG BOYS.                                                          
 O|
 C|                                   MARE                                             
 U|                         That’s Sandra. She’s the woman John                        
@@ -1551,7 +1551,7 @@ D|       AA27A   OMITTED                                                  AA27A
 O|
 S|       AAA27A  INT. ROSS HOUSE - FRONT DOOR - NIGHT                    AAA27A       
 O|
-N,A|               THE DOORBELL RINGS. Ryan moves to the front door, peeks out          
+N|               THE DOORBELL RINGS. Ryan moves to the front door, peeks out          
 N|               the window, and sees Dylan standing outside.                         
 O|
 C,E|                                   LORI (O.C.)                                      
@@ -1733,25 +1733,25 @@ U|                         I now pronounce you husband and
 U|                         wife! You may now kiss your lovely                         
 U|                         bride.                                                     
 O|
-N,A|               Frank leans in, kisses Faye. WE HEAR CLAPS and FINGER-               
-N,A|               WHISTLES --                                                          
+N|               Frank leans in, kisses Faye. WE HEAR CLAPS and FINGER-               
+N|               WHISTLES --                                                          
 O|
 S|       AA28    EXT. WEDDING RECEPTION VENUE - NIGHT                      AA28       
 O|
-N,A,G|               MUSIC PLAYS OVER THE DETAIL SHOTS OF THE AFTERMATH OF A              
+N,G|               MUSIC PLAYS OVER THE DETAIL SHOTS OF THE AFTERMATH OF A              
 N,G|               DECIDEDLY HOMESPUN WEDDING RECEPTION. We see a WEDDING               
 N|               PROGRAM announcing the marriage of Frank & Faye. Rented              
 N|               tables and chairs. Bouquets and boutonnieres. Empty beer and         
 N|               wine bottles. Confetti, seat assignment cards, half-eaten            
 N|               slices of cake, et al.                                               
 N|               It’s very late in the evening. Most of the guests have left.         
-N,I|               Frank & Faye chat to FRIENDS while a few COUPLES slow-dance          
+N|               Frank & Faye chat to FRIENDS while a few COUPLES slow-dance          
 N|               on the dance floor.                                                  
 O|
 N|               Further back, watching from a vacant table, is Mare, alone.          
 N|               She’s a little drunk, a lot tired, but utterly content.              
 O|
-N,A|               The SONG comes to a close. On the makeshift stage, Siobhan           
+N|               The SONG comes to a close. On the makeshift stage, Siobhan           
 N|               steps up to the microphone --                                        
 C|                                   SIOBHAN                                          
 U|                         So this is our last song of the                            
@@ -1764,8 +1764,8 @@ U|                         messed-up family. I think you’re
 U|                         gonna fit right in.                                        
 O|
 N|               Mare smiles at that. Agrees.                                         
-N,A|               Siobhan starts SINGING Pat Benatar’s ‘We Belong’ with the            
-N,A|               help of Nathan and Gabeheart on drums and acoustic guitar.           
+N|               Siobhan starts SINGING Pat Benatar’s ‘We Belong’ with the            
+N|               help of Nathan and Gabeheart on drums and acoustic guitar.           
 O|
 N|               The COUPLES, including Frank and Faye, begin to slow-dance.          
 O|
@@ -1835,7 +1835,7 @@ O|
 S|       B28     INT. RICHARD’S HOUSE - BEDROOM - MORNING                   B28       
 N|               Mare awakens to find herself alone in bed. She rolls over and        
 N|               sees a plate of scrambled eggs on her night stand: a heart           
-N,A|               made out of strawberries around them. She laughs at the              
+N|               made out of strawberries around them. She laughs at the              
 N|               corniness of it all. Then softens and smiles. Gestures like          
 N|               this aren’t the worst fucking thing in the world after all.          
 O|
@@ -1910,7 +1910,7 @@ O|
 S|       30      INT. MARE’S HOUSE - MASTER BEDROOM - MORNING - A FEW DAYS   30       
 S|               LATER                                                                
 O|
-N,A|               Mare’s cell phone RINGS atop the night stand. It’s one of            
+N|               Mare’s cell phone RINGS atop the night stand. It’s one of            
 N|               those mornings she doesn’t want to leave bed.                        
 O|
 O|                                                                (CONTINUED)
@@ -1918,7 +1918,7 @@ O|
 O|
 O|                          107 - Third Green Collated (11/01/2020) 37.
 O|       30    CONTINUED:                                        30    
-N,A|               But it RINGS AGAIN. She stirs, flops a hand over and answers         
+N|               But it RINGS AGAIN. She stirs, flops a hand over and answers         
 N|               it without opening her eyes --                                       
 O|
 C|                                   MARE                                             
@@ -1928,7 +1928,7 @@ S|       31      EXT. CARROLL HOME - MORNING                                 31
 O|
 N,M|               Here we are back where we started the series. Mare’s Tahoe           
 N|               rolls up to the curb. She steps out and approaches the front         
-N,A|               door. KNOCKS. After a moment --                                      
+N|               door. KNOCKS. After a moment --                                      
 C,E|                                   GLENN CARROLL (O.C.)                             
 U|                         Who’s there?                                               
 O|
@@ -2195,7 +2195,7 @@ O|                          107 - Third Green Collated (11/01/2020) 42.
 O|       34    CONTINUED:                                        34    
 N|               A BICYCLE ARRIVES IN THE YARD.                                       
 O|
-N|               A YOUNG BOY WE RECOGNIZE AS RYAN, LORI’S SON, CLIMBS OFF HIS         
+N,I|               A YOUNG BOY WE RECOGNIZE AS RYAN, LORI’S SON, CLIMBS OFF HIS         
 N|               BIKE AND ENTERS THE SHED. ONLY TO EMERGE MOMENTS LATER,              
 N|               TUCKING THE COLT REVOLVER INTO HIS WAIST.                            
 O|
@@ -2213,10 +2213,10 @@ S|       35      EXT. EASTTOWN JUNIOR HIGH SCHOOL - PARKING LOT/BASEBALL     35
 S|               FIELD - MORNING                                                      
 O|
 N|               Mare’s Tahoe pulls into the crowded parking lot. Mare steps          
-N,A|               out. She can hear the SOUND OF CHILDREN and follows the NOISE        
+N|               out. She can hear the SOUND OF CHILDREN and follows the NOISE        
 N|               over to the edge of the parking lot which overlooks the              
-N,I|               baseball fields and basketball courts where the JUNIOR HIGH          
-N,I|               SCHOOL CHILDREN are out playing.                                     
+N|               baseball fields and basketball courts where the JUNIOR HIGH          
+N|               SCHOOL CHILDREN are out playing.                                     
 N|               Mare scans the students until her eyes land on RYAN playing          
 N|               second base on the baseball field.                                   
 O|
@@ -2362,11 +2362,11 @@ N|               house alone.
 O|
 S|       43      INT. ROSS HOME - DEN - DAY                                  43       
 N|               Lori’s lying on the couch with Ryan on top of her chest. He’s        
-N,A|               sobbing. She’s holding him against her.                              
+N|               sobbing. She’s holding him against her.                              
 O|
 S|       44      INT/EXT. ROSS HOME - FRONT DOOR - DAY                       44       
 O|
-N,A|               Mare arrives at the front door. She can hear RYAN CRYING             
+N|               Mare arrives at the front door. She can hear RYAN CRYING             
 N|               INSIDE. Whatever anger she held towards Lori is gone now. She        
 N|               knows why Lori lied. And she knows she would have done the           
 N|               same thing had it been her son.                                      
@@ -2380,7 +2380,7 @@ N|               Ryan, too. As if somehow that could prevent him from being
 N|               taken away from her.                                                 
 O|
 G|               WE STAY ON LORI AND RYAN for a long while until, finally, we         
-N,A|               hear the front door creak open.                                      
+N|               hear the front door creak open.                                      
 O|
 N,G|               MARE’S SHADOW appears on the wall above the couch.                   
 N|               Lori squeezes Ryan tighter as we --                                  
@@ -2445,7 +2445,7 @@ O|
 O|                          107 - Third Green Collated (11/01/2020) 47.
 O|
 S|       A49     INT. FRANK’S HOUSE - DEN - NIGHT                           A49       
-N,A|               The engagement party is underway. People chat, drink, laugh          
+N|               The engagement party is underway. People chat, drink, laugh          
 N|               in the kitchen. Ryan and Moira are watching TV in the den            
 N|               when Ryan notices John step outside to answer a phone call.          
 O|
@@ -2509,7 +2509,7 @@ U|                         car.
 C|                                   ERIN                                             
 U|                         Just leave me alone!                                       
 O|
-N,A|               -- but Erin SLAMS the car door shut. Deacon Mark drives off.         
+N|               -- but Erin SLAMS the car door shut. Deacon Mark drives off.         
 N|               Ryan watches as Erin takes a seat in the amphitheater and            
 N|               waits for John...                                                    
 O|
@@ -2579,20 +2579,20 @@ O|
 N,M|               WE PICK UP WHERE WE LEFT OFF. With Erin punching and clawing         
 N|               and scratching at Ryan. He’s retreating, trying to escape,           
 N|               but SHE KEEPS ATTACKING ATTACKING ATTACKING and then --              
-N,A|               BLAM! THE REVOLVER FIRES!                                            
+N|               BLAM! THE REVOLVER FIRES!                                            
 O|
 N,G|               ALL MOVEMENT CEASES. Erin looks down at her hand. It’s               
 N|               covered in blood. AND MISSING A FINGER. The shock has                
 N|               rendered her aphasic.                                                
 O|
-N,A|               Then, coming to, she lets out a TERRIBLE, BLOOD-CURDLING             
-N,A|               SCREAM and CHARGES AT RYAN again when --                             
+N|               Then, coming to, she lets out a TERRIBLE, BLOOD-CURDLING             
+N|               SCREAM and CHARGES AT RYAN again when --                             
 O|
-N,A|               BLAM! RYAN FIRES A SECOND TIME! Erin drops to the ground.            
+N|               BLAM! RYAN FIRES A SECOND TIME! Erin drops to the ground.            
 N|               Trembling, Ryan stares down at her twisted figure in the             
 N|               grass. Lifeless. Gone.                                               
 O|
-N,A|               For a long moment there is SILENCE. Then, survival instincts         
+N|               For a long moment there is SILENCE. Then, survival instincts         
 N|               kicking in, Ryan looks around. The park is empty. He drops           
 N|               the revolver in the grass and quickly drags Erin’s body into         
 N|               the surrounding woods so that it’s hidden from view.                 
@@ -2737,7 +2737,7 @@ P|                            (fighting back emotion)
 U|                         Just that I’m sorry. I’m so sorry                          
 U|                         for everything I did.                                      
 O|
-N,A|               Ryan CRIES. Lori pulls him close.                                    
+N|               Ryan CRIES. Lori pulls him close.                                    
 O|
 S|       66      EXT. EASTTOWN POLICE STATION - LATER THAT NIGHT             66       
 N|               Mare and Chief Carter escort a handcuffed Ryan out of the            
@@ -2760,7 +2760,7 @@ N|               she finds her keys and moves to start the engine when...
 O|
 N|               ...she pauses.                                                       
 O|
-N,A|               And BREAKS DOWN COMPLETELY.                                          
+N|               And BREAKS DOWN COMPLETELY.                                          
 O|
 N|               All that she’s been holding in -- the terrible secrets and           
 N|               lies she’s been struggling so desperately to keep hidden --          
@@ -2771,7 +2771,7 @@ O|
 O|
 O|                          107 - Third Green Collated (11/01/2020) 53.
 O|       A67  CONTINUED:                                       A67   
-N,A|               SHE SOBS AND SOBS until --                                           
+N|               SHE SOBS AND SOBS until --                                           
 O|
 N|               MARE APPEARS at the passenger door. A moment. Mare climbs in         
 N|               and sits down beside Lori.                                           
@@ -2832,8 +2832,8 @@ N|               steps out.
 O|
 S|       B67     EXT. EASTTOWN POLICE STATION - NIGHT                       B67       
 O|
-N,A|               As Mare watches Lori’s car drive away, MUSIC RISES -- Sun Kil        
-N,A,G,M|               Moon’s ‘Micheline‘. THE SONG WILL CARRY US INTO A MONTAGE.           
+N|               As Mare watches Lori’s car drive away, MUSIC RISES -- Sun Kil        
+N,G,M|               Moon’s ‘Micheline‘. THE SONG WILL CARRY US INTO A MONTAGE.           
 O|
 G,M|               A MONTAGE that carries us from JUNE TO AUGUST. A few notes:          
 M|               this montage cannot be about tying things up neatly. That            
@@ -2842,7 +2842,7 @@ M|               Instead, it should be glimpses into the lives of the people
 M|               we’ve spent time with along the way. Impressionistic snatches        
 M|               filled with equal measures of sadness, loneliness,                   
 M|               uncertainty, heartbreak, laughter, kindness, compassion,             
-M,A|               love, and mercy. And we might hear bits of dialogue that             
+M|               love, and mercy. And we might hear bits of dialogue that             
 M|               don’t make sense or seem meaningless at the time. That’s             
 M|               okay, too. We’re simply bearing witness. Showing that life           
 M|               goes on. That they’re doing the best they can.                       
@@ -2928,7 +2928,7 @@ S|       C75     INT. FREDDIE HANLON’S HOUSE - DOWNSTAIRS - LATE DAY        C7
 O|
 N|               The home has been completely refurbished. Brightened,                
 N|               cleaned, decorated, filled once again with love. Beth’s              
-N,A|               inside, filling a vase of flowers with water. There’s a KNOCK        
+N|               inside, filling a vase of flowers with water. There’s a KNOCK        
 N|               at the door.                                                         
 O|
 O|                                                                (CONTINUED)
@@ -2964,7 +2964,7 @@ C|                                   DAWN BAILEY
 U|                         Don’t worry how. A lot of people                           
 U|                         love you, that’s how.                                      
 O|
-N,A|               Overwhelmed by the generosity, Katie begins crying.                  
+N|               Overwhelmed by the generosity, Katie begins crying.                  
 O|
 C|                                   KENZIE                                           
 U|                         What’s the matter, mommy?                                  
@@ -3010,7 +3010,7 @@ S|       G75     EXT. SHELBY SOBER HOME - BACKYARD - DAY                    G75
 N|               Carrie’s back at the sober house. She sits alone at the              
 N|               picnic table, smoking a cigarette, lost in her thoughts.             
 O|
-N,I|               Then, a FEMALE HOUSEMATE, 23, exits from the rear of the home        
+N|               Then, a FEMALE HOUSEMATE, 23, exits from the rear of the home        
 N|               with two paper plates of hot dogs and soda cans.                     
 O|
 C|                                   FEMALE HOUSEMATE                                 
@@ -3204,7 +3204,7 @@ S|       L76     INT. MARE’S HOUSE - DREW’S BEDROOM - MORNING               
 O|
 N,M|               Mare wakes up beside a sleeping Drew. THIS SHOULD BE THE             
 N,M|               EXACT SAME SET-UP AS IN EPISODE 1. THE HOUSE IS COMPLETELY           
-N,A|               SILENT. ALL WE HEAR ARE THE BIRDS CHIRPING OUTSIDE.                  
+N|               SILENT. ALL WE HEAR ARE THE BIRDS CHIRPING OUTSIDE.                  
 O|
 N|               She looks across the room.                                           
 N,G|               WHAT SHE SEES: KEVIN is seen in profile, watching two                
@@ -3229,7 +3229,7 @@ N,G|               PAN UP TO REVEAL MARE -- reaching up to the attic door. She
 N|               stands on her tiptoes and slides the barrel slide bolt to            
 N|               open.                                                                
 O|
-N,A|               CLICK...                                                             
+N|               CLICK...                                                             
 N|               After a moment, Mare pulls the attic door open a crack. Dust         
 N|               falls around the edges. She pulls it open all the way now and        
 N|               unfolds the stairs.                                                  
@@ -3298,8 +3298,8 @@ N|               FAMILY, JAN CLEARY AND HER HUSBAND, GLENN CARROLL, TONY,
 N|               PATTY & BRIANNA DELRASSO, STEVE AND KATHERINE HINCHEY, STACEY        
 N|               WOODLEY, PAT ROSS, FRANK & FAYE, AND FINALLY, MARE, HELEN AND        
 N|               DREW.                                                                
-N,A|               Deacon Mark steps up to the lectern. Audible gasps and               
-N,A|               murmurs from the congregation. Mare looks over at Helen, now         
+N|               Deacon Mark steps up to the lectern. Audible gasps and               
+N|               murmurs from the congregation. Mare looks over at Helen, now         
 N|               understanding why she insisted on her being here.                    
 O|
 N|               Mark is visibly nervous, but there’s also a fierce resolve in        
@@ -3396,13 +3396,13 @@ N|               She keeps moving. In a hurry now.
 O|
 S|       84      INT. ROSS HOME - DEN - NIGHT                                84       
 O|
-N,A|               Moira watches a sitcom from the recliner. Lori’s fading and          
+N|               Moira watches a sitcom from the recliner. Lori’s fading and          
 N|               nearing sleep on the couch. Caring for an infant has left her        
 N|               whittled down to a nub, and knowing that tomorrow brings no          
 N|               relief.                                                              
 O|
 N|               Moira stands and retrieves a soda from the refrigerator when         
-N,A|               there’s a KNOCK at the door.                                         
+N|               there’s a KNOCK at the door.                                         
 C|                                   LORI                                             
 P|                            (without opening her eyes)                              
 U|                         Don’t answer it, sweetie.                                  
@@ -3471,7 +3471,7 @@ U|                         Lor. Lor.
 O|
 N|               Lori reluctantly turns around, faces Mare.                           
 O|
-N,A|               She’s trying very hard to keep from crying.                          
+N|               She’s trying very hard to keep from crying.                          
 N|               But it’s not working.                                                
 O|
 N|               Mare wraps her arms around her. Holds her.                           

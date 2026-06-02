@@ -200,10 +200,10 @@ O|
 N|            She stops in front of the building. Looks up at it. She's               
 N|            never felt so small or afraid in her life.                              
 O|
-N|            TITLE:                                                                  
+M|            TITLE:                                                                  
 O|
-N|                                   APRIL 30, 1986                                   
-N|                              HOSPITAL NUMBER 6, MOSCOW                             
+M|                                   APRIL 30, 1986                                   
+M|                              HOSPITAL NUMBER 6, MOSCOW                             
 O|
 S|       306  INT. HOSPITAL NUMBER 6 - MOMENTS LATER                        306       
 O|
@@ -364,17 +364,17 @@ U|                         okay. We're all okay...
 O|
 N|            SOUND RISES: military drums, a massive crowd cheering, and:             
 O|
-S,G|       309  EXT. RED SQUARE - MOSCOW - DAY [FILE FOOTAGE]                 309       
+S,M|       309  EXT. RED SQUARE - MOSCOW - DAY [FILE FOOTAGE]                 309       
 O|
-N,G|            FILE FOOTAGE - A bright, sunny days. Thousands of people.               
+N,M|            FILE FOOTAGE - A bright, sunny days. Thousands of people.               
 N|            Red flags everywhere. Children in uniforms. Soldiers                    
 N|            marching in formation. Trucks display nuclear missiles.                 
-N|            TITLE:                                                                  
+M|            TITLE:                                                                  
 O|
-N|                                     MAY 1, 1986                                    
-N|                              INTERNATIONAL LABOUR DAY                              
+M|                                     MAY 1, 1986                                    
+M|                              INTERNATIONAL LABOUR DAY                              
 O|
-N|                             5 DAYS AFTER THE EXPLOSION                             
+M|                             5 DAYS AFTER THE EXPLOSION                             
 O|
 O|
 O|                                                                      8.            
@@ -417,7 +417,7 @@ D|       311  OMITTED                                                       311
 O|
 S|       312  INT. MILITARY HELICOPTER - DAY                                312       
 O|
-N,I|            Mid-flight. A RADIOMETRIC CREW is in the back. Full                     
+N|            Mid-flight. A RADIOMETRIC CREW is in the back. Full                     
 N|            protective suits. The door is open, and they're holding                 
 N|            RADIOMETERS out to sample the smoky air.                                
 N|            We hear the telltale CRACKLE of a GEIGER COUNTER... and as              
@@ -431,8 +431,8 @@ S|       313  EXT. REACTOR SITE - SAME                                      313
 O|
 N|            The helicopter is CIRCLING above the destroyed reactor.                 
 O|
-N|            TITLE:                                                                  
-N|                                     MAY 2, 1986                                    
+M|            TITLE:                                                                  
+M|                                     MAY 2, 1986                                    
 O|
 S|       314  EXT. REACTOR SITE - LATER                                     314       
 O|
@@ -441,8 +441,8 @@ N|            web of FIRE HOSES extend out from the ruins toward Pikalov's
 N|            specialized military fire trucks, each with pumps running.              
 O|
 N|            FLOOD LIGHTS have been set up to illuminate the work area.              
-N,I|            Men move back and forth, some wearing gas masks. Others not.            
-N,I|            PIKALOV - talks with one of the radiometrists who was on the            
+N|            Men move back and forth, some wearing gas masks. Others not.            
+N|            PIKALOV - talks with one of the radiometrists who was on the            
 N|            helicopter. Then walks back to:                                         
 O|
 N|            LEGASOV and SHCHERBINA - who stand over a workbench covered             
@@ -548,7 +548,7 @@ N,G|            We hold for a moment. Then a thin line of dark MAGMA drips
 N|            out of drain... dangles in the air, then hits the ground                
 N|            with a SIZZLE.                                                          
 N|            Another line from the other opening. And then, without                  
-O|            warning:                                                                
+N|            warning:                                                                
 O|
 N|            A HUGE MASS of CORIUM POURS OUT AND DOWN - from both sides              
 N|            of the drainpipe - thick, deadly lava, bubbling and POOLING             
@@ -574,7 +574,7 @@ N|            And then a low moan from off screen.
 O|
 N|            Lyudmilla shifts a bit. Troubled sleep.                                 
 O|
-N,I|            Another moan. Another. Then a man SCREAMING in pain.                    
+N|            Another moan. Another. Then a man SCREAMING in pain.                    
 O|
 O|
 O|                                                                     12.            
@@ -861,7 +861,7 @@ N|            just barely nods his head to the left.
 N|            Was that a signal? Legasov glances back down the street in              
 N|            the direction of Shcherbina's nod, and sees:                            
 O|
-N,I|            THIRTY METERS BEHIND THEM - a MAN AND WOMAN under a street              
+N|            THIRTY METERS BEHIND THEM - a MAN AND WOMAN under a street              
 N|            lamp. Clearly following from a distance.                                
 O|
 N|            But not just any man and woman. The "husband and wife" from             
@@ -1010,7 +1010,7 @@ N,T|            We hear BOISTEROUS LAUGHTER now, and cut to:
 O|
 S|       321  EXT. COAL MINES - TULA, RUSSIA - DAY                          321       
 O|
-N,I|            A group of forty-five MINERS on break. Vodka. Cigarettes.               
+N|            A group of forty-five MINERS on break. Vodka. Cigarettes.               
 N|            Behind them, conveyor belts and hoppers. Bulldozers and                 
 N|            dust. Rolling hills pierced by cart tracks.                             
 N|            These men are hard. Blackened faces. Blackened lungs. Young             
@@ -1079,7 +1079,7 @@ N,G|            DRIVER'S POV - looking through the windshield of the lead
 N|            bus as it follows the sedan into the mining facility. Wipers            
 N|            on to keep the COAL DUST from settling like snow.                       
 O|
-N,I|            And ahead... nearly four dozen angry men... waiting.                    
+N|            And ahead... nearly four dozen angry men... waiting.                    
 O|
 S|       323  EXT. COAL MINES - CONTINUOUS                                  323       
 O|
@@ -1122,7 +1122,7 @@ O|
 C|                                     GLUKHOV                                        
 U|                         Do you? To where?                                          
 O|
-N,I|            TWO SOLDIERS have emerged from the troop transport trucks,              
+N|            TWO SOLDIERS have emerged from the troop transport trucks,              
 N|            each holding an AK-47. They're young. Shadov glances at                 
 N|            them, then turns back to the miners. Renewed confidence.                
 O|
@@ -1138,7 +1138,7 @@ U|                         Kill as many as you can, whoever's
 U|                         left over will beat the piss out of                        
 U|                         each of you.                                               
 O|
-N,I|            Shadov deflates. Knows he's lost. But one of the soldiers...            
+N|            Shadov deflates. Knows he's lost. But one of the soldiers...            
 C|                                     YOUNG SOLDIER                                  
 U|                         You can't talk to us like--                                
 O|
@@ -1214,7 +1214,7 @@ O|
 S|       324  INT. HOSPITAL ROOM 15 - DARK                                  324       
 O|
 N,G|            CLOSE ON: Lyudmilla, sitting in a chair in the dark room. A             
-N,I,G|            vigil. From just off-camera, we can hear rattling breaths.              
+N,G|            vigil. From just off-camera, we can hear rattling breaths.              
 O|
 N|            REVEAL: Vasily Ignatenko in his hospital bed. Barely                    
 N|            recognizable. His hair is gone. Eyebrows too. His skin is               
@@ -1299,7 +1299,7 @@ C|                                     LYUDMILLA
 U|                         Thank you, my love.                                        
 O|
 N,G|            BEHIND HER - through the interior window facing the hospital            
-N,G,I|            hallway, we see a figure in PROTECTIVE GEAR passing by...               
+N,G|            hallway, we see a figure in PROTECTIVE GEAR passing by...               
 O|
 O|
 O|                                                                     26.            
@@ -1314,7 +1314,7 @@ N|            place to cover her nose and mouth.
 O|
 N|            She opens the door.                                                     
 O|
-N,G,I|            INSIDE THE HOSPITAL ROOM - a man stands in a hospital gown,             
+N,G|            INSIDE THE HOSPITAL ROOM - a man stands in a hospital gown,             
 N,G|            his back to us, staring out the window. He turns slowly at              
 N|            the sound of the door.                                                  
 O|
@@ -1345,7 +1345,7 @@ O|
 N|            BUSES pull up to the site, just fifty meters or so away from            
 N|            the blown-open reactor building.                                        
 N|            The miners get out... and stare in shock at the sight in                
-N,I|            front of them. Soldiers hand out GAS MASKS to them as they              
+N|            front of them. Soldiers hand out GAS MASKS to them as they              
 N|            file off the bus.                                                       
 O|
 C|                                     MINER                                          
@@ -1384,7 +1384,7 @@ C|                                     SHCHERBINA
 U|                         My advice? Tell the truth. These men                       
 U|                         work in the dark. They see                                 
 U|                         everything.                                                
-N,I|            A KNOCK on the door, then it opens. A soldier, announcing--             
+N|            A KNOCK on the door, then it opens. A soldier, announcing--             
 O|
 C|                                     SOLDIER                                        
 U|                         Andrei Glukhov. Crew chief.                                
@@ -1507,7 +1507,7 @@ U|                         We have some equipment here on site,
 U|                         but more will arrive by midnight. You                      
 U|                         can start in the morning.                                  
 N|            Glukhov stubs out his cigarette. Rises. Grabs his gas mask              
-U|            off the table.                                                          
+N|            off the table.                                                          
 O|
 O|
 O|                                                                     30.            
@@ -1530,12 +1530,12 @@ S|       328  NEAR PITCH BLACK                                              328
 N|            The sound of muffled men shouting to each other. A heavy                
 N|            RATTLE of metal...                                                      
 O|
-N|            TITLE:                                                                  
+M|            TITLE:                                                                  
 O|
-N|                                     MAY 6, 1986                                    
+M|                                     MAY 6, 1986                                    
 O|
-N,I|            And then a MINER shifts his head to UNBLOCK the lights                  
-N,G,I|            behind him, and now we see him and a coworker PUSHING a MINE            
+N|            And then a MINER shifts his head to UNBLOCK the lights                  
+N,G|            behind him, and now we see him and a coworker PUSHING a MINE            
 N|            CART full of dirt around a CORNER and--                                 
 O|
 S|       329  EXT. REACTOR SITE - DAY - MOMENTS LATER                       329       
@@ -1603,7 +1603,7 @@ C|                                     GLUKHOV
 U|                         What do you mean? What purpose? To                         
 U|                         dig your fucking tunnel, what else?                        
 O|
-N,I|            One of Pikalov's men reacts, angrily, but Glukhov jabs his              
+N|            One of Pikalov's men reacts, angrily, but Glukhov jabs his              
 N|            finger in the air at the soldier.                                       
 C|                                     GLUKHOV                                        
 U|                         Who's talking to you? Who?                                 
@@ -1642,7 +1642,7 @@ O|
 N|            A cramped shaft, dimly lit by bulb strung along swales of               
 N|            electrical cord.                                                        
 O|
-N,I|            Five miners are jammed against each other like rats in a                
+N|            Five miners are jammed against each other like rats in a                
 N|            nest, stooped over in the low tunnel, PICKING and SHOVELING             
 N|            into the earth as fast as they can manage.                              
 N|            The heat is intense. Rippling the air in spots. They drip               
@@ -1652,7 +1652,7 @@ N|            Gritting teeth. Muscles burning. And even without fans, the
 N|            DUST swirls around them... it SHIMMERS in front of the                  
 N|            lights... and we can literally see them inhaling it...                  
 O|
-N,I,T,G|            A miner swings his PICK right at us, and we cut to:                     
+N,T,G|            A miner swings his PICK right at us, and we cut to:                     
 O|
 S|       331  INT. HOSPITAL ROOM - DAY                                      331       
 N,I|            LEONID TOPTUNOV, the young control room engineer, lies in a             
@@ -1719,7 +1719,7 @@ O|                                                                     34.
 O|
 S|       332  EXT. HOSPITAL HALLWAY - CONTINUOUS                            332       
 O|
-N,I|            The long hallway - then a BLOND MAN steps into view. 30's,              
+N|            The long hallway - then a BLOND MAN steps into view. 30's,              
 N|            mustache. Rolling a sucking candy around in his mouth. He               
 N|            looks around. Oddly out of place, and yet zero emotion.                 
 N|            Just a dead look. It should be quite clear what he is.                  
@@ -1895,7 +1895,7 @@ N|            No.
 O|
 N|            The smile fades from Shcherbina's face, and: KNOCK KNOCK                
 N|            KNOCK on the door. Shcherbina crosses over and opens it. A              
-N,I|            soldier is standing there.                                              
+N|            soldier is standing there.                                              
 O|
 C|                                     SOLDIER                                        
 U|                         I'm sorry to bother you, Deputy                            
@@ -2158,7 +2158,7 @@ C|                                     KHOMYUK
 U|                         I'm here on behalf of the official                         
 U|                         Chernobyl commission. I have been                          
 U|                         authorized by Valery Legasov to--                          
-N,I|            She glances behind her, sensing ANOTHER MAN arriving from               
+N|            She glances behind her, sensing ANOTHER MAN arriving from               
 N,G|            the other direction. Standing behind her now.                           
 O|
 C|                                     KHOMYUK                                        
@@ -2173,17 +2173,17 @@ S|       340  EXT. KREMLIN - MORNING                                        340
 O|
 N|            The sun rises over Moscow...                                            
 O|
-N|            TITLE:                                                                  
+M|            TITLE:                                                                  
 O|
-N|                                     MAY 7, 1986                                    
+M|                                     MAY 7, 1986                                    
 O|
 O|
 O|                                                                     43.            
 O|
 S|       341  INT. KREMLIN HALLWAY - MORNING                                341       
 O|
-M|            The same room we saw when Legasov first arrived at the                  
-M|            Kremlin.                                                                
+N,M|            The same room we saw when Legasov first arrived at the                  
+N,M|            Kremlin.                                                                
 N|            And he's sitting in that little chair again. Waiting. This              
 N|            time, an empty chair next to him.                                       
 O|
@@ -2239,7 +2239,7 @@ U|                         ...and after thousands of sorties,
 U|                         our brave helicopter crews                                 
 U|                         successfully extinguished the fire.                        
 N,I|            Legasov is staring at one man across the table. At CHARKOV.             
-N|            The KGB minister.                                                       
+N,I|            The KGB minister.                                                       
 O|
 C|                                     SHCHERBINA                                     
 U|                         The miners are working heroically to                       
@@ -2424,7 +2424,7 @@ U|                         you. People are following those
 U|                         people.                                                    
 P|                               (points)                                             
 U|                         And you see them?                                          
-N,I|            Two non-descript men in suits at the end of the hallway.                
+N|            Two non-descript men in suits at the end of the hallway.                
 C|                                     CHARKOV                                        
 U|                         They follow me. The KGB is a circle                        
 U|                         of accountability. Nothing more.                           
@@ -2478,9 +2478,9 @@ S|       344  EXT. PRISON - MOSCOW - NIGHT                                  344
 O|
 N|            A squat, red building with a castle-like tower. Thunder                 
 N|            rumbles in the distance. A storm is coming.                             
-N|            TITLE:                                                                  
+M|            TITLE:                                                                  
 O|
-N|                              BUTYRSKAYA PRISON, MOSCOW                             
+M|                              BUTYRSKAYA PRISON, MOSCOW                             
 O|
 O|
 O|                                                                     49.            
@@ -2562,7 +2562,7 @@ U|                         told to dig under the reactor will
 U|                         save millions of lives. Or maybe I'm                       
 U|                         killing them for nothing.                                  
 O|
-U|            And now, shame. A confession.                                           
+N|            And now, shame. A confession.                                           
 O|
 C|                                     LEGASOV                                        
 U|                         I don't want to do this anymore. I                         
@@ -2594,8 +2594,8 @@ N,G|            THE CELL DOOR - opens. The Blond Man stands waiting.
 O|
 S|       346  INT. BOOKING DESK - MOMENTS LATER                             346       
 N|            Legasov waits while Khomyuk signs papers to receive her                 
-N,I|            personal items. She hands the form across a desk to a prison            
-N,I|            attendant, who heads into a back room with the form, leaving            
+N|            personal items. She hands the form across a desk to a prison            
+N|            attendant, who heads into a back room with the form, leaving            
 N|            them alone for a moment.                                                
 O|
 N|            There's something gnawing at her. Until she can't ignore it             
@@ -2681,38 +2681,38 @@ N,G|            OUTSIDE HOSPITAL NO. 6 - Lyudmilla exits the building. Numb.
 N|            Suitcase in hand. The door closes behind her, but she                   
 N|            doesn't look back. There's nothing left to see.                         
 O|
-N,G,I|            ISOLATION ROOM - Vasily's bed is now empty. An orderly                  
+N,G|            ISOLATION ROOM - Vasily's bed is now empty. An orderly                  
 N|            removes the blood-stained sheets.                                       
-N,G,I|            MOSCOW CITY STREET - Soldiers with CLIPBOARDS walk down the             
+N,G|            MOSCOW CITY STREET - Soldiers with CLIPBOARDS walk down the             
 N|            street, and begin heading into apartment buildings.                     
 O|
-N,G,I|            ACROSS THE STREET - more soldiers, heading into more                    
-N,I|            buildings. Dozens of them. Old women watch. They've seen                
+N,G|            ACROSS THE STREET - more soldiers, heading into more                    
+N|            buildings. Dozens of them. Old women watch. They've seen                
 N|            this before. Men will be taken now. Some won't come back.               
 O|
 O|
 O|                                                                     53.            
 O|
 N,G|            HOSPITAL LOADING DOCK - SEVEN GURNEYS, each holding a                   
-N,I|            PLASTIC-WRAPPED BODY. Two men in FULL HAZMAT SUITS lift one             
+N|            PLASTIC-WRAPPED BODY. Two men in FULL HAZMAT SUITS lift one             
 N|            of the bodies and place it into a nondescript PLYWOOD                   
 N|            COFFIN.                                                                 
-N,G,I|            MOSCOW PARKING LOT - a man at the front of a queue gets some            
+N,G|            MOSCOW PARKING LOT - a man at the front of a queue gets some            
 N|            papers stamped and handed back to him. He moves off to the              
 N,I|            left, and the next man steps up. This is PAVEL, 23, thin,               
 N,I|            pale and frightened. He shivers a bit in the cold drizzle               
 N,G|            that's begun to fall. He hands his documents to the unseen              
-N,I|            officer.                                                                
+N|            officer.                                                                
 O|
 N|            STAMP. Papers are handed back, and Pavel is ushered off.                
 O|
 M|            We will see him again.                                                  
 O|
-N,G,I|            HOSPITAL LOADING DOCK - the Hazmat men roughly hammer a lid             
+N,G|            HOSPITAL LOADING DOCK - the Hazmat men roughly hammer a lid             
 N|            onto the plywood coffin, then lift it and put it down into:             
 N|            A LARGER, ENTIRELY METAL COFFIN. Now they lift a heavy METAL            
 N|            LID, and place it on top.                                               
-N,G,I|            HOSPITAL LOADING DOCK - a Hazmat man is WELDING the metal               
+N,G|            HOSPITAL LOADING DOCK - a Hazmat man is WELDING the metal               
 N|            coffin shut. A reflection of SHOWERING SPARKS in the clear              
 N|            plastic window covering his face.                                       
 O|
@@ -2721,18 +2721,18 @@ O|
 N|            ...and is replaced by the TOLLING OF A BELL.                            
 O|
 S|       348  EXT. MITINSKOE CEMETERY - MOSCOW - LATE AFTERNOON             348       
-N,I|            A small gathering of mourners stand under a gray sky. Some              
+N|            A small gathering of mourners stand under a gray sky. Some              
 N|            are crying. Lyudmilla is not. She stares blankly ahead.                 
 O|
-N,I|            In front of the mourners, a line of soldiers.                           
+N|            In front of the mourners, a line of soldiers.                           
 O|
 N,G|            We move through them to see: a large TRENCH has been dug in             
 N|            the State graveyard, about thirty feet away. There are                  
 N|            already SIX METAL COFFINS in the trench.                                
 O|
-N|            A TRUCK-MOUNTED CRANE moves into view, carrying the last of             
+N,G|            A TRUCK-MOUNTED CRANE moves into view, carrying the last of             
 N|            the WELDED-SHUT COFFINS. It lowers it down into the trench,             
-N,I|            where two SOLDIERS wait to hold it in place.                            
+N|            where two SOLDIERS wait to hold it in place.                            
 N|            The CRANE TRUCK pulls away, and the soldiers quickly                    
 N|            scramble up and out of the trench. Frightened.                          
 O|

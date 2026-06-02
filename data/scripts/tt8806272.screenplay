@@ -257,7 +257,7 @@ O|
 T|                                                              CUT TO:               
 O|
 S|          2      INT. HOSPITAL - MOMENTS LATER (Nl)                  2              
-N,I|                 As a DOCTOR reviews her INTAKE FORM. Looks up at Rue.              
+N|                 As a DOCTOR reviews her INTAKE FORM. Looks up at Rue.              
 O|
 O|
 O|                  EUPHORIA 108 05/08/19 GREEN PRODUCTION DRAFT    3.                  
@@ -313,7 +313,7 @@ O|
 O|
 O|                 EUPHORIA 108 05/08/19 GREEN PRODVCTJON DRAFT  4.                   
 O|
-N,G,I|                WE WATCH Rue standlhg in the hallway with her IV as DOCTORS         
+N,G|                WE WATCH Rue standlhg in the hallway with her IV as DOCTORS         
 N|                rush a stretcher by her, trying to save someone 's life.            
 O|
 C,E|                                   RUE (v.o. )                                      
@@ -323,8 +323,8 @@ U|                          unless a gunman kills all the
 U|                          surgeons. Point is, I had zero                            
 U|                          anxiety.                                                  
 N|                Rue sits in the WAITING ROOM with her IV DRIP, eating JELL-O        
-N,I|                and watching TV. She's surrounded by people waiting to get          
-N,I|                into the ER. An OLD MAN MOANING IN PAIN. A LITTLE KID CRYING.       
+N|                and watching TV. She's surrounded by people waiting to get          
+N|                into the ER. An OLD MAN MOANING IN PAIN. A LITTLE KID CRYING.       
 N|                Rue back i n her HOSPITAL BED.                                      
 O|
 C,E|                                   RUE (V .O. )                                     
@@ -525,20 +525,20 @@ O|
 N|                Before Rue pulls out a GLOCK and shoots a FULL CLIP INTO HIS        
 N|                BURNING BODY.                                                       
 O|
-C,e|                                   JULES (CONT'D)                                   
+C,E|                                   JULES (CONT'D)                                   
 U|                          What a fucking pussy.                                     
 N|                As Rue and Jules both smile.                                        
 O|
 T|                                                              CUT TO:               
 O|
-N|                TITLE CARD: EUPHORIA                                                
+M|                TITLE CARD: EUPHORIA                                                
 T|                                                              CUT TO:               
 O|
 S|          6      INT. REHAB - DAY - SUMMER BEFORE 101 (LFBDl)         6             
 O|
-N,I|                Rue sits in group therapy. A row of parents and family in           
+N|                Rue sits in group therapy. A row of parents and family in           
 N|                front of them.                                                      
-N,G|                WE LAND ON: LESLIE.                                                 
+G|                WE LAND ON: LESLIE.                                                 
 O|
 N,G|                She holds a PIECE OF PAPER in her hand. A DRUG COUNSELOR nods       
 N|                in her direction.                                                   
@@ -1125,10 +1125,10 @@ O|
 C|                                   MADDY                                            
 U|                          I have to go to the bathroom.                             
 O|
-N,I|                As Maddy walks away. Nate stares down the football payers           
+N|                As Maddy walks away. Nate stares down the football payers           
 N|                across the hall. A long beat.                                       
-N,I|                He shuts his locker and walks directly up to them. A LARGE          
-N,I|                DEFENSIVE TACKLE lowers hi s chin ready for a confrontation.        
+N|                He shuts his locker and walks directly up to them. A LARGE          
+N|                DEFENSIVE TACKLE lowers hi s chin ready for a confrontation.        
 O|
 C|                                   NATE                                             
 U|                          You got something you wanna say?                          
@@ -1355,7 +1355,7 @@ O|
 N|                 THE CRACK OF THE STADIUM LIGHTS.                                   
 O|
 S|          29     INT. ANNOUNCERS BOOTH - NIGHT (NFBNl)                29            
-N,G,I|                 DOLLY 'l'OWARDS: A FOOTBALL ANNOUNCER as he looks down onto the    
+N,G|                 DOLLY 'l'OWARDS: A FOOTBALL ANNOUNCER as he looks down onto the    
 N|                 football field.                                                    
 O|
 C|                                   ANNOUNCER                                        
@@ -1371,7 +1371,7 @@ N|                 SOUND OF THE CROWD STOMPING THEIR FEET in excitement.
 O|
 C,E|                                    ANNOUNCER #2 (O.S.)                             
 U|                          This is the first game back for the                       
-N|                          Hawks starting QB Nate Jacobs -                           
+U|                          Hawks starting QB Nate Jacobs -                           
 O|
 N,G|                 WE LAND BEHIND; Nate Jacobs, who stops and looks up at -che        
 N|                 crowd, CHEERING WILDLY.                                            
@@ -1384,7 +1384,7 @@ T|                                                               CUT TO:
 O|
 S|          31     EXT. FOOTBALL FIELD - SIDELINES - NIGHT (NFBNl)      31            
 O|
-N,G,I|                 TRACK ACROSS THE CHEERLEADERS, performing their routine as WE      
+N,G|                 TRACK ACROSS THE CHEERLEADERS, performing their routine as WE      
 N,G|                 LAND ON: Maddy, who doesn't seem particularly enthusiastic.        
 N,G|                 As she turns, WE TRACK BACK ACROSS THE CHEERLEADERS and LAND       
 N,G|                 ON: Natalie, cheering enthusiastically.                            
@@ -1408,7 +1408,7 @@ T|                                                              CUT TO:
 O|
 S|          32     EXT. FOOTBALL FIELD - NIGHT (NFBNl)                 32             
 O|
-N,I|                 Nate FACES OFF against the CAPTAIN of t he other t eam in the      
+N|                 Nate FACES OFF against the CAPTAIN of t he other t eam in the      
 N|                 center of the field.                                               
 O|
 N,G|                 DOLLY IN ON: the REF as he leans in with a COIN.                   
@@ -1429,7 +1429,7 @@ O|
 G|                 WE PUSH IN ON: Nate.                                               
 O|
 N|                 HE LOOKS AROUND.                                                   
-N,I|                 - SUDDENLY he's BRUTALLY SACKED by a BIG DT, and as HE HITS        
+N|                 - SUDDENLY he's BRUTALLY SACKED by a BIG DT, and as HE HITS        
 N|                 THE GROUND WE -                                                    
 O|
 T|                                                              CUT TO:               
@@ -1458,7 +1458,7 @@ U|                          Ok. Puck this.
 O|
 N,G|                 WE TRACK ALONGSIDE HER as she gets up and walks across the         
 N|                 dance floor, weaving through throngs of people to find some        
-N,I|                 RANDOM HOT GUY.                                                   
+N|                 RANDOM HOT GUY.                                                   
 O|
 N|                 Maddy looks at him.                                                
 C,E|                                   MADDY (CONT'D)                                   
@@ -1467,7 +1467,7 @@ O|
 C|                                    RANDOM HOT GUY                                  
 P|                              (a beat)                                              
 U|                          Uhhhh.                                                    
-N,I|                 Maddy quickly pivots and turns to his SLIGHTLY HOTTER FRIEND.      
+N|                 Maddy quickly pivots and turns to his SLIGHTLY HOTTER FRIEND.      
 O|
 C|                                    MADDY                                           
 U|                          Can you dance?                                            
@@ -1509,7 +1509,7 @@ D|          35     OMITTED                                              35
 O|
 S|          36     INT. WINTER FORMAL - BATHROOM - CONTINUOUS (N4)      36              
 O|
-N,I|                 Rue pushes through THRONGS OF GIRLS who are hanging out i n          
+N|                 Rue pushes through THRONGS OF GIRLS who are hanging out i n          
 N|                 the bathroom smoking E-CIGARETTES, talking.                          
 O|
 N,G|                 WE BOOM UP AND OVER THE STALLS, where we see KIDS hooking up,        
@@ -1580,7 +1580,7 @@ C,E|                                    JULES (CONT'D)
 U|                          Fuck it. Let's just go dance.                             
 O|
 N|                 As she grabs Rue and pulls her out of the stall and through        
-N,I|                 the CROWD, WE:                                                     
+N|                 the CROWD, WE:                                                     
 T|                                                               CUT TO:              
 O|
 S|          37     EXT. WEALTHY SUBURBS - NIGHT (N4)                    37            
@@ -1606,7 +1606,7 @@ N|                 Fezco moves briskly between a LINE OF TREES and the PROPERTY
 N|                WALL as he watches Mouse and Custer up ahead get out of their       
 N|                 car, BACKPACK in tow, and walk toward a SIDE DOOR.                 
 O|
-N,I|                 A WEALTHY, MIDDLE-AGED WHITE GUY greet s them.                     
+N|                 A WEALTHY, MIDDLE-AGED WHITE GUY greet s them.                     
 N|                 Fezco crouches down in the bushes as he watches.                   
 O|
 N|                 They enter the house - mostly dark except for a single office      
@@ -1666,7 +1666,7 @@ N,G|                 ON Kat as we:
 O|
 T|                                                              CUT TO:               
 O|
-S|          39     INT. KAT'S HOUSE - LIVING ROOM - FLASHBACK TO 106 (FB106) 39       
+S,M|          39     INT. KAT'S HOUSE - LIVING ROOM - FLASHBACK TO 106 (FB106) 39       
 O|
 N|                 Kat gets a notification that EVERYTHING ON HER AMAZON              
 N|                 WISHLIST HAS BEEN BOUGHT.                                          
@@ -1920,8 +1920,8 @@ C|                                    RUE
 U|                          Give me one second. I'l l be ri ght                       
 U|                          back.                                                     
 O|
-N,I|                As Rue follows Nate and suddenly gets lost in a sea of              
-N,I|                people.                                                             
+N|                As Rue follows Nate and suddenly gets lost in a sea of              
+N|                people.                                                             
 T|                                                               CUT TO:              
 O|
 D|         4 2A-B OMITTED                                            42A- B *         
@@ -1962,7 +1962,7 @@ U|                          I love you too.
 O|
 N|                 Cassi e leans her head against Lexi's shoulder who ki sses t he    
 N|                 top of her head, AS WE:                                            
-T|                                                         FLASHBACK TO:              
+T,M|                                                         FLASHBACK TO:              
 O|
 S|          44     INT. SUZE'S CAR - DAY (CFBDl)                        44            
 O|
@@ -1976,7 +1976,7 @@ S|          45     INT. PLANNED PARENTHOOD - AFTERNOON (CFBDl)          45
 N|                 Cassie, Suze, and Lexi all sit next to each other in the           
 N|                 waiting room.                                                      
 O|
-N,I|                 A NURSE comes out.                                                 
+N|                 A NURSE comes out.                                                 
 O|
 O|
 O|                 EUPHORIA 108 05/08/19 GREEN PRODUCTION DAAFT   38.                 
@@ -2084,9 +2084,9 @@ O|
 N|                 Looks for an opening.                                                
 O|
 N|                 The other team breaks through.                                       
-N,I|                 He spots an OPEN WIDE RECEIVER. And t hrows a HAIL MARY.             
+N|                 He spots an OPEN WIDE RECEIVER. And t hrows a HAIL MARY.             
 O|
-N,G|                 WE TRACK ACROSS THE CROWD. (48fps)                                   
+G|                 WE TRACK ACROSS THE CROWD. (48fps)                                   
 O|
 N,G|                 WE TRACK ACROSS as Cal watches calmly. (48fps)                       
 G|                 DOLLY IN ON: the announcer.                                          
@@ -2099,7 +2099,7 @@ N|                 THE WIDE RECEIVER reaches for it.
 N|                 And it SLIPS THROUGH his HANDS.                                      
 O|
 N,G|                 QUICK CUTS: as three more HAIL MARY'S slip through t he hands        
-N,I|                 of more WIDE RECEIVERS.                                              
+N|                 of more WIDE RECEIVERS.                                              
 O|
 G|                  ANGLE ON: The announcer.                                            
 C|                                    ANNOUNCER #2                                      
@@ -2126,7 +2126,7 @@ O|
 O|                   EUPHORIA 108 05/08/19 GREEN PRODUCTION DRAFT    41.                 
 O|
 N,G|                  WE FOLLOW Nate as he r uns as fast as he can, weaving and            
-N,I|                   jumping over every single fucking person in his way and he          
+N|                   jumping over every single fucking person in his way and he          
 N|                  reaches a clearing.                                                  
 O|
 N|                  THE CLOCK as it hi t s ZERO.                                        
@@ -2136,7 +2136,7 @@ N,G|                  ANGLE ON: Cal watching. Marsha CHEERING. Natalie screaming
 O|
 N|                  The whole crowd goi ng wild.                                         
 O|
-N,I|                  As the other team's CORNERBACK i s gai ning speed on him.            
+N|                  As the other team's CORNERBACK i s gai ning speed on him.            
 N|                  And as he hits the 5 yard line. The cornerback leaps. Grabs          
 N|                  him.                                                                 
 O|
@@ -2376,7 +2376,7 @@ O|
 T|                                                              CUT TO:                 
 O|
 S|          56     INT. WINTER FORMAL - NIGHT (N4)                      56              
-N,I|                 Jules weaves through the crowds of students -                        
+N|                 Jules weaves through the crowds of students -                        
 O|
 N|                 As she spots Nat e coming from t he other direction. She             
 N|                 watches as he passes her.                                            
@@ -2423,7 +2423,7 @@ O|
 T|                                                                CUT TO:               
 O|
 S|           58     INT. PLANNED PARENTHOOD - AFTERNOON (CFBDl)          58             
-N,I|                  A NURSE slips a dissolvable tablet under Cassie's tongue.           
+N|                  A NURSE slips a dissolvable tablet under Cassie's tongue.           
 O|
 C|                                     NURSE                                            
 U|                            This will help with the discomfort.                       
@@ -2435,7 +2435,7 @@ U|                           music.
 O|
 N|                  Cassie nods and puts her headphones in. As the painkiller           
 N|                  starts to take effect. She presses play on her phone.               
-N,I|                  As the SURGEON prepares a NEEDLE and numbs her cervix.              
+N|                  As the SURGEON prepares a NEEDLE and numbs her cervix.              
 O|
 N,G|                  WE SEE Cassie wince with discomfort .                               
 O|
@@ -2511,8 +2511,8 @@ O|
 O|
 O|                  EUPHORIA 108 05/08/19 GREEN PRODUCTION DRAFT    49.                 
 O|
-N,I|                  - and walks briskly into the office of the wealthy middle           
-N,I|                  aged MAN -                                                          
+N|                  - and walks briskly into the office of the wealthy middle           
+N|                  aged MAN -                                                          
 O|
 N|                  - Who's on his knees, putting HUGE BOTTLES of PRESCRIPTION          
 N|                  PILLS into a DUFFEL BAG.                                            
@@ -2587,7 +2587,7 @@ N|                  SUDDENLY in the corner of FEZCO'S EYE:
 O|
 S|                  DOWN THE HALL.                                                     
 O|
-N,I|                  A YOUNG KID, maybe six years old, stands watching him.             
+N|                  A YOUNG KID, maybe six years old, stands watching him.             
 N,G|                  CLOSE ON: The Man as he looks at Fezco looking at his son.         
 O|
 N,G|                  CLOSE ON: The Man as he grabs the REVOLVER.                        
@@ -2782,7 +2782,7 @@ P|                              (after a beat)
 U|                          Fine.                                                     
 O|
 N|                 As she get ups and they walk to the dance floor -                  
-T|                                                         FLASHBACK TO:              
+T,M|                                                         FLASHBACK TO:              
 O|
 S|         87A     INT. MADDY'S BEDROOM - NIGHT (MFBNl)                87A            
 O|
@@ -2911,7 +2911,7 @@ T|                                                                CUT TO:
 O|
 S|          93      I./E. EAST HIGHLAND TRAIN STATION - MOMENTS LATER (N4) 93           
 O|
-N|                 TRACK WITH RUE and JULES as they walk through the station.           
+N,G|                 TRACK WITH RUE and JULES as they walk through the station.           
 N|                 Rue stops.                                                           
 C|                                    RUE                                               
 U|                           Jules .. . I just realized. I don't                        
@@ -3191,16 +3191,16 @@ O|
 N,G|                  CAMERA PUSHES OUT as WE TRACK ACROSS a CHOIR, singing outside       
 N|                  in the night.                                                       
 O|
-C,U|                  CHOIR: Oh./ Oh./ Oh.I Oh.                                           
-N,G|                  WHIP BACK TO: Rue, walking out.                                     
+N,C,U|                  CHOIR: Oh./ Oh./ Oh.I Oh.                                           
+N,T|                  WHIP BACK TO: Rue, walking out.                                     
 O|
 C,P|                                    RUE (SINGING)                                     
 U|                           Just for your love.                                        
 O|
-N,G|                  PAN OFF TO: the OPPOSING CHOIR AND TRACK ACROSS THEM.               
-C,U|                  CHOIR: Oh./ Oh./ Oh./ Oh.                                           
+G|                  PAN OFF TO: the OPPOSING CHOIR AND TRACK ACROSS THEM.               
+N,C,U|                  CHOIR: Oh./ Oh./ Oh./ Oh.                                           
 O|
-N,G|                 WHIP BACK TO: Rue, i n the middle of the street, still doing         
+N,T|                 WHIP BACK TO: Rue, i n the middle of the street, still doing         
 N|                  her fucked up Rue dance -                                           
 O|
 C,P,E|                                    RUE (SINGING) (CONT'D)                            
@@ -3212,36 +3212,36 @@ N|                 street.
 O|
 C,P,E|                                    RUE (SINGING) (CONT'D)                            
 U|                          Mona Lisa smile.                                            
-C,U|                 CHOIR: Oh./ Oh./ Oh./ Oh.                                            
+N,C,U|                 CHOIR: Oh./ Oh./ Oh./ Oh.                                            
 O|
 G|                 AS CAMERA FLIES DOWN the center of the street and WE SEE             
 N|                 Rue's block lined on either side with a full BAND WITH HORNS         
-N,I|                 AND STRINGS. CHOIRS AND DANCERS.                                     
+N|                 AND STRINGS. CHOIRS AND DANCERS.                                     
 N|                 It should be joyous and beautiful, but as the nwnber                 
 N|                 continues, we as the audience should start to feel a creeping        
 N|                 sense that this sort of resembles a FUNERAL PROCESSION.              
 O|
-N,G|                 BUT BACK TO: Rue, who smiles obliviously and happily, because        
+N,T|                 BUT BACK TO: Rue, who smiles obliviously and happily, because        
 N|                 THE WHOLE WORLD HAS COME TO CELEBRATE.                               
 C,P,E|                                   RUE (SINGING) (CONT'D)                             
 U|                          Hey .                                                       
 O|
-C,U|                 CHOIR: Oh./ Oh./ Oh./ Oh.                                            
+N,C,U|                 CHOIR: Oh./ Oh./ Oh./ Oh.                                            
 O|
 C,P,E|                                   RUE (SINGING) (CONT'D)                             
 U|                          High after 25 life.                                         
-C,U|                CHOIR: Oh./ Oh./ Oh.I Oh.                                             
+N,C,U|                CHOIR: Oh./ Oh./ Oh.I Oh.                                             
 O|
 O|
 O|                 EUPHORIA 108 05/ 08/19 GREEN PRODUCTION ORA.FT 64.                 
 O|
 C,P,E|                                   RUE (SINGING) (CONT'D)                           
 U|                          If it makes me again ...                                  
-C,U|                CHOIR: Oh./ Oh./ Oh./ Oh.                                           
+N,C,U|                CHOIR: Oh./ Oh./ Oh./ Oh.                                           
 O|
 C,P,E|                                   RUE (SINGING) (CONT'D)                           
 U|                          • •• A star in your eyes.                                 
-C,U|                 CHOIR: Oh./ Oh.I Oh./ Oh.                                          
+N,C,U|                 CHOIR: Oh./ Oh.I Oh./ Oh.                                          
 O|
 N|                 Rue flicks her r ight hand and TURNS OFF a row of                  
 N|                 STREETLIGHTS. Her left hand and TURNS OFF a row of                 
@@ -3254,7 +3254,7 @@ N,G|                 they sing t he bri dge and WE PUSH BACK INTO: Rue, i n the
 N|                 center of t he street .                                            
 O|
 N,G|                 Everyone danci ng around her. As WE MOVE INTO A BUSBY BERKELEY     
-N|                 ESQUE TOP SHOT.                                                    
+G|                 ESQUE TOP SHOT.                                                    
 C,P,E|                                    RUE (SINGING) (CONT'D)                          
 U|                          Ah. I'm taking it.                                        
 O|
@@ -3272,7 +3272,7 @@ U|                          Ay, ay. Ay, ay.
 O|
 C,P|                                    CHOIR (SINGING)                                 
 U|                          Doing it all for love.                                    
-N,G|                 BACK TO: CLOSEUP OF Rue as the choir CHANTS and she watches        
+N,T,G|                 BACK TO: CLOSEUP OF Rue as the choir CHANTS and she watches        
 N|                 the whole world move around her. She begins to smile, her          
 N|                 eyes welling up with TEARS OF JOY.                                 
 O|
