@@ -141,7 +141,7 @@ O|
 S|       1       INT. JAIL CELL - BOZEMAN POLICE STATION - DAY (D6)       1           
 N|               Beth Dutton, sitting on a shitty mattress that rests on a            
 N|               concrete slab. She stares out at nothing. Still looks pissed         
-N,I|               off. Across from her is another woman, curled in a ball.             
+N|               off. Across from her is another woman, curled in a ball.             
 O|
 N|               The woman stirs, looks around. Sees Beth.                            
 O|
@@ -150,9 +150,9 @@ U|                         What day is it.
 O|
 C|                                   BETH DUTTON                                      
 U|                         ... Thursday. I think.                                     
-N|               The woman sits up. In her mid twenties, but she’s put a lot          
-N|               of miles on those twenty-five years -- her eyes are swollen,         
-N|               hair a disaster. Makeup runs her face ... Her name is                
+N,I|               The woman sits up. In her mid twenties, but she’s put a lot          
+N,I|               of miles on those twenty-five years -- her eyes are swollen,         
+N,I|               hair a disaster. Makeup runs her face ... Her name is                
 N,I|               DARIA(25).                                                           
 O|
 C,E|                                   BETH DUTTON (CONT'D)                             
@@ -201,7 +201,7 @@ O|
 C|                                   BETH DUTTON                                      
 U|                         Every time.                                                
 O|
-N,I|               A GUARD walks up to the cell, unlocks the door ...                   
+N|               A GUARD walks up to the cell, unlocks the door ...                   
 C|                                   GUARD                                            
 U|                         Bethany Dutton. Let’s go.                                  
 O|
@@ -374,7 +374,7 @@ U|                         the educators are in school. When
 U|                         the Educators’ luncheon is with                            
 U|                         teachers, I’ll go.                                         
 O|
-N,I|               They walk past a room as a MAN walks inside. John Dutton             
+N|               They walk past a room as a MAN walks inside. John Dutton             
 N|               notices a large group of men and woman in suits sitting              
 N|               around a conference table ...                                        
 O|
@@ -404,7 +404,7 @@ S|       6       INT. MEETING ROOM - MONTANA STATE CAPITOL - DAY (D6)     6
 O|
 N,I|               John Dutton pushes through the double doors. STANLEY                 
 N,I|               ROBERTS(40) sits in the center of the table. Before him a            
-N|               placard that reads -- GOVERNOR.                                      
+N,I|               placard that reads -- GOVERNOR.                                      
 C|                                   JOHN DUTTON                                      
 U|                         You’re in my seat.                                         
 O|
@@ -416,7 +416,7 @@ C,E|                                   JOHN DUTTON (CONT'D)
 U|                         So ... What policies are we                                
 U|                         discussing today?                                          
 O|
-O|               Silence.                                                             
+N|               Silence.                                                             
 C,E|                                   JOHN DUTTON (CONT'D)                             
 U|                         Nobody?                                                    
 O|
@@ -548,7 +548,7 @@ U|                         very mindful of our tax payers’
 U|                         money -- and you are wasting it.                           
 U|                         I’ll advise myself on policy.                              
 U|                         Clara, how much money did we just                          
-O|                         save?                                                      
+U|                         save?                                                      
 O|
 O|
 O|            YS #504 - "Horses in Heaven" Produciton Draft(4/29/22) 9.
@@ -935,7 +935,7 @@ S|       14      EXT. GRAVE SITE - YELLOWSTONE RANCH - DAY (D6)          14
 O|
 N|               Rip, Lloyd, Ryan, Colby, Walker, Teeter, Jake, and Ethan ride        
 N|               in from the field.                                                   
-N,I|               Rip spots a group of NATIVE AMERICAN MEN digging a hole in           
+N|               Rip spots a group of NATIVE AMERICAN MEN digging a hole in           
 N|               the grave site. Stops his horse. The others stop as well ...         
 O|
 C|                                   LLOYD                                            
@@ -1335,7 +1335,7 @@ O|
 N|               Beth continues walking as a vehicle slows. Window rolls down.        
 O|
 N,I|               She looks to her right -- a decent looking man stares at her.        
-N|               Looks like a middle school science teacher. His name is              
+N,I|               Looks like a middle school science teacher. His name is              
 N,I|               Brian(38).                                                           
 C|                                   BRIAN                                            
 U|                         Car trouble?                                               
@@ -1414,7 +1414,7 @@ N|               KAYCE, MONICA, AND TATE stand across from a little grave --
 N|               fresh dirt piled in a mound. Beside it is another mound, this        
 N|               one is massive -- looks like they buried a car beside the            
 N|               little boy.                                                          
-N,I|               Members of the WARRIOR SOCIETY stand in a semi-circle around         
+N|               Members of the WARRIOR SOCIETY stand in a semi-circle around         
 N|               Kayce, Monica, and Tate. Beyond them a BIG DRUM and SINGERS.         
 O|
 N|               Mo faces Kayce, speaks words we can’t hear.                          
@@ -1473,7 +1473,7 @@ N|               Kayce is likely unaware that he is shaking his head, as if to
 N|               say ‘no’ to the injustice of losing a child. Unaware of the          
 N|               tear streaking his cheek as well ...                                 
 O|
-G|               BACK WITH JOHN DUTTON AND BETH.                                      
+T|               BACK WITH JOHN DUTTON AND BETH.                                      
 O|
 N|               Beth turns.                                                          
 O|
@@ -1773,7 +1773,7 @@ N|               road, drop down into the Big Hole Valley ...
 O|
 S|       32      EXT. HIGHWAY - BIG HOLE VALLEY - MORNING (D7)           32           
 N|               Rip and the Yellowstone cowboys drive three hundred pairs            
-N,I|               down the highway alongside POISON CREEK cowboys. The Poison          
+N|               down the highway alongside POISON CREEK cowboys. The Poison          
 N|               Creek operation is a family operation -- no hired hands.             
 N|               Everybody rides. Mom, dad, all the brothers and sisters and          
 N|               nieces and nephews -- some as young as five ride alongside           
@@ -1782,7 +1782,7 @@ N|               behind in a truck with her hazards on ...
 O|
 N|               Grandpa drives another truck in front, hazards flashing.             
 O|
-N,I|               Tourists have stopped in the road as the herd swarms around          
+N|               Tourists have stopped in the road as the herd swarms around          
 N|               minivans and SUVs ...                                                
 O|
 O|
@@ -1800,7 +1800,7 @@ N|               barrel’s side ...
 O|
 N|               Jake ropes the back legs of a calf, drags it toward the fire         
 N|               where a row of cowboys wait.                                         
-N,I|               There is another row of cowboys on the opposite side of the          
+N|               There is another row of cowboys on the opposite side of the          
 N|               horse. As the calf is drug close, cowboys rush to it, mug it,        
 N|               and more cowboys rush in with ear tags and vaccines as the           
 N|               brand is placed on the hip                                           
@@ -1817,13 +1817,13 @@ N|               The cowboys sit around feasting on stew cooked in old iron
 N|               skillets. Everyone is exhausted, filthy, and perfectly               
 N|               content.                                                             
 O|
-N,I|               Children run and play. One of the teenage cowgirls from the          
+N|               Children run and play. One of the teenage cowgirls from the          
 N|               Poison Creek family lays on the hood of a pickup, face to the        
 N|               sun. Eyes closed. Long strand of grass tucked idly in her            
 N|               mouth.                                                               
 O|
 N,I|               Rip sits beside DELBERT MITCHELL(50s), face heavily weathered        
-N|               from decades in the sun and wind. Kind eyes. They sip coffee.        
+N,I|               from decades in the sun and wind. Kind eyes. They sip coffee.        
 C|                                   DELBERT                                          
 U|                         How many are y’all running this                            
 U|                         year.                                                      
@@ -1876,9 +1876,9 @@ U|                         Breaks mine too. And I don’t even
 U|                         have kids.                                                 
 O|
 S|       35      EXT. YARD - MONTANA WOMEN’S PRISON - BILLINGS, MT - DAY (D73)5       
-N,I|               Women mill about on the yard. Talk in small groups.                  
+N|               Women mill about on the yard. Talk in small groups.                  
 O|
-N,I|               TWO FEMALE GUARDS WALK TOWARD SUMMER HIGGINS ...                     
+N|               TWO FEMALE GUARDS WALK TOWARD SUMMER HIGGINS ...                     
 O|
 S|       36      EXT. FRONT GATE - MONTANA WOMEN’S PRISON - DAY (D7)     36           
 O|
@@ -2074,7 +2074,7 @@ N|               Sarah stands, walks toward the bar. Jamie follows her ...
 O|
 S|       38      INT. BACK BAR - DEERFIELD CLUB - EVENING (N7)           38           
 O|
-N,I|               There’s a decent crowd. Jamie and Sarah sit at the bar,              
+N|               There’s a decent crowd. Jamie and Sarah sit at the bar,              
 N|               laughing.                                                            
 O|
 C|                                   JAMIE DUTTON                                     
@@ -2211,7 +2211,7 @@ N|               the driver’s license number. HEARS SOMETHING ...
 O|
 N|               Something that sounded like a woman’s laughter ...                   
 O|
-N,I|               Then foot steps. Then a woman walking down the stairs in a           
+N|               Then foot steps. Then a woman walking down the stairs in a           
 N|               man’s t-shirt, disappears into the kitchen.                          
 O|
 N|               Beth stands, walks in that direction ...                             

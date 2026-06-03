@@ -17,7 +17,7 @@ S|               INT. AIRPLANE - DAY
 O|
 N,I|               SHANE, 30’s is handsome but looks like he’s been through the         
 N,I|               ringer.  A FLIGHT ATTENDANT hands him a cocktail, which he           
-N,I|               gulps down. Sitting next to him is an OLDER COUPLE.                  
+N|               gulps down. Sitting next to him is an OLDER COUPLE.                  
 O|
 C|                                   OLDER WOMAN                                      
 U|                         Headed home?                                               
@@ -117,7 +117,7 @@ O|                                                          THE LOTUS - 3.
 O|
 S|               EXT. BOAT - DAY                                                      
 N|               A picture-perfect tropical day. A small boat transports              
-N,I|               ARRIVING HOTEL GUESTS across a placid bay toward the hotel’s         
+N|               ARRIVING HOTEL GUESTS across a placid bay toward the hotel’s         
 N|               dock.  At the bottom of frame: “TEN DAYS BEFORE”                     
 O|
 G|               CLOSER ON DECK                                                       
@@ -300,7 +300,7 @@ S|               EXT. DOCK - DAY
 O|
 N,I|               The hotel’s assistant manager, ARMOND, 40, is training an            
 N,I|               overweight, meek woman, CARMEN, mid-20s. They stand on the           
-N,I|               dock.  As they talk, other EMPLOYEES begin to line up beside         
+N|               dock.  As they talk, other EMPLOYEES begin to line up beside         
 N|               them, waiting to greet the new arrivals.                             
 O|
 C|                                   ARMOND                                           
@@ -382,7 +382,7 @@ O|
 O|                                                          THE LOTUS - 8.            
 O|
 N|               The boat pulls up to the dock. Much activity as the Guests           
-N,I|               step off - and BELLBOYS help unload their luggage.                   
+N|               step off - and BELLBOYS help unload their luggage.                   
 N|               Armond - all smiles - greets the guests with his clipboard.          
 N|               The first to step off are Mark, Nicole, Paula, Olivia and            
 N,I|               QUINN, 16, wearing a hoodie, listening to music on his ear           
@@ -465,7 +465,7 @@ C|                                   ARMOND
 U|                         It is.  And I will check in with                           
 U|                         you in a little while, okay?                               
 O|
-N,I|               Rachel and Shane follow one of the WORKERS to their room.            
+N|               Rachel and Shane follow one of the WORKERS to their room.            
 N|               The last to step off the boat is Tanya. She seems a bit              
 N|               disoriented.                                                         
 O|
@@ -1694,7 +1694,7 @@ O|
 N|               Mark and Quinn nod and head out. Armond looks down and               
 N|               notices... a POOL of WATER at his feet.                              
 O|
-N,I|               Armond turns to a cluster of EMPLOYEES.                              
+N|               Armond turns to a cluster of EMPLOYEES.                              
 O|
 O|
 O|                                                          THE LOTUS - 33.           
@@ -2162,7 +2162,7 @@ N|               They then both stare out at the water, watching the sunset.
 O|
 S|               EXT. LOTUS RESTAURANT - NIGHT                                        
 O|
-N,I|               All the GUESTS have gathered for the buffet-style lobster            
+N|               All the GUESTS have gathered for the buffet-style lobster            
 N|               bake.  Armond is busy supervising the dinner, greeting guests        
 N|               and ordering around the staff.                                       
 O|
@@ -2287,7 +2287,7 @@ O|
 S|               INT. ARMOND’S OFFICE - MOMENTS LATER                                 
 O|
 N|               Armond and Dillon enter the office, where a cluster of               
-N,I|               HOUSEKEEPERS are attending to Carmen, who is lying on a              
+N|               HOUSEKEEPERS are attending to Carmen, who is lying on a              
 N|               leather coffee table, letting out anguished moans.                   
 O|
 C|                                   ARMOND                                           
@@ -2362,7 +2362,7 @@ O|
 C|                                   SHANE                                            
 U|                         Look over there.                                           
 O|
-N,I|               Shane points - a young, attractive COUPLE at a nearby table          
+N|               Shane points - a young, attractive COUPLE at a nearby table          
 N|               are speaking in German.                                              
 O|
 C|                                   SHANE                                            
@@ -2389,7 +2389,7 @@ N|               Olivia and Paula look away, then at each other. Suddenly,
 N|               it’s uncharacteristically awkward between them. Olivia goes          
 N|               back to dishing salad. Paula sneaks one last look at Kaimi.          
 O|
-G|               BACK AT SHANE AND RACHEL’S TABLE                                     
+T|               BACK AT SHANE AND RACHEL’S TABLE                                     
 O|
 N|               Shane and Rachel are eating and enjoying the ambiance. Shane         
 N|               then spots Armond hurriedly walking past.                            
@@ -2444,7 +2444,7 @@ O|
 S|               INT. ARMOND'S OFFICE - LATER                                         
 O|
 N|               Belinda is now helping Carmen with her breathing. Other              
-N,I|               EMPLOYEES make themselves useful. A stricken Armond hovers           
+N|               EMPLOYEES make themselves useful. A stricken Armond hovers           
 N|               by the door.                                                         
 O|
 C|                                   BELINDA                                          

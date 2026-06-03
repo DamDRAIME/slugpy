@@ -8,7 +8,7 @@ O|
 S|       1       INT. CAMPER VAN - NIGHT                                  1           
 O|
 N|               In a cramped space, a SLEEPING FIGURE, headphones on. Then           
-N,I|               dimly, a dull echo. BAM-BAM-BAM. An anxious young ENGINEER           
+N|               dimly, a dull echo. BAM-BAM-BAM. An anxious young ENGINEER           
 N|               bangs on a window: signaling five fingers. The OCEAN SOUNDS          
 N|               stop.                                                                
 O|
@@ -28,9 +28,9 @@ O|
 S|       2       EXT. PIT LANE - DAYTONA INTERNATIONAL SPEEDWAY           2           
 N,I|               --into ABSOLUTE CHAOS, as we meet SONNY HAYES (54): rugged,          
 N,I|               fit, determined. Passing MECHANICS hauling bodywork,                 
-N,I|               ENGINEERS with data tablets, ASSISTANTS bringing news--              
+N|               ENGINEERS with data tablets, ASSISTANTS bringing news--              
 O|
-N,I|               He splits more MECHANICS rolling TIRE CARRIERS, and is               
+N|               He splits more MECHANICS rolling TIRE CARRIERS, and is               
 N,I|               approached by a PRETTY FAN, MOLLY in a BMW CAP--                     
 O|
 C|                                   MOLLY                                            
@@ -46,12 +46,12 @@ N|               RIVAL LOGOS, as he crosses into--
 O|
 S|       3       INT. PIT TENT                                            3           
 O|
-N,I|               --where a MECHANIC TEAM sleeps in chairs. Sonny grabs a cup          
+N|               --where a MECHANIC TEAM sleeps in chairs. Sonny grabs a cup          
 N|               of coffee, focused on pit lane beyond.                               
 O|
 N,I|               A sweat-stained Team Boss, CHIP HART, (55, Orlando beer gut)         
-N,I|               sits at a bank of monitors and argues with his STRATEGY              
-N,I|               DIRECTOR (40)--                                                      
+N|               sits at a bank of monitors and argues with his STRATEGY              
+N|               DIRECTOR (40)--                                                      
 O|
 O|
 O|                                 Buff Revision - 12.15.24             2.            
@@ -73,7 +73,7 @@ U|                         HIT THE TRACK, PAT HAD TO EASE OFF,
 U|                         NOW WE’RE DROPPED DOWN TO SEVENTH. IF                      
 U|                         YOU CAN HOLD POSITION OVERNIGHT,                           
 U|                         HOPING SUNRISE CATCHES US A BREAK...                       
-N,I|               SUDDENLY -- TWELVE MECHANICS swarm, taking up positions as a         
+N|               SUDDENLY -- TWELVE MECHANICS swarm, taking up positions as a         
 N|               PORSCHE GT3R decelerates, stopping RIGHT ON MARKS--                  
 O|
 N,I|               --as Sonny jumps the wall, meeting exhausted PATRICK LONG            
@@ -174,7 +174,7 @@ O|
 N|               --and now for the first time, Sonny BRAKES -- baiting his            
 N|               opponent into heading TOO FAST into the turn -- forced to            
 N|               overcorrect, SPIN OUT and PINWHEEL into infield grass!               
-N,I|               Sonny BLASTS BY camped-out FANS who go crazy, including a            
+N|               Sonny BLASTS BY camped-out FANS who go crazy, including a            
 N|               trio of shirtless YAHOOS with their oil drum bonfire, raising        
 N|               triumphant beers and rebel yells as FIREWORKS CLIMAX...              
 O|
@@ -217,10 +217,10 @@ O|                                 Buff Revision - 12.15.24             5.
 O|
 C|                                   CHIP HART                                        
 U|                         Clear 2, Clear 2, Clear 2!                                 
-N|               VROOM! Cale hits the gas, back in the race...we follow Sonny         
+N,G|               VROOM! Cale hits the gas, back in the race...we follow Sonny         
 N|               back to the garage. Chip claps him on the back--                     
 O|
-N,I|               -- Sonny signals an ASSISTANT for a water bottle. As he downs        
+N|               -- Sonny signals an ASSISTANT for a water bottle. As he downs        
 N|               the whole thing, the angry BMW DRIVER comes charging down pit        
 N|               lane, chased by his own Mechanics--                                  
 O|
@@ -469,7 +469,7 @@ O|
 C|                                   RUBEN                                            
 U|                         Phillip Entacillian? Fifty six. Arthur                     
 U|                         Legat? Fifty four. Luigi Fagioli.                          
-O|                         Fifty three.                                               
+U|                         Fifty three.                                               
 O|
 O|
 O|                                 Buff Revision - 12.15.24            10.            
@@ -615,7 +615,7 @@ N|               Sonny looks at the magazine and ticket Ruben gave him.
 O|
 C,E|                                   WAITRESS (O.S.)                                  
 U|                         Alright sugar, here you go.                                
-N,I|               A WAITRESS (45) sets down A SLICE OF CHERRY PIE.                     
+N|               A WAITRESS (45) sets down A SLICE OF CHERRY PIE.                     
 O|
 N|               She heads off. Sonny digs in, takes a first bite...                  
 O|
@@ -673,7 +673,7 @@ S|       16      INT. RACE BAY - ENGINEERS STATION                       16
 O|
 N,G|               QUICK HITS: BANKS OF MONITORS track telemetry, timing data,          
 N|               and ten thousand sensors on the car like it’s a NASA project.        
-N,I|               A DOZEN ENGINEERS with headsets on, each focused on a                
+N|               A DOZEN ENGINEERS with headsets on, each focused on a                
 N|               specific component: Power Unit, Battery, Tires, Brakes,              
 N|               Suspension, Wings, Floor, Airflow, Fuel.                             
 O|
@@ -718,7 +718,7 @@ U|                         Compared to Red Bull...or us?
 O|
 S|       18      INT. RACE BAY/EXT. PIT LANE - MOMENTS LATER             18           
 O|
-N,I|               A squadron of MECHANICS dolly the car backwards into a space-        
+N|               A squadron of MECHANICS dolly the car backwards into a space-        
 N|               age garage, labeled “APX GP, a Division of Cervantes Capital         
 N,I|               Group.” The driver emerges, sheds his helmet, to meet JOSHUA         
 N,I|               PEARCE (25). Kaspar CLAPS hands--                                    
@@ -727,7 +727,7 @@ U|                         Now let’s just find those gremlins!
 O|
 N|               As Joshua turns for Engineering, he has to tangle with a cord        
 N,I|               which a shy mechanic JODIE (25) has attached-- she fixes,            
-N,I|               backpedals -- but collides with another MECHANIC carrying a          
+N|               backpedals -- but collides with another MECHANIC carrying a          
 N|               TOOL TRAY. Joshua dodges falling wrenches.                           
 O|
 C|                                   JODIE                                            
@@ -760,7 +760,7 @@ U|                         Consistent, at least.
 O|
 C|                                   JOSHUA                                           
 U|                         And then sometimes it’s the opposite.                      
-U|               Kate has to take that on the chin.                                   
+N|               Kate has to take that on the chin.                                   
 O|
 C|                                   KATE                                             
 U|                         Entries or exits?                                          
@@ -786,7 +786,7 @@ C,E|                                   KASPAR (O.S.)
 U|                         Kinder, wilkommen! Princessa!                              
 N|               They turn to see Kaspar has brightened: at the sight of an           
 N,I|               Austrian blonde ex-model, LIESL (39), entering the garage            
-N,I|               with two blonde YOUNG KIDS.                                          
+N|               with two blonde YOUNG KIDS.                                          
 O|
 C,E|                                   KASPAR (CONT’D)                                  
 U|                         OK, garage! Ten minute break!                              
@@ -1081,7 +1081,7 @@ O|
 O|                                 Buff Revision - 12.15.24            21.            
 O|
 S|       20      INT. RACE BAY - GARAGE PREP                             20           
-N,I|               Jodie and MECHANICS surround the car, making final                   
+N|               Jodie and MECHANICS surround the car, making final                   
 N|               adjustments, venting exhaust, holding tire blankets in place.        
 O|
 S|       21      INT. RACE BAY - ON COCKPIT                              21           
@@ -1304,7 +1304,7 @@ O|
 S|       23      EXT. CRASH SITE - FIRST CHICANE - MOMENTS LATER         23           
 O|
 N|               Sonny climbs from the wreckage, unsteady but marveling.              
-N,I|               Mechanics come running as he clutches his back -- but gives a        
+N|               Mechanics come running as he clutches his back -- but gives a        
 N|               thumbs-up to signal OK...as Ruben and the Pit Wall group             
 N|               arrives.                                                             
 O|
@@ -1465,10 +1465,10 @@ N,G|               AERIAL finds a vintage MERCEDES GALANDERWAGEN speeding down a
 N|               winding road, quite a bit faster than it probably should...          
 O|
 N|               ...as Sonny slams the truck to a STOP at a rural                     
-N,I|               intersection, blocked by a DOZEN COWS. An old FARMER tries to        
+N|               intersection, blocked by a DOZEN COWS. An old FARMER tries to        
 N|               coax them down the narrow road.                                      
 O|
-N,I|               A bell’s RING-RING turns him...as a CYCLIST comes cruising on        
+N|               A bell’s RING-RING turns him...as a CYCLIST comes cruising on        
 N|               a road bike at a speedy clip. Windbreaker, backpack. As she          
 N|               gets closer, Sonny realizes it’s Kate.                               
 O|
@@ -1489,8 +1489,8 @@ U|                         My job is wind. It helps to feel it.
 O|
 S,G|       28      INT. APEX FACTORY - DAY - BEGIN MONTAGE                 28           
 O|
-N,I|               DOORS SLIDE OPEN on a gleaming FACTORY FLOOR, where a hundred        
-N,I|               EMPLOYEES are busy working on car fabrication...                     
+N|               DOORS SLIDE OPEN on a gleaming FACTORY FLOOR, where a hundred        
+N|               EMPLOYEES are busy working on car fabrication...                     
 O|
 C,E|                                   WILL BUXTON (V.O.)                               
 U|                         More mysterious moves at Apex GP,                          
@@ -1521,7 +1521,7 @@ N|               to do any of the F1 driver “poses”.
 O|
 S|       29      INT. RACE SUPPORT ROOM - APEX HQ - DAY                  29           
 O|
-N,I|               Sixteen DATA ANALYSTS stand at tiered workstations, in a room        
+N|               Sixteen DATA ANALYSTS stand at tiered workstations, in a room        
 N,I|               of high-tech screens. Sonny greets RACE STRATEGIST, PIPPA            
 N,I|               LEGUIN (24), a friendly face with glasses and bangs.                 
 O|
@@ -1612,7 +1612,7 @@ U|                         You’ve mentioned that, mum.
 O|
 S,G|       32      INT. APEX RACING MEDIA ROOM - CONTINUE MONTAGE          32           
 O|
-N,I|               REPORTERS are gathered for an intro PRESS CONFERENCE. Sonny          
+N|               REPORTERS are gathered for an intro PRESS CONFERENCE. Sonny          
 N|               and Joshua sit at a table of microphones.                            
 O|
 C|                                   WILL BUXTON                                      
@@ -1725,7 +1725,7 @@ O|
 S|       34      EXT. COUNTRY ROAD - DAWN                                34           
 O|
 N|               Silence. Morning mist hugs the green English landscape...as          
-N,I|               over a rise comes a COLUMN OF FANS, trudging with rucksacks,         
+N|               over a rise comes a COLUMN OF FANS, trudging with rucksacks,         
 N|               dressed in colors of Red Bull, Ferrari, Mercedes...                  
 O|
 N|               ...RACE SUPPORT TRUCKS approach, RUMBLING the road beside            
@@ -1737,10 +1737,10 @@ N|               SILVERSTONE, Birthplace of the Formula 1 World Championship.”
 O|
 S|       36      EXT. BACK STRAIGHT GRANDSTAND                           36           
 O|
-N,I|               The TRUCKS arrive at the paddock, as various MECHANIC TEAMS          
+N|               The TRUCKS arrive at the paddock, as various MECHANIC TEAMS          
 N|               disembark and begin the long day’s load-in...                        
 O|
-N,I|               ...while a lone figure sits atop the grandstand, in sweats,          
+N|               ...while a lone figure sits atop the grandstand, in sweats,          
 N|               shorts and sneakers. Sonny reverently takes in the scene.            
 O|
 O|
@@ -1771,7 +1771,7 @@ O|
 S|       40      EXT. SILVERSTONE RACE TRACK - DAY                       40           
 O|
 N|               ZAM-ZAM-ZAM! F1 RACE CARS fly past in a DEAFENING BARRAGE.           
-N,I|               FANS fill stands. GRAPHIC: BRITISH GRAND PRIX - SILVERSTONE.         
+N|               FANS fill stands. GRAPHIC: BRITISH GRAND PRIX - SILVERSTONE.         
 C,E|                                   TELECAST (V.O.)                                  
 U|                         Welcome to Silverstone -- the circuit                      
 U|                         where F1 began, to kick off the final                      
@@ -1782,7 +1782,7 @@ O|
 S|       41      INT. APEX RACE BAY - DAY                                41           
 O|
 N,G|               ON VIDEO SCREEN: three CARS stop at Parc Fermé posts labeled         
-N,I|               P1, P2, P3. Three legacy team DRIVERS emerge and wave...             
+N|               P1, P2, P3. Three legacy team DRIVERS emerge and wave...             
 C,E|                                   TELECAST (V.O.)                                  
 U|                         As always eleven teams will take the                       
 U|                         grid, fielding two drivers each, with                      
@@ -1792,7 +1792,7 @@ U|                         Bull will start on pole, followed by
 U|                         the two Mclarens and two Ferraris. And                     
 U|                         an interesting tale...                                     
 O|
-N,G,I|               ANGLE BACK FROM TV, to find Dodge, Jodie and Mechanics               
+N,G|               ANGLE BACK FROM TV, to find Dodge, Jodie and Mechanics               
 N|               working on Sonny’s car...while Sonny SITS INSIDE IT, in              
 N|               street clothes, practicing “finger drop” paddle starts,              
 N|               HEADPHONES on, GLOVES on.                                            
@@ -1917,12 +1917,12 @@ P|                             (frustrated)
 U|                         See, Mum.                                                  
 S|       45      EXT. STARTING GRID - AT GANTRY                          45           
 O|
-N,G,I|               ANGLE TRACKS the row of DRIVERS, all standing for “God Save          
+N,G|               ANGLE TRACKS the row of DRIVERS, all standing for “God Save          
 N|               the King.” At the end of the line, Joshua and Sonny stand            
 N|               side by side. Steely-eyed and focused, Joshua faces straight         
 N|               ahead...as JETS SOAR OVERHEAD, trailing red white and blue           
 N,M|               smoke...Ruben walks and talks with LAWRENCE STROLL. [ALT:            
-N,M|               Ruben and Banning walk and talk with LAWRENCE STROLL.]               
+M|               Ruben and Banning walk and talk with LAWRENCE STROLL.]               
 O|
 S|       45A     EXT. PIT WALL - DAY                                    45A           
 N|               Kate, Kaspar, Nickleby and Fazio take command post seats.            
@@ -1948,7 +1948,7 @@ N|               He chortles past. Joshua surveys the stands. The bastard’s
 N|               right.                                                               
 O|
 S|       46      EXT. BACK OF STARTING GRID - MOMENTS LATER              46           
-N,I|               The Apex cars are side by side (P21 and P22). GRID-PASS VIPs         
+N|               The Apex cars are side by side (P21 and P22). GRID-PASS VIPs         
 N,I|               are departing as Sonny heads over to find Ruben with PETER           
 N,I|               BANNING (38), an Oxford VC type.                                     
 O|
@@ -2014,8 +2014,8 @@ N|               for a moment. Jodie notices from her position next to the
 N|               right front tire.                                                    
 O|
 N|               Joshua puts on his balaclava, glancing at the remaining              
-N,I|               celebs and media being cleared off the grid, when a WOMAN            
-N,I|               (20s) catches his eye. Stylishly dressed, intelligent eyes,          
+N|               celebs and media being cleared off the grid, when a WOMAN            
+N|               (20s) catches his eye. Stylishly dressed, intelligent eyes,          
 N|               she corrals a group of executives towards the exit. For one          
 N|               moment, she looks his way, smiles, and then she’s gone.              
 N|               Joshua’s eyes focus back ahead.                                      
@@ -2061,7 +2061,7 @@ C|                                   NICKLEBY
 U|                         Strat 1, Sonny. Start mode enabled.                        
 O|
 S|               INT. APEX HOSPITALITY SUITE - SAME                                   
-N,I|               A luxury paddock home base for the team. VIP GUESTS watch TV:        
+N|               A luxury paddock home base for the team. VIP GUESTS watch TV:        
 N,G|               CLOSE-UP on Sonny, PUTTERING off in jerky fits and starts.           
 O|
 C,E|                                   TELECAST (V.O.)                                  
@@ -2255,7 +2255,7 @@ U|                         thinks it’s the setup. It’s not!
 O|
 C|                                   NICKLEBY                                         
 U|                         We suggest pull back on the entry.                         
-T,N|               TIME CUT TO LAP 20: Joshua is in last place, chasing the P21         
+N,T|               TIME CUT TO LAP 20: Joshua is in last place, chasing the P21         
 N|               car ahead to no avail...                                             
 O|
 C,P|                                   JOSHUA (INTO RADIO)                              
@@ -2271,7 +2271,7 @@ C|                                   JODIE
 P|                             (a mantra, to herself)                                 
 U|                         Target, engage, gun off, release.                          
 U|                         Target engage, gun on, clear--                             
-N,I|               Mechanics expertly swarm. Two JACK MEN lift the car, Jodie           
+N|               Mechanics expertly swarm. Two JACK MEN lift the car, Jodie           
 N|               and fellow WHEEL GUNNERS loosen nuts, but Jodie’s                    
 N|               malfunctions.                                                        
 O|
@@ -2553,7 +2553,7 @@ C|                                   SONNY
 U|                         We call that a participation trophy.                       
 O|
 N|               SUDDENLY-- From corridor’s end, out in the paddock,                  
-N,I|               flashbulbs.. Photographers filming them.                             
+N|               flashbulbs.. Photographers filming them.                             
 O|
 N|               Sonny turns to Joshua. An unspoken battle flashes between            
 N|               them. Joshua’s seething anger vs Sonny’s amused indifference.        
@@ -2741,7 +2741,7 @@ N|               conveyor, WHEELS spinning, while a robotic PROBE takes
 N|               measurements around it.                                              
 O|
 S|       53      INT. WIND TUNNEL CONTROL ROOM                           53           
-N,I|               Kate and two AERO ENGINEERS track airflow and drag. A KNOCK          
+N|               Kate and two AERO ENGINEERS track airflow and drag. A KNOCK          
 N|               on the door. Sonny surveys the expensive tech.                       
 O|
 C|                                   SONNY                                            
@@ -3019,7 +3019,7 @@ O|
 N,G|               Joshua SHUTS his laptop. CLOSE ON his troubled gaze...               
 O|
 S|       42 (MOVED)INT. MEETING ROOM - PADDOCK HQ - DAY          42 (MOVED)    *      
-N,I|               Twenty Apex ENGINEERS at the PRE-RACE BRIEFING, linked by     *      
+N|               Twenty Apex ENGINEERS at the PRE-RACE BRIEFING, linked by     *      
 N|               headsets, studying laptops. Joshua studies a laptop too.      *      
 O|
 C|                                   KATE                                      *      
@@ -3611,7 +3611,7 @@ U|                         forced to hold track position...
 U|                         meaning thanks to Sonny Hayes, this                        
 U|                         race will end under a safety car...                        
 O|
-N,G,I|               IN PADDOCK CLUB: VIPs erupt in astonished CHEERS, seeing             
+N,G|               IN PADDOCK CLUB: VIPs erupt in astonished CHEERS, seeing             
 N|               “Pearce - P10 - 1 point” blinking on the FINAL LEADERBOARD.          
 O|
 N|               Elated, Banning grips Ruben who shakes his head in disbelief.        
@@ -3752,10 +3752,10 @@ U,M|                         Ok...tell me about the kid.]
 O|
 S|       60A     INT. LONDON MUSIC CLUB                                 60A    *      
 N|               Joshua’s downtown dancing, celebrating the race. He sees a    *      
-N,I|               TRIO OF CLUB GIRLS talking about him, as if they’re working   *      
+N|               TRIO OF CLUB GIRLS talking about him, as if they’re working   *      
 N|               out who’ll first approach...                                  *      
 O|
-N,I|               ...but suddenly a DRUNK BRO’s in his face.                    *      
+N|               ...but suddenly a DRUNK BRO’s in his face.                    *      
 O|
 C|                                   BRO FAN                                   *      
 U|                         Hey, Apex GP! Great race yesterday!                 *      
@@ -3863,7 +3863,7 @@ S|       64      EXT. OLD MONZA BANKED TRACK                             64
 O|
 N|               Sonny runs in workout sweats and sneaker; the abandoned              
 N|               banked track now overgrown with weeds. Camera reveals a small        
-N,I|               group of MECHANICS trail behind him.                                 
+N|               group of MECHANICS trail behind him.                                 
 O|
 C|                                   SONNY                                            
 U|                         One more lap. Let’s go.                                    
@@ -3876,13 +3876,13 @@ U|                         I can’t keep up with you.
 O|
 S|       65      EXT. PADDOCK - MONZA - DAY - LATER                      65           
 O|
-N,I|               Lovely FERRARI FANS scream after two CHARLES LECLERC and             
-N,I|               CARLOS SAINZ, eager for a photo. Sonny crosses the other way,        
+N|               Lovely FERRARI FANS scream after two CHARLES LECLERC and             
+N|               CARLOS SAINZ, eager for a photo. Sonny crosses the other way,        
 N|               not in uniform yet, mostly undisturbed...until he hears:             
 C|                                    NEW APEX FAN                                    
 U|                         Señor Apex! Te quiero, Señor Apex!                         
 O|
-N,I|               A crazed Spanish fan is screaming from above, face painted           
+N|               A crazed Spanish fan is screaming from above, face painted           
 N|               black-and-gold.                                                      
 O|
 N|               Sonny gives their first fan a half-hearted wave.                     
@@ -3898,7 +3898,7 @@ O|
 C|                                   LISBETH                                          
 U,M|                         So after the pen [ALT:this] we’ve got                      
 U|                         the Sky stage, then F1 TV.                                 
-N,I|               Joshua spots the STYLISH WOMAN from Silverstone chatting to          
+N|               Joshua spots the STYLISH WOMAN from Silverstone chatting to          
 N|               her friend as she moves in the opposite direction.                   
 O|
 N|               His eyes come alive in recognition but she doesn’t see him.          
@@ -3906,7 +3906,7 @@ N|               And just as quickly, the crowd has moved on and she’s gone.
 O|
 S|       65B     INT. PRESS ROOM - DAY                                  65B    *      
 O|
-N|               Kaspar sits for his press grilling, flanked by two rival team *      
+N,I|               Kaspar sits for his press grilling, flanked by two rival team *      
 N,I|               reps, McLaren’s ZAK BROWN and Ferrari’s FRED VASSEUR.         *      
 C,E|                                   TOM CLARKSON (O.S.)                       *      
 U|                         ...Sonny’s got your team skirting                   *      
@@ -3986,7 +3986,7 @@ O|
 C,E|                                   TELECAST (V.O.)                                  
 U|                         Twenty laps down, and the pack’s been                      
 U|                         split. The leaders are pulling away,                       
-C|                         with Pearce P10.                                           
+U|                         with Pearce P10.                                           
 O|                                   (MORE)                                           
 O|
 O|
@@ -4239,7 +4239,7 @@ N|               the pits...while Joshua WOBBLES too, but stays out.
 O|
 N,G|               IN APEX SUITE: Ruben and Apex guests ERUPT to see him claim          
 N|               “P2.” Banning’s at the bar. He passes an EXPENSIFY CARD to           
-N,I|               the bartender, marveling:                                            
+N|               the bartender, marveling:                                            
 O|
 C|                                   BANNING                                          
 U|                         You want to know something                                 
@@ -4266,7 +4266,7 @@ O|
 N,G|               ON MAIN STRAIGHT: Sonny SKIDS the final turn, RECOVERS, and          
 N|               DIVERTS into pit lane!                                               
 O|
-N,G,I|               IN PIT LANE: Engineers and Mechanics scramble. Pure panic.           
+N,G|               IN PIT LANE: Engineers and Mechanics scramble. Pure panic.           
 O|
 C|                                   DODGE                                            
 U|                         What’s he doing? WHICH TIRES?!                             
@@ -4456,8 +4456,8 @@ N|               track’s edge and SNAPS FREE of his cockpit--
 N|               --sprinting to the WRECKAGE where Joshua’s trapped inside,           
 N|               obscured by FLAMES. Sonny can’t get close -- it’s too hot--          
 O|
-N,I|               --as finally TRACK MARSHALS come running with EXTINGUISHERS          
-N,I|               and a MEDICAL CAR arrives on-scene with a Track PHYSICIAN.           
+N|               --as finally TRACK MARSHALS come running with EXTINGUISHERS          
+N|               and a MEDICAL CAR arrives on-scene with a Track PHYSICIAN.           
 O|
 C|                                   SONNY                                            
 U|                         GET HIM OUT OF THERE!                                      
@@ -4480,7 +4480,7 @@ N|               clear. The Track MD descends with an oxygen mask. Joshua’s
 N|               not moving. Sonny stands helpless as SIRENS cry.                     
 O|
 S|       69      INT. MILAN HOSPITAL ROOM - DUSK                         69           
-N,I|               Joshua sleeps in a recovery bed, bandaged and bruised. NURSES        
+N|               Joshua sleeps in a recovery bed, bandaged and bruised. NURSES        
 N|               check his vitals, switch out his IV. Bernadette sits at his          
 N|               bedside, holding his hand.                                           
 O|
@@ -4539,10 +4539,10 @@ C|                                   SONNY
 U|                         Mrs. Pearce-                                               
 O|
 C|                                   BERNADETTE                                       
-U|                         [You’re team-mates. You are supposed                       
-U|                         to look out for each other. It’s                           
-U|                         just] I can’t help notice [after                           
-U|                         listening to you] my boy’s in a                            
+U,M|                         [You’re team-mates. You are supposed                       
+U,M|                         to look out for each other. It’s                           
+U,M|                         just] I can’t help notice [after                           
+U,M|                         listening to you] my boy’s in a                            
 U|                         hospital bed while you’re out here                         
 U|                         standing around.                                           
 C|                                   SONNY                                            
@@ -4573,7 +4573,7 @@ O|
 O|                                 Buff Revision - 12.15.24           79A.            
 O|
 S|       73      INT. MEDIA ROOM - PRE-DUTCH GRAND PRIX - DAY            73           
-N,G,I|               QUICK CUTS: REPORTER after REPORTER shouts questions--               
+N,G|               QUICK CUTS: REPORTER after REPORTER shouts questions--               
 O|
 O|
 O|                                 Buff Revision - 12.15.24            80.            
@@ -4693,14 +4693,14 @@ O|                                 Buff Revision - 12.15.24           81A.
 O|
 S|       77      INT. RACE STRATEGY ROOM - APEX HQ - SAME                77           
 N|               The Strategy meeting is being Internet SIMULCAST on the main         
-N,I|               RSR screen. Pippa LeGuin and analysts join the DRUMBEAT...           
+N|               RSR screen. Pippa LeGuin and analysts join the DRUMBEAT...           
 O|
 O|
 O|                                 Buff Revision - 12.15.24            82.            
 O|
 C|                                   RSR ANALYSTS                                     
 U|                         Combat! Combat! Combat!                                    
-N               ...except for Joshua, sitting in, at an analyst’s desk in the        
+N|               ...except for Joshua, sitting in, at an analyst’s desk in the        
 N|               back row.  His hand still bandaged, he’s unable to join in.          
 O|
 S,G|       78      EXT. DUTCH GRAND PRIX - DAY - BEGIN RACE 4 TO 6 MONTAGE 78           
@@ -4881,18 +4881,18 @@ O|
 O|                                 Buff Revision - 12.15.24            85.            
 O|
 S|       81D     EXT. PARADE BUS                                        81D           
-N,I|               Drivers wave to fans as they’re driven around the track. For         
+N|               Drivers wave to fans as they’re driven around the track. For         
 N|               ApxGP, Sonny drives while Luca Cortez waves to the fans.             
 O|
 S,G|       82      INT. GARAGE - MEXICO CITY - CONTINUE MONTAGE            82           
 O|
-N,I|               A TEAM ENGINEER tests fuel in the Aramco fuel analyzer.              
+N|               A TEAM ENGINEER tests fuel in the Aramco fuel analyzer.              
 O|
 N|               Sonny preps and gets into the car.                                   
 O|
 S|       83      EXT. MEXICO CITY GRAND PRIX - DAY                       83           
 O|
-N,I|               A wild ROAR from a CLUSTER of newfound Apex fans, faces              
+N|               A wild ROAR from a CLUSTER of newfound Apex fans, faces              
 N|               painted black-and-gold, waving flags.                                
 N|               VROOM! Twenty cars BLAST BY, charging off the grid. GRAPHIC:         
 N|               MEXICO CITY GRAND PRIX. Sonny’s #7 is in a scrum--                   
@@ -5008,8 +5008,8 @@ C,E|                                   TELECAST (V.O.)
 U|                         And if Joshua Pearce is watching, he                       
 U|                         must be thinking “What might’ve been.”                     
 O|
-N,I|               Sonny spots a small cluster of FANS in black-and-gold, gives         
-N,I|               a weary wave, as Mechanics converge to congratulate...               
+N|               Sonny spots a small cluster of FANS in black-and-gold, gives         
+N|               a weary wave, as Mechanics converge to congratulate...               
 O|
 N,G|               IN APEX SUITE: Ruben watches the fans celebrate, bittersweet: *      
 O|
@@ -5513,7 +5513,7 @@ O|
 N|               Joshua gets up, extends a handshake. Sonny takes it.                 
 O|
 N|               Joshua exits the restaurant with a spring in his step --             
-N,I|               posing for pictures with young FANGIRLS at the door...               
+N|               posing for pictures with young FANGIRLS at the door...               
 O|
 N|               Kate and Sonny, now alone. Kate looks at Sonny. She holds the        
 N|               look. He seems unsure. Until, eyes flare.                            
@@ -5533,7 +5533,7 @@ N|               A loaded beat...and Sonny smiles.
 O|
 S|       97      INT. HOTEL ELEVATOR - LAS VEGAS - NIGHT                 97           
 O|
-N,I|               As GUESTS depart, Sonny and Kate stumble-crash in, her lips          
+N|               As GUESTS depart, Sonny and Kate stumble-crash in, her lips          
 N|               meeting his. He hits buttons.                                        
 C|                                   SONNY                                            
 U|                         Y’know, I say it all the time. The                         
@@ -5546,8 +5546,8 @@ O|
 S|       98      INT. OMNIA NIGHTCLUB - NIGHT                            98           
 O|
 N|               Dancing bodies, pulsing music. Joshua sits in a VIP booth,           
-N,I|               with a few other drivers, overlooking the dance floor crowd.         
-N,I|               A FUN-LOVING WOMAN (27) in the booth next to him, leans in           
+N|               with a few other drivers, overlooking the dance floor crowd.         
+N|               A FUN-LOVING WOMAN (27) in the booth next to him, leans in           
 N|               close:                                                               
 O|
 C|                                   WOMAN                                            
@@ -5588,7 +5588,7 @@ O|
 C|                                   CASH                                             
 U|                         What? You just got here.                                   
 N|               But Joshua’s eye is caught elsewhere. It’s the STYLISH WOMAN         
-N,I|               with a group of friends on the dance floor. He beelines              
+N|               with a group of friends on the dance floor. He beelines              
 N|               towards her.                                                         
 O|
 C,E|                                   CASH (CONT’D)                                    
@@ -5641,16 +5641,16 @@ N,G|               Over darkness, the distant sound of a screaming V-12 engine,
 N|               it gets closer...                                                    
 N,T,G|               SMASH CUT to a first person POV in the cockpit of a 1990             
 N|               Lotus-Lamborghini ripping down a straight at over 200mph.            
-N,G,I|               The camera shakes violently as the driver wrestles with the          
+N,G|               The camera shakes violently as the driver wrestles with the          
 N|               steering wheel, chasing down a red and white McLaren ahead.          
 O|
-T,G|               BLACK.                                                               
+G|               BLACK.                                                               
 O|
 N,G,T|               SMASH CUT to the POV as the car enters a sharp curve. The            
 N|               tires screaming as they lose grip, hurtling us towards a             
 N|               metal guardrail.                                                     
 O|
-T,G|               BLACK.                                                               
+G|               BLACK.                                                               
 N,G,T|               ANOTHER SMASH CUT as the POV explodes out of the car like a          
 N|               piece of shrapnel, legs and arms flail at the spinning world         
 N|               before settling at a canted angle on the asphalt, an ankle           
@@ -5796,9 +5796,9 @@ U|                         They’re coming for our car.
 O|
 S|       103     EXT. APEX RACE BAY - LAS VEGAS - DAY                   103           
 O|
-N,I|               FIA SCRUTINEERS surround the car for forensic checks in the          
+N|               FIA SCRUTINEERS surround the car for forensic checks in the          
 N|               now-cordoned-off garage. On pit lane, Mechanics fret. Sonny,         
-N,I|               Joshua, Kate, Ruben and Kaspar confront an FIA RACE DIRECTOR.        
+N|               Joshua, Kate, Ruben and Kaspar confront an FIA RACE DIRECTOR.        
 C|                                   RACE DIRECTOR                                    
 U|                         We’ve received an anonymous tip that                       
 U|                         your upgrade floor’s in violation--                        
@@ -5910,7 +5910,7 @@ N|               the final turn as he takes his P5 slot, only four cars back
 N|               of pole. He sees Joshua arrive in his mirrors, at a diagonal -       
 N|               - P6.                                                                
 O|
-T,G,I|               INTERCUT PIT WALL/BOTH CARS: Engineers watch take shape...           
+N,T|               INTERCUT PIT WALL/BOTH CARS: Engineers watch take shape...           
 O|
 C,P|                                   KASPAR (INTO RADIO)                              
 U|                         P5 and 6, we’re in solid position.                         
@@ -6103,8 +6103,8 @@ U|                         They really lead with the good news,
 U|                         don’t they.                                                
 C|                                   RUBEN                                            
 U|                         That’s the report from THIRTY YEARS                        
-U|                         AGO. Why didn’t you tell me? [You                   *      
-U|                         should never have raced again.] How do              *      
+U,M|                         AGO. Why didn’t you tell me? [You                   *      
+U,M|                         should never have raced again.] How do              *      
 U|                         you think I would feel if you die on                       
 U|                         that track...knowing I’d killed my                         
 U|                         brother.                                                   
@@ -6299,7 +6299,7 @@ N,G|               AERIAL over Abu Dhabi... GRAPHIC: ABU DHABI GRAND PRIX.
 O|
 S|       110     EXT. YAS MARINA CIRCUIT - MORNING                      110           
 O|
-N,I|               An epic track course fills with FANS. Teams prepare garages.         
+N|               An epic track course fills with FANS. Teams prepare garages.         
 O|
 C,E|                                   TELECAST (V.O.)                                  
 U|                         Race day for the 15th Abu Dhabi Grand                      
@@ -6310,7 +6310,7 @@ U|                         younger drivers to prove they deserve
 U|                         a seat next season, and in the case of                     
 U|                         Apex GP, if you believe the rumors,                        
 U|                         one final ride.                                            
-N,I|               In the stands, a wave of black-and-gold FANS arrive...               
+N|               In the stands, a wave of black-and-gold FANS arrive...               
 O|
 C,E|                                   TELEPARTNER (V.O.)                               
 U|                         ...although I have to say, all year,                       
@@ -6390,7 +6390,7 @@ O|
 S|       113     INT. PADDOCK CLUB - ABU DHABI - DAY                    113           
 O|
 N,I|               Banning leads NINA BEHRENDT (50s), SATYA BANGA (40s) and a    *      
-N,I|               group of CORPORATE EXECS on a tour.                                  
+N|               group of CORPORATE EXECS on a tour.                                  
 O|
 C|                                   BANNING                                          
 U|                         ...and this is the Paddock Club, for                       
@@ -6426,8 +6426,8 @@ O|
 C|                                   SATYA                                     *      
 U|                         What’s that lot doing?                                     
 O|
-N,I|               Banning comes over. They’re watching the Apex Mechanics              
-N,I|               jogging Main Straight as a group...led by Joshua. Apex fans          
+N|               Banning comes over. They’re watching the Apex Mechanics              
+N|               jogging Main Straight as a group...led by Joshua. Apex fans          
 N|               CHEER as they pass.                                                  
 O|
 C,E|                                   SATYA (CONT’D)                            *      
@@ -6437,7 +6437,7 @@ U|                         Yes. Yes it is.
 O|
 S|       117     EXT. TRACK - FIRST SECTOR - DAY                        117           
 O|
-N,I|               Joshua leads the team from a chicane...to see a FIGURE in            
+N|               Joshua leads the team from a chicane...to see a FIGURE in            
 N|               street clothes walking their way, on track, with a gear bag          
 N|               and helmet. They all stop jogging...like it’s some mirage.           
 O|
@@ -6550,7 +6550,7 @@ U,M|                         [ALT: What card?]                                  
 O|
 S|       121     INT. APEX RACE BAY - DAY                               121    *      
 O|
-N,I|               Engines HUMMING. Fans CHEERING in anticipation. Sonny drops          
+N|               Engines HUMMING. Fans CHEERING in anticipation. Sonny drops          
 N|               into his cockpit, wincing as he settles in. Joshua drops into        
 N|               his own, making last checks. Mechanics start to disperse--           
 N|               --as Sonny looks to pit lane, sees Kate at pit wall. A wary          
@@ -6619,7 +6619,7 @@ U|                         And here’s Sonny Hayes, ooh, a bit
 U|                         worse for wear. Sonny, I know we’ve                        
 U|                         had our differences, but it’s your                         
 U|                         final F1 race. Anything, thoughts?                  *      
-N,I|               Sonny motions to an Apex crew member and walks towards his           
+N|               Sonny motions to an Apex crew member and walks towards his           
 N|               car. The crew member hands Don an envelope. Don opens it to          
 N|               reveal 10 grand in cash.                                             
 O|
@@ -6725,7 +6725,7 @@ U|                         Gained places. We’re alive.
 O|
 S,T|       129     INT. RACE BAY - TIME CUT - SUNSET - LAP 11             129           
 O|
-N,I|               Mechanics watch LEADERBOARD shift, Apex cars on the hunt:            
+N|               Mechanics watch LEADERBOARD shift, Apex cars on the hunt:            
 N|               JOSHUA P7, SONNY P14...                                              
 O|
 C,E|                                   TELEPARTNER (V.O.)                               
@@ -6759,21 +6759,21 @@ O|
 O|
 O|                                 Buff Revision - 12.15.24           117.            
 O|
-N,G,I|               ON TRACK: --and as he rounds TURN 9, MAGNUSSEN’S HAAS follows        
+N,G|               ON TRACK: --and as he rounds TURN 9, MAGNUSSEN’S HAAS follows        
 N|               very close and dives late into TURN 11 on the inside. SONNY          
 N|               moves to block and MAGNUSSEN clips his right rear wheel. The         
 N|               Haas’s whole left front wing SPLINTERS, scattering carbon            
 N|               DEBRIS across the entire track -- YELLOW FLAGS blink on --           
 N|               just as he comes into view of the pit lane entry:                    
 C,P|                                   SONNY (INTO RADIO)                               
-N|                         Puncture, puncture! New softs!                             
+U|                         Puncture, puncture! New softs!                             
 O|
 N,G|               IN PIT LANE: Mechanics rush to position. Jodie fine-tunes:           
 O|
 C|                                   JODIE                                            
 U|                         Ben, you’re off your mark. Nate, get                       
-U|                         higher with that jack! [ALT: Slow is                       
-U|                         smooth, smooth is fast.] Here we go,                       
+U,M|                         higher with that jack! [ALT: Slow is                       
+U,M|                         smooth, smooth is fast.] Here we go,                       
 U|                         boys! It’s our day!                                        
 N|               Perfect stop. Sonny REVS from the pits, back into action...          
 O|
@@ -6890,7 +6890,7 @@ U|                         eight! He needs to pick up half a
 U|                         second!                                                    
 N,G|               IN SONNY'S CAR: He sees the Ferrari leaving pit lane ahead--         
 O|
-C|                                   NICKLEBY (RADIO)                                 
+C,E|                                   NICKLEBY (RADIO)                                 
 U|                         Push, Sonny, give it everything!                           
 O|
 N,G|               ON TRACK: Sonny pushes harder, even with the ACCELERATING            
@@ -6898,7 +6898,7 @@ N|               Ferrari as it exits pit lane -- and he edges just ahead at
 N|               Turn Three--forcing it to GO WIDE -- the Ferrari comes back          
 N|               on track aggressively right behind Sonny and dives to inside         
 N|               into Turn 5 -- he locks up and goes deep damaging a SMOKING          
-C|               tire--                                                               
+N|               tire--                                                               
 C,E|                                   TELECAST (V.O.)                                  
 U|                         Hayes negates Ferrari’s fresh tire                         
 U|                         advantage with a perfectly timed fight                     
@@ -6971,7 +6971,7 @@ N|               The Mercedes and Red Bull overtake and drop him to P3...
 C,P|                                   JOSHUA (INTO RADIO)                              
 U|                         Sorry, guys. Got nothing left...                           
 O|
-N,G,I|               IN PADDOCK CLUB: Most Apex guests MOAN to see Joshua fall            
+N,G|               IN PADDOCK CLUB: Most Apex guests MOAN to see Joshua fall            
 N|               back, but not Banning, who sighs with secret relief...               
 O|
 C,E|                                   TELECAST (V.O.)                                  
@@ -7048,7 +7048,7 @@ U|                         Contact in Turn Two! Disaster!
 N|               Sonny spins and his car smashes into the barrier SHATTERING          
 N|               THE REAR WING, sending shrapnel across the track--                   
 O|
-N,G,I|               IN PADDOCK CLUB: Fans GASP. Banning bolts up, arms raised--          
+N,G|               IN PADDOCK CLUB: Fans GASP. Banning bolts up, arms raised--          
 O|
 C|                                   BANNING                                          
 U|                         YES!                                                       
@@ -7117,7 +7117,7 @@ U|                         fast lane and switch off. We’re
 U|                         still alive!                                               
 O|
 N,G|               IN PIT LANE: Dodge and Mechanics race out. A flurry of               
-N,I|               activity up and down pit lane as all crews CHARGE OUT:               
+N|               activity up and down pit lane as all crews CHARGE OUT:               
 C,E|                                   TELECAST (V.O.)                                  
 U|                         Red Flag rules: during a stoppage                          
 U|                         like this, teams can make repairs,                         
@@ -7160,9 +7160,9 @@ O|                                 Buff Revision - 12.15.24           124.
 O|
 C,E|                                   TELECAST (V.O.)                                  
 U|                         Well he’ll be disqualified if he did.                      
-N,G,I|               IN PIT LANE: As Mechanics swarm,                              *      
+N,G|               IN PIT LANE: As Mechanics swarm,                              *      
 O|
-N,I|               Kaspar sees a mechanic struggle to get the rear jack under    *      
+N|               Kaspar sees a mechanic struggle to get the rear jack under    *      
 N|               the damaged car, he abandons his headset and runs to the      *      
 N|               car...                                                        *      
 O|
@@ -7184,18 +7184,18 @@ N|               nervously, admiring him from above. She blows him a kiss --   *
 N|               Kaspar smiles broadly.                                        *      
 N|               Sonny speaks to Kate on the radio--                           *      
 O|
-C|                                   SONNY (INTO RADIO)                        *      
+C,P|                                   SONNY (INTO RADIO)                        *      
 U|                         I didn’t do it! Not this time!                             
 O|
-C|                                   KATE (OVER RADIO)                         *      
+C,E|                                   KATE (OVER RADIO)                         *      
 U|                         “Not this time.” Tell that to the                          
 U|                         stewards...                                                
 O|
-N,I|               A mechanic goes to help Sonny out of the car, but he shakes   *      
+N|               A mechanic goes to help Sonny out of the car, but he shakes   *      
 N|               his head: he’s going to stay in.                              *      
 O|
-N,I|               Sir Lewis Hamilton paces nearby, watching the car being       *      
-O|               fixed.                                                        *      
+N|               Sir Lewis Hamilton paces nearby, watching the car being       *      
+N|               fixed.                                                        *      
 N|               Joshua goes up to Sonny.                                      *      
 O|
 C|                                   JOSHUA                                    *      
@@ -7289,7 +7289,7 @@ O|
 N|               Kaspar is flat to the asphalt, grease-spattered, wrench in           
 N|               hand, as his crew re-assembles the car’s rear around him.     *      
 O|
-N,I|               New SOFT TIRES go on Joshua’s car. As other DRIVERS climb            
+N|               New SOFT TIRES go on Joshua’s car. As other DRIVERS climb            
 N|               into their cars, Sonny--                                      *      
 O|                                                                             *      
 O|
@@ -7361,7 +7361,7 @@ U|                         Stewards have made their decision:
 U|                         the Lap 55 collision between Hayes                         
 U|                         and Russell is ruled a racing                              
 U|                         incident. No further investigation.                        
-N,I|               The VIPs cheer. Banning’s look turns sour.                           
+N|               The VIPs cheer. Banning’s look turns sour.                           
 O|
 G|               IN SONNY’S CAR:                                                      
 O|
@@ -7481,7 +7481,7 @@ N|               Sonny right behind. Mere centimeters apart, with precision
 N|               speed.                                                               
 O|
 N,G|               IN RACE BAY: Bernadette’s clutching Ruben now, a bundle of           
-N,I|               nerves. Mechanics jump and yell, urging them on--                    
+N|               nerves. Mechanics jump and yell, urging them on--                    
 O|
 C|                                   RUBEN                                            
 U|                         Two more laps...                                           
@@ -7679,7 +7679,7 @@ O|
 C,E|                                   NICKLEBY (OVER RADIO)                            
 U|                         P-ONE! P-ONE!!!                                            
 O|
-N,I|               ON THIRD SECTOR: Joshua sees a section of black-and-gold fans        
+N|               ON THIRD SECTOR: Joshua sees a section of black-and-gold fans        
 N|               erupt in a ROAR -- and thrusts his arms skyward.                     
 N,G|               IN SONNY’S CAR: Sonny takes it all in, overcome. A profound          
 N|               sense of peace...as cannons lining the finish shoot VICTORY          
@@ -7696,7 +7696,7 @@ U|                         years for Ruben, right? Guess we’ll
 U|                         check back about that deal.                                
 P|                             (drops the smile)                                      
 U|                         Presuming you’re still on the Board.                       
-N,I|               They depart. Banning stares at fireworks. A SERVER offers him        
+N|               They depart. Banning stares at fireworks. A SERVER offers him        
 N|               a champagne flute.                                                   
 O|
 S|       141     EXT. WINNER’S AREA - NIGHT - MOMENTS LATER             141           
@@ -7726,7 +7726,7 @@ C|                                   SONNY
 U|                         Yeah we did.                                               
 S|       142     EXT. PODIUM PLATFORM - LATER - NIGHT                   142           
 O|
-N,I|               Grandstand full of FANS, winning TEAMS on pit lane, as               
+N|               Grandstand full of FANS, winning TEAMS on pit lane, as               
 N|               Sonny’s PROMO VIDEO appears on the GIANT PODIUM SCREEN...            
 O|
 C,E|                                   TRACK ANNOUNCER (O.S.)                           
@@ -7735,7 +7735,7 @@ U|                         Grand Prix, from Apex GP...Sonny
 U|                         Hayes!                                                     
 O|
 N|               Crowd ROARS as Sonny takes the top step of the podium. A             
-N,I|               PRESENTER removes the Trophy from a Louis Vuitton case and           
+N|               PRESENTER removes the Trophy from a Louis Vuitton case and           
 N|               offers Sonny his Trophy, but he declines...                          
 C|                                   TROPHY PRESENTER                                 
 U|                         You have to take it. Please take it.                       
@@ -7759,8 +7759,8 @@ U,M|                         [ALT: I love the way you...Never                   
 U,M|                         change!]                                            *      
 O|
 N|               Ruben hugs him, buoyant.                                             
-N,I|               Joshua continues walking and gets a pat on the back from TOTO        
-N,I|               WOLFF.                                                               
+N|               Joshua continues walking and gets a pat on the back from TOTO        
+N|               WOLFF.                                                               
 O|
 C|                                   TOTO WOLFF                                       
 U|                         Hey Joshua, if you’re ever looking                         
@@ -7888,7 +7888,7 @@ O|
 S|       147     INT. AIRPORT VAN - NIGHT                               147           
 O|
 N|               Alone, Sonny pulls the playing card from his pocket. For the         
-N|               first time ever, he turns it over, but we don’t see what it          
+N,G|               first time ever, he turns it over, but we don’t see what it          
 N|               is. He muses, then puts it back in his pocket. Keeps it              
 N|               there.                                                               
 O|
@@ -7896,7 +7896,7 @@ S|       148     EXT. ABU DHABI AIRPORT RESTAURANT - NIGHT              148
 N,G|               AIRPLANES taxiing on the runway...as ANGLE FINDS Sonny               
 N|               through the window at a booth in street clothes, with his            
 N|               gear-bag, unfolding a map like he did months ago...as a              
-N,I|               WAITRESS arrives with an ice cream sundae. She sets it down          
+N|               WAITRESS arrives with an ice cream sundae. She sets it down          
 N|               at his table...with a napkin and spoon.                              
 O|
 N|               He regards for a long, satisfied moment. Then tucks into his         
@@ -7917,8 +7917,8 @@ N|               Two custom off-road CLASS 1 BUGGIES go hurtling over dunes on
 N|               a makeshift loop course. A ramshackle garage has been built,         
 N|               labeled “Cruzado & Sons Baja Racing.”                                
 O|
-N,I|               Three Mexican MECHANICS surround a third Buggy: an OLD-TIMER         
-N,I|               (70), his SON (40) and a GRANDSON (16). The three generations        
+N|               Three Mexican MECHANICS surround a third Buggy: an OLD-TIMER         
+N|               (70), his SON (40) and a GRANDSON (16). The three generations        
 N|               gather, seeing Sonny emerge...                                       
 C|                                   SONNY                                            
 U|                         I hear you’re looking for a driver.                        

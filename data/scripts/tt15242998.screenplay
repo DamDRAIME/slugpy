@@ -462,7 +462,7 @@ O|
 N|               The screen clicks into an image of Outie Mark.                       
 O|
 C|                                   OUTIE MARK                                       
-P|                             (on-camera)                                            
+E|                             (on-camera)                                            
 U|                         Hey. I’m... Well, I guess you know                         
 U|                         who I am.                                                  
 O|
@@ -470,7 +470,7 @@ N|               Innie Mark stares in bewilderment. He gets as close to the
 N|               screen as he can, examining his Outie’s face. It’s a strange,        
 N|               surreal feeling.                                                     
 C,E|                                   OUTIE MARK (CONT'D)                              
-P|                             (on-camera)                                            
+E|                             (on-camera)                                            
 U|                         I think you’ve spoken with Devon                           
 U|                         and Mrs. Sel-- Ms. Cobel. So you                           
 U|                         know what it is we’re asking.                              
@@ -478,7 +478,7 @@ O|
 N|               A beat.                                                              
 O|
 C,E|                                   OUTIE MARK (CONT'D)                              
-P|                             (on-camera)                                            
+E|                             (on-camera)                                            
 U|                         But the first thing I need to say                          
 U|                         to you is I’m sorry.                                       
 O|
@@ -519,7 +519,7 @@ U|                         get an apology. So-- thank you.
 O|
 N|               He laughs a little, shakes his head. Outie Mark smiles.              
 O|
-C|                                   INNIE MARK (CONT'D)                              
+C,E|                                   INNIE MARK (CONT'D)                              
 U|                         Nightmare is the wrong word,                               
 U|                         though. It is horrific down there--                        
 U|                         but we’ve found ways to make it                            
@@ -574,10 +574,10 @@ C|                                   INNIE MARK
 U|                         Or is it a top/bottom situation?                           
 U|                         I’m honestly trying to understand.                         
 O|
-N,T,G|               We begin a time-jump INTERCUT between Innie and Outie without        
-N,G|               seeing transitions - sometimes seeing only the screen,               
-N|               sometimes seeing them listening or recording, the visual pace        
-N|               accelerating with the acceleration of the dialogue.                  
+M,T,G|               We begin a time-jump INTERCUT between Innie and Outie without        
+M,G|               seeing transitions - sometimes seeing only the screen,               
+M|               sometimes seeing them listening or recording, the visual pace        
+M|               accelerating with the acceleration of the dialogue.                  
 C|                                   OUTIE MARK                                       
 U|                         No, no one would be on bottom--                            
 U|                         We’d be both of us. One person,                            
@@ -933,12 +933,12 @@ N|               It now depicts Mark himself, seated at an MDR console, one
 N|               hand on his keyboard and the other raised, his eyes closed in        
 N|               religious ecstasy. But he is not at the MDR office, but the          
 N|               pool of WOE’S HOLLOW. Wading in the water behind him is EVERY        
-N,I|               PERSON INNIE MARK HAS EVER MET: Helly, Irving and Dylan,             
-N,I|               along with all past members of MDR since Mark was hired,             
-N,I|               including Petey and Carol D. Optics & Design, Mammalians             
-N,I|               Nurturable, the Shadows, all four Tempers, Cobel, Milchick,          
-N,I|               Miss Huang, Miss Casey, Devon, Ricken, Eleanor, Rebeck,              
-N,I|               Patton, Danise, Balf-- even the dead creature from the creek         
+N|               PERSON INNIE MARK HAS EVER MET: Helly, Irving and Dylan,             
+N|               along with all past members of MDR since Mark was hired,             
+N|               including Petey and Carol D. Optics & Design, Mammalians             
+N|               Nurturable, the Shadows, all four Tempers, Cobel, Milchick,          
+N|               Miss Huang, Miss Casey, Devon, Ricken, Eleanor, Rebeck,              
+N|               Patton, Danise, Balf-- even the dead creature from the creek         
 N|               stands with the others. And on the cliff behind them stand           
 N,I|               the Lumon CEO’s, past, present and future, including Kier,           
 N,I|               Jame-- and Helena. An “oh fuck” expression on Mark’s face.           
@@ -1178,7 +1178,7 @@ U|                         Dear Innie. I’ve read your request
 U|                         and organized my response into                             
 U|                         three points. Point one: Fuck you.                         
 O|
-O|               Whoa. He keeps reading--                                             
+N|               Whoa. He keeps reading--                                             
 O|
 C,E|                                   OUTIE DYLAN (V.O.)                               
 U|                         Gretchen is my wife and my beloved,                        
@@ -1263,7 +1263,7 @@ O|
 N|               --Gemma is seated at her vanity. She blinks ever so slightly.        
 N|               She now wears her actual clothes from the outside--                  
 N|               specifically the outfit she wore the night she disappeared,          
-N,T|               the last time she saw Mark in 207. Off her, we RETURN TO:            
+N,M,G,T|               the last time she saw Mark in 207. Off her, we RETURN TO:            
 O|
 S|       35      INT. LUMON - SEVERED FLOOR - MACRODATA REFINEMENT - DAY 35           
 O|
@@ -1387,8 +1387,8 @@ U|                         Lady and gentleman of MDR, may I
 U|                         introduce-- Choreography and                               
 U|                         Merriment!!                                                
 O|
-N,I|               The percussion intro blossoms into a full song as a MARCHING         
-N,I|               BAND enters through both doorways of MDR, playing an upbeat          
+N|               The percussion intro blossoms into a full song as a MARCHING         
+N|               BAND enters through both doorways of MDR, playing an upbeat          
 N|               rendition of the KIER HYMN. Mark and Helly stare, shocked.           
 O|
 N|               Milchick pulls the Kier statue back to the wall, smiling, as         
@@ -1467,7 +1467,7 @@ O|              COLD HARBOR - Ep. 210 - Double Blue Pages - 02/12/24 26.
 O|       40    CONTINUED:                                   40         
 O|
 N|               He follows her, weaving between band members, but she’s              
-N,I|               moving faster than him. He almost collides with a FLAUTIST,          
+N|               moving faster than him. He almost collides with a FLAUTIST,          
 N|               briefly losing track of Helly.                                       
 N|               He does not notice as Mark gets up from the tri-desk, moving         
 N|               along with the band members toward the exit in the opposite          
@@ -1808,7 +1808,7 @@ C|                                   MARK
 U|                         WAIT!                                                      
 O|
 N|               She looks up to Mark.                                                
-N|               Off a quick shot of Mark searching Drummond’s pockets-- and          
+N,G|               Off a quick shot of Mark searching Drummond’s pockets-- and          
 N|               producing his key card--                                             
 O|
 S|       AA52    INT. LUMON - TESTING FLOOR - COLD HARBOR ROOM - DAY   AA52           
@@ -1824,7 +1824,7 @@ S|       AB52    INT. LUMON - EXECUTIVE VIEWING SUITE - SAME TIME      AB52
 O|
 N|               Jame leans toward the screen, clocking the pause.                    
 O|
-N,G|               BACK TO Gemma, resuming the work.                                    
+N,T|               BACK TO Gemma, resuming the work.                                    
 O|
 D|       A52-52  OMITTED - B52 MOVED TO B74                          A52-52           
 O|
@@ -2111,7 +2111,7 @@ O|
 D|       66      OMITTED                                                 66           
 O|
 D|       67      OMITTED - MOVED TO B52                                  67           
-T|       68      OMITTED - MOVED TO A52                                  68           
+D|       68      OMITTED - MOVED TO A52                                  68           
 O|
 S|       69      INT. LUMON - TESTING FLOOR - COLD HARBOR ROOM - DAY     69           
 O|
@@ -2128,7 +2128,7 @@ N|               takes a breath and steps through to--
 O|
 S|       70      INT. LUMON - TESTING FLOOR - HALLWAY - CONTINUOUS       70           
 O|
-S|               Gemma TRANSITIONS into her Outie form--                              
+N|               Gemma TRANSITIONS into her Outie form--                              
 O|
 N|               She stops, her eyes still locked with Mark’s. But her                
 N|               expression begins to change to one of shocked recognition.           

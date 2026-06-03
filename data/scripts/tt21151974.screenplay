@@ -22,8 +22,8 @@ O|               SUC - Ep. 403 - FINAL - 03/03/23  1.
 O|
 S|        1      INT./EXT. ROMAN’S CAR. DAY. (D1)                           1         
 O|
-N,A|               Friday afternoon. ROMAN is in his wedding gear. His phone            
-N,A|               goes.                                                                
+N|               Friday afternoon. ROMAN is in his wedding gear. His phone            
+N|               goes.                                                                
 O|
 C|                                   ROMAN                                            
 U|                         Oh, hey Pop?                                               
@@ -66,7 +66,7 @@ U|                         minute. If I get one.
 O|
 N|               He probably won’t.                                                   
 O|
-C|                                   LOGAN (CONT’D)                                   
+C,E|                                   LOGAN (CONT’D)                                   
 U|                         Send him my best. Then you could be                        
 U|                         over in twenty?                                            
 O|
@@ -187,11 +187,11 @@ S|        3      EXT. DOCK. DAY. (D1)                                       3
 O|
 N|               A yacht is ready for a wedding party. Dockside, last                 
 N,I|               preparations are being made. BETH (party planner) and JULIE          
-N,I,A|               (party planner assistant) converse.                                  
+N,I|               (party planner assistant) converse.                                  
 O|
 N|               The boat is all ready for a party. But a bit of election             
 N|               razzamatazz has been added, some reds, whites and blues,             
-N,A|               bunting, maybe a jazz band on the dockside.                          
+N|               bunting, maybe a jazz band on the dockside.                          
 O|
 N,T|               Not such a great day ahead now as we CUT TO:                         
 O|
@@ -199,16 +199,16 @@ M|               TITLES
 O|
 S|        4      EXT. DOCK - ARRIVALS. DAY. (D1)                            4         
 O|
-N,I|               GUESTS are arriving. A mixture: Connor’s friends from New            
-N,I|               York and New Mexico; a smattering of celebrities; wealthy            
-N,I|               pals; folks the PR team invited to try to get the press              
-N,T|               INTERested; friends from Willa’s home city, friends of her           
-N,I|               Mom and Dad, Willa’s New York friends - theater friends and          
-N,I|               actors.                                                              
+N|               GUESTS are arriving. A mixture: Connor’s friends from New            
+N|               York and New Mexico; a smattering of celebrities; wealthy            
+N|               pals; folks the PR team invited to try to get the press              
+N|               INTERested; friends from Willa’s home city, friends of her           
+N|               Mom and Dad, Willa’s New York friends - theater friends and          
+N|               actors.                                                              
 O|
-N,I|               There is also a a little gang of ‘embedded‘ friendly                 
-N,I|               JOURNALISTS and PHOTOGRAPHERS being corralled by a small             
-N,I|               political communications team.                                       
+N|               There is also a a little gang of ‘embedded‘ friendly                 
+N|               JOURNALISTS and PHOTOGRAPHERS being corralled by a small             
+N|               political communications team.                                       
 N|               GREG, on his phone, is surveying the scene -                         
 O|
 C|                                   GREG                                             
@@ -314,7 +314,7 @@ O|
 C|                                   WILLA                                            
 U|                         I’ll go, I’m going!                                        
 O|
-N,I|               Willa moves off to talk to theater friends.                          
+N|               Willa moves off to talk to theater friends.                          
 O|
 C|                                   SYLVIA                                           
 U|                         It’s all so lovely Connor!                                 
@@ -474,7 +474,7 @@ S|        7      INT. WAYSTAR JET. DAY. (D1)                                7
 O|
 N|               On the plane, KARL and FRANK say hello.                              
 O|
-N,A|               Tom makes a call.                                                    
+N|               Tom makes a call.                                                    
 O|
 S|        8      EXT. DOCK - WEDDING TENTS. DAY. (D1)                       8         
 O|
@@ -500,7 +500,7 @@ U|                         I’m fine Shiv.
 P|                             (then)                                                 
 U|                         Let’s just enjoy the freak show.                           
 O|
-N,A|               Roman’s PHONE goes. He angles away as Shiv moves off.                
+N|               Roman’s PHONE goes. He angles away as Shiv moves off.                
 O|
 C,E|                                   TOM (O.S.)                                       
 U|                         Hey, you done it?                                          
@@ -516,7 +516,7 @@ T|               INTERCUT:
 O|
 S|        9      INT. WAYSTAR JET. DAY. (D1)                                9         
 O|
-N,A|               Tom on the phone as people settle for take-off.                      
+N|               Tom on the phone as people settle for take-off.                      
 O|
 C|                                   TOM                                              
 U|                         Your dad wants to know, have you                           
@@ -648,7 +648,7 @@ U|                         gold, and it’s all good and maybe
 U|                         we can talk him down but yeah as an                        
 U|                         early warning and I didn’t intend                          
 U|                         to get into this - but yeah.                               
-N,A|               He makes a ‘you’re getting killed’ noise.                            
+N|               He makes a ‘you’re getting killed’ noise.                            
 O|
 C|                                   GERRI                                            
 U|                         Why?                                                       
@@ -745,7 +745,7 @@ U|                         I’m good.
 O|
 N|               He looks at her.                                                     
 O|
-N,A|               Maybe a STEAM WHISTLE blows to summon people aboard, and an          
+N|               Maybe a STEAM WHISTLE blows to summon people aboard, and an          
 N|               announcement is made.                                                
 O|
 C|                                   BETH                                             
@@ -763,8 +763,8 @@ N|               itself after the moment of surprise.
 N|               He watches her walk off - up onto the boat, where Willa is           
 N|               ready to welcome people.                                             
 O|
-N,I|               By her side, Connor is distracted talking to a CATERING              
-N,I|               PERSON and Beth.                                                     
+N|               By her side, Connor is distracted talking to a CATERING              
+N|               PERSON and Beth.                                                     
 O|
 C|                                   CONNOR                                           
 U|                         I am saying we can have it for                             
@@ -773,7 +773,7 @@ U|                         it served, okay? I don’t want to see
 U|                         the internal - qualities! Thank you!                       
 O|
 N|               Connor moves away - up stairs to discuss further.                    
-N,G,I|               We see some wedding guests getting greeted - heading onto the        
+N,G|               We see some wedding guests getting greeted - heading onto the        
 N|               ship. Greg, Shiv amongst the first to go up. A little time           
 N|               passes.                                                              
 O|
@@ -820,14 +820,14 @@ N|               They head aboard.
 O|
 S|        10     INT. WEDDING YACHT. DAY. (D1)                             10         
 O|
-N,I|               Kendall and Roman greet Willa - welcoming the first guests           
+N|               Kendall and Roman greet Willa - welcoming the first guests           
 N|               aboard.                                                              
 O|
 C|                                   KENDALL                                          
 U|                         Congratulations. How’s the groom?                          
 O|
 N|               Connor is distracted from the welcome line. Going upstairs           
-N,I|               with the catering people:                                            
+N|               with the catering people:                                            
 C|                                   WILLA                                            
 U|                         Um, worried about you guys and his                         
 U|                         dad. And the embedded press. But                           
@@ -976,7 +976,7 @@ U|                         Dad’s gotta go fucking Lingonberry
 U|                         picking with Matsson. We’re puppet                         
 U|                         mastering the old bastard!                                 
 O|
-N,A|               Shiv’s PHONE goes. Tom. She cancels.                                 
+N|               Shiv’s PHONE goes. Tom. She cancels.                                 
 O|
 C|                                   SHIV                                             
 U|                         What do we do if it falls apart                            
@@ -986,7 +986,7 @@ C|                                   KENDALL
 U|                         He’ll land it. And we’ll pocket                            
 U|                         that sweet bonus loot.                                     
 O|
-N,A|               Shiv’s PHONE goes. Tom again. She cancels.                           
+N|               Shiv’s PHONE goes. Tom again. She cancels.                           
 O|
 N|               Connor is there on the upper floor with Beth. As they pass by:       
 O|
@@ -1022,7 +1022,7 @@ O|
 N|               Shiv heads off back to catch Connor and give him the bad news.       
 O|
 N|               Roman and Kendall reach the special Roy bit. A discreetly VIP        
-N,I|               bit separated off. Maybe one or two donors are in there              
+N|               bit separated off. Maybe one or two donors are in there              
 N|               already by the bar.                                                  
 C|                                   ROMAN                                            
 U|                         She’s a good person. She’s like a                          
@@ -1033,13 +1033,13 @@ U|                         Fucking bossy boots.
 P|                             (motioning spooning it up)                             
 U|                         ‘Umm, drama! Is there some for me?’                        
 O|
-N,A|               Roman smiles. His PHONE goes. Tom. He’s expecting something          
+N|               Roman smiles. His PHONE goes. Tom. He’s expecting something          
 N|               about Gerri, so is on the defensive:                                 
 O|
 C|                                   ROMAN                                            
 U|                         Hello, fucky sucky brigade how can                         
 U|                         I help you?                                                
-N,A|               We hear in Roman’s ear:                                              
+N|               We hear in Roman’s ear:                                              
 O|
 C,E|                                   TOM (O.S.)                                       
 U|                         Hi, Roman your dad’s very sick.                            
@@ -1068,7 +1068,7 @@ O|
 O|               SUC - Ep. 403 - FINAL - 03/03/23 20.    
 O|        10   CONTINUED: (5)                               10      
 O|
-N,A|               Roman puts Tom on speaker.                                           
+N|               Roman puts Tom on speaker.                                           
 N|               If they are exposed in the room they huddle to a corner.             
 O|
 T|               INTERCUT:                                                            
@@ -1077,7 +1077,7 @@ S|        11     INT. WAYSTAR JET. DAY. (D1)                               11
 O|
 N,G|        11.1   Tom is in the back of the plane. Upfront we can’t see   11.1         
 N,G|               exactly everything but activity. Logan is out of sight               
-N,I|               being treated. Possibly a CREW MEMBER runs through with              
+N|               being treated. Possibly a CREW MEMBER runs through with              
 N|               something from the back to the front.                                
 C|                                   TOM                                              
 U|                         We don’t know. He’s - he’s had a                           
@@ -1137,7 +1137,7 @@ P|                             (to Roman)
 U|                         Well not unless his heart has                              
 U|                         stopped. What’s going on Tom? Who’s                        
 U|                         in charge?                                                 
-N,A|               Karl might say something to Tom in the background.                   
+N|               Karl might say something to Tom in the background.                   
 O|
 C|                                   TOM                                              
 U|                         Is Shiv there?                                             
@@ -1155,7 +1155,7 @@ C|                                   TOM
 U|                         They’re trained. The people are -                          
 U|                         the attendant is trained.                                  
 O|
-N,A|               Karl chips in over speakerphone:                                     
+N|               Karl chips in over speakerphone:                                     
 O|
 C|                                   KARL                                             
 U|                         The captain has been in touch - he’s                       
@@ -1168,8 +1168,8 @@ O|
 C|                                   KENDALL                                          
 U|                         Can we be looped in on that?                               
 O|
-N,A|               Frank comes through from the front, speaks off, a bit                
-N,I|               inaudible to the kids -                                              
+N|               Frank comes through from the front, speaks off, a bit                
+N|               inaudible to the kids -                                              
 O|
 O|                                                                (CONTINUED)
 O|
@@ -1183,7 +1183,7 @@ O|
 C|                                   KENDALL                                          
 U|                         What’s that?                                               
 O|
-N,A|               Frank might brief Tom as he talks.                                   
+N|               Frank might brief Tom as he talks.                                   
 O|
 C|                                   TOM                                              
 U|                         Frank thinks you should speak to your                      
@@ -1235,8 +1235,8 @@ C|        11.1                       ROMAN                               11.1
 U|                         Can you even breathe without -                             
 U|                         heart - can you?                                           
 O|
-N,A|               There is commotion in the background, phone being passed, off        
-N,A|               speaker.                                                             
+N|               There is commotion in the background, phone being passed, off        
+N|               speaker.                                                             
 O|
 C|                                   TOM                                              
 U|                         I’m taking you to him and to put                           
@@ -1259,7 +1259,7 @@ O|
 N,G|               Tom gets through to the front. Maybe we don’t see too much of        
 N,G|               Logan. Tight on the phone tucked into a pillow by his ear.           
 N|               Further down his body there is medical activity. In the              
-N,G,I,A|               distance Kerry and the AIRPLANE STAFF. One on the phone to           
+N,G|               distance Kerry and the AIRPLANE STAFF. One on the phone to           
 N|               their medical service getting advice.                                
 O|
 C|                                   TOM                                              
@@ -1275,7 +1275,7 @@ P|                             (leaning in)
 U|                         He’s not okay Rome, he’s not. But                          
 U|                         you’re by his ear.                                         
 O|
-N,A|               Tom is further away. His voice small from the phone:                 
+N|               Tom is further away. His voice small from the phone:                 
 O|
 C,E|                                   TOM (O.S.) (CONT’D)                              
 P|                             (muffled)                                              
@@ -1301,8 +1301,8 @@ O|
 C|                                   KENDALL                                          
 U|                         Can he hear? Does he know?                                 
 N|               Kendall and Roman look at one another. Roman is holding the          
-N,A|               phone. Kendall motions: ‘you go’. Roman takes the phone off          
-N,A|               speaker. Turns for a tiny bit of privacy. Takes a few steps          
+N|               phone. Kendall motions: ‘you go’. Roman takes the phone off          
+N|               speaker. Turns for a tiny bit of privacy. Takes a few steps          
 N|               away from Kendall. So he can talk privately, pacing toward a         
 N|               corner -                                                             
 O|
@@ -1357,13 +1357,13 @@ U|                         forgive you. But it’s okay. And I
 U|                         love you.                                                  
 N|               But it doesn’t feel adequate. He needs time or room, he              
 N|               thought he’d know what to say but he didn’t think it would           
-U|               feel like this -                                                     
+N|               feel like this -                                                     
 O|
 C,E|                                   KENDALL (CONT’D)                                 
 P|                             (projecting)                                           
 U|                         Can he hear me?                                            
 O|
-N,A|               Tom picks up the phone, noise.                                       
+N|               Tom picks up the phone, noise.                                       
 O|
 C|                                   TOM                                              
 U|                         Is Shiv there?                                             
@@ -1375,7 +1375,7 @@ O|
 C|                                   ROMAN                                            
 U|                         I don’t fucking know.                                      
 O|
-N,A|               Speakerphone:                                                        
+N|               Speakerphone:                                                        
 O|
 C,E|                                   TOM (O.S.)                                       
 U|                         Is Shiv there? He’s not here I                             
@@ -1386,7 +1386,7 @@ N|        11.2   Kendall shrugs, he doesn’t know. He heads out.          11.2
 O|
 N,G|               We stay with him as he heads out and towards her. Down the           
 N|               stairs and through the main party floor. He cuts through the         
-N,I|               crowd. Maybe some people smile at him and on auto-pilot he           
+N|               crowd. Maybe some people smile at him and on auto-pilot he           
 N|               smiles them off, not giving the chance for interaction.              
 O|
 N|               Eventually gets to her. Talking to someone.                          
@@ -1438,7 +1438,7 @@ U|                         still breathing. But it’s looking
 U|                         very bad.                                                  
 N|               They reach Roman back in the private room.                           
 O|
-N,A|               He’s on the phone. Talking to his dad again as Shiv and              
+N|               He’s on the phone. Talking to his dad again as Shiv and              
 N|               Kendall arrive.                                                      
 O|
 C|                                   ROMAN                                            
@@ -1462,7 +1462,7 @@ O|
 C|                                   ROMAN                                            
 U|                         They think Dad died.                                       
 O|
-N,A|               And she right away lets out a cry/scream of agony. Sharp and         
+N|               And she right away lets out a cry/scream of agony. Sharp and         
 N|               immediate and from somewhere beyond reason or regret.                
 O|
 N|               Kendall goes to hug her - she can’t quite take it yet.               
@@ -1502,7 +1502,7 @@ U|                         I don’t know? I’m putting you there.
 P|                             (muffled, projected)                                   
 U|                         You can go now. You’re talking to                          
 U|                         him now.                                                   
-P|               She takes the phone.                                                 
+N|               She takes the phone.                                                 
 O|
 O|                                                                (CONTINUED)
 O|
@@ -1531,7 +1531,7 @@ C|                                   SHIV
 P|                             (projecting)                                           
 U|                         Tom is he alive? Tom!                                      
 O|
-N,A|               Scratching NOISES as he picks up.                                    
+N|               Scratching NOISES as he picks up.                                    
 O|
 C,E|                                   SHIV (CONT’D)                                    
 U|                         Is he even alive?                                          
@@ -1577,7 +1577,7 @@ U|                         I do. You fucking - I don’t know. I
 U|                         do love you. It’s okay Daddy, it’s                         
 U|                         okay. I love you.                                          
 O|
-N,A|               Static, dead air from the phone.                                     
+N|               Static, dead air from the phone.                                     
 N|               A beat.                                                              
 O|
 N|               The phone gets picked up.                                            
@@ -1591,7 +1591,7 @@ C|        11.3                       ROMAN                               11.3
 P|                             (into phone)                                           
 U|                         What’s happening. What precisely is                        
 U|                         happening now?                                             
-N,A|               He puts it on speaker.                                               
+N|               He puts it on speaker.                                               
 O|
 C,E|                                   TOM (O.S.)                                       
 U|                         Um, we’re all here, I’m heading into                       
@@ -1778,7 +1778,7 @@ C,E|                                   KENDALL (CONT’D)
 U|                         We need to tell Con. Let’s get Con?                        
 O|
 N|               He heads out and through a door marked ‘Crew Only’. Out in           
-N,I|               the fresh air there is a rope and guests one way, he needs           
+N|               the fresh air there is a rope and guests one way, he needs           
 N|               air and heads up a deck. As he calls Frank. Frank has walked         
 N|               through to or by the cockpit.                                        
 O|                                                                (CONTINUED)
@@ -1900,7 +1900,7 @@ C|        11.5                       KENDALL                             11.5
 U|                         Yeah and - but yeah, I don’t know,                         
 U|                         Frank thinks he’s gone.                                    
 O|
-O|               Beat.                                                                
+N|               Beat.                                                                
 O|
 C|                                   SHIV                                             
 U|                         Why didn’t you come get me?                                
@@ -1999,8 +1999,8 @@ C|                                   TOM
 U|                         I’ll tell you if anything happens.                         
 O|
 N,G|               From through in an area behind the private area, a door swings       
-N,I|               as someone brings stuff through from a ‘backstage’ storage           
-N,A|               room and we hear Connor shouting something about the cake.           
+N|               as someone brings stuff through from a ‘backstage’ storage           
+N|               room and we hear Connor shouting something about the cake.           
 O|                                                                (CONTINUED)
 O|
 O|
@@ -2053,7 +2053,7 @@ U|                         Too weird, too weird. No, go.
 O|
 N|        11.6   Shiv goes with Ken.                                     11.6         
 O|
-N,A|               Roman sits there. He looks at the phone buzzing with static.         
+N|               Roman sits there. He looks at the phone buzzing with static.         
 N|               He can’t believe it. So blank. The room, everything is               
 N|               unbearable.                                                          
 O|
@@ -2063,7 +2063,7 @@ O|
 O|               SUC - Ep. 403 - FINAL - 03/03/23 38.    
 O|        11   CONTINUED: (18)                             11      
 N|        11.6   He looks at the phone. Looks at the walls. Looks out at 11.6         
-N,I|               people on the harbor. Everything strange and fresh.                  
+N|               people on the harbor. Everything strange and fresh.                  
 O|
 N|               Outside, Shiv and Kendall head through together, maybe as            
 N|               they go into Willa’s dressing room their hands touch and             
@@ -2219,7 +2219,7 @@ C|                                   KENDALL
 U|                         He’s apparently not breathing and                          
 U|                         not - his heart has stopped.                               
 O|
-N,I,A|               A couple of people try to say hi as they pass and head up to         
+N|               A couple of people try to say hi as they pass and head up to         
 N|               the private area behind the bridge.                                  
 O|
 O|
@@ -3287,7 +3287,7 @@ O|
 C|                                   HUGO                                             
 U|                         You want me to ask if they can circle?                     
 N|               Gerri looks at him like, ‘c’mon, we’re the grown-ups’. Her           
-N,A|               phone goes.                                                          
+N|               phone goes.                                                          
 O|
 C|                                   GERRI                                            
 U|                         Karolina?                                                  
@@ -3348,14 +3348,14 @@ U|                         I know you’re glad he’s dead and
 U|                         you want to grab the crown.                                
 O|
 N|               Maybe Kendall finds it funny but also fears the old fights           
-N,A|               starting up. Shiv smiles, maybe laughs.                              
+N|               starting up. Shiv smiles, maybe laughs.                              
 O|
 C|                                   SHIV                                             
 U|                         You can say it. Joke.                                      
 C|                                   ROMAN                                            
 U|                         This is. I keep - FUCK.                                    
 O|
-N,A|               He makes a weird long sound. They all sit in the sound.              
+N|               He makes a weird long sound. They all sit in the sound.              
 O|
 S|        19     INT. WEDDING YACHT. DAY. (D1)                             19         
 O|
@@ -3551,7 +3551,7 @@ C|                                   KENDALL
 U|                         We’ll be okay, we’ll get people.                           
 U|                         We’ll get a funeral off the rack.                          
 U|                         We’ll do Reagan’s with tweaks.                             
-N,A|               Gerri knocks on whatever is available if there is a door or          
+N|               Gerri knocks on whatever is available if there is a door or          
 N|               table, enters.                                                       
 O|
 C|                                   GERRI                                            
@@ -3611,7 +3611,7 @@ U|                         Oh you want to choreograph some
 U|                         steps with my dead father? That the                        
 U|                         dance you like Tom?                                        
 O|
-N,A|               Static, everyone avoids her eyes.                                    
+N|               Static, everyone avoids her eyes.                                    
 O|
 C,E|                                   SHIV (CONT’D)                                    
 U|                         I’m sorry.                                                 
@@ -3946,7 +3946,7 @@ N|               water under the bridge, and:
 C|                                   GERRI                                            
 U|                         Yup. Well. Room’s all yours.                               
 O|
-U|               And she’s gone.                                                      
+N|               And she’s gone.                                                      
 O|
 N|               He can’t quite believe it. Dad gone. Maybe he bangs his head         
 N|               on a piece of ship as he goes.                                       
@@ -3959,7 +3959,7 @@ O|
 N|               Kendall and Shiv. Looking at the sea, the wedding, one               
 N|               another.                                                             
 O|
-N,I|               They look at wedding guests dancing or drinking. In at Roman         
+N|               They look at wedding guests dancing or drinking. In at Roman         
 N|               on his call.                                                         
 O|
 C|                                   KENDALL                                          
@@ -4095,7 +4095,7 @@ U|                         looking at a feeding frenzy if we
 U|                         don’t talk. So we’re gonna do some                         
 U|                         comments from the family. I’ve                             
 U|                         primed our friendlies?                                     
-N,I|               He motions to the terminal. Journalists.                             
+N|               He motions to the terminal. Journalists.                             
 O|
 C|                                   KAROLINA                                         
 U|                         Yeah? Who’s gonna speak?                                   
@@ -4188,8 +4188,8 @@ S|        30     INT./EXT. ELLIS ISLAND VENUE. DUSK. (N1)                  30
 O|
 N|               In the empty hall. Or outside.                                       
 O|
-N,I|               With just a few attendees. Mostly empty. Sylvia. Couple of           
-N,I|               witnesses.                                                           
+N|               With just a few attendees. Mostly empty. Sylvia. Couple of           
+N|               witnesses.                                                           
 O|
 N|               Connor and Willa get married. He kisses her.                         
 O|
@@ -4202,7 +4202,7 @@ N|               Kendall, Roman, Shiv in a desolate spot. They are looking at
 N|               the Waystar plane. Attended by an ambulance.                         
 O|
 N|               Out in the fall dusk. But the rough noisy stuff of airport           
-N,I|               life goes on around them. Trash, workers, sewage drainage            
+N|               life goes on around them. Trash, workers, sewage drainage            
 N|               trucks.                                                              
 O|
 N|               Roman shows Ken an iPad. Stock prices. A drop in Waystar.            

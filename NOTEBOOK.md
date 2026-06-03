@@ -17,7 +17,7 @@
 | 6  | N     | Narrative     | A line that describes **events, behaviors, or physical changes** occurring in the story world, without giving instructions to the camera and without functioning as dialogue.<br>It communicates what happens, what characters do, and what the environment does, strictly from an in‑world perspective. | Liam goes to the other room |
 | 7  | O     | Omit | A line that contains **non‑narrative, non‑structural, or non‑creative content—material** that is not part of the screenplay itself but exists for document formatting, production bookkeeping, or archival purposes (e.g. page header, blank line, ...). As such this line can be ignored. | (blank)<br>CONTINUED<br>YS #504 - Production Draft(4/29/22) 2. |
 | 8  | P     | Parenthetical | A line from a *dialogue block* (usually placed directly beneath a character’s name and immediately before their spoken dialogue), that provides **brief, specific guidance on how a line is delivered or what the character is doing while speaking**. It exists solely to clarify tone, emotion, or small behavioral cues tied to the utterance. | (nods to her)<br>(disagreeing) |
-| 9  | S     | Slugline      | A line that marks the **beginning of a new scene and provides structural information** rather than story action. The scene header formally identifies the location and time of a scene. | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2<br>EXT. CHARLIE’S HOUSE - LATER |
+| 9  | S     | Slugline      | A line that marks the **beginning of a new scene and provides structural information** rather than story action. The scene heading formally identifies the location and time of a scene. | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2<br>EXT. CHARLIE’S HOUSE - LATER |
 | 10 | T     | Transition    | A line that indicates a **change in scene, shot, or narrative flow**. They do not describe story events or visuals within the world of the film. | CUT TO<br>FADE IN<br>INSERT<br>Blackness fills the screen | 
 | 11 | U     | Utterance     | A line from a *dialogue block*  that represents **verbal communication** within the story world—anything a character says, whether it’s a full speech, a short response, a shout, a whisper, or a single word. | Let's go<br>You don’t look like a Bethany.|
 
@@ -50,33 +50,33 @@ Great care has been put into creating a dataset representative of the diverse sc
 | 01 | tt2089050   | Black Mirror (103)         | TV Show | 3648      | - Playbacks<br>- Page header<br>- Metadata |
 | 02 | tt9166672   | Chernobyl (103)            | TV Show | 2768      | - Disclaimer<br>- Omits |
 | 03 | tt6701648   | Electric Dreams (107)      | TV Show | 3151      | - Disclaimer<br>-Quotes in header<br>- Page header<br>- Metadata<br>- Flashbacks<br>- INT./EXT. |
-| 04 | tt8806272   | Euphoria (108)             | TV Show | 3304      | - OCR perturbations<br>- Cast and set lists<br>- Page header |
+| 04 | tt8806272   | Euphoria (108)             | TV Show | 3304      | - OCR perturbations<br>- Cast and set lists<br>- Page header<br>- Edit markers (*) |
 | 05 | tt3097534   | Fargo (101)                | TV Show | 3481      |  |
 | 06 | tt8052820   | Fargo (401)                | TV Show | 3639      | - Cast and set lists<br>-Quotes in header<br>- Disclaimer<br>- Page header<br>- Double lines scene headers<br>- Many camera guidances<br>- Many Character Introductions  |
 | 07 | tt11610562  | Mare of Easttown (107)     | TV Show | 3494      | - Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Metadata<br>- Flashbacks<br>- INT./EXT.<br>- Alternative dialogues |
 | 08 | tt11650328  | Severance (101)            | TV Show | 2701      | - Expressions on separate line<br>- Metadata |
-| 09 | tt15242998  | Severance (210)            | TV Show | 2341      | - Cast and set lists<br>- Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits |
+| 09 | tt15242998  | Severance (210)            | TV Show | 2341      | - Cast and set lists<br>- Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Edit markers (*) |
 | 10 | tt21151974  | Succession (403)           | TV Show | 4326      | - Disclaimer<br>- Page header<br>- Double dialogues<br>- Many audio guidances<br>- Character with scene ID<br>- Omits<br>- INT./EXT. |
-| 11 | tt7435258   | The Handmaid's Tale (211)  | TV Show | 6577      | - Playbacks<br>- Cast and set lists<br>- Page header<br>- Alternative dialogues/scenes |
-| 12 | tt8054880   | The Morning Show (101)     | TV Show | 276       | - Metadata |
+| 11 | tt7435258   | The Handmaid's Tale (211)  | TV Show | 6577      | - Playbacks<br>- Cast and set lists<br>- Page header<br>- Alternative dialogues/scenes<br>- Edit markers (*) |
+| 12 | tt8054880   | The Morning Show (101)     | TV Show | 276       | - Metadata<br>- Dialogue blocks in one line<br>- Parentheticals on Utterance line |
 | 13 | tt13868048  | The White Lotus (101)      | TV Show | 2647      | - Page header |
 | 14 | tt2790196   | True Detective (105)       | TV Show | 2689      | - Metadata<br>- Page header<br>- Double extensions<br>- Inconsistent extensions |
 | 15 | tt23642488  | Yellowstone (504)          | TV Show | 2265      | - Characters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
 | 16 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line<br>- Parentheticals on Character line |
-| 17 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in slugs |
+| 17 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in slugs<br>- Poor formatting |
 | 18 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata<br>- Multi-languages<br>- Subtitles |
 | 19 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
-| 20 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in slugs<br>- Omits |
-| 21 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header |
-| 22 | tt0080745   | Flash Gordon               | Movie   | 3444      | - No indentation<br>- Characters in scene metadata line<br>- Page header |
+| 20 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in slugs<br>- Omits<br>- Edit markers (*) |
+| 21 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
+| 22 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
 | 23 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
 | 24 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
 | 25 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
 | 26 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in slugs<br>- Page header<br>- OCR perturbations |
 | 27 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in slugs<br>- Many camera guidances |
-| 28 | tt1542344   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in slugs |
-| 29 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in slugs<br>- Double lines scene headers<br>- Metadata |
-| 30 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - No indentation<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block |
+| 28 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in slugs |
+| 29 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in slugs<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
+| 30 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
 
 </details>
 
@@ -87,12 +87,17 @@ TV Show' scripts have the advantage of being shorter, which results in a more di
 - [x] Annotate 30 screenplays
 - [ ] Annotate 40-50 screenplays
 - [x] Annotate `A` ? Not for this first iteration 
-- [ ] Second pass:
-    - [ ] Standardize annotation of `I`: Only when a new character is introduced for the first time? Only when you have a clear introduction, i.e. not for background actors? Only the name or also the description?
-    - [ ] Standardize annotation of `M`: Alternative dialogue? Notes/Comments? Supplement with other label?
-    - [ ] Standardize annotation of `G`: "Back on", "Black", "Insert", "Title", ...?
-    - [ ] Standardize annotation of `T`: What about "Cut to" in the middle of a scene?
-
+- [x] Second pass:
+    - [x] Standardize annotation of `I`: Only when a new character is introduced for the first time? Only when you have a clear introduction, i.e. not for background actors? Only the name or also the description?
+    - [x] Standardize annotation of `M`: Alternative dialogue? Notes/Comments? Supplement with other label?
+    - [x] Standardize annotation of `G`: "Back on", "Black", "Insert", "Title", ...?
+    - [x] Standardize annotation of `T`: What about "Cut to" in the middle of a scene?
+- [ ] Train/FT models:
+    - [ ] Multi-label line classifier
+    - [ ] Multi-class line classifier
+    - [ ] Props/Extra extractor
+    - [ ] Scene heading parser
+    - [ ] Single line dialogue block formatter
 
 ## Further development ideas
 

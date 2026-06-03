@@ -8,7 +8,7 @@ M|                                    Dan Erickson
 O|
 O|
 S|               INT. BOARD ROOM. DAY.                                                
-N,I|               A NAKED MAN lies face up, unconscious on a large oak table.          
+N|               A NAKED MAN lies face up, unconscious on a large oak table.          
 N|               The room around him is comfortable but sterile. There are no         
 N|               windows and the only light buzzes from the florescent panels         
 N|               above. Pastel prints line the beige walls.                           
@@ -34,7 +34,7 @@ O|
 C,E|                                   MARK (CONT’D)                                    
 U|                         Where the hell am I!?                                      
 N|               At the far end of the table is mounted a small, black                
-N,I|               Intercom. It clicks on, emitting a MAN’S VOICE.                      
+N|               Intercom. It clicks on, emitting a MAN’S VOICE.                      
 O|
 C,E|                                   MAN’S VOICE                                      
 U|                         Who are you?                                               
@@ -229,8 +229,8 @@ O|
 S|               INT. ORIENTATION CHAMBER. DAY.                                       
 N|               Mark steps out into a small, dimly lit room.                         
 O|
-N,I|               In the center of the room is a table, at which sit a man and         
-N,I|               a woman.                                                             
+N|               In the center of the room is a table, at which sit a man and         
+N|               a woman.                                                             
 O|
 N,I|               FRANK MILCHICK, 35, is a big and brawny, despite the dainty          
 N,I|               glasses perched atop his nose. In front of him is a                  
@@ -363,7 +363,7 @@ O|
 N|               The majority of the room is comprised of a wide maze of              
 N|               cubicle walls, made of a vaguely translucent glass.                  
 O|
-N,I|               The workers weave busily around, some of their forms obscured        
+N|               The workers weave busily around, some of their forms obscured        
 N|               by the crystalline cubicle walls. Their hurried footsteps            
 N|               combine with the dim hum of routers and printers.                    
 O|
@@ -377,10 +377,10 @@ U|                         I’m being held here. I’m being held
 U|                         against my will.                                           
 O|
 N|               He glances up. Near the high ceiling is a small window,              
-N,I|               behind which is a hallway. A thin, BALD MAN stands at the            
+N|               behind which is a hallway. A thin, BALD MAN stands at the            
 N|               window, watching the commotion.                                      
 O|
-N,I|               A plump SECURITY GUARD approaches Mark.                              
+N|               A plump SECURITY GUARD approaches Mark.                              
 O|
 C|                                   SECURITY GUARD                                   
 U|                         Sir, I’d be happy to escort you to                         
@@ -394,7 +394,7 @@ O|
 N|               He hears footsteps approach from around a corner. He ducks           
 N|               behind a copy machine.                                               
 O|
-N,I|               A line of GUARDS run past.                                           
+N|               A line of GUARDS run past.                                           
 N|               Looking up, Mark spies an exit sign, but no path through the         
 N|               cubicles.                                                            
 O|
@@ -425,8 +425,8 @@ N|               Mark bursts out of the stairwell and into a spacious lobby.
 N|               The granite walls are accentuated by hanging plants and mini         
 N|               fountains.                                                           
 O|
-N,I|               Ahead is a security checkpoint, where a MUSTACHED GUARD scans        
-N,I|               incoming EMPLOYEES with an electric wand.                            
+N|               Ahead is a security checkpoint, where a MUSTACHED GUARD scans        
+N|               incoming EMPLOYEES with an electric wand.                            
 O|
 N|               Beyond them is a bank of glass doors, but a concrete wall            
 N|               beyond it blocks any view of the outside.                            
@@ -563,7 +563,7 @@ N|               On the carpet in front of him sit a dozen small objects. A
 N|               snow globe paperweight. A couple of glue sticks. A handheld          
 N|               pencil sharpener.                                                    
 O|
-N,I,G|               As two co-workers converse unseen, Irving arranges the               
+N,G|               As two co-workers converse unseen, Irving arranges the               
 N|               objects in a rough circle.                                           
 C|                                   DYLAN                                            
 E|                             (o.s.)                                                 
@@ -1378,9 +1378,9 @@ O|                                                                     28.
 O|
 M|                                                                      ACT 3         
 O|
-T,G|               BLACKNESS.                                                           
+G|               BLACKNESS.                                                           
 O|
-N|               SCREEN TEXT: FIVE DAYS EARLIER.                                      
+M|               SCREEN TEXT: FIVE DAYS EARLIER.                                      
 O|
 S|               INT. MARK’S BEDROOM. MORNING.                                        
 O|
@@ -1388,7 +1388,7 @@ N|               Mark lays, asleep, on a mattress on the floor.
 O|
 N|               The walls are a gentle blue, and the room is outfitted for a         
 N|               baby. In the corner sits a crib.                                     
-N,I|               A woman’s bare foot slowly moves over Mark’s face.                   
+N|               A woman’s bare foot slowly moves over Mark’s face.                   
 O|
 N|               Wrinkling his nose, Mark bolts up.                                   
 O|
@@ -1569,7 +1569,7 @@ N|               He shuts his eyes.
 O|
 C,E|                                   MARK (CONT’D)                                    
 U|                         Good to meet you. Mark Scout.                              
-U|               A deep breath.                                                       
+N|               A deep breath.                                                       
 O|
 C,E|                                   MARK (CONT’D)                                    
 U|                         This place is great. My name is-                           
@@ -1744,7 +1744,7 @@ S|               EXT. VICTORIAN HOUSE. DAY.
 N|               Mark knocks on the door. He looks around. The forest is              
 N|               silent.                                                              
 O|
-N,I|               A LITTLE GIRL, 3, opens the door.                                    
+N|               A LITTLE GIRL, 3, opens the door.                                    
 O|
 C|                                   MARK                                             
 U|                         Hello. I was just- Are your parents                        
@@ -1767,8 +1767,8 @@ N|               She turns and walks into the dark house.
 N|               Mark cranes his neck to look after her.                              
 O|
 N,I|               Suddenly, a WOMAN steps in front of the door, startling Mark.        
-N|               This is Harmony Cobel, the woman from the Orientation                
-N|               Chamber.                                                             
+N,I|               This is Harmony Cobel, the woman from the Orientation                
+N,I|               Chamber.                                                             
 O|
 C,E|                                   MARK (CONT’D)                                    
 U|                         Oh. I’m sorry-                                             
@@ -2510,8 +2510,8 @@ U|                         Shall we?
 O|
 N|               Mark nods. He gets in the car.                                       
 O|
-T,G|               BLACKNESS.                                                           
-N|               SCREEN TEXT: FOUR DAYS LATER.                                        
+G|               BLACKNESS.                                                           
+M|               SCREEN TEXT: FOUR DAYS LATER.                                        
 O|
 O|
 O|                                                                     50.            
@@ -2658,7 +2658,7 @@ O|
 C|                                   COBEL                                            
 U|                         He’s gone.                                                 
 O|
-N,I|               A soft, raspy MAN’S VOICE echoes down the hallway.                   
+N|               A soft, raspy MAN’S VOICE echoes down the hallway.                   
 O|
 C,E|                                   MAN’S VOICE                                      
 U|                         Has he come to us defective?                               
@@ -2675,7 +2675,7 @@ T|                                                                CUT TO:
 O|
 S|               INT. LOBBY. NIGHT.                                                   
 O|
-N,I|               Mark stands at the security station as a GUARD pats him down.        
+N|               Mark stands at the security station as a GUARD pats him down.        
 O|
 C|                                   COBEL                                            
 E|                             (o.s.)                                                 
