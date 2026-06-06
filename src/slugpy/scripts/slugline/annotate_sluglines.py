@@ -48,7 +48,7 @@ TASK:
 """
 
 
-class SceneHeading(BaseModel):
+class SceneHeadingData(BaseModel):
     is_scene_heading: bool = Field(description="Indicates if the input is a scene heading")
     scene_id: str | None = Field(None, description="AlphanumericIdentifier for the scene", examples=["b34", "127"])
     setting: Literal["interior", "exterior", "both"] | None = Field(
@@ -102,10 +102,10 @@ def annotate_sluglines(sluglines_filepath: Path, output_folderpath: Path, url: s
             response = client.chat.completions.parse(
                 model=model_name,
                 messages=build_prompt(slugline),
-                response_format=SceneHeading,
+                response_format=SceneHeadingData,
             )
             try:
-                scene_heading = SceneHeading.model_validate_json(response.choices[0].message.content)
+                scene_heading = SceneHeadingData.model_validate_json(response.choices[0].message.content)
                 scene_heading_string = scene_heading.dump_json_with_slugline(slugline)
                 out_fh.writelines(scene_heading_string + "\n")
                 out_fh.flush()
