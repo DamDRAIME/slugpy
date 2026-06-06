@@ -24,14 +24,15 @@ def extract_narrative_chunks(
     with dst_filepath.open("a", encoding="utf-8") as f:
         for script_filepath in script_filepaths:
             abridged_script = abridge_narrative_only(script_filepath)
-            current_chunk = ""
+            current_chunk = []
             current_chunk_size = 0
             for line in abridged_script:
+                line = line.strip()
                 if current_chunk and current_chunk_size >= chunk_soft_size:
-                    f.write(current_chunk.strip().replace("\n", "\\n") + "\n")
-                    current_chunk = ""
+                    f.write("\\n".join(current_chunk) + "\n")
+                    current_chunk = []
                     current_chunk_size = 0
-                current_chunk += line
+                current_chunk.append(line)
                 current_chunk_size += len(line)
             if current_chunk:
-                f.write(current_chunk.strip().replace("\n", "\\n") + "\n")
+                f.write("\\n".join(current_chunk) + "\n")
