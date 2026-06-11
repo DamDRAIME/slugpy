@@ -3993,7 +3993,7 @@ O|
 O|
 S,G|INT. MCKENNAS SUITE - (DAY) - MEDIUM SHOT
 O|
-N|The empty boy's room as seen from her viewpoint.
+N,G|The empty boy's room as seen from her viewpoint.
 O|
 N|Ben pauses in his packing a moment to observe her.
 N|The he continues on with his work.
@@ -4027,7 +4027,7 @@ O|
 S,G|INT. MCKENNAS SUITE - (DAY) - MEDIUM CLOSE SHOT
 O|
 N,G|We now see Ben's face as he packs his suitcases. Beyond
-N|him, past his shoulder, we see his wife staring in his
+N,G|him, past his shoulder, we see his wife staring in his
 N|direction. He continues to talk, although he finds it
 N|difficult to be matter-of-fact, moving back and forth
 N|from the dresser drawers to the suitcases.
@@ -5885,7 +5885,7 @@ O|
 O|
 S,G|INT. TAXIDERMY SHOP - (DAY) - MEDIUM CLOSE SHOT
 O|
-N|Shooting toward the doorway. The confusion  gives him
+N,G|Shooting toward the doorway. The confusion  gives him
 N|a free moment. He makes the door, twists it  open, and
 N|dashes out into the yard. Suddenly he turns  back and
 N|dashes in again. The man retreat in fear.   Ben picks
@@ -6640,7 +6640,7 @@ O|
 O|
 S,G|INT. AMBROSE CHAPEL - (DAY) - MEDIUM SHOT
 O|
-N|From Mr. Drayton's viewpoint, as he notices his wife
+N,G|From Mr. Drayton's viewpoint, as he notices his wife
 N|coming up the aisle with a startled expression on her
 N|face. She tries to  nod with her head to indicate
 N|something important lies behind her.
@@ -6698,7 +6698,6 @@ U|disappointments and the frustrations and say a   prayer
 U|for the agony of the moment. Only thus shall    we confirm
 U|and re-confirm our own goodness and therefore   the
 U|essential goodness of all Mankind.
-----
 O|
 O|
 S,G|INT. AMBROSE CHAPEL - (DAY) - MEDIUM CLOSE SHOT
@@ -6735,7 +6734,7 @@ N|In the middle of his sermon, Drayton looks up. He
 N|almost falters and stops, as he sees Jo rise from her
 N|seat.
 O|
-N|The chapel as seen from Drayton's viewpoint. Jo has
+N,G|The chapel as seen from Drayton's viewpoint. Jo has
 N|turned up the aisle and gone out the door at the back.
 O|
 O|
@@ -6800,7 +6799,7 @@ O|
 O|
 S,G|INT. AMBROSE CHAPEL - (DAY) - MED. CLOSE SHOT
 O|
-N|The CAMERA PANS Ben as he threads his way up through
+N,G|The CAMERA PANS Ben as he threads his way up through
 N|the women who are filing out. Drayton stands at the
 N|front of the chapel, waiting. Finally, after a slow
 N|and deliberate walk up the now nearly empty chapel,
@@ -6913,7 +6912,7 @@ O|
 O|
 S,G|INT. SPECIAL BRANCH OFFICE - (DAY) - CLOSE SHOT
 O|
-N|Woburn, assistant to Buchanan, is listening intently
+N,I|Woburn, assistant to Buchanan, is listening intently
 N|on the phone. The office behind him is not handsomely
 N|appointed. Jo's voice is heard on filter.
 O|
@@ -7080,13 +7079,13 @@ O|
 O|
 S,G|EXT. AMBROSE CHAPEL - (DAY) - MEDIUM CLOSE SHOT
 O|
-N|The CAMERA PANS Jo to the right side of the Chapel.
+N,G|The CAMERA PANS Jo to the right side of the Chapel.
 N|She looks down the length of it. No sign of anyone.
 O|
 O|
 S,G|EXT. AMBROSE CHAPEL - (DAY) - MED. CLOSE SHOT
 O|
-N|The CAMERA PANS Jo to the right side of the Chapel.
+N,G|The CAMERA PANS Jo to the right side of the Chapel.
 N|There is no sign of life down the whole side of it.
 O|
 O|
@@ -7106,7 +7105,7 @@ O|
 O|
 S,G|EXT. AMBROSE CHAPEL - (DAY) - MED. SHOT
 O|
-N|The CAMERA PANS Jo from the front of the Chapel down
+N,G|The CAMERA PANS Jo from the front of the Chapel down
 N|to the police car. Three men are getting out, leaving
 N|the driver inside.
 O|
@@ -7163,7 +7162,7 @@ O|
 O|
 S,G|EXT. AMBROSE CHAPEL - (DAY) - MEDIUM CLOSE SHOT
 O|
-N|The CAMERA PANS the two of them up to the Chapel. The
+N,G|The CAMERA PANS the two of them up to the Chapel. The
 N|other police have gone down the sides for an inspection.
 N|Patterson and Jo go to the main door. Patterson tries
 N|it.
@@ -7253,7 +7252,7 @@ O|
 S,G|INT. AMBROSE CHAPEL - (DAY) - MED. CLOSE SHOT
 O|
 N|The chapel is deserted inside. In the dim light we
-N|can see a form stretched out on the floor. It is Ben.
+N,G|can see a form stretched out on the floor. It is Ben.
 N|He begins to stir a little as if just beginning to
 N|come to after being knocked unconscious.
 O|
@@ -7314,7 +7313,7 @@ O| Converted to PDF by www.screentalk.org              118.
 O|
 O|
 O|
-N|They get into the car, and the CAMERA PANS it, as it
+N,G|They get into the car, and the CAMERA PANS it, as it
 N|drives away down the long Victoria London street, which
 N|now remains deserted.
 O|
@@ -7323,12 +7322,12 @@ S,G|EXT. EMBASSY - (DAY) - MED. SHOT
 O|
 N|The exterior rear of a huge residential building such
 N|as is to be found in Kensington Palace Gardens or
-N|Belgrave Square. The CAMERA PANS DOWN and we see a
-N|Humber car driving through the gates at the rear. It
+N,G|Belgrave Square. The CAMERA PANS DOWN and we see a
+N,G|Humber car driving through the gates at the rear. It
 N|pulls up at the Service entrance. A man sitting beside
 N|the chauffeur gets out of the car. Inside the car are
-N|the Draytons and Hark McKenna. We see the man hurry
-N|to the door of the kitchen and enter.
+N,G|the Draytons and Hark McKenna. We see the man hurry
+N,G|to the door of the kitchen and enter.
 O|
 O|
 S,G|INT. EMBASSY KITCHEN - (DAY) - MED. SHOT
@@ -7422,13 +7421,13 @@ N|the light of day is beginning to fade. Suddenly the
 N|silence is broken by the sound of the bell ringing
 N|spasmodically in the chapel belfry. Along the street
 N|a few people begin putting their heads out of windows,
-N|and the one policeman left in charge is seen hurrying
+N,G|and the one policeman left in charge is seen hurrying
 N|away down the street.
 O|
 O|
 S,G|INT. AMBROSE CHAPEL - (DAY) - MED. CLOSE SHOT
 O|
-N|Inside the chapel we can see the cause of the spasmodic
+N,G|Inside the chapel we can see the cause of the spasmodic
 N|bell ringing. Ben is using  the rope to climb out of
 N|the chapel. He succeeds in  reaching high window. He
 N|holds on to the window, and looks down.
@@ -7439,7 +7438,7 @@ O|
 O|
 S,G|EXT. AMBROSE CHAPEL - (DAY) - LONG SHOT
 O|
-N|From his viewpoint. He can see people gathering in
+N,G|From his viewpoint. He can see people gathering in
 N|the street, looking up at the chapel.
 O|
 O|
@@ -7454,10 +7453,10 @@ O|
 S,G|EXT. AMBROSE CHAPEL - (DAY) - MED. CLOSE SHOT
 O|
 N|Ben moves cautiously out onto the roof of the chapel.
-N|Beyond and below him we can see people on the street.
+N,G|Beyond and below him we can see people on the street.
 N|He manages to lay low and crawl over the roof, the
-N|CAMERA PANNING him. We can now see beyond and below
-N|the patrolman returning with two regular uniformed
+N,G|CAMERA PANNING him. We can now see beyond and below
+N,G|the patrolman returning with two regular uniformed
 N|policemen. They are crossing toward the chapel looking
 N|up, as we:
 O|
@@ -7466,12 +7465,12 @@ O|
 O|
 S,G|EXT. ALBERT HALL - (DAY) - LONG SHOT
 O|
-N|Shooting through the Albert Memorial as a foreground
-N|piece we see the activities of the arrivals at a big
+N,G|Shooting through the Albert Memorial as a foreground
+N,G|piece we see the activities of the arrivals at a big
 N|concert. Through the archway large limousines are
 N|pulling up, while on the sidewalk level with the main
-N|road odd taxis are pulling in. We see the usual line
-N|of posters which run along the edge of the sidewalk.
+N,G|road odd taxis are pulling in. We see the usual line
+N,G|of posters which run along the edge of the sidewalk.
 O|
 O|
 S,G|EXT. ALBERT HALL - (DAY) - LONG SHOT
@@ -7481,10 +7480,10 @@ N|for that evening the commemorative concert. Further
 N|details on the poster indicate that a Cantata will be
 N|sung featuring the London Symphony Orchestra, The Royal
 N|Choral Society, and a name woman as featured mezzo
-N|soprano, and Conductor Bernard Herrmann. Between the
-N|CAMERA and the Poster a taxi pulls up. It is near
-N|enough to the CAMERA so that just the driver and the
-N|door fills the screen, Jo McKenna steps out the far
+N,G,I|soprano, and Conductor Bernard Herrmann. Between the
+N,G|CAMERA and the Poster a taxi pulls up. It is near
+N,G|enough to the CAMERA so that just the driver and the
+N,G|door fills the screen, Jo McKenna steps out the far
 N|side and pays off the driver with a Ten Shilling Note.
 N|She hurries away. The driver endeavors to call after
 N|her as he turns the note around in his hand. He looks
@@ -7497,7 +7496,7 @@ O|
 O|
 S,G|EXT. ALBERT HALL - (DAY) - SEMI-LONG SHOT
 O|
-N|We see Jo threading her way across the narrow inner
+N,G|We see Jo threading her way across the narrow inner
 N|roadway into which large limousines are creeping and
 N|depositing indifferently dressed aristocrats.
 O|
@@ -7514,8 +7513,8 @@ O|
 O|
 S,G|INT. LOBBY - (DAY) - LONG SHOT
 O|
-N|Shooting down from the stone-stepped, cast-iron
-N|railinged staircase we see the milling people going
+N,G|Shooting down from the stone-stepped, cast-iron
+N,G|railinged staircase we see the milling people going
 N|off in different directions to their seats. There is
 N|a hubbub of voices through which we can hear the
 N|programme sellers crying out their wares.
@@ -7560,7 +7559,7 @@ O|
 O|
 O|
 N|Jo turns away disconsolately and starts Jo seek these
-N|men out for herself. The CAMERA PANS her over and she
+N,G|men out for herself. The CAMERA PANS her over and she
 N|finds herself blocked off by a crowd of four or five
 N|feet deep.
 O|
@@ -7574,7 +7573,7 @@ O|
 O|
 S,G|INT. LOBBY - (DAY) - MED. SHOT
 O|
-N|Shooting over the head of crowd she sees the arrival
+N,G|Shooting over the head of crowd she sees the arrival
 N|of an important personage. He is accompanied by others
 N|who are apparently attendants upon him. A couple of
 N|the individuals behind him are wearing large order
@@ -7592,11 +7591,11 @@ O|
 O|
 S,G|INT. LOBBY - (DAY) - MED. SHOT
 O|
-N|From her viewpoint we see the men she has been seeking,
+N,G|From her viewpoint we see the men she has been seeking,
 N|possibly the manager of the Albert Hall, his assistant
 N|cow-towing behind him, and alongside of the manager
-N|someone dressed like he might be 'Sir Kenneth Clarke',
-N|the head of the Arts Council, The new-arrival is
+N,I|someone dressed like he might be 'Sir Kenneth Clarke',
+N,I|the head of the Arts Council, The new-arrival is
 N|greeted. There is an exchange of courtesies, after
 N|which they are led on toward the beginning of the
 N|staircase. As 'Buchanan' comes nearer.
@@ -7627,26 +7626,26 @@ C|                      1ST GIRL
 U|          Well, I'll guarantee he's got a better
 U|          seat than we have.
 O|
-N|The CAMERA PANS Jo as she does manage to get forward a
+N,G|The CAMERA PANS Jo as she does manage to get forward a
 N|little, but she is caught up in the Sudden break-up of
 N|the people who have lined up to see arrival. By the
-N|time she is in the clear the CAMERA PANS her further
-N|and over her shoulder we see the last of 'Buchanan'
+N,G|time she is in the clear the CAMERA PANS her further
+N,G|and over her shoulder we see the last of 'Buchanan'
 N|and the rest up the staircase, followed by other members
 N|of the audience going up in the same direction.
 O|
 O|
 S,G|INT. LOBBY - (DAY) - CLOSE UP
 O|
-N|We see Jo's frustration filling her face. She begins
+N,G|We see Jo's frustration filling her face. She begins
 N|to turn her head. She looks down with indecision.
 O|
 O|
 S,G|INT. LOBBY - (DAY) - SEMI-CLOSE UP
 O|
-N|In the foreground are passing people hurrying towards
+N,G|In the foreground are passing people hurrying towards
 N|their seats. There, taking a step forward and staring
-N|in Jo's direction, is Rien, the Assassin. His face
+N,I|in Jo's direction, is Rien, the Assassin. His face
 N|shows considerable alarm at what he sees.
 O|
 O|
@@ -7665,18 +7664,18 @@ O|
 O|
 S,G|INT. LOBBY - (DAY) - SEMI-CLOSE UP
 O|
-N|The two are in SEMI-CLOSEUP.    He says to her quietly:
+N,G|The two are in SEMI-CLOSEUP.    He says to her quietly:
 O|
 C|                      RIEN
 U|          You have a very nice little boy, madame.
 O|
 N|He turns to go.   Jo clutches him and almost cries out.
 O|
-M|                         J0
+C|                         J0
 U|          Where Is he?     Where is he?
 O|
-N|Rien does not reply. The CAMERA PANS him away. We
-N|see him join a woman escort and make their way for the
+N,G|Rien does not reply. The CAMERA PANS him away. We
+N,G|see him join a woman escort and make their way for the
 N|staircase.
 O|
 O| Converted to PDF by www.screentalk.org                 124.
@@ -7685,7 +7684,7 @@ O|
 O|
 S,G|INT. LOBBY - (DAY) - SEMI-CLOSE UP
 O|
-N|The CAMERA PULLS BACK and we now see that the crowd in
+N,G|The CAMERA PULLS BACK and we now see that the crowd in
 N|the lobby is thinning out. Jo stands alone, jostled
 N|by a stream of late arrivals. From the hall itself we
 N|can hear the SOUND of the orchestra tuning up, followed
@@ -7697,8 +7696,8 @@ O|
 S,G|INT. LOBBY - (DAY) - SEMI-CLOSE UP
 O|
 N|Jo stares toward the opening into the hall. She seems
-N|drawn to go in. She crosses and the CAMERA FOLLOWS
-N|her to the first entrance to the outer corridor.
+N,G|drawn to go in. She crosses and the CAMERA FOLLOWS
+N,G|her to the first entrance to the outer corridor.
 O|
 O|
 S,G|INT. CORRIDOR - (DAY) - CLOSEUP
@@ -7761,7 +7760,7 @@ O|
 O|
 S,G|INT. HALL - (DAY) - LONG SHOT
 O|
-N|The CAMERA roves among the boxes. Suddenly it stops
+N,G|The CAMERA roves among the boxes. Suddenly it stops
 N|on one as the Assassin takes his seat with his woman
 N|escort like any ordinary couple. They are quite casual
 N|in their behavior.
@@ -7775,7 +7774,7 @@ O|
 O|
 S,G|INT. HALL - (DAY) - LONG SHOT
 O|
-N|From her viewpoint we see the full orchestra, the
+N,G|From her viewpoint we see the full orchestra, the
 N|conductor with raised baton.
 O|
 O|
@@ -7786,20 +7785,20 @@ O|
 O|
 S,G|INT. HALL - (DAY) - FULL LONG SHOT
 O|
-N|From a point high above we see the whole hall, the
+N,G|From a point high above we see the whole hall, the
 N|audience, and the orchestra. The cantata starts with
 N|a roll on the timpani and a burst of music.
 O|
 O|
 S,G|INT. HALL - (DAY) - LONG SHOT
 O|
-N|A nearer view of the orchestra.
+N,G|A nearer view of the orchestra.
 O|
 O|
 S,G|INT. HALL - (DAY) - SEMI-LONG SHOT
 O|
-N|A whole sweep of the orchestra with the choir
-N|predominant.
+N,G|A whole sweep of the orchestra with the choir
+N,G|predominant.
 O|
 O| Converted to PDF by www.screentalk.org                  126.
 O|
@@ -7807,10 +7806,10 @@ O|
 O|
 S,G|INT. HALL - (DAY) - SEMI-LONG SHOT
 O|
-N|A skimming shot over the top of the orchestra with the
-N|strings in the foreground predominant. The SOUND of
+N,G|A skimming shot over the top of the orchestra with the
+N,G|strings in the foreground predominant. The SOUND of
 N|these instruments seems to dominate the other music
-N|due to their proximity to the CAMERA.
+N,G|due to their proximity to the CAMERA.
 O|
 O|
 S,G|INT. HALL - (DAY) - MEDIUM SHOT
@@ -7871,7 +7870,7 @@ O|
 O|
 S,G|INT. HALL - (DAY) - MEDIUM SHOT
 O|
-N|From her viewpoint we see Rien is raising a pair of
+N,G|From her viewpoint we see Rien is raising a pair of
 N|small black leather opera glasses which he puts to his
 N|eyes and studies his target.
 O|
@@ -7879,8 +7878,8 @@ O|
 S,G|INT. HALL - (DAY) - CLOSEUP
 O|
 N|Jo turns slowly and looks up at the dignitary's box.
-N|He is turning to the man beside him, whom we shall
-N|later know as the Ambassador, and indicates with
+N,M|He is turning to the man beside him, whom we shall
+N,M|later know as the Ambassador, and indicates with
 N|gestures how much he is enjoying the concert. He looks
 N|back over his shoulder and gives the same gestures and
 N|comments to 'Buchanan'. Then, turning forward, he
@@ -7889,15 +7888,15 @@ O|
 O|
 S,G|INT. LOBBY - (DUSK) - LONG SHOT
 O|
-N|Through the doors we see a taxi pulling away and
+N,G|Through the doors we see a taxi pulling away and
 N|presently a glass door opens and a dishevelled Ben
-N|comes into the lobby. He comes up to the CAMERA and
+N,G|comes into the lobby. He comes up to the CAMERA and
 N|looks about him.
 O|
 O|
 S,G|INT. LOBBY - (DUSK) - MEDIUM SHOT
 O|
-N|From his viewpoint the lobby appears empty except
+N,G|From his viewpoint the lobby appears empty except
 N|perhaps for a solitary uniformed policeman.
 O|
 O|
@@ -7908,21 +7907,21 @@ O|
 O|
 S,G|INT. LOBBY - (DUSK) - SEMI-LONG SHOT
 O|
-N|From his viewpoint the other direction -- just
-N|emptiness.
+N,G|From his viewpoint the other direction -- just
+N,G|emptiness.
 O|
 O|
 S,G|INT. LOBBY - (DUSK) - CLOSEUP
 O|
-N|We see Ben's bewilderment as to what to do and where
-N|to go. We PAN him up to the first corridor entrance
+N,G|We see Ben's bewilderment as to what to do and where
+N,G|to go. We PAN him up to the first corridor entrance
 N|that leads to the main circular corridor. Ben enters.
 N|His face lights up.
 O|
 O|
 S,G|INT. CORRIDOR - (DUSK) - SEMI-LONG SHOT
 O|
-N|From his viewpoint we see through the opening the ticket
+N,G|From his viewpoint we see through the opening the ticket
 N|collector and the program girl standing at the opening
 N|leading down the main aisle. On the right, standing
 N|with her back to him, is Jo.
@@ -7933,11 +7932,11 @@ O|
 O|
 S,G|INT. HALL - (DUSK) - MEDIUM SHOT
 O|
-N|The CAMERA PANS Ben as he hurries forward. He touches
+N,G|The CAMERA PANS Ben as he hurries forward. He touches
 N|Jo lightly on the shoulder. She turns, startled, and
 N|manages to suppress an exclamation on seeing him. We
 N|do not hear what they are saying but by their pantomime
-N|we see that Jo is telling Ben all about the impending
+N,G|we see that Jo is telling Ben all about the impending
 N|shooting. Ben argues with her. He indicates he will
 N|tell Buchanan. She frantically restrains him but he
 N|shakes her off and dashes away.
@@ -7945,15 +7944,15 @@ O|
 O|
 S,G|INT. LOBBY - (DUSK) - SEMI-LONG SHOT
 O|
-N|We see Ben ascending the stairs originally taken by
+N,G|We see Ben ascending the stairs originally taken by
 N|the dignitary and his group.
 O|
 O|
 S,G|INT. UPSTAIRS CORRIDOR - (DUSK) - SEMI-LONG SHOT
 O|
-N|Ben comes into the corridor and looks about him. Beyond
-N|him we see a group of men obviously detectives, and
-N|ahead of them a police constable. We see Ben hurry in
+N,G|Ben comes into the corridor and looks about him. Beyond
+N,G|him we see a group of men obviously detectives, and
+N,G|ahead of them a police constable. We see Ben hurry in
 N|his direction.
 O|
 O|
@@ -7966,8 +7965,8 @@ N|Buchanan. The constable doesn't quite know what to
 N|make of Ben's dramatic plea. He indicates that he
 N|must talk to his superior. Ben waits impatiently as
 N|the constable goes over to one of the Inspectors who
-N|is standing in a small group a little way off. From
-N|his viewpoint we see the constable addressing the
+N,G|is standing in a small group a little way off. From
+N,G|his viewpoint we see the constable addressing the
 N|Inspector with skeptical nods of his head in Ben's
 N|direction.
 O|
@@ -7981,13 +7980,13 @@ O|
 O|
 S,G|INT. HALL - (DUSK) - SEMI-LONG SHOT
 O|
-N|Another view of the orchestra, but the duration of it
+N,G|Another view of the orchestra, but the duration of it
 N|on the screen is much quicker.
 O|
 O|
 S,G|INT. HALL - (DUSK) - SEMI-LONG SHOT
 O|
-N|A flash of the Violins.
+N,G|A flash of the Violins.
 O|
 O| Converted to PDF by www.screentalk.org                   129.
 O|
@@ -7995,12 +7994,12 @@ O|
 O|
 S,G|INT. HALL - (NIGHT) - MEDIUM SHOT
 O|
-N|A flash of the cellos.
+N,G|A flash of the cellos.
 O|
 O|
 S,G|INT. HALL - (NIGHT) - MEDIUM SHOT
 O|
-N|A quick flash of the brass.
+N,G|A quick flash of the brass.
 O|
 O|
 S,G|INT. HALL - (NIGHT) - SEMI-CLOSEUP
@@ -8018,14 +8017,14 @@ O|
 N|The Inspector is turning to Ben, the Constable on one
 N|side. Again in pantomime the Inspector questioning
 N|the impatient Ben. He leaves Ben and goes over to the
-N|men standing outside the door to the box. Ben half-
-N|turns away with exasperation toward the CAMERA.
+N,G|men standing outside the door to the box. Ben half-
+N,G|turns away with exasperation toward the CAMERA.
 O|
 O|
 S,G|INT. HALL - (NIGHT) - MED. SHOT
 O|
-N|The conductor in the foreground.    We see a quick shot
-N|of the orchestra beyond.
+N,G|The conductor in the foreground.    We see a quick shot
+N,G|of the orchestra beyond.
 O|
 O|
 S,G|INT. HALL - (NIGHT) - MEDIUM SHOT
@@ -8040,8 +8039,8 @@ O|
 O|
 S,G|INT. HALL - (NIGHT) - CLOSEUP
 O|
-N|We see a different angle the cymbals filling the screen.
-N|CAMERA PULLS BACK quickly and the man who is to wield
+N,G|We see a different angle the cymbals filling the screen.
+N,G|CAMERA PULLS BACK quickly and the man who is to wield
 N|them unfolds his arms and uncrosses his legs. He leans
 N|forward to glance at his  score.
 O|
@@ -8050,7 +8049,7 @@ S,G|INT. UPSTAIRS CORRIDOR - (NIGHT) - SEMI-LONG SHOT
 O|
 N|Ben is still waiting for the Inspector to discuss
 N|matters with the plainclothesman. He turns and hurries
-N|away, the CAMERA PANNING him.
+N,G|away, the CAMERA PANNING him.
 O|
 O| Converted to PDF by www.screentalk.org                   130.
 O|
@@ -8071,8 +8070,8 @@ O|
 S,G|INT. HALL - (NIGHT) - SEMI-CLOSEUP
 O|
 N|In the box the Assassin places his hand for the   first
-N|time inside his coat towards his holster. The    CAMERA
-N|PULLS BACK to show the woman sitting with him,   seeing
+N,G|time inside his coat towards his holster. The    CAMERA
+N,G|PULLS BACK to show the woman sitting with him,   seeing
 N|this gesture, rising and backing away into the   dark
 N|recesses of the box.
 O|
@@ -8090,7 +8089,7 @@ O|
 O|
 S,G|INT. UPSTAIRS CORRIDOR - (NIGHT) - SEMI-LONG SHOT
 O|
-N|From his viewpoint we see rows of boxes.
+N,G|From his viewpoint we see rows of boxes.
 O|
 O|
 S,G|INT. UPSTAIRS CORRIDOR - (NIGHT) - SEMI-CLOSEUP
@@ -8101,7 +8100,7 @@ O|
 S,G|INT. UPSTAIRS CORRIDOR - (NIGHT) - MEDIUM SHOT
 O|
 N|The plainclothesmen and two uniformed policemen are
-N|now coming toward CAMERA looking for the departed Ben.
+N,G|now coming toward CAMERA looking for the departed Ben.
 O|
 O|
 S,G|INT. HALL - (NIGHT) - MEDIUM SHOT
@@ -8127,7 +8126,7 @@ O|
 O|
 S,G|INT. UPSTAIRS CORRIDOR - (NIGHT) - SEMI-CLOSEUP
 O|
-N|A closer view of Ben shows him trying another door
+N,G|A closer view of Ben shows him trying another door
 N|cautiously and surreptitiously. He looks in and then
 N|softly closes the door. He moves further along and
 N|tries another door with the same cautious movement.
@@ -8146,9 +8145,9 @@ O|
 O|
 S,G|INT. HALL - (NIGHT) - CLOSEUP
 O|
-N|From his viewpoint with the cymbals tipping the bottom
-N|of the screen, we see all his music. It is blank.
-N|The CAMERA SWIFTLY MOVES IN to the bottom of the right-
+N,G|From his viewpoint with the cymbals tipping the bottom
+N,G|of the screen, we see all his music. It is blank.
+N,G|The CAMERA SWIFTLY MOVES IN to the bottom of the right-
 N|hand page showing the one note he is to strike.
 O|
 O|
@@ -8176,7 +8175,7 @@ O|
 O|
 S,G|INT. HALL - (NIGHT) - CLOSEUP
 O|
-N|A close view of the poised gun in the Assassin's box.
+N,G|A close view of the poised gun in the Assassin's box.
 O|
 O| Converted to PDF by www.screentalk.org                  132.
 O|
@@ -8195,13 +8194,13 @@ O|
 O|
 S,G|INT. HALL - (NIGHT) - CLOSEUP
 O|
-N|The gun poised.   It fills the screen.
+N,G|The gun poised.   It fills the screen.
 O|
 O|
 S,G|INT. HALL - (NIGHT) - CLOSEUP
 O|
-N|The cymbals are held in the foreground and through
-N|them we can see the orchestra and the conductor beyond.
+N,G|The cymbals are held in the foreground and through
+N,G|them we can see the orchestra and the conductor beyond.
 N|The conductor looks up from his score and points
 N|deliberately to the cymbal player.
 O|
@@ -8246,14 +8245,14 @@ O| Converted to PDF by www.screentalk.org                 133.
 O|
 O|
 O|
-N|He immediately turns towards the CAMERA looking for a
+N,G|He immediately turns towards the CAMERA looking for a
 N|means of escape. He leaps to the edge of the box to
 N|go over into the next one. He slips.
 O|
 O|
 S,G|INT. ASSASSIN'S BOX - (NIGHT) - SEMI-LONG SHOT
 O|
-N|We see the Assassin fall with a crash into the aisle
+N,G|We see the Assassin fall with a crash into the aisle
 N|below him as Ben dashes forward in the box.
 O|
 O|
@@ -8303,7 +8302,7 @@ O|
 O|
 S,G|INT. LOBBY - (NIGHT) - SEMI-LONG SHOT
 O|
-N|We see Ben hurrying down the stairs. Jo rushes into
+N,G|We see Ben hurrying down the stairs. Jo rushes into
 N|the lobby and, seeing Ben, dashes towards him.
 O|
 O| Converted to PDF by www.screentalk.org                 134.
@@ -8311,7 +8310,7 @@ O|
 O|
 O|
 N|A few of the people around the lobby begin to look at
-N|Jo and Ben. We see the Assistant Manager hurry over
+N,G|Jo and Ben. We see the Assistant Manager hurry over
 N|to them. They are in a group of three, and although
 N|we do not actually hear what he says, due to the hubbub,
 N|he is obviously questioning Ben and being solicitous
@@ -8320,7 +8319,7 @@ O|
 O|
 S,G|INT. LOBBY - (NIGHT) - SEMI-CLOSEUP
 O|
-N|We go close just in time to catch the tail-end of the
+N,G|We go close just in time to catch the tail-end of the
 N|conversation. Ben is just saying:
 O|
 C|                      BEN
@@ -8342,7 +8341,7 @@ O|
 O|
 S,G|INT. LOBBY - (NIGHT) - SEMI-LONG SHOT
 O|
-N|From their viewpoint we see the Prime Minister,
+N,G|From their viewpoint we see the Prime Minister,
 N|obviously not wounded sufficiently to incapacitate,
 N|being escorted down the stairs by his Aide and other
 N|members of the staff, including Woburn of the Special
@@ -8350,7 +8349,7 @@ N|Branch. The Prime Minister is indicating his arm and
 N|obviously by the way he waves his hands, is deprecating
 N|their concern about his wound. In fact he is rather
 N|over-doing it. Just beyond them at the top of the
-N|stairs we see 'Buchanan' standing with the Ambassador.
+N,G|stairs we see 'Buchanan' standing with the Ambassador.
 O|
 O|
 S,G|INT. LOBBY STAIRS - (NIGHT) - SEMI-CLOSEUP
@@ -8366,7 +8365,7 @@ S,G|INT. LOBBY - (NIGHT) - SEMI-CLOSEUP
 O|
 N|The manager is leading Ben and Jo across to the foot
 N|of the stairs. They are reluctant but he insists. As
-N|the CAMERA PANS them over they meet the group at the
+N,G|the CAMERA PANS them over they meet the group at the
 N|bottom at the stairs. The manager calls out to Mr.
 N|Woburn and indicates Ben and Jo.
 O|
@@ -8420,8 +8419,8 @@ U|          Oh but it was, my dear lady.
 O|
 N|There is an awkward pause.  The Prime Minister collects
 N|himself and turns to move on out of the hall, the police
-N|making a passageway for him through the crowd. We see
-N|the Ambassador hurrying into the picture and moving
+N,G|making a passageway for him through the crowd. We see
+N,G|the Ambassador hurrying into the picture and moving
 N|across the screen quickly to follow the Prime Minister.
 O|
 O|
@@ -8442,13 +8441,13 @@ O|
 O|
 S,G|INT. LOBBY - (NIGHT) - SEMI-LONG SHOT
 O|
-N|From their viewpoint a grim 'Buchanan' is standing at
+N,G|From their viewpoint a grim 'Buchanan' is standing at
 N|the top of the stairs.
 O|
 O|
 S,G|INT. LOBBY STAIRS - (NIGHT) - SEMI-CLOSEUP
 O|
-N|The CAMERA PANS Ben and Jo up the stairs towards
+N,G|The CAMERA PANS Ben and Jo up the stairs towards
 N|'Buchanan'. They increase their pace towards him.
 O|
 O|
@@ -8465,7 +8464,7 @@ C|                      BUCHANAN
 P|              (quietly)
 U|          We can talk if you'll come in here.
 O|
-N|The CAMERA PANS the three across the top landing and
+N,G|The CAMERA PANS the three across the top landing and
 N|to the doors of the 'Green Room' There are various
 N|police standing about and some of Special Branch men
 N|can be seen inside the room. 'Buchanan' steps aside
@@ -8555,7 +8554,7 @@ O|
 O|
 S,G|INT. EMBASSY - (NIGHT) - MED. SHOT
 O|
-N|A high CAMERA shows us a large hallway and ornate
+N,G|A high CAMERA shows us a large hallway and ornate
 N|ballroom.
 O|
 O| Converted to PDF by www.screentalk.org                138.
@@ -8564,9 +8563,9 @@ O|
 O|
 N|As yet the room is about quarter filled and various
 N|guests of the Diplomatic Corps and others are gradually
-N|adding to the group. The CAMERA DOLLIES DOWN over
-N|them until it reaches slightly open doorway. Peering
-N|cautiously through we see the face of Drayton.
+N,G|adding to the group. The CAMERA DOLLIES DOWN over
+N,G|them until it reaches slightly open doorway. Peering
+N,G|cautiously through we see the face of Drayton.
 O|
 O|
 S,G|INT. EMBASSY - (NIGHT) - MED. CLOSE SHOT
@@ -8578,9 +8577,9 @@ O|
 C|                         FOOTMAN
 U|             His Excellency will see you now.
 O|
-N|Drayton motions to his wife and the CAMERA PANS them
+N,G|Drayton motions to his wife and the CAMERA PANS them
 N|after the footman across a small hallway. He is the
-N|very same footman we saw among the group of servants
+N,M|very same footman we saw among the group of servants
 N|who were herded out of the kitchen. He opens a door
 N|in front of the Draytons -- they enter.
 O|
@@ -8589,7 +8588,7 @@ S,G|INT. EMBASSY - (NIGHT) - MED. CLOSE SHOT
 O|
 N|Standing in front of a fireplace, above which is an
 N|oil painting of the Prime Minister, is the Ambassador
-N|whom we saw at the Albert Hall. He is on the telephone.
+N,M|whom we saw at the Albert Hall. He is on the telephone.
 O|
 C|                         AMBASSADOR
 U|             Yes...yes...I see. Well if the woman
@@ -8601,7 +8600,7 @@ S,G|INT. EMBASSY - (NIGHT) - MED. CLOSE SHOT
 O|
 N|Mrs. Drayton closes the door behind the two as Drayton
 N|advances towards the Ambassador with an easy manner,
-N|the CAMERA PANNING him.
+N,G|the CAMERA PANNING him.
 O|
 C|                          DRAYTON
 P|                 (Easily)
@@ -8943,7 +8942,7 @@ O|
 O|
 S,G|INT. EMBASSY - (NIGHT) - CLOSE SHOT
 O|
-S,G|In the Ambassador's study underneath the oil painting
+S|In the Ambassador's study underneath the oil painting
 N|of himself, the Prime Minister is escorted to a
 N|telephone by the butler who hands him the instrument.
 N|Having been told who was on the other and of the line
@@ -9032,7 +9031,7 @@ O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM CLOSE SHOT
 O|
 N|The Aide leads Ben and Jo through the main room, the
-N|CAMERA DOLLIES them. As they move through the room
+N,G|CAMERA DOLLIES them. As they move through the room
 N|people begin to notice them, first of all because they
 N|are not dressed for the occasion -- but then the looks
 N|seem to be admiring ones, and there is a smattering of
@@ -9128,7 +9127,7 @@ O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM CLOSE SHOT
 O|
 N|Discreetly, Ben moves away from the group, and over
-N|toward a side wall, the CAMERA PANNING HIM. All eyes
+N,G|toward a side wall, the CAMERA PANNING HIM. All eyes
 N|are on Jo.
 O|
 O|
@@ -9165,8 +9164,8 @@ O|
 S,G|INT. EMBASSY - (NIGHT) - CLOSE SHOT
 O|
 N|Having strummed a few notes, Jo settles down and plays
-N|the introduction to her song. We see the great
-N|tenseness on her face, interposed with Professional
+N,G|the introduction to her song. We see the great
+N,G|tenseness on her face, interposed with Professional
 N|smiles, which she bestows on those nearest her, but
 N|always the tenseness returns. As she sings, her voice
 N|seem to be rather overpowering. It fills the whole
@@ -9312,8 +9311,8 @@ O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM CLOSE SHOT
 O|
 N|Jo continues her song with almost excitement in her
-N|singing voice. The CAMERA passes around her as it
-N|follows Ben as he walks along the wall slowly.
+N,G|singing voice. The CAMERA passes around her as it
+N,G|follows Ben as he walks along the wall slowly.
 O|
 O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM CLOSE SHOT
@@ -9395,7 +9394,7 @@ O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM CLOSE SHOT
 O|
 N|Ban stands in the doorway. He instantly rushes toward
-N|Hank, the CAMERA PANNING him. Hank leaps to his feet,
+N,G|Hank, the CAMERA PANNING him. Hank leaps to his feet,
 N|and the two of them come together. No clear words are
 N|spoken, Just muffled sounds of words as they hug each
 N|other. Then they release each other, and turn to look
@@ -9405,7 +9404,7 @@ O|
 O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM CLOSE SHOT
 O|
-N|Framed in the doorway is Drayton. Deftly he reaches
+N,G|Framed in the doorway is Drayton. Deftly he reaches
 N|into his pocket and produces a small automatic.
 O|
 O|
@@ -9504,16 +9503,16 @@ O|
 O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM SHOT
 O|
-N|SHOOTING FROM BELOW we see the big staircase empty for
+N,G|SHOOTING FROM BELOW we see the big staircase empty for
 N|a moment, then the three appear at the top.
 O|
 O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM CLOSE SHOT
 O|
-N|A closer view shows the terrified, tear-stained face
+N,G|A closer view shows the terrified, tear-stained face
 N|of Hank, and the tense features of Ben. Drayton seems
-N|carefully alert. The CAMERA MOVES DOWNWARD in front
-N|of them as they descend. The music coming from the
+N,G|carefully alert. The CAMERA MOVES DOWNWARD in front
+N,G|of them as they descend. The music coming from the
 N|ballroom ceases, as Jo finishes her second song. There
 N|is the sound of great applause. The three are about a
 N|dozen steps from the bottom, when suddenly Ben shoots
@@ -9535,8 +9534,8 @@ O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM CLOSE SHOT
 O|
 N|As people crowd excitedly around the body, Ben is
-N|hurrying Hank away from the scene, the CAMERA PANS
-N|them.
+N,G|hurrying Hank away from the scene, the CAMERA PANS
+N,G|them.
 O|
 O|
 S,G|INT. EMBASSY - (NIGHT) - MEDIUM SHOT
