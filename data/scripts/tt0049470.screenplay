@@ -1537,7 +1537,7 @@ O|
 O|
 S,G|INT. ARAB RESTAURANT - (NIGHT) - MED. CLOSE SHOT
 O|
-G|Another angle, featuring the man, and Ben.
+N,G|Another angle, featuring the man, and Ben.
 O|
 C|                      MRS. DRAYTON
 U|          I'm Lucy Drayton, and this is my
@@ -2395,7 +2395,7 @@ O|
 O|
 S,G|EXT. MARKET PLACE - (DAY) - MEDIUM SHOT
 O|
-G|A closer, level shot, the CAMERA PANNING, shows, the
+N,G|A closer, level shot, the CAMERA PANNING, shows, the
 N|two breathless men closing in on each other. As they
 N|reach an intersection in the streets, lighted by a
 N|shaft of sunlight, the new Arab comes up behind the
