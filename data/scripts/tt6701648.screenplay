@@ -74,7 +74,7 @@ N|               line just past the outstretched glove of the THIRD BASEMAN.
 N|               The ball gains a little altitude and then drops into the             
 N|               corner of the Pony League field.                                     
 O|
-G|               ON CHARLIE                                                           
+N,G|               ON CHARLIE                                                           
 O|
 N|               He rounds first heading to second, keeps going, rounds third,        
 N|               and tears up the base path toward home plate.                        
@@ -419,7 +419,7 @@ N|               starts to overflow. The Tall Bald Man doesn’t seem to care,
 N|               gas spilling at his feet, as he watches Charlie’s car pull           
 N|               out.                                                                 
 O|
-G|               ON CHARLIE                                                           
+N,G|               ON CHARLIE                                                           
 O|
 N|               What is wrong with that guy?                                         
 O|
@@ -790,7 +790,7 @@ N|               raccoon.  And then it starts again:
 O|
 N|               THE SKY ERUPTS IN ANOTHER LIGHT SHOW.                                
 O|
-G|               ON THE FATHER                                                        
+N,G|               ON THE FATHER                                                        
 O|
 N|               Looking to the sky. Light dancing on his face. And then the          
 N|               rain starts to fall.                                                 
@@ -869,7 +869,7 @@ U|                         Maybe we can hit some balls later.
 O|
 N|               And with that, Charlie is gone.                                      
 O|
-G|               ON THE FATHER                                                        
+N,G|               ON THE FATHER                                                        
 O|
 N|               He doesn’t even turn to Charlie. The Father works some metal         
 N|               piece with an electric sander. Sparks jump all over the              
@@ -1825,7 +1825,7 @@ N|               small of her back, her shoulders and her neck.
 O|
 N|               But The Mother sleeps.                                               
 O|
-G|               CLOSE ON A DIGITAL ALARM CLOCK                                       
+N,G|               CLOSE ON A DIGITAL ALARM CLOCK                                       
 O|
 N|               Flickering. It’s 3:14 A.M.                                           
 O|
@@ -1847,7 +1847,7 @@ O|
 N|               The Father Thing finally looks away and the men move together        
 N|               silently down the street.                                            
 O|
-G|               ON CHARLIE                                                           
+N,G|               ON CHARLIE                                                           
 O|
 N|               Who can I trust?                                                     
 T|                                                              FADE OUT.             
@@ -2096,7 +2096,7 @@ N|               The Man on the Roof takes one more step back and then:
 O|
 N|               He jumps.                                                            
 O|
-G|               ON CHARLIE                                                           
+N,G|               ON CHARLIE                                                           
 O|
 N|               Holy shit!                                                           
 O|
@@ -2666,7 +2666,7 @@ O|
 C|                                   HENRY                                            
 U|                         I’m sorry, Charlie.                                        
 O|
-G|               ON CHARLIE                                                           
+N,G|               ON CHARLIE                                                           
 O|
 N|               The world is spinning behind him. Because he and Henry are           
 N|               sitting on a ROUNDABOUT on a NEIGHBORHOOD PLAYGROUND at              
@@ -2733,7 +2733,7 @@ O|
 N|               The Mother kisses him. And as she walks away, he touches the         
 N|               small of her back. It is a strange intimacy.                         
 O|
-G|               ON THE BOYS - RESUME                                                 
+N,G|               ON THE BOYS - RESUME                                                 
 O|
 N|               Henry shakes his head.                                               
 C|                                   HENRY                                            
@@ -3006,7 +3006,7 @@ O|
 N|               The Boys are sickened, afraid. They start hopping around and         
 N|               yelling.                                                             
 O|
-G|               ON THE UGLY THING                                                    
+N,G|               ON THE UGLY THING                                                    
 N|               Scurrying. Angry as hell--                                           
 O|
 N|               WHAP!                                                                
@@ -3082,7 +3082,7 @@ O|
 C,E|                                   CHARLIE (CONT’D)                                 
 U|                         I think my father would be proud of                        
 U|                         me.                                                        
-G|               ANGLE ON THE COMPUTER SCREEN                                         
+N,G|               ANGLE ON THE COMPUTER SCREEN                                         
 O|
 O|
 O|                                                                     61.            

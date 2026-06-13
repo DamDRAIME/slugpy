@@ -209,7 +209,7 @@ M|alien.]
 O|
 S|EXT: SUBURBAN HOUSE: NIGHT
 O|
-G|[This is an establishing shot.]
+N,G|[This is an establishing shot.]
 O|
 S|INT: ELLIOTT'S HOUSE: NIGHT
 O|
@@ -840,7 +840,7 @@ M|audience. The antagonist is getting closer to the home of the protagonist.]
 O|
 S|EXT: ELLIOTT`S HOUSE: NIGHT
 O|
-G|[This is an establishing shot.]
+N,G|[This is an establishing shot.]
 O|
 S|INT: ELLIOTT`S HOUSE: NIGHT
 O|
@@ -1089,9 +1089,9 @@ M|attempting the same process of communication. The situation also creates
 M|expectations in the audience that similar things will happen to E.T. once
 M|he is captured.]
 O|
-G|CLOSEUP: FROG'S FACE
+N,G|CLOSEUP: FROG'S FACE
 O|
-G|CLOSEUP: E.T.'S FACE
+N,G|CLOSEUP: E.T.'S FACE
 O|
 M|[A cinematic technique which reinforces the identification of the frog with
 M|E.T. This sets up the audience for E.T.'s operation. They expect the frog
@@ -1911,7 +1911,7 @@ N|Men with welding torches work on a truck. The plastic tunnel leads up the
 N|driveway to Elliott's house. The faces of the men are still not shown. They
 N|are either wearing helmets or are silhouettes.
 O|
-G|CLOSEUP
+N,G|CLOSEUP
 O|
 N|The man with keys jangling on his side is putting on a pair of light-blue
 N|pants.

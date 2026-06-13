@@ -155,13 +155,13 @@ O|
 C|                                   MS. HAGBLOOM                                     
 U|                         What’d you do this time?                                   
 O|
-G|               ANGLE ON ETHELRIDA                                                   
+N,G|               ANGLE ON ETHELRIDA                                                   
 O|
 N|               It’s clear she gets dragged to the principal’s office a lot.         
 O|
 C|                                   ETHELRIDA                                        
 U|                         I been maligned.                                           
-G|               BEHIND HAGBLOOM                                                      
+N,G|               BEHIND HAGBLOOM                                                      
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -180,7 +180,7 @@ U|                         My point being, the moment our feet
 U|                         touched American soil we were                              
 U|                         already criminals.                                         
 O|
-G|               ANGLE ON PRINCIPAL CRISCOE                                           
+N,G|               ANGLE ON PRINCIPAL CRISCOE                                           
 N|               as he comes to his office door, holding the paddle. He’s             
 N|               sweating, out of breath. He brushes his comb over into place         
 N|               and glowers at Ethelrida, while the beaten student shuffles          
@@ -284,7 +284,7 @@ C,E|                                   ETHELRIDA (V.O.)
 U|                         To keep the peace, the boss of each                        
 U|                         family gave offer of his youngest                          
 U|                         son in trade.                                              
-G|               ANGLE ON YIDDLES                                                     
+N,G|               ANGLE ON YIDDLES                                                     
 O|
 N,I|               who pushes his own son, PATRICK, 7, out to meet Ari. Patrick         
 N|               wears A CAP that’s too large for him.                                
@@ -296,7 +296,7 @@ U|                         The thinkin’ was -- by raisin’ your
 U|                         enemy’s offspring an understandin’                         
 U|                         could be reached, and peace                                
 U|                         maintained.                                                
-G|               ANGLE ON BOSS MOSKOWITZ                                              
+N,G|               ANGLE ON BOSS MOSKOWITZ                                              
 O|
 N|               who beckons the Irish lad over. Patrick approaches                   
 N|               reluctantly. Moskowitz pinches his cheek.                            
@@ -307,7 +307,7 @@ P|                             (in Yiddish)
 U|                         Bist shoyn eyner fun undz.                                 
 N|               You’re one of us now.                                                
 O|
-G|               ANGLE ON YIDDLES                                                     
+N,G|               ANGLE ON YIDDLES                                                     
 O|
 N|               The scar on his face is old, the memory of a fight from his          
 N|               youth barely won. These days though he wins them all -- one          
@@ -320,7 +320,7 @@ C|                                   YIDDLES
 U|                         Put some hair on yer bollocks.                             
 N|               The boy drinks. Everybody cheers.                                    
 O|
-G|               ANGLE ON LIEV MOSKOWITZ                                              
+N,G|               ANGLE ON LIEV MOSKOWITZ                                              
 O|
 N|               With murder in his eyes, he watches this scarred gentile             
 N|               corrupt his son.                                                     
@@ -341,7 +341,7 @@ C,E|                                   ETHELRIDA (V.O.)
 U|                         See, the problem wasn’t that I was                         
 U|                         disreputable.                                              
 O|
-G|               ANGLE ON MS. HAGBLOOM                                                
+N,G|               ANGLE ON MS. HAGBLOOM                                                
 O|
 N|               Same sour expression.                                                
 C|                                   MS. HAGBLOOM                                     
@@ -356,7 +356,7 @@ U|                         I was, in fact, a student of
 U|                         exceptional virtue and high                                
 U|                         achievement.                                               
 O|
-G|               ANGLE ON PRINCIPAL CRISCOE                                           
+N,G|               ANGLE ON PRINCIPAL CRISCOE                                           
 N|               He steps into the doorway, paddle in hand and glares at              
 N|               Ethelrida.                                                           
 O|
@@ -393,17 +393,17 @@ N,G,I|               PAST THEM to the back, where Patrick Milligan (we recognize
 N,I|               the cap), now 12, sneaks past the guards and OPENS THE BACK          
 N|               DOOR -- letting in A DOZEN IRISH MEN with TOMMY GUNS.                
 O|
-G|               CLOSE UP ON YOUNG PATRICK                                            
+N,G|               CLOSE UP ON YOUNG PATRICK                                            
 O|
 N,G|               The tattered CAP from his youth almost fits him now. We PUSH         
 N,G|               IN ON HIM as the men move past him, just dark blurs. He looks        
 N|               nervous, but also filled with a rightness of purpose.                
-G|               ANGLE ON THE CLUB                                                    
+N,G|               ANGLE ON THE CLUB                                                    
 O|
 N|               as the Irish OPEN FIRE on the MOSKOWITZ CONTINGENCY. It’s a          
 N|               massacre.                                                            
 O|
-G|               CLOSE UP ON PATRICK                                                  
+N,G|               CLOSE UP ON PATRICK                                                  
 O|
 N,I,G|               flinching at the gunfire. A MAN steps into frame. The CAMERA         
 N,G|               RISES. It’s Yiddles. He pats Patrick on the head.                    
@@ -441,7 +441,7 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 WHITE PRODUCTION DRAFT - 11/18/19 7.
 O|
-G|               ANGLE ON PATRICK                                                     
+N,G|               ANGLE ON PATRICK                                                     
 N|               still just a child. The boy on the floor cries, looking up at        
 N|               him. But there is no room for childhood here. Patrick knows          
 N|               what he has to do. But he can’t.                                     
@@ -454,7 +454,7 @@ C,E|                                   YIDDLES (CONT'D)
 U|                         Chew him up.                                               
 O|
 N|               He squeezes his son’s hand, hurting him.                             
-G|               ANGLE ON THE TRIGGER                                                 
+N,G|               ANGLE ON THE TRIGGER                                                 
 O|
 N|               As Yiddles forces Patrick to pull it.                                
 O|
@@ -464,7 +464,7 @@ C,E|                                   ETHELRIDA (V.O.)
 U|                         Logic dictates that in every fight                         
 U|                         there is a winner and a loser.                             
 O|
-G|               AN OVERHEAD ANGLE                                                    
+N,G|               AN OVERHEAD ANGLE                                                    
 N|               of the massacre. As the Irish search the bodies of their             
 N|               enemies for valuables.                                               
 O|
@@ -501,7 +501,7 @@ U|                         boat -- finding the doors of honest
 U|                         capital closed -- rolled up their                          
 U|                         sleeves and got to work gettin’                            
 U|                         rich the old fashioned way.                                
-G|               CLOSE UP ON DONATELLO                                                
+N,G|               CLOSE UP ON DONATELLO                                                
 O|
 N|               A first generation immigrant from Sardinia, Donatello made           
 N|               enough money killing anarchists for the Italian government to        
@@ -515,7 +515,7 @@ N|               ate the plaster from the walls, once ate the laces from his
 N|               shoes. He has come to America to slay all the fattened calfs,        
 N|               to gorge on their flesh and banish hunger from his world.            
 O|
-G|               ANGLE ON YIDDLES                                                     
+N,G|               ANGLE ON YIDDLES                                                     
 O|
 N|               The Irish King of Kansas City, our disfigured, snake-                
 N|               charming, back-stabber. He SPITS into his hand, offers it to         
@@ -530,7 +530,7 @@ N|               each other.
 O|
 N,I|               Donatello PUSHES FORWARD his son, JOSTO, 15. A handsome boy,         
 N|               confident, ready to do his part for the family.                      
-G|               ANGLE ON YIDDLES                                                     
+N,G|               ANGLE ON YIDDLES                                                     
 O|
 N,I|               He has a new son, MICHAEL, 8, on his left. Yiddles reaches           
 N|               for him, then lowers his hand.                                       
@@ -538,7 +538,7 @@ O|
 N,I|               With his right hand he PUSHES 15-year-old PATRICK towards the        
 N|               Italians.                                                            
 O|
-G|               ANGLE ON PATRICK                                                     
+N,G|               ANGLE ON PATRICK                                                     
 O|
 N|               Shoved. He seems stunned, still just a kid. He looks at              
 N|               Yiddles. His eyes say -- Didn’t I do my part? Can’t I come           
@@ -549,7 +549,7 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 Yellow Rev. - 11/18/19 9. 
 O|
-G|               ANGLE ON YIDDLES                                                     
+N,G|               ANGLE ON YIDDLES                                                     
 N|               His face cold.                                                       
 O|
 C|                                   YIDDLES                                          
@@ -559,13 +559,13 @@ O|
 N|               Patrick turns, abandoned, trying not to cry, and crosses             
 N|               towards Josto.                                                       
 O|
-G|               ANGLE ON DONATELLO                                                   
+N,G|               ANGLE ON DONATELLO                                                   
 O|
 N|               who sits at a table out of the light, smoking, his face              
 N,G|               shadowed by his hat. We PUSH IN ON HIM from Patrick’s point          
 N,G|               of view. Fadda is a much scarier figure than Moskowitz. Like         
 N|               a tiger in a field, faster than you’ll ever be.                      
-G|               ANGLE ON TEENAGE PATRICK                                             
+N,G|               ANGLE ON TEENAGE PATRICK                                             
 O|
 N|               He reminds himself that the last five years have made him            
 N|               strong, swallows his fear and approaches the Italians.               
@@ -573,12 +573,12 @@ O|
 N|               As Josto and Patrick pass each other, things slow down. Josto        
 N|               puckers his lips at the Irish boy, kisses air, as if to say          
 N|               I’ll see you soon.                                                   
-G|               CLOSE UP ON PATRICK                                                  
+N,G|               CLOSE UP ON PATRICK                                                  
 O|
 N|               He is beginning to worry that getting rid of the Italians            
 N|               won’t be as easy as killing Jews.                                    
 O|
-G|               ANGLE ON DONATELLO                                                   
+N,G|               ANGLE ON DONATELLO                                                   
 O|
 N|               who looks up from under his hat and smiles at Patrick.               
 O|
@@ -703,7 +703,7 @@ N|               As he does -- JOSTO SNEAKS UP BEHIND the OTHER GUARD and
 N|               STABS HIM with his whittling knife. Then A DOZEN ITALIAN MEN         
 N|               with TOMMY GUNS file in silently, past Patrick.                      
 O|
-G|               CLOSE UP ON PATRICK                                                  
+N,G|               CLOSE UP ON PATRICK                                                  
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -713,7 +713,7 @@ O|
 N|               As before. His breathing slows. He looks changed now, all the        
 N,G|               innocence of youth gone. We PUSH IN ON HIS FACE as the men           
 N|               move past him, just dark blurs.                                      
-G|               ANGLE ON THE CLUB                                                    
+N,G|               ANGLE ON THE CLUB                                                    
 O|
 N|               as the Italians FLOOD IN.                                            
 O|
@@ -722,7 +722,7 @@ U|                         What the fuck?
 O|
 N|               The Irish scramble for their guns, but -- too late -- the            
 N|               Italians OPEN FIRE. It’s carnage.                                    
-G|               ANGLE ON PATRICK                                                     
+N,G|               ANGLE ON PATRICK                                                     
 O|
 N|               This time when the machine guns fire he doesn’t flinch, just         
 N|               savors his revenge on the man who made him but refused to            
@@ -734,7 +734,7 @@ P|                             (in Italian)
 U|                         Well done, Rabbi. Come.                                    
 O|
 N|               Donatello leads Milligan through the bodies.                         
-G|               ANGLE ON THE CLUB                                                    
+N,G|               ANGLE ON THE CLUB                                                    
 O|
 N,G|               Irish bodies everywhere. We PUSH THROUGH THEM and RISE to            
 N|               reveal --                                                            
@@ -758,7 +758,7 @@ O|
 N|               Patrick Milligan (from here on to be known as RABBI MILLIGAN)        
 N|               takes the gun. He points it at his father.                           
 O|
-G|               CLOSE UP ON YIDDLES                                                  
+N,G|               CLOSE UP ON YIDDLES                                                  
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -774,7 +774,7 @@ O|            F A R G O #401 Pink Rev. - 11/18/19 13.
 O|
 C|                                   YIDDLES                                          
 U|                         A curse on you -- agus do leanaí.                          
-G|               CLOSE UP ON RABBI MILLIGAN                                           
+N,G|               CLOSE UP ON RABBI MILLIGAN                                           
 O|
 N|               His earlier hesitation is gone. Today he is a man. He pulls          
 N|               the trigger.                                                         
@@ -836,7 +836,7 @@ N|               them a life insurance policy or give them home owner’s
 N|               insurance.                                                           
 O|
 N|               Welcome to the Alternate Economy.                                    
-G|               ANGLE ON DONATELLO FADDA                                             
+N,G|               ANGLE ON DONATELLO FADDA                                             
 O|
 N|               (now in his 60s) as he steps forward to meet Loy Cannon. The         
 N|               two men study each other.                                            
@@ -849,11 +849,11 @@ O|
 N|               His MEN APPEAR from doorways, some crossing the street. Some         
 N|               are BEHIND the Faddas. A tense moment, then Loy’s men                
 N|               assemble together behind Loy, facing Donatello.                      
-G|               ANGLE ON DONATELLO                                                   
+N,G|               ANGLE ON DONATELLO                                                   
 O|
 N|               He smiles, SPITS in his hand, offers it to Cannon.                   
 O|
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 N|               He smiles.                                                           
 O|
@@ -874,7 +874,7 @@ U|                         we should do this like men.
 N|               He CUTS his left palm, offers the knife to Fadda so he can           
 N|               cut his.                                                             
 O|
-G|               ANGLE ON FADDA                                                       
+N,G|               ANGLE ON FADDA                                                       
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -890,14 +890,14 @@ N|               Which translates as -- look, the boy thinks he is a man.
 O|
 N|               The ITALIANS LAUGH.                                                  
 O|
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 N|               He doesn’t like being laughed at. He looks at Fadda.                 
 C|                                   LOY CANNON                                       
 U|                         Serious business calls for serious                         
 U|                         men. You a serious man?                                    
 O|
-G|               ANGLE ON CANNON’S MEN                                                
+N,G|               ANGLE ON CANNON’S MEN                                                
 O|
 N|               Behind Loy, guns in hand. They are hungrier than the                 
 N|               Italians, up-and-coming capitalists with nothing to lose.            
@@ -924,7 +924,7 @@ O|
 N|               From their faces it’s clear they don’t like being laughed at         
 N|               any more than their boss.                                            
 O|
-G|               ANGLE ON FADDA’S MEN                                                 
+N,G|               ANGLE ON FADDA’S MEN                                                 
 O|
 N,G|               Facing them, still laughing with disdain. We see --                  
 N,I|               JOSTO FADDA (now 35) -- Fadda’s son, the golden boy.                 
@@ -1135,7 +1135,7 @@ P|                             (beat)
 U|                         He’s your boy. There’s gotta be                            
 U|                         somethin less we can risk.                                 
 O|
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 N|               He thinks about that. If he truly believed he was going to           
 N|               lose to the Faddas he would take a different path, but he’s          
@@ -1149,7 +1149,7 @@ O|
 N|               Satchel nods. He’s trying to be brave. He walks to the center        
 N|               of the room.                                                         
 O|
-G|               ANGLE ON DONATELLO                                                   
+N,G|               ANGLE ON DONATELLO                                                   
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -1204,7 +1204,7 @@ U|                         And here’s what you need to know
 U|                         about the people in that room. None                        
 U|                         of `em were white.                                         
 O|
-G|               ANGLES AROUND THE ROOM                                               
+N,G|               ANGLES AROUND THE ROOM                                               
 N|               As we take in the various players of this American                   
 N|               underworld.                                                          
 O|
@@ -1404,7 +1404,7 @@ U|                         You take the follow car.
 O|
 N|               He walks off, leaving Milligan with Calamita.                        
 O|
-G|               ANGLE ON MILLIGAN                                                    
+N,G|               ANGLE ON MILLIGAN                                                    
 N|               He could kill them all where they stand, but he is trying to         
 N|               be a spiritually enlightened being, to transform his pain and        
 N,G|               betrayal into wisdom, not violence. But as we look at him            
@@ -1425,7 +1425,7 @@ O|
 N|               Calamita, standing near the Rabbi, pulls the AXE from the            
 N|               block, ready to act if Milligan’s words are forbidden.               
 O|
-G|               CLOSE UP ON THE RABBI                                                
+N,G|               CLOSE UP ON THE RABBI                                                
 O|
 N|               He sees the danger he’s in, but he knows it’s important to           
 N|               finish the lesson.                                                   
@@ -1437,7 +1437,7 @@ O|            F A R G O #401 Yellow Rev. - 11/18/19 25.
 O|
 C|                                   RABBI MILLIGAN                                   
 U|                         It’s not a team sport. Understand?                         
-G|               ANGLE ON SATCHEL                                                     
+N,G|               ANGLE ON SATCHEL                                                     
 O|
 N|               He kind of does, but he’s too young to really absorb the             
 N|               lesson. Then Josto SMACKS Satchel in the back of the head.           
@@ -1445,7 +1445,7 @@ O|
 C|                                   JOSTO                                            
 U|                         Get a move on.                                             
 O|
-G|               ANGLE ON CALAMITA                                                    
+N,G|               ANGLE ON CALAMITA                                                    
 O|
 N,M|               He menaces the Rabbi with the axe -- we really think he may          
 N,M|               kill him -- then he smiles                                           
@@ -1461,7 +1461,7 @@ O|
 N|               TWO LARGE FOUR DOOR CADILLACS cuts through the Missouri              
 N,G|               landscape. In the BACKSEAT of the lead car we see LOY CANNON         
 N|               and ZERO FADDA. In front sits OPAL RACKLEY and LEON BITTLE.          
-G|               ANGLE ON LOY CANNON                                                  
+N,G|               ANGLE ON LOY CANNON                                                  
 O|
 N,I|               Sitting in the back with Zero (7). On the other side of the          
 N,I|               boy is LEMUEL CANNON (22), Loy’s oldest son. We hear:                
@@ -1507,7 +1507,7 @@ U|                         abattoirs. Why not just take ‘em?
 O|
 S|       C23     INT. LOY’S OFFICE. APEX VENDING MACHINES. KANSAS CITY - DAY  C23     
 O|
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 N|               in his office.                                                       
 O|
@@ -1532,7 +1532,7 @@ U|                         are, right back in the ocean.
 O|
 S|       D23     INT. CANNON CAR (TRAVELING) - DAY                            D23     
 O|
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 N|               in the car, on his way to meet his enemy. He wants what he           
 N|               said to be true, but he’s not convinced.                             
@@ -1582,7 +1582,7 @@ S|       27      INT. FADDA CAR (STOPPED) - CONTINUOUS                         2
 O|
 N|               As they wait. Calamita doesn’t like unexpected stops.                
 O|
-G|               ANGLE ON MILLIGAN                                                    
+N,G|               ANGLE ON MILLIGAN                                                    
 N|               In the follow car. He’s on alert as well.                            
 O|
 N|               A LONG BEAT                                                          
@@ -1609,7 +1609,7 @@ N|               TWO BOYS -- Satchel and Zero. They play together.
 O|
 N,G|               Around the edge of the playground we see Fadda and Cannon’s          
 N|               men, standing guard.                                                 
-G|               ANGLE ON JOSTO                                                       
+N,G|               ANGLE ON JOSTO                                                       
 O|
 N|               He smokes a cigarette. We FIND --                                    
 O|
@@ -1631,7 +1631,7 @@ C|                                   DONATELLO
 U|                         Boys are boys. But he cleans his                           
 U|                         plate. He says sir.                                        
 O|
-G|               ANGLE ON ZERO                                                        
+N,G|               ANGLE ON ZERO                                                        
 N|               He sits on one end of a seesaw.                                      
 O|
 C|                                   ZERO                                             
@@ -1653,7 +1653,7 @@ O|            F A R G O #401 Green Rev. - 11/18/19 29.
 O|
 N|               Paolo goes over and gets on the other side of the seesaw. Up         
 N|               and down they go.                                                    
-G|               ANGLE ON LOY CANNON                                                  
+N,G|               ANGLE ON LOY CANNON                                                  
 O|
 N|               He watches Donatello shell peanuts.                                  
 O|
@@ -1709,7 +1709,7 @@ O|
 C|                                   LOY CANNON                                       
 U|                         Nah. I’m still skinny. And there’s                         
 U|                         so much left to eat.                                       
-G|               ANGLE ON JOSTO                                                       
+N,G|               ANGLE ON JOSTO                                                       
 O|
 N|               smoking his cigarette, bored. He wanders over to Lemuel, who         
 N|               stands with Opal Rackley and Leon Bittle.                            
@@ -1754,7 +1754,7 @@ O|
 C|                                   CONSTANT CALAMITA                                
 U|                         Boss. It’s a playground.                                   
 O|
-G|               ANGLE ON THE BENCH                                                   
+N,G|               ANGLE ON THE BENCH                                                   
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -1785,7 +1785,7 @@ N|               Satchel nods. He points.
 O|
 C|                                   SATCHEL                                          
 U|                         He helps me.                                               
-G|               ANGLE ON RABBI MILLIGAN                                              
+N,G|               ANGLE ON RABBI MILLIGAN                                              
 O|
 N|               He stands alone, away from both families, on alert.                  
 O|
@@ -1831,7 +1831,7 @@ U|                         business and making sure my people
 U|                         are safe. You wanna start murderin                         
 U|                         children? Last time I checked you                          
 U|                         had more than me.                                          
-G|               ANGLE ON DONATELLO                                                   
+N,G|               ANGLE ON DONATELLO                                                   
 O|
 N|               Beat. He smiles.                                                     
 O|
@@ -1845,7 +1845,7 @@ U|                         Calm down. There’s no anger here.
 U|                         Just business.                                             
 P|                             (calls in Italian)                                     
 U|                         All right. My balls are freezing.                          
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 N|               He isn’t used to being dismissed and he doesn’t like it. He          
 N|               watches as --                                                        
@@ -1873,7 +1873,7 @@ O|
 C|                                   LEMUEL                                           
 U|                         That don’t even make sense.                                
 O|
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -1882,12 +1882,12 @@ O|            F A R G O #401 Yellow Rev. - 11/18/19 33.
 O|
 N|               Watching his son be led away and put in the car. He’s not            
 N|               going to put up with this arrangement much longer.                   
-G|               ANGLE ON MILLIGAN                                                    
+N,G|               ANGLE ON MILLIGAN                                                    
 O|
 N|               who shuts the car door behind the boy, looks up. He meets            
 N|               Loy’s eye, tips his hat.                                             
 O|
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 N|               as his men come over.                                                
 O|
@@ -2022,7 +2022,7 @@ O|                              © 2018 FX Productions, LLC. All rights reserved
 O|            F A R G O #401 Yellow Rev. - 11/18/19 36.
 O|
 N|               Beat. Donatello stares at him. It is a death stare.                  
-G|               CLOSE UP ON JOSTO                                                    
+N,G|               CLOSE UP ON JOSTO                                                    
 O|
 N|               Realizing his mistake, his testicles retract.                        
 O|
@@ -2031,7 +2031,7 @@ O|
 N|               The CROSSING GUARD shepherds a large group of kids across the        
 N|               street.                                                              
 O|
-G|               ANGLE ON ANTOON DUMINI                                               
+N,G|               ANGLE ON ANTOON DUMINI                                               
 N,M|               Driver of the lead car, waiting. Time is passing. (We’ve             
 M|               stopped at this crosswalk twice now. It’s clear SOMETHING IS         
 M|               ABOUT TO HAPPEN.)                                                    
@@ -2047,7 +2047,7 @@ N|               He turns, looks around -- worried they’re too exposed.
 O|
 N|               He sees --                                                           
 O|
-G|               ANGLE ON THE STREETS                                                 
+N,G|               ANGLE ON THE STREETS                                                 
 O|
 N,G|               From Milligan’s POV. HAPPY PARENTS reunite with their kids.          
 O|
@@ -2061,11 +2061,11 @@ O|
 N|               stand under the shelter, waiting. One of them glances over at        
 N|               Milligan’s car.                                                      
 O|
-G|               CLOSE UP ON MILLIGAN                                                 
+N,G|               CLOSE UP ON MILLIGAN                                                 
 O|
 N|               This could be an ambush.                                             
 O|
-G|               ANGLE ON CONSTANT CALAMITA                                           
+N,G|               ANGLE ON CONSTANT CALAMITA                                           
 O|
 N|               In the front seat of THE LEAD CAR.                                   
 O|
@@ -2084,7 +2084,7 @@ U|                         Andiamo!
 O|
 N|               The crossing guard jumps, shoots him a dirty look.                   
 O|
-G|               ANGLE ON JOSTO                                                       
+N,G|               ANGLE ON JOSTO                                                       
 O|
 N|               in the backseat. He knows he overstepped.                            
 C|                                   JOSTO                                            
@@ -2092,7 +2092,7 @@ U|                         Pop. I didn’t mean --
 O|
 N|               But he stops, seeing how worked up his father is getting.            
 O|
-G|               CLOSE UP ON DONATELLO                                                
+N,G|               CLOSE UP ON DONATELLO                                                
 O|
 N|               His eyes glare, spittle forming in the corners of his mouth.         
 O|
@@ -2105,7 +2105,7 @@ S|       35      INT. FADDA FOLLOW CAR (STOPPED) - SAME TIME                   3
 O|
 N|               In the follow car, we are --                                         
 O|
-G|               CLOSE ON SATCHEL                                                     
+N,G|               CLOSE ON SATCHEL                                                     
 O|
 N|               as he brings his toy cars together in a violent collision,           
 N|               making crashing sounds with his mouth.                               
@@ -2113,14 +2113,14 @@ N|               IN FRONT
 O|
 N|               Milligan checks the bus stop again.                                  
 O|
-G|               ANGLE ON THE BUS STOP                                                
+N,G|               ANGLE ON THE BUS STOP                                                
 O|
 N,G|               The two men are gone. In the background we see the boys still        
 N|               horsing around with the BB GUN.                                      
 O|
 N|               Shit. MILLIGAN turns, looking for the TWO MEN.                       
 O|
-G|               EXTREME CLOSE UP ON DONATELLO                                        
+N,G|               EXTREME CLOSE UP ON DONATELLO                                        
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -2139,11 +2139,11 @@ U|                         Pop?
 O|
 N|               It’s clear Donatello is in pain. Josto helps him loosen his          
 N|               coat, reaches over and rolls down his window.                        
-G|               CLOSE UP ON THE TOY CARS                                             
+N,G|               CLOSE UP ON THE TOY CARS                                             
 O|
 N|               colliding. Crash.                                                    
 O|
-G|               ANGLE ON CONSTANT CALIMATA                                           
+N,G|               ANGLE ON CONSTANT CALIMATA                                           
 O|
 N|               in the front seat of the LEAD CAR. He sees --                        
 O|
@@ -2151,11 +2151,11 @@ N|               THE TWO AFRICAN-AMERICAN MEN
 O|
 N|               from the bus stop. They step into the street in front of the         
 N|               car.                                                                 
-G|               CLOSE UP ON CALAMITA                                                 
+N,G|               CLOSE UP ON CALAMITA                                                 
 O|
 N|               Is this a hit?                                                       
 O|
-G|               CLOSE UP ON THE TWO MEN                                              
+N,G|               CLOSE UP ON THE TWO MEN                                              
 O|
 N|               Time slows down as one of them REACHES INTO HIS JACKET.              
 O|
@@ -2168,7 +2168,7 @@ N|               THE TOY CARS
 O|
 N|               Collide. Crash.                                                      
 O|
-G|               CLOSE UP ON THE TWO MEN                                              
+N,G|               CLOSE UP ON THE TWO MEN                                              
 O|
 N|               in the crosswalk, as the one man’s HAND comes out of his             
 N|               pocket with a pack of cigarettes. He says something and the          
@@ -2182,7 +2182,7 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 Yellow Rev. - 11/18/19 39.
 O|
-G|               ANGLE ON CALAMITA                                                    
+N,G|               ANGLE ON CALAMITA                                                    
 N|               Relieved. He sits back into the car, lays his gun on the             
 N|               seat, turns to the back.                                             
 O|
@@ -2209,7 +2209,7 @@ O|
 C|                                   DONATELLO                                        
 P|                             (in Italian)                                           
 U|                         Holy shit.                                                 
-G|               ANGLE ON JOSTO                                                       
+N,G|               ANGLE ON JOSTO                                                       
 O|
 N|               Relief turns to disgust.                                             
 O|
@@ -2217,7 +2217,7 @@ C|                                   JOSTO
 P|                             (what a stink)                                         
 U|                         Jesus, Pop.                                                
 O|
-G|               ANGLE ON DONATELLO                                                   
+N,G|               ANGLE ON DONATELLO                                                   
 N,G|               We are PROFILE. Out the window past him we see the TWO BOYS          
 N|               with their BB GUN. One boy pulls it away from the other and          
 N|               then --                                                              
@@ -2245,7 +2245,7 @@ U|                         What the fuck?
 O|
 N|               Calamita turns in time to see --                                     
 O|
-G|               ANGLE ON THE BOYS                                                    
+N,G|               ANGLE ON THE BOYS                                                    
 O|
 N|               They see they’ve hit someone and RUN AWAY.                           
 O|
@@ -2263,7 +2263,7 @@ S|       36      EXT. ELEMENTARY SCHOOL. KANSAS CITY, MO - CONTINUOUS          3
 N|               The lead car lunges into the crosswalk, sending the crossing         
 N|               guard leaping out of the way.                                        
 O|
-G|               ANGLE ON THE FOLLOW CAR                                              
+N,G|               ANGLE ON THE FOLLOW CAR                                              
 O|
 N|               As they see the lead car peel out.                                   
 O|
@@ -2284,7 +2284,7 @@ U|                         Faster.
 P|                             (in Italian)                                           
 U|                          He’s dying!                                               
 O|
-G|               OVERHEAD ANGLE ON THE STREET                                         
+N,G|               OVERHEAD ANGLE ON THE STREET                                         
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -2301,7 +2301,7 @@ N|               CANNON and OPAL RACKLEY get out, approach The Winckle Savings
 N|               and Loan Bank. It’s an upscale bank in an upscale part of            
 N|               downtown.                                                            
 O|
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 N|               as he approaches the front door. But instead of walking              
 N|               through it, he veers toward a smaller door a mere four feet          
 N|               away. A SIGN above it reads “COLORED ENTRANCE.”                      
@@ -2322,7 +2322,7 @@ N|               SECURITY GUARD by the MAIN DOOR eyes them suspiciously.
 O|
 N|               Loy looks around, sees --                                            
 O|
-G|               ANGLE ON DOCTOR SENATOR                                              
+N,G|               ANGLE ON DOCTOR SENATOR                                              
 O|
 N|               In the waiting area. The older man beckons.                          
 N|               LOY                                                                  
@@ -2484,7 +2484,7 @@ U|                         your -- pellet gun injury -- I
 U|                         propose you go to St.                                      
 U|                         Bartholemew’s. Immediately.                                
 O|
-G|               ANGLE ON JOSTO AND HIS MEN                                           
+N,G|               ANGLE ON JOSTO AND HIS MEN                                           
 O|
 N|               As POLICE SIRENS begin to cut through the silence.                   
 C|                                   CONSTANT CALAMITA                                
@@ -2508,7 +2508,7 @@ O|
 N|               The men RACE to St. Bartholemew’s across town. Josto sits in         
 N|               the back, brooding.                                                  
 O|
-G|               CLOSE UP ON DONATELLO                                                
+N,G|               CLOSE UP ON DONATELLO                                                
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -2621,7 +2621,7 @@ O|
 N|               He pulls a small metal rectangle out of his pocket, holds it         
 N|               up.                                                                  
 O|
-G|               ANGLE ON CLAYTON                                                     
+N,G|               ANGLE ON CLAYTON                                                     
 O|
 N|               who leans forward, squints at it.                                    
 C|                                   WINCKLE                                          
@@ -2743,7 +2743,7 @@ U|                         Creating more interest. And
 U|                         therefore more profit for the bank.                        
 U|                         Your bank.                                                 
 O|
-G|               ANGLE ON CLAYTON                                                     
+N,G|               ANGLE ON CLAYTON                                                     
 N,G|               We PUSH INTO a CLOSE UP. It is a revolutionary financial idea        
 N|               worth trillions of dollars. In this moment greatness has been        
 N|               thrust upon him, and all Clayton Winckle III has to do is say        
@@ -2866,14 +2866,14 @@ U|                         a sit-down, don’t you think I
 U|                         should have the respect of walking                         
 U|                         out the front door? That’s just                            
 U|                         logic.                                                     
-G|               CLOSE UP ON HORACE                                                   
+N,G|               CLOSE UP ON HORACE                                                   
 O|
 N|               He thinks about that.                                                
 O|
 C|                                   SECURITY GUARD                                   
 U|                         How’s this fer logic -- Colored                            
 U|                         man. Colored exit.                                         
-G|               ANGLE ON LOY                                                         
+N,G|               ANGLE ON LOY                                                         
 O|
 N|               You can’t beat the system.                                           
 O|
@@ -3053,7 +3053,7 @@ C|                                   JOSTO
 U|                         He’s in a lot of pain. I don’t like                        
 U|                         seeing him like this. Will you take                        
 U|                         care of him?                                               
-G|               CLOSE UP ON ORAETTA                                                  
+N,G|               CLOSE UP ON ORAETTA                                                  
 O|
 O|            No portion of this script may be performed, published, reproduced, sold or distributed by any means or quoted or published
 O|       in any medium, without prior written consent of FX Productions, LLC. In no event, may any participant monetize or profit off the script in any way.
@@ -3297,7 +3297,7 @@ N,G|               We PAN across him to see Donatello in bed, sedated, his
 N,G|               breathing ragged. We MOVE AROUND the bed until we are looking        
 O|               -                                                                  
 O|
-G|               OVER DONATELLO                                                       
+N,G|               OVER DONATELLO                                                       
 N,G|               -- past Dumini. We can see into THE OPPOSITE ROOM. It’s dark         
 N|               inside, but the street light outside casts a silhouette.             
 O|
@@ -3313,7 +3313,7 @@ N,G|               We hear a sound, PAN TO see A DOCTOR approaching down the
 N|               hall. He reaches the opposite room, goes in. As he does we           
 N,G|               see the FIGURE IS GONE.                                              
 O|
-G|               ANGLE ON DUMINI                                                      
+N,G|               ANGLE ON DUMINI                                                      
 O|
 N|               He is asleep now in the chair. A SHADOW falls over him as --         
 O|
@@ -3327,7 +3327,7 @@ U|                         Mama’s here.
 O|
 N|               She goes to his bedside, looks down on Donatello.                    
 O|
-G|               ANGLE ON DONATELLO                                                   
+N,G|               ANGLE ON DONATELLO                                                   
 O|
 N|               He’s wearing a PINKY RING with a jewel on his left hand. She         
 N|               lifts his hand, studies it. He wakes, sees her leaning over          
@@ -3372,7 +3372,7 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 Yellow Rev. - 11/18/19 59.
 O|
-G|               ANGLE ON ORAETTA                                                     
+N,G|               ANGLE ON ORAETTA                                                     
 N|               She pulls a NEEDLE from her smock, pushes some fluid through         
 N|               it to clear the air.                                                 
 O|
@@ -3414,7 +3414,7 @@ U|                         longer now.
 O|
 N|               She depresses the plunger until all the fluid is gone.               
 O|
-G|               ANGLE ON DONATELLO                                                   
+N,G|               ANGLE ON DONATELLO                                                   
 O|
 N|               as his breathing becomes rapid, then starts to slow. He              
 N|               realizes something is wrong, reaches for the IV line in his          
@@ -3445,7 +3445,7 @@ N|               onto his back.
 C|                                   ORAETTA MAYFLOWER                                
 U|                         Shhhhhh. It won’t be much longer.                          
 O|
-G|               CLOSE UP ON DONATELLO                                                
+N,G|               CLOSE UP ON DONATELLO                                                
 O|
 N|               Color drains from his face as the poison weakens him. He             
 N|               gasps, sputters, growing weaker.                                     
@@ -3463,16 +3463,16 @@ C,E|                                   ORAETTA MAYFLOWER (CONT'D)
 U|                         I was standing by my window -- and                         
 U|                         it was a cold and -- cloudy day --                         
 O|
-G|               CLOSE UP ON DONATELLO                                                
+N,G|               CLOSE UP ON DONATELLO                                                
 N|               The Lion of Sardinia -- as he dies weakly, like a lamb. This         
 N|               is not the end anyone expected for him.                              
 O|
-G|               ANGLE ON DONATELLO’S HAND                                            
+N,G|               ANGLE ON DONATELLO’S HAND                                            
 O|
 N,G|               It twitches, goes still. Oraetta’s hand comes into frame. She        
 N|               slips the ring from his finger, singing gently.                     
 O|
-G|               ANGLE ON ORAETTA                                                     
+N,G|               ANGLE ON ORAETTA                                                     
 O|
 N|               as she studies her trophy, singing gently.                           
 O|
@@ -3516,15 +3516,15 @@ O|
 N|               It’s cold enough that she can see her breath, and so she             
 N|               lifts her fingers to her lips like she’s taking a puff on a          
 N|               cigarette, exhales -- feeling sophisticated.                         
-G|               ANGLE ON THE STREET                                                  
+N,G|               ANGLE ON THE STREET                                                  
 O|
 N|               A BUS pulls in. The doors open.                                      
 O|
-G|               CLOSE UP ON ETHELRIDA                                                
+N,G|               CLOSE UP ON ETHELRIDA                                                
 O|
 N|               looking to see who will get off.                                     
 O|
-G|               ANGLE ON THE BUS                                                     
+N,G|               ANGLE ON THE BUS                                                     
 O|
 N|               For a beat the OPEN DOORS create a dark hole. And then               
 N|               Oraetta Mayflower steps down. She has a scarf tied around her        
@@ -3547,16 +3547,16 @@ O|       in any medium, without prior written consent of FX Productions, LLC. In
 O|                              © 2018 FX Productions, LLC. All rights reserved.      
 O|            F A R G O #401 WHITE PRODUCTION DRAFT - 11/18/19 62.
 O|
-G|               ANGLE ON ETHELRIDA                                                   
+N,G|               ANGLE ON ETHELRIDA                                                   
 N|               She’s not sure why she’s watching, but something about this          
 N|               neighbor just feels wrong.                                           
 O|
-G|               ANGLE ON THE APARTMENT BUILDING                                      
+N,G|               ANGLE ON THE APARTMENT BUILDING                                      
 O|
 N,G|               As a SECOND FLOOR LIGHT goes on. We see Oraetta inside her           
 N|               apartment, taking off her coat.                                      
 O|
-G|               CLOSE UP ON ETHELRIDA                                                
+N,G|               CLOSE UP ON ETHELRIDA                                                
 O|
 N|               She studies the window, then THURMAN comes to the door.              
 C|                                   THURMAN                                          
@@ -3628,7 +3628,7 @@ N,G|               And as we reach the second story we see Oraetta Mayflower at
 N|               her window, looking out. We get the feeling she has seen             
 N|               everything from the moment she stepped off the bus.                  
 O|
-G|               We PUSH INTO A CLOSE UP                                              
+N,G|               We PUSH INTO A CLOSE UP                                              
 O|
 N|               Oraetta’s lips are moving, but we can’t hear what she says.          
 O|

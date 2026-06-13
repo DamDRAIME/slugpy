@@ -54,7 +54,7 @@ O|
 N|               Beat.  The driver’s door opens. Slowly, Malvo climbs out.            
 N|               His head is bleeding where it hit the windshield. He stands          
 N|               unsteadily in the snow, getting his bearings.                        
-G|               ANGLE ON THE OTHER MAN                                               
+N,G|               ANGLE ON THE OTHER MAN                                               
 O|
 N|               Loping off through the snow. Malvo could catch him if he             
 N|               tried, but he makes no attempt. Instead he walks into the            
@@ -66,11 +66,11 @@ O|
 O|
 O|                                                                      2.            
 O|
-G|               CLOSE UP ON THE DEER                                                 
+N,G|               CLOSE UP ON THE DEER                                                 
 N|               It’s eyes wild, blood bubbles foaming from its nose and              
 N|               mouth, mortally wounded.                                             
 O|
-G|               CLOSE UP ON MALVO                                                    
+N,G|               CLOSE UP ON MALVO                                                    
 O|
 N|               Studying it’s eyes. What does he see in there?                       
 O|
@@ -510,7 +510,7 @@ O|
 C|                                   MOE                                              
 U|                         Ya, dad. It’s real messed up.                              
 O|
-G|               CLOSE UP OF LESTER’S FACE                                            
+N,G|               CLOSE UP OF LESTER’S FACE                                            
 O|
 N|               As he lays there, his nose broken and bleeding, staring up at        
 N,G|               the sky.  Beat. We PULL OUT and discover we are now in ...           
@@ -852,7 +852,7 @@ U|                         No, sir.
 O|
 N|               The thumping continues. Vern and Molly approach the trunk.           
 O|
-G|               ANGLE ON THE TRUNK                                                   
+N,G|               ANGLE ON THE TRUNK                                                   
 O|
 N|               Something is inside, banging.                                        
 O|
@@ -1356,7 +1356,7 @@ C,E|                                   RON (CONT’D)
 U|                         Take a look at this baby.                                  
 N|               Lester comes over.                                                   
 O|
-G|               ANGLE ON THE FOOTLOCKER                                              
+N,G|               ANGLE ON THE FOOTLOCKER                                              
 O|
 N|               Inside is a large automatic weapon, gleaming and deadly.             
 O|
@@ -2722,7 +2722,7 @@ N|               LESTER
 O|
 N|               Looks at his tools.                                                  
 O|
-G|               ANGLE ON A CLAW HAMMER                                               
+N,G|               ANGLE ON A CLAW HAMMER                                               
 O|
 N|               Resting on top of the tool box.                                      
 C|                                   LESTER NYGAARD                                   
@@ -2765,7 +2765,7 @@ U|                         Aw geez.
 O|
 N|               He is about to panic, when he looks up.                              
 O|
-G|               CLOSE UP ON AN INSPIRATIONAL POSTER                                  
+N,G|               CLOSE UP ON AN INSPIRATIONAL POSTER                                  
 N|               taped to a bare concrete wall. On it a school of yellow fish         
 N|               all face the same direction, except one. The poster reads            
 N|               There’s Always One. Be the One.                                      
@@ -2993,7 +2993,7 @@ U|                         No.  Now hold on. Hold on.  Don’t -
 U|                         - there’s nothin’ down there --                            
 O|
 N|               Vern glances down the basement stairs.                               
-G|               ANGLE ON PEARL’S FEET                                                
+N,G|               ANGLE ON PEARL’S FEET                                                
 O|
 N,G|               Visible at the bottom of the stairs.                                 
 O|
@@ -3002,7 +3002,7 @@ U|                         -- That’s not -- I didn’t do
 U|                         nothin’ -- I just got home. I just                         
 U|                         got home and --                                            
 O|
-G|               CLOSE UP ON VERN                                                     
+N,G|               CLOSE UP ON VERN                                                     
 O|
 N|               Trying to catch up to events. He keeps the gun on Lester,            
 N|               reenters the front hall. With his free hand, he keys his             
@@ -3031,12 +3031,12 @@ O|
 N|               Lester shakes his head. Malvo kicks Vern’s gun away, looks           
 N|               down.                                                                
 O|
-G|               ANGLE ON VERN                                                        
+N,G|               ANGLE ON VERN                                                        
 O|
 N|               Eyes wild, like the deer in the opening. He is mortally              
 N|               wounded, blood bubbles coming out of his mouth as he                 
 N|               struggles for air.                                                   
-G|               CLOSE UP ON MALVO                                                    
+N,G|               CLOSE UP ON MALVO                                                    
 O|
 N|               Struck by the synchronicity of this. He studies the dying            
 N|               man’s eyes.                                                          
@@ -3057,7 +3057,7 @@ U|                         Where’s the basement?
 O|
 N|               Lester points. Malvo enters the kitchen, goes down the               
 N|               stairs.                                                              
-G|               ANGLE ON LESTER                                                      
+N,G|               ANGLE ON LESTER                                                      
 O|
 N|               He pulls two shotgun shells out of his pocket, eyes the              
 N|               shotgun.  How long to grab it and reload?                            
@@ -3361,7 +3361,7 @@ N|               blanket.  After a moment, Molly gets to her feet and walks
 N|               down the driveway.                                                   
 O|
 N|               She passes Vern’s prowler. Something inside catches her eye.         
-G|               ANGLE ON TWO CANS OF HOUSE PAINT                                     
+N,G|               ANGLE ON TWO CANS OF HOUSE PAINT                                     
 O|
 N|               In the back seat.                                                    
 O|

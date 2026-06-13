@@ -725,7 +725,7 @@ O|
 N|          Henry climbs back under his blanket. Glass just sits there
 N|          looking at the map.
 O|                         
-G|          ANGLE ON GLASS' MAP...
+N,G|          ANGLE ON GLASS' MAP...
 O|                         
 N|          ...primitive at best. Sketched mountains... winding blue
 N|          lines for rivers... small dots are scattered about with names
@@ -733,7 +733,7 @@ N|          beside them... "Brazeau", "Talbot", "Union". And DOZENS OF
 N|          TRIANGLE PINE TREES have been drawn, representing the endless
 N|          wilderness.
 O|                         
-G|          We TIGHTEN ON THOSE TRIANGLES until we're lost in them.
+N,G|          We TIGHTEN ON THOSE TRIANGLES until we're lost in them.
 O|                         
 T|                          DISSOLVE TO:
 O|           14.
@@ -1100,7 +1100,7 @@ O|
 O|                         
 S|          EXT. WOODS - LATER
 O|                         
-G|          SERIES OF SHOTS
+N,G|          SERIES OF SHOTS
 O|                         
 N|          HENRY, BRIDGER AND PIG WORKING OVER GLASS... Bridger and Pig
 N|          pressing Glass' scalp down, as Henry slides the needle and
@@ -1150,7 +1150,7 @@ U|           it's dry. We don't want much smoke
 U|           when we cook that grizzly.
 O|                         
 O|                         
-G|          ANGLE ON THE MASSIVE BEAR...
+N,G|          ANGLE ON THE MASSIVE BEAR...
 O|                         
 N|          ...lying dead on the ground, its claws and fangs soaked with
 N|          blood... Glass' blood.
@@ -1218,7 +1218,7 @@ O|
 O|                         
 S|          EXT. CAMP - MORNING
 O|                         
-G|          ANGLE ON GLASS...
+N,G|          ANGLE ON GLASS...
 O|           23.
 O|                         
 N|          ...unconscious but alive... his raspy breaths are weak and
@@ -1289,7 +1289,7 @@ O|
 C|                          FITZGERALD
 U|           I seen a bad one drag on days.
 O|                         
-G|          ANGLE ON GLASS...
+N,G|          ANGLE ON GLASS...
 O|                         
 N|          ...eyes open... he can hear every word.
 O|                         
@@ -1301,7 +1301,7 @@ O|
 C,E|           HENRY (O.S.)
 U|           Quiet, Fitzgerald.
 O|                         
-G|          FITZGERALD...
+N,G|          FITZGERALD...
 O|                         
 N|          ...points a stick at Glass.
 O|                         
@@ -1425,7 +1425,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-G|          GLASS' POV - ON BRIDGER...
+N,G|          GLASS' POV - ON BRIDGER...
 O|                         
 N|          ...the boy looking away as he pulls the rag over our eyes...
 N|          everything goes black.
@@ -1569,7 +1569,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-G|          GLASS' POV - ON FITZGERALD...
+N,G|          GLASS' POV - ON FITZGERALD...
 O|                         
 N|          ...smiling down at Glass as he grabs the Anstadt, holds it...
 N|          runs his hand down the barrel, as comfortable as if it were
@@ -1711,7 +1711,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-G|          BLACK...
+N,G|          BLACK...
 O|                         
 N|          ...the sound of FRENZIED BREATHING.
 O|                         
@@ -1834,7 +1834,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-G|          GLASS' POV - OUT OF THE GRAVE... TIGHT AND CLAUSTROPHOBIC...
+N,G|          GLASS' POV - OUT OF THE GRAVE... TIGHT AND CLAUSTROPHOBIC...
 N|          JUST THE NIGHT SKY THROUGH THOSE BRANCHES... AND THE SOUND OF
 N|          HIS PAINFUL BREATHS.
 O|                         
@@ -2149,7 +2149,7 @@ O|
 O|                         
 S|          EXT. GRAND RIVER - LATER
 O|                         
-G|          ANGLE ON A SMALL CLUMP OF DRIED GRASS...
+N,G|          ANGLE ON A SMALL CLUMP OF DRIED GRASS...
 O|                         
 N|          ...as Glass SPARKS one of the flints... ignites the grass.
 N|          As the fire grows, Glass pours a handful of GUNPOWDER from
@@ -2233,7 +2233,7 @@ O|
 O|                         
 S|          EXT. GRAND RIVER - LATER
 O|                         
-G|          ANGLE ON THE REMAINS OF THE SNAKE...
+N,G|          ANGLE ON THE REMAINS OF THE SNAKE...
 O|                         
 N|          ...the head, skin, and not much else.
 O|                         
@@ -2247,7 +2247,7 @@ N|          He drags out the map... spreads it on the ground, then throws
 N|          a glance around him... fingers the point on the blue line...
 N|          a rough guess of his location.
 O|                         
-G|          ANGLE ON THE MAP...
+N,G|          ANGLE ON THE MAP...
 O|                         
 N|          ...Fort Union at the top... hundreds of miles north. Fort
 N|          Brazeau south... but not nearly as far away.
@@ -2408,7 +2408,7 @@ O|
 O|                         
 S|          INT. CAVE - NIGHT
 O|                         
-G|          ANGLE ON GLASS' HAND...
+N,G|          ANGLE ON GLASS' HAND...
 O|                         
 N|          ...holding a small sharp stone, and SCRATCHING LETTERS INTO
 N|          THE CAVE'S ROCK WALL.
@@ -2808,7 +2808,7 @@ O|
 N|          Glass crouches... pets the dog, as he watches the flames
 N|          spread... engulf the woman.
 O|                         
-G|          ANGLE ON THE GLOWING EMBERS...
+N,G|          ANGLE ON THE GLOWING EMBERS...
 O|                         
 N,G|          ...floating into the night. Beyond the sparks, we see
 N,G|          something else... THOSE THREE INDIANS GALLOPING TOWARD THE
@@ -2900,7 +2900,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-G|          GLASS' POV - FROM THE BACK OF THE HORSE...
+N,G|          GLASS' POV - FROM THE BACK OF THE HORSE...
 O|                         
 N|          ...to the children's eager faces swarming around him...
 N|          studying this strange face.
@@ -3532,7 +3532,7 @@ N|          spears... making as much noise as possible, as they tighten
 N|          their ring.
 O|                         
 O|                         
-G|          POV FROM THE BRUSH...
+N,G|          POV FROM THE BRUSH...
 O|                         
 N|          ...watching DISTANT CHANTING WARRIORS pushing through the
 N,G|          trees. V.O. SNORTING... our POV darts sideways... charges
@@ -3561,7 +3561,7 @@ N|          THE WARRIORS - EYES PIERCING THROUGH THE SNOW... CHANTING...
 N|          BEATING THE BUSHES.
 O|                         
 O|                         
-G|          OUR LOW POV AGAIN - RACING CHAOTICALLY THROUGH THE BRUSH...
+N,G|          OUR LOW POV AGAIN - RACING CHAOTICALLY THROUGH THE BRUSH...
 O|                         
 N|          ...to Spotted Horse waving his spear... back over the snow...
 N,G|          to Three Feathers SCREAMING... we spin again... crash through
@@ -3747,7 +3747,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-G|          FITZGERALD'S POV...
+N,G|          FITZGERALD'S POV...
 O|                         
 N|          ...on GLASS STANDING OVER HIM... his scarred face calm and
 N|          deadly... raising a knife to drive down into Fitzgerald's
@@ -4120,7 +4120,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-G|          POV DOWN MURPHY'S RIFLE...
+N,G|          POV DOWN MURPHY'S RIFLE...
 O|                         
 N|          ...on Fitzgerald moving toward the river... disappearing into
 N|          the darkness.
@@ -4442,7 +4442,7 @@ O|
 T|                          CUT TO:
 O|                         
 O|                         
-G|          STUBBY BILL'S POV...
+N,G|          STUBBY BILL'S POV...
 O|                         
 N|          ...on the blanket of fog hanging in the air... that same
 N|          CRUNCHING, as a SHADOW APPEARS... growing clearer... a FIGURE
@@ -5086,7 +5086,7 @@ O|
 O|                         
 S|          EXT. WILDERNESS/CAMP - LATER
 O|                         
-G|          ANGLE ON HENRY...
+N,G|          ANGLE ON HENRY...
 O|                         
 N|          ...asleep under the blanket. O.S. RUSTLING sends his eyes
 N|          flashing open. He raises up... rifle ready.
@@ -5322,7 +5322,7 @@ O|
 O|                         
 S|          EXT. WILDERNESS - NIGHT
 O|                         
-G|          OUR POV FROM DEEP IN THE FOREST...
+N,G|          OUR POV FROM DEEP IN THE FOREST...
 O|                         
 N,G|          ...watching from the shadowy brush, as Glass appears up over
 N|          the distant slope... riding through the trees, with Henry
@@ -5355,7 +5355,7 @@ N|          ...and there's HENRY'S LIFELESS FACE HIDDEN BENEATH THE
 N|          FURS... and that BROKEN BRANCH sticking up along his back.
 O|                         
 O|                         
-G|          ANGLE FROM BEHIND HENRY'S HORSE...
+N,G|          ANGLE FROM BEHIND HENRY'S HORSE...
 O|                         
 N|          ...on the REST OF THE BRANCH RIGGED TO GLASS' SADDLE to hold
 N|          Henry upright...

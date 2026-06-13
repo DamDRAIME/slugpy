@@ -2,7 +2,7 @@ O|
 O|                           ~                                                      
 O|
 O|
-G|               OVER DARKNESS                                                        
+N,G|               OVER DARKNESS                                                        
 N|               We hear the ocean.                                                   
 O|
 S|       1       INT. CAMPER VAN - NIGHT                                  1           
@@ -4922,7 +4922,7 @@ O|
 C|                                   JOSHUA                                           
 U|                         Run it again.                                              
 O|
-G|               ON SONNY’S CAR                                                       
+N,G|               ON SONNY’S CAR                                                       
 O|
 C,E|                                   TELECAST (V.O.)                                  
 U|                         Look at how close he can follow,                           
@@ -5644,13 +5644,13 @@ N|               Lotus-Lamborghini ripping down a straight at over 200mph.
 N,G|               The camera shakes violently as the driver wrestles with the          
 N|               steering wheel, chasing down a red and white McLaren ahead.          
 O|
-G|               BLACK.                                                               
+N,G|               BLACK.                                                               
 O|
 N,G,T|               SMASH CUT to the POV as the car enters a sharp curve. The            
 N|               tires screaming as they lose grip, hurtling us towards a             
 N|               metal guardrail.                                                     
 O|
-G|               BLACK.                                                               
+N,G|               BLACK.                                                               
 N,G,T|               ANOTHER SMASH CUT as the POV explodes out of the car like a          
 N|               piece of shrapnel, legs and arms flail at the spinning world         
 N|               before settling at a canted angle on the asphalt, an ankle           
@@ -7363,7 +7363,7 @@ U|                         and Russell is ruled a racing
 U|                         incident. No further investigation.                        
 N|               The VIPs cheer. Banning’s look turns sour.                           
 O|
-G|               IN SONNY’S CAR:                                                      
+N,G|               IN SONNY’S CAR:                                                      
 O|
 C,E|                                   NICKLEBY (RADIO)                                 
 U|                         You had the line. Finish your race.                        
@@ -7414,7 +7414,7 @@ O|
 C,P|                                   SONNY (INTO RADIO)                               
 U|                         Tell JP to follow my lead.                                 
 O|
-G|               IN JOSHUA’S CAR:                                                     
+N,G|               IN JOSHUA’S CAR:                                                     
 O|
 C,E|                                   FAZIO (OVER RADIO)                               
 U|                         Joshua, Sonny says follow him.                             

@@ -860,13 +860,13 @@ C,E|                    PROFESSOR (CONT'D)
 U|          ...and a barn -- with a weather vane and
 U|          a -- of a -- of a running horse.
 O|
-G|MCU - Professor - Camera shooting past Professor at left f.g.
+N,G|MCU - Professor - Camera shooting past Professor at left f.g.
 N|- he looks into crystal - speaks -
 O|
 C,E|                    PROFESSOR (CONT'D)
 U|          No - it's - it's - a crowing rooster.
 O|
-G|CU -- Dorothy -- Camera shooting past Professor --
+N,G|CU -- Dorothy -- Camera shooting past Professor --
 O|
 C|                    DOROTHY
 U|          That's our farm!
@@ -888,7 +888,7 @@ O|
 C,E|                    PROFESSOR (CONT'D)
 U|          ...she's wearing a polka-dot dress....
 O|
-G|MCU -- Professor -- Camera shooting past Dorothy --
+N,G|MCU -- Professor -- Camera shooting past Dorothy --
 O|
 O|                                                     (CONTINUED)
 O|
@@ -925,7 +925,7 @@ O|
 C|                    DOROTHY
 U|          Me?
 O|
-G|MCU -- Professor -- camera shooting past Dorothy --
+N,G|MCU -- Professor -- camera shooting past Dorothy --
 O|
 C|                    PROFESSOR
 U|          Well, it's -- it's someone she loves very
@@ -933,7 +933,7 @@ U|          much. Someone she's been very kind to.
 U|          Someone she's taken care of in sickness.
 O|
 N,G|CU -- Dorothy reacts -- speaks -- Camera shooting past
-G|Professor --
+N,G|Professor --
 O|
 C|                    DOROTHY
 U|          I had the measles once -- and she stayed
@@ -946,7 +946,7 @@ C|                    DOROTHY
 U|          What's she doing now?
 O|
 N,G|MCU - Professor looks into crystal - Camera shooting past
-G|Dorothy -
+N,G|Dorothy -
 O|
 O|
 O|
@@ -959,14 +959,14 @@ O|
 C|                    PROFESSOR
 U|          Well, she's - she's going into a little
 U|          bed.... 
-G|CU - Dorothy - Camera shootingpast Professor -
+N,G|CU - Dorothy - Camera shootingpast Professor -
 O|
 C,E|                       PROFESSOR (CONT'D)
 U|          ...room --
 O|
 C|                    DOROTHY
 U|          Has it poppies on the wall.... 
-G|MCU -Professor - Camera shooting past Dorothy
+N,G|MCU -Professor - Camera shooting past Dorothy
 O|
 C,E|                       DOROTHY (CONT'D)
 U|          ...paper?

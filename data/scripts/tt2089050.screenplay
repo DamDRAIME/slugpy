@@ -188,7 +188,7 @@ U|                         I’d just had a baby and ...
 O|
 C|                                   MAX                                            
 U|                         Of course.                                               
-G|               On the screen. We jump forward.                                    
+N,G|               On the screen. We jump forward.                                    
 O|
 C|                                   LIAM                                           
 U|                         I put this together.                                     
@@ -1919,7 +1919,7 @@ O|
 C|                                   LIAM                                           
 U|                         Shh, you’re talking:                                     
 O|
-G|               On the screen:                                                     
+N,G|               On the screen:                                                     
 O|
 C|                                   FFION                                          
 U|                         ... No one big. I was living in                          
@@ -2891,7 +2891,7 @@ S,M|       20.1    EXT. JONAS’S FLAT. *PLAYBACK*. DAY.                   20.1
 O|
 N|,G               We see him arrive at Jonas’s. Stagger from the car.                
 O|
-G|               Fast-forward.                                                      
+N,G|               Fast-forward.                                                      
 O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     53.                    
@@ -3036,7 +3036,7 @@ C|                                   JONAS
 U|                         I’m doing it! I’m doing it!                              
 N|               Jonas hits something and the lines all blip out of existence.      
 O|
-G|               The image pauses.                                                  
+N,G|               The image pauses.                                                  
 O|
 S|       21      I/E. CAR CRASHED INTO TREE. MORNING. DAY 2.             21         
 O|
@@ -3076,7 +3076,7 @@ N|               Liam reels. He can’t believe it. This is what he most
 N|               feared, but there’s a bit of him too that is pleased his           
 N|               worst fears have been confirmed. He studies the picture hard.      
 O|
-G|               Zooms in.                                                          
+N,G|               Zooms in.                                                          
 O|
 S|       22      INT. LIAM & FFION’S HOUSE - MORNING. DAY 2.             22         
 O|
@@ -3504,7 +3504,7 @@ O|
 N,G|               Liam blinks. We stay in his POV but now we’re staring at the       
 N|               ceiling.                                                           
 O|
-G|               Change shot:                                                       
+N,G|               Change shot:                                                       
 O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     64.                    
@@ -3545,7 +3545,7 @@ N|               In his head:
 O|
 S,M|       27.1    INT. LIAM & FFION’S HOUSE. *PLAYBACK*. DAY.           27.1         
 O|
-G|               POV images of how it used to be.                                   
+N,G|               POV images of how it used to be.                                   
 O|
 N,G|               Ffion from behind, just eating breakfast cereal.                   
 M|                                                       END OF PLAYBACK:           
@@ -3620,7 +3620,7 @@ O|
 O|
 O|            BLACK MIRROR - The Entire History Of You -     66.                    
 O|
-G|               The picture wobbles.                                               
+N,G|               The picture wobbles.                                               
 O|
 S,M|       27.5    INT. LIAM & FFION’S BATHROOM. *PLAYBACK*. DAY.        27.5         
 N,G|               POV shots of Ffion in the bathroom. No audio.                      

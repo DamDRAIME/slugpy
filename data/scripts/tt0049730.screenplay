@@ -1054,7 +1054,7 @@ O|
 N|               He waits grimly until he sees them coming, then wheels his 
 N|               mount and takes off over the hill.
 O|
-G|               FULL SHOT - THE POSSE
+N,G|               FULL SHOT - THE POSSE
 O|
 N|               as it comes up the rise and the men rein in on the crest.
 O|
@@ -1542,7 +1542,7 @@ N,G|               ground-level shot
 O|
 T,G|               RAISES QUICKLY TO:
 O|
-G|               CLOSE SHOT - FROM EXTREME LOW ANGLE - SCAR
+N,G|               CLOSE SHOT - FROM EXTREME LOW ANGLE - SCAR
 O|
 N,I|               The Comanche we are later to know as SCAR is painted for war -- 
 N,I|               tall, savage, mockingly looking down at what we know is the 
@@ -1767,7 +1767,7 @@ U|                         fond of Martin...
 O|
 N|               Ethan glances back at where Martin and Laurie are standing.
 O|
-G|               ANOTHER ANGLE - FAVORING LAURIE AND MARTIN
+N,G|               ANOTHER ANGLE - FAVORING LAURIE AND MARTIN
 O|
 N|               The girl is looking at Martin full of compassion, tries to 
 N|               console him by taking his arm and squeezing it as he stares 
@@ -1837,7 +1837,7 @@ S|               EXT. OPEN COUNTRY - THE SEARCHERS - EARLY MORNING LIGHT
 O|
 N,G|               The SEARCH THEME begins as we see the riders in turn.
 O|
-G|               A series of portraits of the men.
+N,G|               A series of portraits of the men.
 O|
 N,G|               CLOSE SHOT - BRAD AND CHARLIE - riding point, they come to a 
 N|               pause, surveying the terrain ahead. Charlie, with an arm 
@@ -1979,7 +1979,7 @@ N|               it by the light of the flickering little fire.
 O|
 O|               70-A
 O|
-G|               CLOSE SHOT - THE MINIATURE - NIGHT
+N,G|               CLOSE SHOT - THE MINIATURE - NIGHT
 O|
 N,G|               It is a picture of Martha. The CAMERA PULLS BACK to show 
 N|               Ethan studying it gravely, then putting it away and lying 
@@ -6167,14 +6167,14 @@ N|               Martin is hauling an improvised travois over the ground in
 N|               which, lashed by vines and some clothing, is the unconscious 
 N|               figure of Ethan.
 O|
-G|               CLOSE SHOT - MOVING - MARTIN - DAY
+N,G|               CLOSE SHOT - MOVING - MARTIN - DAY
 O|
 N|               Eyes shadowed, whiskered, drawn -- he is an implacable figure 
 N|               as he drags the weary miles home. He hears a groan from Ethan 
 N|               o.s. He barely lets his eyes drift to the sound. He doesn't 
 N|               stop.
 O|
-G|               CLOSE SHOT - MOVING - ETHAN IN THE TRAVOIS - DAY
+N,G|               CLOSE SHOT - MOVING - ETHAN IN THE TRAVOIS - DAY
 O|
 N,G|               We see he is delirious, lips parched, strapped to the poles.
 O|
@@ -6989,14 +6989,14 @@ O|
 N|               A file of eighteen men and horses -- Rangers -- is walking 
 N|               under the shoulder of a mesa, keeping well below the skyline.
 O|
-G|               FULL SHOT - THE FILE OF RANGERS - DAWN LIGHT
+N,G|               FULL SHOT - THE FILE OF RANGERS - DAWN LIGHT
 O|
 N,G|               They pass CAMERA one by one -- Sam Clayton in the lead, Martin 
 N|               behind him leading two horses, then the others -- grim-
 N|               looking, capable men of varying ages; some with long drooping 
 N|               mustaches, some in need of shaves, some chawing tobacco.
 O|
-G|               CLOSE SHOT - ETHAN - AT RIM OF A MESA - DAWN LIGHT
+N,G|               CLOSE SHOT - ETHAN - AT RIM OF A MESA - DAWN LIGHT
 O|
 N|               He is lying prone, his hat off, squinting down into a long 
 N|               reach of desert canyon at the Comanche encampment -- with 
@@ -7012,13 +7012,13 @@ N|               chunk of wood and throws it. The dog yelps and runs off.
 N|               Scar's air is troubled, suspicious. He heads for the horse 
 N|               herd. The camp sleeps on.
 O|
-G|               CLOSE SHOT - ETHAN - AT RIM OF A MESA - DAWN LIGHT
+N,G|               CLOSE SHOT - ETHAN - AT RIM OF A MESA - DAWN LIGHT
 O|
 N|               His face betrays a bitter inner satisfaction. He looks back 
 N|               along the trail as faintly we hear the approach of the Ranger 
 N|               company. Then he squirms back, retrieving his hat.
 O|
-G|               FULL SHOT - HEAD OF RANGER COLUMN - DAWN LIGHT
+N,G|               FULL SHOT - HEAD OF RANGER COLUMN - DAWN LIGHT
 O|
 N|               Sam, seeing Ethan in the near distance, raises his hand in a 
 N|               signal for halt and waits. Ethan scrambles down the trail to 
@@ -7143,13 +7143,13 @@ N|               they shake as Charlie pulls him to his feet. Martin drops
 N|               his hat, and then -- at a crouching run -- he heads for the 
 N|               distant Comanche camp.
 O|
-G|               FULL SHOT - FROM BEHIND CLAYTON AND ETHAN, TOWARD MARTIN
+N,G|               FULL SHOT - FROM BEHIND CLAYTON AND ETHAN, TOWARD MARTIN
 O|
 N|               as he runs downslope under the shelter of the hogback toward 
 N|               the unseen camp. Clayton waves an arm at his men and starts 
 N|               leading out -- in a somewhat different direction.
 O|
-G|               FULL SHOT - THE RANGERS, FAVORING CLAYTON AND ETHAN
+N,G|               FULL SHOT - THE RANGERS, FAVORING CLAYTON AND ETHAN
 O|
 N|               They are leading their horses down the slope, still under 
 N,I|               the lee of the butte, when two riders are seen approaching 
@@ -7358,7 +7358,7 @@ N,I|               as though he had a regiment at his back. Lt. Greenhill -- a
 N,I|               West Point beau sabreur in strange company -- has his sabre 
 N|               at the "charge."
 O|
-G|               FULL MOVING SHOT - ON THE CHARGE
+N,G|               FULL MOVING SHOT - ON THE CHARGE
 O|
 N,G|               In the swamp of men and horses, we just have time to notice 
 N,G|               that Sam is darting a somewhat worried look at Greenhill's 
@@ -7536,13 +7536,13 @@ O|
 N|               Lars and Mrs. Jorgensen also begin to guess... to suspect...  
 N|               and then to know. And Laurie starts to run.
 O|
-G|               CLOSE SHOT - MOVING WITH LAURIE
+N,G|               CLOSE SHOT - MOVING WITH LAURIE
 O|
 N,G|               The CAMERA MOVES ahead of her as she runs blindly over the 
 N|               hard-packed ground, running as hard as she can toward the 
 N|               still unseen but nearing horsemen.
 O|
-G|               FULL SHOT - THE GROUP
+N,G|               FULL SHOT - THE GROUP
 O|
 N|               Ethan has Debbie on the pommel of his saddle, his arm 
 N|               supporting her, and she is asleep. Martin is riding beside 

@@ -16,7 +16,7 @@ O|
 O|
 S|1        EXT. NEW YORK, AMERICAN MINISTRY OF MAGIC 1927 (NIGHT)                           1
 O|
-G|         AERIAL SHOT: New York and MACUSA building.
+N,G|         AERIAL SHOT: New York and MACUSA building.
 O|
 O|
 S|2        INT. MACUSA BASEMENT, BARE, BLACK-WALLED ROOM (NIGHT)                              2
@@ -323,7 +323,7 @@ O|
 S|17        EXT. OVERCAST LONDON, WHITEHALL - THREE MONTHS LATER -                        17
 S|          AFTERNOON
 O|
-G|          ESTABLISHING SHOT.
+N,G|          ESTABLISHING SHOT.
 O|
 N|          A gloomy silence.
 O|
@@ -733,7 +733,7 @@ O|
 O|
 S|22         EXT. SKYLINE OF UPMARKET QUARTER OF PARIS - AFTERNOON                         22
 O|
-G|           ESTABLISHING SHOT.
+N,G|           ESTABLISHING SHOT.
 O|
 O|
 S|23         EXT. ELEGANT STREET OF 19TH - CENTURY PARISIAN HOUSES -                       23
@@ -2478,7 +2478,7 @@ O|
 O|
 S|     49             EXT. PARIS - DAY                                                             49
 O|
-G|                    ESTABLISHING SHOT.
+N,G|                    ESTABLISHING SHOT.
 O|
 O|
 S|     50             EXT. PLACE DE FURSTEMBERG - MORNING                                          50
@@ -4614,7 +4614,7 @@ N|                    THESEUS catches sight of NEWT-AS-THESEUS and TINA walking,
 N|                    heads down, through the Ministry typing pool. The brothers'
 N|                    eyes meet.
 O|
-G|                    ANGLE ON: NEWT-AS-THESEUS and TINA.
+N,G|                    ANGLE ON: NEWT-AS-THESEUS and TINA.
 O|
 N|                    NEWT-AS-THESEUS grabs TINA'S arm and makes a sharp turn down
 N|                    a corridor. THESEUS sets off in pursuit, leaving LETA and the
@@ -5120,7 +5120,7 @@ N|                    be standing, only to find --
 O|
 N|                    NEWT'S case.
 O|
-G|                    ANGLE ON: THE CASE from above.
+N,G|                    ANGLE ON: THE CASE from above.
 O|
 N|                    A beat.
 O|
@@ -5744,7 +5744,7 @@ N|                    front row, clutching his hand.
 O|
 N|                    JACOB looks around nervously at all the purebloods.
 O|
-G|                    ANGLE ON: NEWT and TINA.
+N,G|                    ANGLE ON: NEWT and TINA.
 O|
 N|                    They are already in the crowd, TINA looking around for those
 N|                    they have followed, but NEWT, perturbed, is starting to see
@@ -5807,7 +5807,7 @@ O|
 N|                    TINA knows she is wildly outnumbered. Under the ACOLYTE'S
 N|                    gaze, she sinks onto a bench.
 O|
-G|                    WE PAN OVER: the crowd.
+N,G|                    WE PAN OVER: the crowd.
 O|
 N,G|                    WE SEE: QUEENIE, rapt --
 O|
@@ -6181,7 +6181,7 @@ C|                                                   GRINDELWALD
 U|                                         This has all been for you,
 U|                                         Credence.
 O|
-G|                    ANGLE ON: QUEENIE and JACOB.
+N,G|                    ANGLE ON: QUEENIE and JACOB.
 O|
 C|                                                   QUEENIE
 U|                                         Walk with me.

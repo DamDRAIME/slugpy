@@ -1378,7 +1378,7 @@ O|                                                                     28.
 O|
 M|                                                                      ACT 3         
 O|
-G|               BLACKNESS.                                                           
+N,G|               BLACKNESS.                                                           
 O|
 M|               SCREEN TEXT: FIVE DAYS EARLIER.                                      
 O|
@@ -2510,7 +2510,7 @@ U|                         Shall we?
 O|
 N|               Mark nods. He gets in the car.                                       
 O|
-G|               BLACKNESS.                                                           
+N,G|               BLACKNESS.                                                           
 M|               SCREEN TEXT: FOUR DAYS LATER.                                        
 O|
 O|

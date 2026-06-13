@@ -76,7 +76,7 @@ N|               scrubbed floor as Leopold heads carelessly up the stairway.
 N|               Three steps behind, the valet snaps his fingers signaling 
 N|               the staff to clean up the mess.
 O|
-G|               SERIES OF CLOSE UPS
+N,G|               SERIES OF CLOSE UPS
 O|
 N|               Gaudily framed portraits of somber relations.
 O|
@@ -112,7 +112,7 @@ O|
 N|               Finally, as if weighing a great decision, Leopold hands his 
 N|               hat to his valet and nods firmly into the mirror.
 O|
-G|               CLOSE UP
+N,G|               CLOSE UP
 O|
 N|               Fine linen undervest slides over his head.
 O|
@@ -4354,7 +4354,7 @@ O|
 N|               Kate places the napkin on her lap. She stares at it a long 
 N|               while. Finally she looks up at Larry.
 O|
-G|               EXTREME CLOSE UP OF LARRY
+N,G|               EXTREME CLOSE UP OF LARRY
 O|
 C|                                     LARRY
 U|                         I'm telling you the guy was a DICK! 

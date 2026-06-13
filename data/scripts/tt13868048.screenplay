@@ -120,13 +120,13 @@ N|               A picture-perfect tropical day. A small boat transports
 N|               ARRIVING HOTEL GUESTS across a placid bay toward the hotel’s         
 N|               dock.  At the bottom of frame: “TEN DAYS BEFORE”                     
 O|
-G|               CLOSER ON DECK                                                       
+N,G|               CLOSER ON DECK                                                       
 O|
 N,I|               Shane is here with his new bride, RACHEL, 30s. His arm               
 N|               around her, they soak up the beautiful surroundings, looking         
 N|               very much in love, wind whipping their hair.                         
 O|
-G|               INSIDE THE CABIN                                                     
+N,G|               INSIDE THE CABIN                                                     
 N,I|               Two college girls, OLIVIA and PAULA, 19, sit in the cabin,           
 N|               side-by-side, observing the passengers out on the deck.              
 N|               Olivia wears a BARDO COLLEGE sweatshirt. Paula wears a t-            
@@ -767,7 +767,7 @@ N|               Outside the room, Carmen’s expression changes - she looks
 N|               nauseated, clutching her belly in pain. After a moment, she          
 N|               keeps walking.                                                       
 O|
-G|               INSIDE THE ROOM                                                      
+N,G|               INSIDE THE ROOM                                                      
 O|
 N|               Tanya sits down on the bed - and takes out her mother’s ashes        
 N|               in a WHITE PORCELAIN BOX. She places the box on the bedside          
@@ -2369,7 +2369,7 @@ C|                                   SHANE
 U|                         Those German fuckers got our room.                         
 N|               Rachel, exasperated, rolls her eyes at him.                          
 O|
-G|               AT THE BUFFET                                                        
+N,G|               AT THE BUFFET                                                        
 O|
 N|               As Olivia helps herself to more salad, Paula’s attention is          
 N|               grabbed by...                                                        
@@ -2516,7 +2516,7 @@ O|
 C|                                   OLIVIA                                           
 U|                         Quinn, what are you doing in                               
 U|                         there?!  Are you fapping??!                                
-G|               INSIDE THE CLOSET                                                    
+N,G|               INSIDE THE CLOSET                                                    
 O|
 N|               Quinn is trying to get comfortable on his fold-out bed. He’s         
 N|               trying to find room for himself amongst all his electronics.         
@@ -2524,7 +2524,7 @@ O|
 C|                                   QUINN                                            
 U|                         FUCK OFF!                                                  
 O|
-G|               OTHER BEDROOM                                                        
+N,G|               OTHER BEDROOM                                                        
 O|
 N|               Nicole and Mark are getting ready for bed, when MARK’S CELL          
 N|               RINGS.  He crosses to the table where his CELL VIBRATES.             

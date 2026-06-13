@@ -2640,7 +2640,7 @@ N|rumbling builds.
 O|
 T|A66  INSERT QUICK CUTS:                               A66
 O|
-G|TREMBLING, SHALLOW-FOCUS EXTREME CLOSE UPS:
+N,G|TREMBLING, SHALLOW-FOCUS EXTREME CLOSE UPS:
 O|
 N|A glass bottle SHATTERS against black and white ceramic
 N|tiles. A SUDDEN MOVEMENT glimpsed through a water-beaded
@@ -3664,7 +3664,7 @@ N|Leonard looks around with growing unease.
 O|
 S|101    INT. LEONARD'S APARTMENT BATHROOM - NIGHT >101
 O|
-G|TREMBLING, SHALLOW-FOCUS EXTREME CLOSE UPS:
+N,G|TREMBLING, SHALLOW-FOCUS EXTREME CLOSE UPS:
 O|
 N|A glass bottle SHATTERS against a tiled floor, bath salts and
 N|glass spreading out over the black and white tiles.
@@ -5104,7 +5104,7 @@ N|door. An ominous rumbling builds.                         *
 O|
 T|A128 INSERT QUICK CUTS:                               A128
 O|
-G|Extreme close ups:
+N,G|Extreme close ups:
 O|
 N|A glass bottle smashes against ceramic tiles. A mirror
 N|smashes. Flesh hits tiled floor.
