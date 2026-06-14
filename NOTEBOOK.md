@@ -59,31 +59,32 @@ Great care has been put into creating a dataset representative of the diverse sc
 | 10 | tt21151974  | Succession (403)           | TV Show | 4326      | - Disclaimer<br>- Page header<br>- Double dialogues<br>- Many audio guidances<br>- Character with scene ID<br>- Omits<br>- INT./EXT. |
 | 11 | tt7435258   | The Handmaid's Tale (211)  | TV Show | 6577      | - Playbacks<br>- Cast and set lists<br>- Page header<br>- Alternative dialogues/scenes<br>- Edit markers (*) |
 | 12 | tt8054880   | The Morning Show (101)     | TV Show | 276       | - Metadata<br>- Dialogue blocks in one line<br>- Parentheticals on Utterance line |
-| 13 | tt32561670  | The Pitt (101)             | TV Show | 4444      | - Many Character Introductions<br>- Double dialogues | 
-| 14 | tt13868048  | The White Lotus (101)      | TV Show | 2647      | - Page header |
-| 15 | tt2790196   | True Detective (105)       | TV Show | 2689      | - Metadata<br>- Page header<br>- Double extensions<br>- Inconsistent extensions |
-| 16 | tt23642488  | Yellowstone (504)          | TV Show | 2265      | - Characters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
-| 17 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line<br>- Parentheticals on Character line |
-| 18 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in scene headings<br>- Poor formatting |
-| 19 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata<br>- Multi-languages<br>- Subtitles |
-| 20 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
-| 21 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
-| 22 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
-| 23 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
-| 24 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
-| 25 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
-| 26 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
-| 27 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
-| 28 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in scene headings<br>- Page header<br>- OCR perturbations |
-| 29 | tt0054167   | Peeping Tom                | Movie   | 8239      | - Many camera guidances<br>- X's VOICE<br>- Confusion between camera prop and camera guidances |
-| 30 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in scene headings<br>- Many camera guidances |
-| 31 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
-| 32 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
-| 33 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
-| 34 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
+| 13 | tt32561670  | The Pitt (101)             | TV Show | 4444      | - Many Character Introductions<br>- Double dialogues |
+| 14 | tt37971405  | The Pitt (207)             | TV Show | 4076      | - Many Character Introductions<br>- Double dialogues<br> - Page header<br>- Disclaimer |
+| 15 | tt13868048  | The White Lotus (101)      | TV Show | 2647      | - Page header |
+| 16 | tt2790196   | True Detective (105)       | TV Show | 2689      | - Metadata<br>- Page header<br>- Double extensions<br>- Inconsistent extensions |
+| 17 | tt23642488  | Yellowstone (504)          | TV Show | 2265      | - Characters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
+| 18 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line<br>- Parentheticals on Character line |
+| 19 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in scene headings<br>- Poor formatting |
+| 20 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata<br>- Multi-languages<br>- Subtitles |
+| 21 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
+| 22 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
+| 23 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
+| 24 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
+| 25 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
+| 26 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
+| 27 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
+| 28 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
+| 29 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in scene headings<br>- Page header<br>- OCR perturbations |
+| 30 | tt0054167   | Peeping Tom                | Movie   | 8239      | - Many camera guidances<br>- X's VOICE<br>- Confusion between camera prop and camera guidances |
+| 31 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in scene headings<br>- Many camera guidances |
+| 32 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
+| 33 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
+| 34 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
+| 35 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
 
 </details>
-
+<br>
 TV Show' scripts have the advantage of being shorter, which results in a more diverse set of scripts being annotated. They also present features not commonly seen in Movie's scripts such as Cast and Set lists. However, as TV Shows tend to have a recurring set of characters, those are often not reintroduced in subsequent episodes, resulting in less `I` labels. This obviously doesn't affect Movie's scripts. Another draw for Movie's scripts is their lengths, which can be useful for analysis of richer and more complex characters interactions.
 
 #### Todos
