@@ -68,6 +68,7 @@ Great care has been put into creating a dataset representative of the diverse sc
 | 19 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in scene headings<br>- Poor formatting |
 | 20 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata<br>- Multi-languages<br>- Subtitles |
 | 21 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
+| 22 | tt1024648   | Argo                       | Movie   | 6449      | - INT./EXT.<br>- Omits<br>- Metadata<br>- Edit markers (*)<br>- Many Character Introductions<br>- Double dialogues<br> - Page header |
 | 22 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
 | 23 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
 | 24 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
