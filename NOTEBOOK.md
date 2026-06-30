@@ -48,6 +48,7 @@ Great care has been put into creating a dataset representative of the diverse sc
 | #  | IMDB ID     | Title                      | Type    | Nbr lines | Specificities |
 |----|-------------|----------------------------|---------|:---------:|---------------|
 | 01 | tt2089050   | Black Mirror (103)         | TV Show | 3648      | - Playbacks<br>- Page header<br>- Metadata |
+| 02 | tt0959621   | Breaking Bad (101)         | TV Show | 2845      | - Many camera guidances<br>- Metadata |
 | 02 | tt9166672   | Chernobyl (103)            | TV Show | 2768      | - Disclaimer<br>- Omits |
 | 03 | tt6701648   | Electric Dreams (107)      | TV Show | 3151      | - Disclaimer<br>-Quotes in header<br>- Page header<br>- Metadata<br>- Flashbacks<br>- INT./EXT. |
 | 04 | tt8806272   | Euphoria (108)             | TV Show | 3304      | - OCR perturbations<br>- Cast and set lists<br>- Page header<br>- Edit markers (*) |
