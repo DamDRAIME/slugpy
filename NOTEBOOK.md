@@ -8,18 +8,20 @@
 
 | ID | Label | Name          | Definition | Examples |
 |:--:|:-----:|:-------------:|------------|----------|
-| 0  | C     | Character     | A line from a *dialogue block* that indicates **who is speaking**. | LIAM<br>REPORTER<br>MECHANIC SON |
-| 1  | D     | Deletion      | A line that refers to a **deleted/omitted scene**. | 4. OMITTED / Replaced by 5.   4. |
-| 2  | E     | Extension     | A line from a *dialogue block* (usually place directly next to the character's name) that indicates **how or from where the character’s voice is heard, or clarify continuity of speech**, and that is not related to an action, emotion, or camera behavior. | (V.O.)<br>CONT'D<br>(o.s.) |
-| 3  | G     | Camera        | A line that explicitly **directs the camera, describes camera movement, or frames what the audience sees** in a way that is not simply narrative action. | CLOSE UP on Liam<br>We see Liam<br>in the background...
-| 4  | I     | Introduction  | A line that both:<br>&emsp;- mentions a **named character for the first time**, and;<br>&emsp;- provides **descriptive information** about who they are, what they look like, or how they behave | LIAM (30's) strong man with black hair... |
-| 5  | M     | Metadata      | A line that provides **informational, contextual, or production‑oriented notes** that are not part of the story world (e.g.: Title, End, Author's comments, ...) and not part of the screenplay’s formal structure (like scene headers or transitions). | Written by ...<br>The End<br>(Note to Postprod: ...)|
-| 6  | N     | Narrative     | A line that describes **events, behaviors, or physical changes** occurring in the story world, without giving instructions to the camera and without functioning as dialogue.<br>It communicates what happens, what characters do, and what the environment does, strictly from an in‑world perspective. | Liam goes to the other room |
-| 7  | O     | Omit | A line that contains **non‑narrative, non‑structural, or non‑creative content—material** that is not part of the screenplay itself but exists for document formatting, production bookkeeping, or archival purposes (e.g. page header, blank line, ...). As such this line can be ignored. | (blank)<br>CONTINUED<br>YS #504 - Production Draft(4/29/22) 2. |
-| 8  | P     | Parenthetical | A line from a *dialogue block* (usually placed directly beneath a character’s name and immediately before their spoken dialogue), that provides **brief, specific guidance on how a line is delivered or what the character is doing while speaking**. It exists solely to clarify tone, emotion, or small behavioral cues tied to the utterance. | (nods to her)<br>(disagreeing) |
-| 9  | S     | Slugline      | A line that marks the **beginning of a new scene and provides structural information** rather than story action. The scene heading formally identifies the location and time of a scene. | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2<br>EXT. CHARLIE’S HOUSE - LATER |
-| 10 | T     | Transition    | A line that indicates a **change in scene, shot, or narrative flow**. They do not describe story events or visuals within the world of the film. | CUT TO<br>FADE IN<br>INSERT<br>Blackness fills the screen | 
-| 11 | U     | Utterance     | A line from a *dialogue block*  that represents **verbal communication** within the story world—anything a character says, whether it’s a full speech, a short response, a shout, a whisper, or a single word. | Let's go<br>You don’t look like a Bethany.|
+| 0  | A     | Act           | A line defining a new sequence or act | ACT TWO |
+| 1  | C     | Character     | A line from a *dialogue block* that indicates **who is speaking**. | LIAM<br>REPORTER<br>MECHANIC SON |
+| 2  | D     | Deletion      | A line that refers to a **deleted/omitted scene**. | 4. OMITTED / Replaced by 5.   4. |
+| 3  | E     | Extension     | A line from a *dialogue block* (usually place directly next to the character's name) that indicates **how or from where the character’s voice is heard, or clarify continuity of speech**, and that is not related to an action, emotion, or camera behavior. | (V.O.)<br>CONT'D<br>(o.s.) |
+| 4  | G     | Camera        | A line that explicitly **directs the camera, describes camera movement, or frames what the audience sees** in a way that is not simply narrative action. | CLOSE UP on Liam<br>We see Liam<br>in the background...
+| 5  | I     | Introduction  | A line that both:<br>&emsp;- mentions a **named character for the first time**, and;<br>&emsp;- provides **descriptive information** about who they are, what they look like, or how they behave | LIAM (30's) strong man with black hair... |
+| 6  | M     | Metadata      | A line that provides **informational, contextual, or production‑oriented notes** that are not part of the story world (e.g.: Title, End, Author's comments, ...) and not part of the screenplay’s formal structure (like scene headers or transitions). | Written by ...<br>The End<br>(Note to Postprod: ...)|
+| 7  | N     | Narrative     | A line that describes **events, behaviors, or physical changes** occurring in the story world, without giving instructions to the camera and without functioning as dialogue.<br>It communicates what happens, what characters do, and what the environment does, strictly from an in‑world perspective. | Liam goes to the other room |
+| 8  | O     | Omit | A line that contains **non‑narrative, non‑structural, or non‑creative content—material** that is not part of the screenplay itself but exists for document formatting, production bookkeeping, or archival purposes (e.g. page header, blank line, ...). As such this line can be ignored. | (blank)<br>CONTINUED<br>YS #504 - Production Draft(4/29/22) 2. |
+| 9  | P     | Parenthetical | A line from a *dialogue block* (usually placed directly beneath a character’s name and immediately before their spoken dialogue), that provides **brief, specific guidance on how a line is delivered or what the character is doing while speaking**. It exists solely to clarify tone, emotion, or small behavioral cues tied to the utterance. | (nods to her)<br>(disagreeing) |
+| 10  | S     | Slugline      | A line that marks the **beginning of a new scene and provides structural information** rather than story action. The scene heading formally identifies the location and time of a scene. | 2 INT. INTERVIEW ROOM - BOZEMAN POLICE STATION - DAY  2<br>EXT. CHARLIE’S HOUSE - LATER |
+| 11 | T     | Transition    | A line that indicates a **change in scene, shot, or narrative flow**. They do not describe story events or visuals within the world of the film. | CUT TO<br>FADE IN<br>INSERT<br>Blackness fills the screen | 
+| 12 | U     | Utterance     | A line from a *dialogue block*  that represents **verbal communication** within the story world—anything a character says, whether it’s a full speech, a short response, a shout, a whisper, or a single word. | Let's go<br>You don’t look like a Bethany. |
+| 13 | Y     | Chyron        | A line that defines a text that should be written on-screen. | SUPER-IMPOSE: 20 years later<br>SUBTITLES: “Abbott is dead.”<br> LEGEND: “ONE MONTH EARLIER.” |
 
 
 > Remarks:<br>&emsp;For label `I`, the definition explicitly requires a description. This serves two purposes: 1/ Weak guarantee that it is the first mention of the character (otherwise the model wouldn't have any information to know if that character has already been mentioned), 2/ Exclude extras (i.e. background actors) as they are too numerous.
@@ -69,26 +71,27 @@ Great care has been put into creating a dataset representative of the diverse sc
 | 20 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line<br>- Parentheticals on Character line |
 | 21 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in scene headings<br>- Poor formatting |
 | 22 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata<br>- Multi-languages<br>- Subtitles |
-| 23 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
-| 24 | tt1024648   | Argo                       | Movie   | 6449      | - INT./EXT.<br>- Omits<br>- Metadata<br>- Edit markers (*)<br>- Many Character Introductions<br>- Double dialogues<br>- Page header |
-| 25 | tt2543164   | Arrival                    | Movie   | 5695      | - Double dialogues<br>-Page header<br>- Omits<br>- OCR perturbations<br>- Flashbacks |
-| 26 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
-| 27 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
-| 28 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
-| 29 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
-| 30 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
-| 31 | tt2267998   | Gone Girl                  | Movie   | 8047      | - Page header<br>- Poor formatting<br>- OCR perturbations<br>- Edit markers (*)<br>- Camera guidances in scene headings<br>- Omits |
-| 32 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
-| 33 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
-| 34 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in scene headings<br>- Page header<br>- OCR perturbations |
-| 35 | tt0125439   | Notting Hill               | Movie   | 5266      | - INT./EXT. |
-| 36 | tt0054167   | Peeping Tom                | Movie   | 8239      | - Many camera guidances<br>- X's VOICE<br>- Confusion between camera prop and camera guidances |
-| 37 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in scene headings<br>- Many camera guidances |
-| 38 | tt3631112   | The Girl On The Train      | Movie   | 5282      | - Flashbacks<br>- INT./EXT. |
-| 39 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
-| 40 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
-| 41 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
-| 42 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
+| 23 | tt22687790  | A Haunting in Venice       | Movie   | 5321      | - Many inserts<br>- Many camera guidances|
+| 24 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
+| 25 | tt1024648   | Argo                       | Movie   | 6449      | - INT./EXT.<br>- Omits<br>- Metadata<br>- Edit markers (*)<br>- Many Character Introductions<br>- Double dialogues<br>- Page header |
+| 26 | tt2543164   | Arrival                    | Movie   | 5695      | - Double dialogues<br>-Page header<br>- Omits<br>- OCR perturbations<br>- Flashbacks |
+| 27 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
+| 28 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
+| 29 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
+| 30 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
+| 31 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
+| 32 | tt2267998   | Gone Girl                  | Movie   | 8047      | - Page header<br>- Poor formatting<br>- OCR perturbations<br>- Edit markers (*)<br>- Camera guidances in scene headings<br>- Omits |
+| 33 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
+| 34 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
+| 35 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in scene headings<br>- Page header<br>- OCR perturbations |
+| 36 | tt0125439   | Notting Hill               | Movie   | 5266      | - INT./EXT. |
+| 37 | tt0054167   | Peeping Tom                | Movie   | 8239      | - Many camera guidances<br>- X's VOICE<br>- Confusion between camera prop and camera guidances |
+| 38 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in scene headings<br>- Many camera guidances |
+| 39 | tt3631112   | The Girl On The Train      | Movie   | 5282      | - Flashbacks<br>- INT./EXT. |
+| 40 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
+| 41 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
+| 42 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
+| 43 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
 
 </details>
 <br>
@@ -109,6 +112,7 @@ TV Show' scripts have the advantage of being shorter, which results in a more di
     - [ ] Chyron label: `Y`
     - [ ] Standardize annotation of `M`
     - [ ] Standardize annotation of `G`: Black/Blackness + Off...
+    - [ ] Standardize annotation of INSERT
 
 - [ ] Train/FT models:
     - [ ] Multi-label line classifier
