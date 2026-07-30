@@ -49,54 +49,55 @@ Great care has been put into creating a dataset representative of the diverse sc
 
 | #  | IMDB ID     | Title                      | Type    | Nbr lines | Specificities |
 |----|-------------|----------------------------|---------|:---------:|---------------|
-| 01 | tt2089050   | Black Mirror (103)         | TV Show | 3648      | - Playbacks<br>- Page header<br>- Metadata |
-| 02 | tt0959621   | Breaking Bad (101)         | TV Show | 2845      | - Many camera guidances<br>- Metadata |
-| 03 | tt1615551   | Breaking Bad (311)         | TV Show | 2699      | - Many camera guidances<br>- Metadata<br>-Page header<br>- Cast and set lists<br>- Disclaimer |
-| 04 | tt9166672   | Chernobyl (103)            | TV Show | 2768      | - Disclaimer<br>- Omits |
-| 05 | tt6701648   | Electric Dreams (107)      | TV Show | 3151      | - Disclaimer<br>-Quotes in header<br>- Page header<br>- Metadata<br>- Flashbacks<br>- INT./EXT. |
-| 06 | tt8806272   | Euphoria (108)             | TV Show | 3304      | - OCR perturbations<br>- Cast and set lists<br>- Page header<br>- Edit markers (*) |
-| 07 | tt3097534   | Fargo (101)                | TV Show | 3481      |  |
-| 08 | tt8052820   | Fargo (401)                | TV Show | 3639      | - Cast and set lists<br>-Quotes in header<br>- Disclaimer<br>- Page header<br>- Double lines scene headers<br>- Many camera guidances<br>- Many Character Introductions |
-| 09 | tt1480055   | Game of Thrones (101)      | TV Show | 3169      | - Page header<br>- Many Character Introductions |
-| 10 | tt11610562  | Mare of Easttown (107)     | TV Show | 3494      | - Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Metadata<br>- Flashbacks<br>- INT./EXT.<br>- Alternative dialogues |
-| 11 | tt11650328  | Severance (101)            | TV Show | 2701      | - Expressions on separate line<br>- Metadata |
-| 12 | tt15242998  | Severance (210)            | TV Show | 2341      | - Cast and set lists<br>- Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Edit markers (*) |
-| 13 | tt21151974  | Succession (403)           | TV Show | 4326      | - Disclaimer<br>- Page header<br>- Double dialogues<br>- Many audio guidances<br>- Character with scene ID<br>- Omits<br>- INT./EXT. |
-| 14 | tt7435258   | The Handmaid's Tale (211)  | TV Show | 6577      | - Playbacks<br>- Cast and set lists<br>- Page header<br>- Alternative dialogues/scenes<br>- Edit markers (*) |
-| 15 | tt8054880   | The Morning Show (101)     | TV Show | 276       | - Metadata<br>- Dialogue blocks in one line<br>- Parentheticals on Utterance line |
-| 16 | tt32561670  | The Pitt (101)             | TV Show | 4444      | - Many Character Introductions<br>- Double dialogues |
-| 17 | tt37971405  | The Pitt (207)             | TV Show | 4076      | - Many Character Introductions<br>- Double dialogues<br> - Page header<br>- Disclaimer |
-| 18 | tt13868048  | The White Lotus (101)      | TV Show | 2647      | - Page header |
-| 19 | tt2790196   | True Detective (105)       | TV Show | 2689      | - Metadata<br>- Page header<br>- Double extensions<br>- Inconsistent extensions |
-| 20 | tt23642488  | Yellowstone (504)          | TV Show | 2265      | - Characters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
-| 21 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line<br>- Parentheticals on Character line |
-| 22 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in scene headings<br>- Poor formatting |
-| 23 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata<br>- Multi-languages<br>- Subtitles |
-| 24 | tt22687790  | A Haunting in Venice       | Movie   | 5321      | - Many inserts<br>- Many camera guidances|
-| 25 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
-| 26 | tt1024648   | Argo                       | Movie   | 6449      | - INT./EXT.<br>- Omits<br>- Metadata<br>- Edit markers (*)<br>- Many Character Introductions<br>- Double dialogues<br>- Page header |
-| 27 | tt2543164   | Arrival                    | Movie   | 5695      | - Double dialogues<br>-Page header<br>- Omits<br>- OCR perturbations<br>- Flashbacks |
-| 28 | tt0315327   | Bruce Almighty             | Movie   | 5346      | - OCR perturbations<br>- Poor formatting<br>- Edit markers (*) |
-| 28 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
-| 29 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
-| 30 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
-| 31 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
-| 32 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
-| 33 | tt2267998   | Gone Girl                  | Movie   | 8047      | - Page header<br>- Poor formatting<br>- OCR perturbations<br>- Edit markers (*)<br>- Camera guidances in scene headings<br>- Omits |
-| 34 | tt1375666   | Inception                  | Movie   | 7909      | - Flashbacks<br>- INT./EXT. |
-| 35 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
-| 36 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
-| 37 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in scene headings<br>- Page header<br>- OCR perturbations |
-| 38 | tt0212346   | Miss Congeniality          | Movie   | 5458      | - OCR perturbations<br>- Many Character Introductions<br>- Poor formatting<br>- Page header |
-| 39 | tt0125439   | Notting Hill               | Movie   | 5266      | - INT./EXT. |
-| 40 | tt13238346  | Past Lives                 | Movie   | 3997      | - INT./EXT.<br>- Multi-languages<br>- Double lines scene headers |
-| 41 | tt0054167   | Peeping Tom                | Movie   | 8239      | - Many camera guidances<br>- X's VOICE<br>- Confusion between camera prop and camera guidances |
-| 42 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in scene headings<br>- Many camera guidances |
-| 43 | tt3631112   | The Girl On The Train      | Movie   | 5282      | - Flashbacks<br>- INT./EXT. |
-| 44 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
-| 45 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
-| 46 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
-| 47 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
+| 01 | tt20603310  | Andor (209)                | TV Show | 2836      | - Page header<br>- Many transitions<br>- Double dialogues<br>- Unusual extensions |
+| 02 | tt2089050   | Black Mirror (103)         | TV Show | 3648      | - Playbacks<br>- Page header<br>- Metadata |
+| 03 | tt0959621   | Breaking Bad (101)         | TV Show | 2845      | - Many camera guidances<br>- Metadata |
+| 04 | tt1615551   | Breaking Bad (311)         | TV Show | 2699      | - Many camera guidances<br>- Metadata<br>-Page header<br>- Cast and set lists<br>- Disclaimer |
+| 05 | tt9166672   | Chernobyl (103)            | TV Show | 2768      | - Disclaimer<br>- Omits |
+| 06 | tt6701648   | Electric Dreams (107)      | TV Show | 3151      | - Disclaimer<br>-Quotes in header<br>- Page header<br>- Metadata<br>- Flashbacks<br>- INT./EXT. |
+| 07 | tt8806272   | Euphoria (108)             | TV Show | 3304      | - OCR perturbations<br>- Cast and set lists<br>- Page header<br>- Edit markers (*) |
+| 08 | tt3097534   | Fargo (101)                | TV Show | 3481      |  |
+| 09 | tt8052820   | Fargo (401)                | TV Show | 3639      | - Cast and set lists<br>-Quotes in header<br>- Disclaimer<br>- Page header<br>- Double lines scene headers<br>- Many camera guidances<br>- Many Character Introductions |
+| 10 | tt1480055   | Game of Thrones (101)      | TV Show | 3169      | - Page header<br>- Many Character Introductions |
+| 11 | tt11610562  | Mare of Easttown (107)     | TV Show | 3494      | - Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Metadata<br>- Flashbacks<br>- INT./EXT.<br>- Alternative dialogues |
+| 12 | tt11650328  | Severance (101)            | TV Show | 2701      | - Expressions on separate line<br>- Metadata |
+| 13 | tt15242998  | Severance (210)            | TV Show | 2341      | - Cast and set lists<br>- Versioning in header<br>- Disclaimer<br>- Page header<br>- Omits<br>- Edit markers (*) |
+| 14 | tt21151974  | Succession (403)           | TV Show | 4326      | - Disclaimer<br>- Page header<br>- Double dialogues<br>- Many audio guidances<br>- Character with scene ID<br>- Omits<br>- INT./EXT. |
+| 15 | tt7435258   | The Handmaid's Tale (211)  | TV Show | 6577      | - Playbacks<br>- Cast and set lists<br>- Page header<br>- Alternative dialogues/scenes<br>- Edit markers (*) |
+| 16 | tt8054880   | The Morning Show (101)     | TV Show | 276       | - Metadata<br>- Dialogue blocks in one line<br>- Parentheticals on Utterance line |
+| 17 | tt32561670  | The Pitt (101)             | TV Show | 4444      | - Many Character Introductions<br>- Double dialogues |
+| 18 | tt37971405  | The Pitt (207)             | TV Show | 4076      | - Many Character Introductions<br>- Double dialogues<br> - Page header<br>- Disclaimer |
+| 19 | tt13868048  | The White Lotus (101)      | TV Show | 2647      | - Page header |
+| 20 | tt2790196   | True Detective (105)       | TV Show | 2689      | - Metadata<br>- Page header<br>- Double extensions<br>- Inconsistent extensions |
+| 21 | tt23642488  | Yellowstone (504)          | TV Show | 2265      | - Characters and Sets lists<br>- Page header<br>- Disclaimer<br>- Versioning in header |
+| 22 | tt0069762   | Badlands                   | Movie   | 3314      | - No indentation<br>- Dialogue blocks in one line<br>- Parentheticals on Character line |
+| 23 | tt1542344   | 127 Hours                  | Movie   | 4244      | - Same indentation for utterance and narrative<br>- INT./EXT.<br>- Metadata<br>- Camera guidances in scene headings<br>- Poor formatting |
+| 24 | tt8579674   | 1917                       | Movie   | 6385      | - Disclaimer<br>-Quotes in header<br>- Double extensions<br>- Metadata<br>- Multi-languages<br>- Subtitles |
+| 25 | tt22687790  | A Haunting in Venice       | Movie   | 5321      | - Many inserts<br>- Many camera guidances|
+| 26 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
+| 27 | tt1024648   | Argo                       | Movie   | 6449      | - INT./EXT.<br>- Omits<br>- Metadata<br>- Edit markers (*)<br>- Many Character Introductions<br>- Double dialogues<br>- Page header |
+| 28 | tt2543164   | Arrival                    | Movie   | 5695      | - Double dialogues<br>-Page header<br>- Omits<br>- OCR perturbations<br>- Flashbacks |
+| 29 | tt0315327   | Bruce Almighty             | Movie   | 5346      | - OCR perturbations<br>- Poor formatting<br>- Edit markers (*) |
+| 30 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
+| 31 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
+| 32 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
+| 33 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
+| 34 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
+| 35 | tt2267998   | Gone Girl                  | Movie   | 8047      | - Page header<br>- Poor formatting<br>- OCR perturbations<br>- Edit markers (*)<br>- Camera guidances in scene headings<br>- Omits |
+| 36 | tt1375666   | Inception                  | Movie   | 7909      | - Flashbacks<br>- INT./EXT. |
+| 37 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
+| 38 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
+| 39 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in scene headings<br>- Page header<br>- OCR perturbations |
+| 40 | tt0212346   | Miss Congeniality          | Movie   | 5458      | - OCR perturbations<br>- Many Character Introductions<br>- Poor formatting<br>- Page header |
+| 41 | tt0125439   | Notting Hill               | Movie   | 5266      | - INT./EXT. |
+| 42 | tt13238346  | Past Lives                 | Movie   | 3997      | - INT./EXT.<br>- Multi-languages<br>- Double lines scene headers |
+| 43 | tt0054167   | Peeping Tom                | Movie   | 8239      | - Many camera guidances<br>- X's VOICE<br>- Confusion between camera prop and camera guidances |
+| 44 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in scene headings<br>- Many camera guidances |
+| 45 | tt3631112   | The Girl On The Train      | Movie   | 5282      | - Flashbacks<br>- INT./EXT. |
+| 46 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
+| 47 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
+| 48 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
+| 49 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
 
 </details>
 <br>
@@ -118,6 +119,7 @@ TV Show' scripts have the advantage of being shorter, which results in a more di
     - [ ] Standardize annotation of `M`
     - [ ] Standardize annotation of `G`: Black/Blackness + Off...
     - [ ] Standardize annotation of INSERT
+    - [ ] Decide between span labels and line labels
 
 - [ ] Train/FT models:
     - [ ] Multi-label line classifier
