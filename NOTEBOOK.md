@@ -76,6 +76,7 @@ Great care has been put into creating a dataset representative of the diverse sc
 | 25 | tt0765429   | American Gangster          | Movie   | 3197      | - INT./EXT.<br>- Omits |
 | 26 | tt1024648   | Argo                       | Movie   | 6449      | - INT./EXT.<br>- Omits<br>- Metadata<br>- Edit markers (*)<br>- Many Character Introductions<br>- Double dialogues<br>- Page header |
 | 27 | tt2543164   | Arrival                    | Movie   | 5695      | - Double dialogues<br>-Page header<br>- Omits<br>- OCR perturbations<br>- Flashbacks |
+| 28 | tt0315327   | Bruce Almighty             | Movie   | 5346      | - OCR perturbations<br>- Poor formatting<br>- Edit markers (*) |
 | 28 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
 | 29 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
 | 30 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
