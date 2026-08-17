@@ -79,25 +79,26 @@ Great care has been put into creating a dataset representative of the diverse sc
 | 28 | tt2543164   | Arrival                    | Movie   | 5695      | - Double dialogues<br>-Page header<br>- Omits<br>- OCR perturbations<br>- Flashbacks |
 | 29 | tt0315327   | Bruce Almighty             | Movie   | 5346      | - OCR perturbations<br>- Poor formatting<br>- Edit markers (*) |
 | 30 | tt0056923   | Charade                    | Movie   | 8439      | - Many camera guidances<br>- X's VOICE<br>- Multi-languages<br>- Many inserts |
-| 31 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
-| 32 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
-| 33 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
-| 34 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
-| 35 | tt2267998   | Gone Girl                  | Movie   | 8047      | - Page header<br>- Poor formatting<br>- OCR perturbations<br>- Edit markers (*)<br>- Camera guidances in scene headings<br>- Omits |
-| 36 | tt1375666   | Inception                  | Movie   | 7909      | - Flashbacks<br>- INT./EXT. |
-| 37 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
-| 38 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
-| 39 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in scene headings<br>- Page header<br>- OCR perturbations |
-| 40 | tt0212346   | Miss Congeniality          | Movie   | 5458      | - OCR perturbations<br>- Many Character Introductions<br>- Poor formatting<br>- Page header |
-| 41 | tt0125439   | Notting Hill               | Movie   | 5266      | - INT./EXT. |
-| 42 | tt13238346  | Past Lives                 | Movie   | 3997      | - INT./EXT.<br>- Multi-languages<br>- Double lines scene headers |
-| 43 | tt0054167   | Peeping Tom                | Movie   | 8239      | - Many camera guidances<br>- X's VOICE<br>- Confusion between camera prop and camera guidances |
-| 44 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in scene headings<br>- Many camera guidances |
-| 45 | tt3631112   | The Girl On The Train      | Movie   | 5282      | - Flashbacks<br>- INT./EXT. |
-| 46 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
-| 47 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
-| 48 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
-| 49 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
+| 31 | tt11286314  | Don't look up              | Movie   | 8216      | - Many Character Introductions<br>- Chyron |
+| 32 | tt0083866   | E.T.                       | Movie   | 2415      | - No indentation<br>- Metadata<br>- Dialogue blocks in one line |
+| 33 | tt16311594  | F1: The Movie              | Movie   | 7953      | - Alternative dialogues/scenes<br>- Page header<br>- (into radio) vs (over radio)<br>- Camera guidances in scene headings<br>- Omits<br>- Edit markers (*) |
+| 34 | tt4123430   | Fantastic Beats: tCoG      | Movie   | 6577      | - Page header<br>- Poor formatting |
+| 35 | tt0080745   | Flash Gordon               | Movie   | 3444      | - X's VOICE<br>- Characters in scene metadata line<br>- Page header |
+| 36 | tt2267998   | Gone Girl                  | Movie   | 8047      | - Page header<br>- Poor formatting<br>- OCR perturbations<br>- Edit markers (*)<br>- Camera guidances in scene headings<br>- Omits |
+| 37 | tt1375666   | Inception                  | Movie   | 7909      | - Flashbacks<br>- INT./EXT. |
+| 38 | tt0038650   | It's a Wonderful Life      | Movie   | 9576      | - X's VOICE<br>- Unrecognized characters<br>- Many camera guidances |
+| 39 | tt0035423   | Kate and Leopold           | Movie   | 6086      | - X's VOICE|
+| 40 | tt0209144   | Memento                    | Movie   | 7280      | - Edit markers (*)<br>- Camera guidances in scene headings<br>- Page header<br>- OCR perturbations |
+| 41 | tt0212346   | Miss Congeniality          | Movie   | 5458      | - OCR perturbations<br>- Many Character Introductions<br>- Poor formatting<br>- Page header |
+| 42 | tt0125439   | Notting Hill               | Movie   | 5266      | - INT./EXT. |
+| 43 | tt13238346  | Past Lives                 | Movie   | 3997      | - INT./EXT.<br>- Multi-languages<br>- Double lines scene headers |
+| 44 | tt0054167   | Peeping Tom                | Movie   | 8239      | - Many camera guidances<br>- X's VOICE<br>- Confusion between camera prop and camera guidances |
+| 45 | tt0047396   | Rear Window                | Movie   | 3510      | - Camera guidances in scene headings<br>- Many camera guidances |
+| 46 | tt3631112   | The Girl On The Train      | Movie   | 5282      | - Flashbacks<br>- INT./EXT. |
+| 47 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
+| 48 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
+| 49 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
+| 50 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
 
 </details>
 <br>
