@@ -100,8 +100,9 @@ Great care has been put into creating a dataset representative of the diverse sc
 | 49 | tt0049470   | The Man Who Knew Too Much  | Movie   | 9593      | - Many camera guidances<br>- Page header<br>- Camera guidances in scene headings<br>- OCR perturbations<br>- Multi-languages<br>- Poor formatting |
 | 50 | tt1663202   | The Revenant               | Movie   | 5528      | - Same indentation for utterance and narrative<br>-Quote in header<br>- Page header<br>- Camera guidances in scene headings |
 | 51 | tt0049730   | The Searchers              | Movie   | 7563      | - Camera guidances in scene headings<br>- Double lines scene headers<br>- Metadata<br>- Poor formatting<br>- Subtitles |
-| 52 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
-| 53 | tt12262116  | Thirteen Lives             | Movie   | 6510      | - Page header<br>- Edit markers (*)<br>- Many Character Introductions<br>- INT./EXT.<br>- Omits<br>- Metadata |
+| 52 | tt1866249   | The Sessions               | Movie   | 4827      | - Page header<br>- Inconsistent extensions/parentheticals |
+| 53 | tt0032138   | The Wizard of Oz           | Movie   | 1178      | - Poor formatting<br>- Many camera guidances<br>- Camera guidance acronyms<br>- Scene headers included in narrative block<br>- Dialogue blocks in one line |
+| 54 | tt12262116  | Thirteen Lives             | Movie   | 6510      | - Page header<br>- Edit markers (*)<br>- Many Character Introductions<br>- INT./EXT.<br>- Omits<br>- Metadata |
 
 </details>
 <br>
